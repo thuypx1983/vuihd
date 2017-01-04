@@ -1,0 +1,33 @@
+a:4:{s:5:"value";s:5097:"<div class="item">
+                                            <div class="st">1</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/tinh-yeu-quyen-the-night-light-2016.jpg" alt="Đèn Đêm"> </div>
+                                            <div class="info"> <a class="name" href="http://vuihd.com/phim/den-dem-9803/" title="Đèn Đêm">Đèn Đêm</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 14 VIETSUB VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">2</div>
+                                            <div class="thumb"> <img src="http://4.bp.blogspot.com/-p79u_3sH-rg/Td_RTXzFyjI/AAAAAAAAAe4/jrkuP_tjWmw/s320/Dao-hai-tac--phimvang-org.jpg" alt="Đảo Hải Tặc					One Piece"> </div>
+                                            <div class="info"> <a class="name" href="http://vuihd.com/phim/dao-hai-tacone-piece-9811/" title="Đảo Hải Tặc					One Piece">Đảo Hải Tặc					One Piece</a> <dfn class="status"><i class="fa fa-quote-left"></i> 765/900 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">3</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/co-nang-cu-ta-kim-bok-joo-weightlifting-fairy-kim-bok-joo-2016.jpg" alt="Cô Nàng Cử Tạ, Kim Bok Joo"> </div>
+                                            <div class="info"> <a class="name" href="http://vuihd.com/phim/co-nang-cu-ta-kim-bok-joo-9810/" title="Cô Nàng Cử Tạ, Kim Bok Joo">Cô Nàng Cử Tạ, Kim Bok Joo</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 14 VIETSUB: 22h00 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">4</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/ky-tinh-ky-thoi-nien-thieu-tuoi-dep-magic-star-2017.jpg" alt="Kỳ Tinh Ký- Thời Niên Thiếu Tươi Đẹp"> </div>
+                                            <div class="info"> <a class="name" href="http://vuihd.com/phim/ky-tinh-ky-thoi-nien-thieu-tuoi-dep-9809/" title="Kỳ Tinh Ký- Thời Niên Thiếu Tươi Đẹp">Kỳ Tinh Ký- Thời Niên Thiếu Tươi Đẹp</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 8 VIETSUB VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">5</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/co-nang-xinh-dep-trung-quoc-she-was-pretty-china-2016.jpg" alt="Cô Nàng Xinh Đẹp"> </div>
+                                            <div class="info"> <a class="name" href="http://vuihd.com/phim/co-nang-xinh-dep-9804/" title="Cô Nàng Xinh Đẹp">Cô Nàng Xinh Đẹp</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 4 VIETSUB VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">6</div>
+                                            <div class="thumb"> <img src="https://image.tmdb.org/t/p/original/5TCpr9kcMp5GodF9h30aE0cZwE8.jpg" alt="Thám Tử Sherlock (Phần 4)"> </div>
+                                            <div class="info"> <a class="name" href="http://vuihd.com/phim/tham-tu-sherlock-phan-4-9813/" title="Thám Tử Sherlock (Phần 4)">Thám Tử Sherlock (Phần 4)</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 1/3 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">7</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/sac-dep-vuon-truong-campus-beauty-2016.jpg" alt="Sắc Đẹp Vườn Trường"> </div>
+                                            <div class="info"> <a class="name" href="http://vuihd.com/phim/sac-dep-vuon-truong-9805/" title="Sắc Đẹp Vườn Trường">Sắc Đẹp Vườn Trường</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 15 VIETSUB VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">8</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/nguoi-thay-y-duc-romantic-doctor-teacher-kim-2016.jpg" alt="Người Thầy Y Đức"> </div>
+                                            <div class="info"> <a class="name" href="http://vuihd.com/phim/nguoi-thay-y-duc-9814/" title="Người Thầy Y Đức">Người Thầy Y Đức</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 17 VIETSUB +TM VietSub</dfn> </div>
+                                        </div>";s:10:"write_time";s:10:"1483541733";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1483628133;}

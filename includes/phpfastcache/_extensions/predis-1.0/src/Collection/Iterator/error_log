@@ -1,0 +1,4 @@
+[10-Dec-2016 09:54:19 UTC] PHP Fatal error:  Class 'Predis\Collection\Iterator\CursorBasedIterator' not found in /home/socgheco/hayxemphim.net/includes/phpfastcache/_extensions/predis-1.0/src/Collection/Iterator/HashKey.php on line 24
+[10-Dec-2016 09:54:21 UTC] PHP Fatal error:  Class 'Predis\Collection\Iterator\CursorBasedIterator' not found in /home/socgheco/hayxemphim.net/includes/phpfastcache/_extensions/predis-1.0/src/Collection/Iterator/Keyspace.php on line 24
+[10-Dec-2016 09:54:25 UTC] PHP Fatal error:  Class 'Predis\Collection\Iterator\CursorBasedIterator' not found in /home/socgheco/hayxemphim.net/includes/phpfastcache/_extensions/predis-1.0/src/Collection/Iterator/SetKey.php on line 24
+[10-Dec-2016 09:54:26 UTC] PHP Fatal error:  Class 'Predis\Collection\Iterator\CursorBasedIterator' not found in /home/socgheco/hayxemphim.net/includes/phpfastcache/_extensions/predis-1.0/src/Collection/Iterator/SortedSetKey.php on line 24

@@ -1,0 +1,22 @@
+a:4:{s:5:"value";s:829:"<div class="column medium-4 margin-bottom-5px">
+				
+			<div class="column medium-12 small-5 ratio16_9">
+				<div class="box">
+					<span class="video-time">04:25</span>
+					<a href="http://phim.socghe.com/xem-video/quen-lee-kirby-847.html" 
+						title="Video clip Quên - Lee Kirby">
+						<img alt="Video clip Quên - Lee Kirby" src="http://i.ytimg.com/vi/rVOhE9N5sdM/mqdefault.jpg">
+						<div class="description-clip">Quên - Lee Kirby</div>
+					</a>
+				</div>
+			</div>
+			<div class="column medium-12 small-7 video-detail">
+				<a href="http://phim.socghe.com/xem-video/quen-lee-kirby-847.html" 
+					title="Video clip Quên - Lee Kirby"><strong>Quên - Lee Kirby</strong></a>
+				<div class="metadata-clip">
+					<span class="user-icon">1</span>
+					<span class="play-icon">550</span>
+				</div>
+			</div>
+ 		
+	</div>";s:10:"write_time";s:10:"1482732164";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1482818564;}

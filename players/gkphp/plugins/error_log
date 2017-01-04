@@ -1,0 +1,30 @@
+[29-Nov-2016 11:42:33 UTC] PHP Warning:  Illegal string offset 'Location' in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_docsgoogle.php on line 333
+[29-Nov-2016 11:42:33 UTC] PHP Notice:  Undefined offset: 1 in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_docsgoogle.php on line 253
+[29-Nov-2016 11:42:57 UTC] PHP Notice:  Undefined offset: 1 in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phim3s.php on line 68
+[29-Nov-2016 11:42:57 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phim3s.php on line 69
+[29-Nov-2016 11:42:57 UTC] PHP Notice:  Undefined property: stdClass::$video_url_hash in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phim3s.php on line 81
+[29-Nov-2016 11:42:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phim3s.php on line 94
+[29-Nov-2016 11:42:58 UTC] PHP Notice:  Undefined variable: linkarr in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phim3s.php on line 106
+[29-Nov-2016 11:42:58 UTC] PHP Notice:  Undefined variable: linkarr in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phim3s.php on line 110
+[29-Nov-2016 11:43:22 UTC] PHP Warning:  file_put_contents(../../cache/cache2/15d1ce3ecb2908f4cd48f76fd815ae9b): failed to open stream: No such file or directory in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_docsgoogle.php on line 305
+[29-Nov-2016 11:43:38 UTC] PHP Warning:  file_put_contents(../../cache/cache2/88edb706daf1fdbd03680778125ecf0e): failed to open stream: No such file or directory in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_docsgoogle.php on line 305
+[29-Nov-2016 11:43:44 UTC] PHP Warning:  file_put_contents(../../cache/cache2/a3a6138c5b436b48ec13ca1cb2891a24): failed to open stream: No such file or directory in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimkk.php on line 132
+[29-Nov-2016 11:43:56 UTC] PHP Notice:  Undefined variable: linkarr in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_bilutv.php on line 105
+[29-Nov-2016 11:44:00 UTC] PHP Notice:  Undefined variable: linkarr in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_bilutv.php on line 105
+[29-Nov-2016 11:44:04 UTC] PHP Notice:  Undefined variable: linkarr in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_bilutv.php on line 105
+[29-Nov-2016 11:44:06 UTC] PHP Notice:  Undefined offset: 1 in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 55
+[29-Nov-2016 11:44:06 UTC] PHP Notice:  Undefined offset: 1 in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 71
+[29-Nov-2016 11:44:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 73
+[29-Nov-2016 11:44:06 UTC] PHP Notice:  Undefined variable: linkarr in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 86
+[29-Nov-2016 11:44:07 UTC] PHP Notice:  Undefined offset: 1 in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 55
+[29-Nov-2016 11:44:07 UTC] PHP Notice:  Undefined offset: 1 in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 71
+[29-Nov-2016 11:44:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 73
+[29-Nov-2016 11:44:07 UTC] PHP Notice:  Undefined variable: linkarr in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 86
+[29-Nov-2016 11:44:09 UTC] PHP Notice:  Undefined offset: 1 in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 55
+[29-Nov-2016 11:44:09 UTC] PHP Notice:  Undefined offset: 1 in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 71
+[29-Nov-2016 11:44:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 73
+[29-Nov-2016 11:44:09 UTC] PHP Notice:  Undefined variable: linkarr in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_phimmoi.php on line 86
+[29-Nov-2016 12:42:27 UTC] PHP Warning:  file_put_contents(../../cache/cache2/0f1bcc141cdd8fddeaad013738dd476a): failed to open stream: No such file or directory in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_docsgoogle.php on line 305
+[30-Nov-2016 08:26:11 UTC] PHP Warning:  file_put_contents(../../cache/cache2/b989c9c81d7df8fd48bdd80254983ae1): failed to open stream: No such file or directory in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_docsgoogle.php on line 305
+[01-Dec-2016 01:59:31 UTC] PHP Warning:  file_put_contents(../../cache/cache2/7b9a62c221025b0f28a07cee340132e5): failed to open stream: No such file or directory in /home/socgheco/phimhop.com/gkphp/plugins/gkplugins_docsgoogle.php on line 305
+[09-Dec-2016 14:57:42 UTC] PHP Warning:  file_put_contents(../../cache/cache2/073af9def3815ab7ce1df23b0abfae76): failed to open stream: No such file or directory in /home/socgheco/hayxemphim.net/players/gkphp/plugins/gkplugins_docsgoogle.php on line 305

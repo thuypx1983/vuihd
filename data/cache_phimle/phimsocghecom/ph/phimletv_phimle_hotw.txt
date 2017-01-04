@@ -1,0 +1,41 @@
+a:4:{s:5:"value";s:6359:"<div class="item">
+                                            <div class="st">1</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/sat-nhan-giau-mat-creepy-fake-neighbour-2016.jpg" alt="Sát Nhân Giấu Mặt"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/sat-nhan-giau-mat-9035/" title="Sát Nhân Giấu Mặt">Sát Nhân Giấu Mặt</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">2</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/toi-da-ket-hon-voi-anti-fan-so-i-married-an-anti-fan-2016.jpg" alt="Tôi Đã Kết Hôn Với Anti-fan"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/toi-da-ket-hon-voi-anti-fan-9041/" title="Tôi Đã Kết Hôn Với Anti-fan">Tôi Đã Kết Hôn Với Anti-fan</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">3</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/di-tim-dory-finding-dory-2016.jpg" alt="Đi Tìm Dory"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/di-tim-dory-9042/" title="Đi Tìm Dory">Đi Tìm Dory</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD  VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">4</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/doraemon-nobita-va-nhung-hiep-si-khong-gian-doraemon-nobita-no-space-heroes-2015.jpg" alt="Doraemon: Nobita Và Những Hiệp Sĩ Không Gian"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/doraemon-nobita-va-nhung-hiep-si-khong-gian-9043/" title="Doraemon: Nobita Và Những Hiệp Sĩ Không Gian">Doraemon: Nobita Và Những Hiệp Sĩ Không Gian</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD  Lồng tiếng</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">5</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/doreamon-nuoc-nhat-thoi-nguyen-thuy-36th-doraemon-the-movie-nobita-and-the-birth-of-japan-2016.jpg" alt="Doreamon: Nước Nhật Thời Nguyên Thủy"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/doreamon-nuoc-nhat-thoi-nguyen-thuy-9044/" title="Doreamon: Nước Nhật Thời Nguyên Thủy">Doreamon: Nước Nhật Thời Nguyên Thủy</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD TM VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">6</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/dai-chien-sau-tan-the-teana-10000-years-later-2015.jpg" alt="Đại Chiến Sau Tận Thế"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/dai-chien-sau-tan-the-9045/" title="Đại Chiến Sau Tận Thế">Đại Chiến Sau Tận Thế</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD Thuyết minh</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">7</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/hen-em-noi-ay-at-cafe-6-2016.jpg" alt="Hẹn Em Nơi Ấy"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/hen-em-noi-ay-9046/" title="Hẹn Em Nơi Ấy">Hẹn Em Nơi Ấy</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">8</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/yeu-den-chet-ghost-is-all-around-2016.jpg" alt="Yêu Đến Chết"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/yeu-den-chet-9047/" title="Yêu Đến Chết">Yêu Đến Chết</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD  VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">9</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/nguoi-ban-khong-lo-the-bfg-2016.jpg" alt="Người Bạn Khổng Lồ"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/nguoi-ban-khong-lo-9048/" title="Người Bạn Khổng Lồ">Người Bạn Khổng Lồ</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD  VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">10</div>
+                                            <div class="thumb"> <img src="http://phim14.info/data/images/film/diep-vu-tam-giac-vang-operation-mekong-2016.jpg" alt="Điệp Vụ Tam Giác Vàng"> </div>
+                                            <div class="info"> <a class="name" href="http://phim.socghe.com/phim/diep-vu-tam-giac-vang-9049/" title="Điệp Vụ Tam Giác Vàng">Điệp Vụ Tam Giác Vàng</a> <dfn class="status"><i class="fa fa-quote-left"></i> HD VietSub</dfn> </div>
+                                        </div>";s:10:"write_time";s:10:"1482716232";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1482802632;}

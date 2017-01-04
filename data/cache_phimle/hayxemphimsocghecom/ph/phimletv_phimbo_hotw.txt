@@ -1,0 +1,41 @@
+a:4:{s:5:"value";s:6792:"<div class="item">
+                                            <div class="st">1</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-BSx_Mr6RoUs/VcLDNsbpCYI/AAAAAAAAJ6Q/R8AU5LTng9Y/s200/poster.medium.jpg" alt="Ấu Trùng Tinh Nghịch (phần 1)"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/au-trung-tinh-nghich-phan-1-2650/" title="Ấu Trùng Tinh Nghịch (phần 1)">Ấu Trùng Tinh Nghịch (phần 1)</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (104/104) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">2</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-tnkbdRWgzmQ/VS8itqXAeNI/AAAAAAAAJXg/YoOKOD1BGTU/s200/phimletv-photo582530.jpg" alt="Anh Chàng Xúi Quẩy"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/anh-chang-xui-quay-2488/" title="Anh Chàng Xúi Quẩy">Anh Chàng Xúi Quẩy</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (16/16) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">3</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-1HFrtpPXFX4/VojE4CjyMJI/AAAAAAAAY1A/jNCBm1pwQnE/s200/bac-thay-diet-quy-1-constantine-season-1-2014.jpg" alt="Bậc Thầy Diệt Quỷ 1"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/bac-thay-diet-quy-1-5690/" title="Bậc Thầy Diệt Quỷ 1">Bậc Thầy Diệt Quỷ 1</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 13/13 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">4</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-5v4Jp3vjrqc/Vsl2UXgwOBI/AAAAAAAACAI/gHdjipMFb4Y/s200/ba-ngay-three-days-2014.jpg" alt="3 ngày kinh hoàng"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/3-ngay-kinh-hoang-531/" title="3 ngày kinh hoàng">3 ngày kinh hoàng</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (16/16) Lồng tiếng</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">5</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-l1BI7E85aT8/VS_M_bgVxRI/AAAAAAAAAog/uW6FmDItpf4/s200/phimletv-24-Season-2-2002.jpg" alt="24 giờ sinh tử (24 giờ chống khủng bố) - Phần 2"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/24-gio-sinh-tu-24-gio-chong-khung-bo-phan-2-313/" title="24 giờ sinh tử (24 giờ chống khủng bố) - Phần 2">24 giờ sinh tử (24 giờ chống khủng bố) - Phần 2</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (24/24) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">6</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-9-d4ygTpKHA/VS_M7QDIDUI/AAAAAAAAAoY/R_dlABLhQJA/s200/phimletv-24-Season-1-2001.jpg" alt="24 giờ sinh tử (24 giờ chống khủng bố) - Phần 1"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/24-gio-sinh-tu-24-gio-chong-khung-bo-phan-1-312/" title="24 giờ sinh tử (24 giờ chống khủng bố) - Phần 1">24 giờ sinh tử (24 giờ chống khủng bố) - Phần 1</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (24/24) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">7</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-VcZgcavFgbk/Vn077vrIC7I/AAAAAAAATJ0/myFRDBZG-VE/s200/Victoria_1426006475_20150310_victoriadrama2.jpg" alt="Bí Mật Của Mỹ Lệ"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/bi-mat-cua-my-le-3755/" title="Bí Mật Của Mỹ Lệ">Bí Mật Của Mỹ Lệ</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 39/39 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">8</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-SvAlhuWI1Do/VS_IEkyKH3I/AAAAAAAAAaY/b_fnU55PYVM/s200/phimletv-Arang-And-The-Magistrate-2012.jpg" alt="Arang Sử Đạo Truyện"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/arang-su-dao-truyen-199/" title="Arang Sử Đạo Truyện">Arang Sử Đạo Truyện</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full (20/20) VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">9</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-chB9M6JSpaA/Vg1JgxduT6I/AAAAAAAAN5Q/ScxWNf3_J8w/s200/agents-01-435-152021.jpg" alt="Đội Đặc Nhiệm SHIELD (Phần 3)"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/doi-dac-nhiem-shield-phan-3-3341/" title="Đội Đặc Nhiệm SHIELD (Phần 3)">Đội Đặc Nhiệm SHIELD (Phần 3)</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 20 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">10</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-T3H1ZHdVaXo/VoiTDhGdsfI/AAAAAAAAYTs/8Nu72I_esiU/s200/ba-nha-toi-just-love-2005.jpg" alt="Bà Nhà Tôi"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/ba-nha-toi-6001/" title="Bà Nhà Tôi">Bà Nhà Tôi</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 20/20 VietSub</dfn> </div>
+                                        </div>";s:10:"write_time";s:10:"1481408933";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1481495333;}

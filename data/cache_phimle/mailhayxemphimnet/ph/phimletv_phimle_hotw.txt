@@ -1,0 +1,41 @@
+a:4:{s:5:"value";s:6387:"<div class="item">
+                                            <div class="st">1</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-7tStjiNuE-E/VzVtExb1A6I/AAAAAAAABWw/q1m-qGg2PrM/s200/sanam-teri-kasam-2016.jpg" alt="Lời Hẹn Thề"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/loi-hen-the-8991/" title="Lời Hẹn Thề">Lời Hẹn Thề</a> <dfn class="status"><i class="fa fa-quote-left"></i> Hoàn Tất VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">2</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-QV0g0i6HkTI/Vy2KV8WhyoI/AAAAAAAABEM/F2l0U89gcQg/s200/grgPRTKTnm7ktOiSSNFcutiv0vS.jpg" alt="Tòa Tháp Sống"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/toa-thap-song-8944/" title="Tòa Tháp Sống">Tòa Tháp Sống</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">3</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-EuD-Qzy6PRo/VZTNZZa3_xI/AAAAAAAAIpw/38WetD9Zy6Q/s200/9039597c5826f77e046361f4ea8993be1415585320_full.jpg" alt="Bác Sĩ Tâm Lý"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/bac-si-tam-ly-2698/" title="Bác Sĩ Tâm Lý">Bác Sĩ Tâm Lý</a> <dfn class="status"><i class="fa fa-quote-left"></i> Tập 20 VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">4</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-DDknwM_R_KI/VofgGI65SNI/AAAAAAAAVEk/uWFEx3rGqUI/s200/6-vien-dan-6-bullets-2012.jpg" alt="6 Viên Đạn"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/6-vien-dan-7659/" title="6 Viên Đạn">6 Viên Đạn</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">5</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-y98otpbqIuo/VoeeG4F2eEI/AAAAAAAAUeY/iVzle4XGkGk/s200/am-muu-hoang-toc-huyet-trich-tu-the-guillotines-2012.jpg" alt="Âm Mưu Hoàng Tộc: Huyết Trích Tử"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/am-muu-hoang-toc-huyet-trich-tu-7964/" title="Âm Mưu Hoàng Tộc: Huyết Trích Tử">Âm Mưu Hoàng Tộc: Huyết Trích Tử</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">6</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-cXCpJi4eF8Y/VokT6SoOynI/AAAAAAAAbog/TQE_mEHhSJw/s200/am-muu-sau-cuoc-hop-mat-purpose-of-reunion-2015.jpg" alt="Âm Mưu Sau Cuộc Họp Mặt"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/am-muu-sau-cuoc-hop-mat-4323/" title="Âm Mưu Sau Cuộc Họp Mặt">Âm Mưu Sau Cuộc Họp Mặt</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">7</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-zLKwo7_WFNM/VxjWB6pRG9I/AAAAAAAAAh8/_9YfsAPJ6E0/s200/zPTJRxWmltpjwbpFqtLCkUzzEQx.jpg" alt="Yêu Kẻ Bắt Cóc 1"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/yeu-ke-bat-coc-1-8851/" title="Yêu Kẻ Bắt Cóc 1">Yêu Kẻ Bắt Cóc 1</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full NoSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">8</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-CU4ezwZCp40/VzP6S4VweEI/AAAAAAAABVQ/RWiUketFKKU/s200/1.jpg" alt="Yêu"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/yeu-8986/" title="Yêu">Yêu</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">9</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/-ISdAKKV5BZY/VTBp5zb_cAI/AAAAAAAACq0/Cb6I5jJFHMY/s200/phimletv-3-Days-to-Kill-2014.jpg" alt="Ba Ngày Đổi Mạng"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/ba-ngay-doi-mang-1377/" title="Ba Ngày Đổi Mạng">Ba Ngày Đổi Mạng</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div><div class="item">
+                                            <div class="st">10</div>
+                                            <div class="thumb"> <img src="https://2.bp.blogspot.com/--4ajik3LGdQ/Vdh2QunhqJI/AAAAAAAALmY/nvsu1uFMrFY/s200/MV5BMjAwMzc4MDgxNF5BMl5BanBnXkFtZTYwNjUwMzE3._V1_SX640_SY720_.jpg" alt="50 Lần Hẹn Vẫn Là Đầu Tiên"> </div>
+                                            <div class="info"> <a class="name" href="http://hayxemphim.net/phim/50-lan-hen-van-la-dau-tien-3104/" title="50 Lần Hẹn Vẫn Là Đầu Tiên">50 Lần Hẹn Vẫn Là Đầu Tiên</a> <dfn class="status"><i class="fa fa-quote-left"></i> Full VietSub</dfn> </div>
+                                        </div>";s:10:"write_time";s:10:"1481421316";s:10:"expired_in";s:5:"86400";s:12:"expired_time";i:1481507716;}
