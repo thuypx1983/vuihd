@@ -3,7 +3,7 @@ session_start();
 $image_width = 110;
 $image_height = 32;
 $characters_on_image = 4;
-$font = 'monofont.ttf';
+$font = dirname(__FILE__).'/monofont.ttf';
 
 // key
 $possible_letters = '0123456789';
