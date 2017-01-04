@@ -4,6 +4,7 @@ $image_width = 110;
 $image_height = 32;
 $characters_on_image = 4;
 $font = 'monofont.ttf';
+
 // key
 $possible_letters = '0123456789';
 $random_dots = 0;
