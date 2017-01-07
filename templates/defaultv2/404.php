@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
+    <link rel="shortcut icon" href="/upanh/logos/favicon.png" type="image/x-icon">
 <title>Error 404 - Page Not Found</title>
 <style>
 body, html {

@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <link rel="shortcut icon" href="/upanh/logos/favicon.png" type="image/x-icon">
     <title>
         <?=$web_title;?>
     </title>

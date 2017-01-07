@@ -56,6 +56,7 @@ if($value[1]=='home-register'){
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="/upanh/logos/favicon.png" type="image/x-icon">
 <meta http-equiv="content-language" content="vi" />
 <title><?=$web_title;?></title>
 <meta name="description" content="<?=$web_des;?>"/>

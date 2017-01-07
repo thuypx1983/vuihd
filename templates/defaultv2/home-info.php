@@ -124,6 +124,7 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
 <html xmlns:og="http://ogp.me/ns#">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="/upanh/logos/favicon.png" type="image/x-icon">
 <meta http-equiv="content-language" content="en" />
 <title><?=$web_title;?></title>
 <meta name="description" content="<?=$web_des;?>"/>
