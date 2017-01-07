@@ -23,7 +23,7 @@ if($row['video_id']){
 		
 	    $videoURLStream = ($row['video_url']);
 	    $videoLINK = $web_link.'/xem-video/'.$videoKEY.'-'.$row['video_id'].'.html';
-	    $web_title = $videoNAME.' | HayXemPhim.Net';
+	    $web_title = $videoNAME.' | VuiHD.com';
 		$breadcrumbs .= '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
 		$breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$web_link.'/videos.html" title="'.$language['videos'].'"><span itemprop="title">'.$language['videos'].' <i class="fa fa-angle-right"></i></span></a></li>';
 		$CheckCat		=	explode(',',$videoCAT);
@@ -327,7 +327,7 @@ $catNAME = $row['cat_name'];
 		</div>
 </div></main>   </div> </div> </div> 
 <script src="<?=STATIC_URL;?>/defaultv2/js/pdnghia.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://hayxemphim.net/players/jwplayer.js"></script>
+<script type="text/javascript" src="http://VuiHD.com/players/jwplayer.js"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/plvideo.js" type="text/javascript"></script>
 <script type="text/javascript">

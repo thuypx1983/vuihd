@@ -95,10 +95,16 @@ if($value[1]=='home-downloadid' && is_numeric($value[2])){
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-60905015-1', 'auto');
+  ga('create', 'UA-89969195-1', 'auto');
   ga('send', 'pageview');
 
 </script>
+<div style="width: 0px; height: 0px; overflow: hidden;"><script id="_waumcn">var _wau = _wau || []; _wau.push(["classic", "ejzpavbso097", "mcn"]);
+(function() {var s=document.createElement("script"); s.async=true;
+s.src="http://widgets.amung.us/classic.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+})();</script></div>
+
 </head>
 <body>
 

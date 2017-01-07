@@ -5,7 +5,7 @@
     <div class="container">
         
        
-		<div class="links"> <div class="powered">© 2016 HayXemPhim.Net • Phiên bản thử nghiệm • Coded by <a href="#" title="YH: imkingst">dragonit09</a>. <div style="display:block"></div></div> <div class="link"><a href="pages/donate.html">Ủng hộ</a> <a href="pages/lien-he.html">Liên hệ</a> <a href="pages/gioi-thieu.html">Giới thiệu</a> <a href="sitemap.xml">Sitemap</a> <a href="rss">Rss</a> </div> <div class="external"> <?=un_htmlchars($cf_textlink);?> </div> </div>
+		<div class="links"> <div class="powered">© 2017 VuiHD.com • Phiên bản thử nghiệm • <div style="display:block"></div></div> <div class="link"><a href="pages/donate.html">Ủng hộ</a> <a href="pages/lien-he.html">Liên hệ</a> <a href="pages/gioi-thieu.html">Giới thiệu</a> <a href="sitemap.xml">Sitemap</a> <a href="rss">Rss</a> </div> <div class="external"> <?=un_htmlchars($cf_textlink);?> </div> </div>
     </div>
 </div>
 <div class="ad_location desktop hidden-sm hidden-xs"> </div>

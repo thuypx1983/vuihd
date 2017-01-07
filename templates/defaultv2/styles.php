@@ -1,9 +1,9 @@
  <meta property="fb:app_id" content="<?=$cf_fanpageid;?>"> 
  <meta property="fb:admins" content="<?=$cf_admin_id;?>" />
  <meta property="og:updated_time" content="<?=NOW;?>" />
- <meta property="og:site_name" content="HAYXEMPHIM.NET" />
+ <meta property="og:site_name" content="VuiHD.com" />
  <meta property="og:type" content="website"/>
- <meta name="author" content="HAYXEMPHIM.NET">
+ <meta name="author" content="VuiHD.com">
  <base href="<?=$web_link;?>/">
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,8 +29,13 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-60905015-1', 'auto');
+  ga('create', 'UA-89969195-1', 'auto');
   ga('send', 'pageview');
 
 </script>
+<div style="width: 0px; height: 0px; overflow: hidden;"><script id="_waumcn">var _wau = _wau || []; _wau.push(["classic", "ejzpavbso097", "mcn"]);
+(function() {var s=document.createElement("script"); s.async=true;
+s.src="http://widgets.amung.us/classic.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+})();</script></div>
 <?=showAds("ads_popup_header");?>

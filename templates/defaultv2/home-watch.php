@@ -364,8 +364,7 @@ $film_countryz_title = "";
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.public.js" type="text/javascript"></script>
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.watchv2.js" type="text/javascript"></script>
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
- <script type="text/javascript" src="http://dammephim.net/players/jwplayer.js"></script>
- <link rel="stylesheet" type="text/css" href="https://api.anivn.com/jwplayer/tube/tube.min.css"></link>
+ <script type="text/javascript" src="http://vuihd.com/players/jwplayer.js"></script>
   <script type="text/javascript">
   
  $(document).ready(function() {PhimLe(filmInfo.episodeID,filmInfo.filmID);

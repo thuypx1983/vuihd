@@ -23,6 +23,6 @@ a {
 
 <body>
 <h1><strong>Error 404</strong>: Không tìm thấy trang</h1>
-<p>Click <a href="http://www.hayxemphim.net/">here</a> to back to the home page.</p>
+<p>Click <a href="http://www.VuiHD.com/">here</a> to back to the home page.</p>
 </body>
 </html>

@@ -3826,7 +3826,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.hotest .block-title .stars{display:inline;margin-top:15px;}
 .block.hotest .block-title .stars i{background-position:-198px -11px;width:18px;height:18px;margin:13px 3px 0;display:inline-block;}
 .block.hotest .block-title .title{display:inline-block;color:#ddd;text-transform:uppercase;font-size:16px;margin:0 10px;line-height:35px;padding:0 10px;border-bottom:2px solid #ddd;}
-.block.hotest .block-body{overflow:hidden;padding:20px 0;border-bottom:1px solid #e6b12c;}
+.block.hotest .block-body{overflow:hidden;padding:20px 0;border-bottom:1px solid #e6b12c;background-color:#fdc613;}
 .block.hotest .block-body .container{position:relative;overflow:hidden;height:310px;padding-left:0;padding-right:0;}
 .block.hotest .block-body .row .col-lg-1,
 .block.hotest .block-body .row .col-lg-10,
@@ -4079,7 +4079,7 @@ div.block-tags{margin-top:10px;border-top:1px dashed #333;}
 table.imagetable{font-family:arial,sans-serif;font-size:13px;color:#333333;border-width:1px;border-color:#000000;border-collapse:collapse;width:100%;}
 table.imagetable th{background:rgba(6,6,6,0.27);padding:8px;text-align:center;color:#8A8A8A;border:1px solid #0E0E0E;}
 table.imagetable td{padding:8px;border-style:solid;border:1px solid #151414;color:#828282;}
-.announcement .block-body{background: #FEF66F url("https://lh3.googleusercontent.com/-GaMDV4hBPO0/Vqci49EcdWI/AAAAAAAABfk/mX9qb1luEXo/s0/56a722e285d00.jpg");padding: 0px;color: #FFF;border: 8px solid #232222;width: 100%;background-size: cover;background-repeat: no-repeat;background-position: top center;height: 100%;}
+.announcement .block-body{background: #000000;padding: 0px;color: #FFF;border: 8px solid #232222;width: 100%;background-size: cover;background-repeat: no-repeat;background-position: top center;height: 100%;}
 .announcement .block-body .announcement-list{color: rgb(255, 255, 255);background: rgba(0, 0, 0, 0.25) none repeat scroll 0% 0%;padding: 8px;}
 #abd_mv{background:#000;}
 .jwplayer.jw-skin-seven:not(.jw-flag-fullscreen) .jw-controls .jw-controlbar {bottom: -40px !important;display: table !important;}
