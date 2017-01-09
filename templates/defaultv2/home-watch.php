@@ -252,7 +252,7 @@ $film_countryz_title = "";
                             </div>
                             <div class="block list-film-slide">
                                  <div class="widget-title">
-     							<h3 class="title">Phim liên quan</h3> 
+     							<h3 class="title">Phim liên quan ss</h3>
 								</div>
                                 <div class="block-body slider">
                                     <div class="control prev"></div>
