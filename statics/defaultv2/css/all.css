@@ -4274,3 +4274,10 @@ background: #0F0E0E; padding: 10px; border: 1px solid #000;
 .block.update{background:transparent;}
 .block.movie-kinhdien{padding:10px;}
 .block.ad{padding:1px;}
+
+/**
+custom style by thuypx
+*/
+.info-film .block-title{
+    height: auto !important;
+}
