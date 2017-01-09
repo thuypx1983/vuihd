@@ -12,8 +12,9 @@
                 target: null,
                 remove: false
             });
-
-            $('.toggle-size').trigger('click');
+            if($(window).width()>=992){
+                $('.toggle-size').trigger('click');
+            }
         });
     })(jQuery)
 </script>
