@@ -4290,3 +4290,6 @@ custom style by thuypx
         height:auto;
     }
 }
+.controls .toggle-size{
+    display: none;
+}
