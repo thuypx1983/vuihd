@@ -12,6 +12,8 @@
                 target: null,
                 remove: false
             });
+
+            $('.toggle-size').trigger('click');
         });
     })(jQuery)
 </script>
