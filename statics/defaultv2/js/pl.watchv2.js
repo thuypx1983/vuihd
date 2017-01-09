@@ -544,8 +544,13 @@ jQuery(document)['ready'](function (t) {
             var offset = jQuery('.block.servers').offset();
             var sidebarTopMargin =  offset.top - jQuery('.block.servers').outerHeight( true ) - 273;
 
+            var link = $('.block.media');
+            var position = link.position(); //cache the position
+            var bottom = $(window).height() - position.top - link.height();
+
             jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
-                marginTop: sidebarTopMargin
+                //marginTop: sidebarTopMargin
+                marginTop: bottom
             });
             jQuery('.block.media')['animate']({
                 "width": newWidth
