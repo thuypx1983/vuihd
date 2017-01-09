@@ -541,9 +541,9 @@ jQuery(document)['ready'](function (t) {
             };
             var offset = jQuery('.block.servers').offset();
             var sidebarTopMargin =  offset.top - jQuery('.block.servers').outerHeight( true );
-            jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
+            /*jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
                 marginTop: sidebarTopMargin
-            });
+            });*/
             jQuery('.block.media')['animate']({
                 "width": newWidth
             });
