@@ -4285,6 +4285,8 @@ custom style by thuypx
 #pl-slidez1{
     height:auto;
 }
-#pl-slidez1 .item .poster img{
-    height:auto;
+@media (min-width:640px){
+    #pl-slidez1 .item .poster img{
+        height:auto;
+    }
 }
