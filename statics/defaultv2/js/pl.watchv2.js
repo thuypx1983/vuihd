@@ -540,7 +540,7 @@ jQuery(document)['ready'](function (t) {
                 'height': Math.ceil(newWidth / 16 * 9 - docHeight)
             };
             var offset = jQuery('.block.servers').offset();
-            var sidebarTopMargin =  offset.top - jQuery('.block.servers').outerHeight( true );
+            var sidebarTopMargin =  offset.top - jQuery('.block.servers').outerHeight( true ) - jQuery('.block.fanpage').outerHeight(true);
             alert(sidebarTopMargin);
             jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
                 marginTop: sidebarTopMargin
