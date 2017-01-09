@@ -1,4 +1,6 @@
- <?=showAds('footer_balloon_right');?>
+<script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.matchHeight-min.js" type="text/javascript"></script>
+
+<?=showAds('footer_balloon_right');?>
  <?=showAds('footer_balloon_left');?>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/bootstrap.js"></script>
 <div id="footer">
@@ -17,4 +19,6 @@
 <div class="overlay" style="display: none;"></div>
 <input type="hidden" value="<?=getCurrentPageURL();?>" name="currentUrl" id="currentUrl">
 <!--/**
+
+
  
