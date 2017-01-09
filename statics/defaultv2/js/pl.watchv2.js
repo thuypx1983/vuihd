@@ -539,9 +539,11 @@ jQuery(document)['ready'](function (t) {
                'width': newWidth,
                 'height': Math.ceil(newWidth / 16 * 9 - docHeight)
             };
+
+            //edit by thuypx
             var offset = jQuery('.block.servers').offset();
             var sidebarTopMargin =  offset.top - jQuery('.block.servers').outerHeight( true ) - 236;
-            alert(sidebarTopMargin);
+
             jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
                 marginTop: sidebarTopMargin
             });
