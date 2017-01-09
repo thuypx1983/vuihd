@@ -252,7 +252,7 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
                         <!--.block-->
                         <div class="block list-film-slide">
                             <div class="widget-title">
-     							<h3 class="title">Phim liên quan</h3> 
+     							<h3 class="title">Phim liên quan sss</h3>
 								</div> 
                             <div class="block-body slider">
                                 <div class="control prev"></div>
