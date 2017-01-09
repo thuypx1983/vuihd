@@ -542,7 +542,7 @@ jQuery(document)['ready'](function (t) {
 
             //edit by thuypx
             var offset = jQuery('.block.servers').offset();
-            var sidebarTopMargin =  offset.top - jQuery('.block.servers').outerHeight( true ) - 230;
+            var sidebarTopMargin =  offset.top - jQuery('.block.servers').outerHeight( true ) - 275;
 
             jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
                 marginTop: sidebarTopMargin
