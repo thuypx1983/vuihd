@@ -4290,6 +4290,11 @@ custom style by thuypx
         height:auto;
     }
 }
+@media (min-width:641px){
+    .block.fanpage{
+        min-height: 290px;
+    }
+}
 .block.media .block-body .controls .item.toggle-size{
     display: none;
 }
