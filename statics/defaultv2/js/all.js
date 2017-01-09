@@ -3390,3 +3390,19 @@ $(document).ready(function(t) {
         t("ul.autocomplete-list").show()
     })
 });
+
+
+
+/**
+ custom js
+ **/
+(function($){
+    $(function() {
+        $('#pl-slidez1 .item').matchHeight({
+            byRow: true,
+            property: 'height',
+            target: null,
+            remove: false
+        });
+    });
+})(jQuery)
