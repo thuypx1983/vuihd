@@ -1,4 +1,20 @@
+<!-- added by thuypx -->
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.matchHeight-min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    /**
+     custom js
+     **/
+    (function($){
+        $(function() {
+            $('#pl-slidez1 .item').matchHeight({
+                byRow: true,
+                property: 'height',
+                target: null,
+                remove: false
+            });
+        });
+    })(jQuery)
+</script>
 
 <?=showAds('footer_balloon_right');?>
  <?=showAds('footer_balloon_left');?>
