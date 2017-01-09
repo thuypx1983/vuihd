@@ -819,9 +819,9 @@ if($row['film_lb'] == 0){
                          <div class="block fanpage">
 
 
-                            <div class="fb-page" data-href="https://www.facebook.com/C%C3%A0y-Phim-%C4%90%C3%AAm-731635003652986/" data-width="339px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
+                            <div class="fb-page" data-href="https://www.facebook.com/cayphimdem/" data-width="339px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
                                 <div class="fb-xfbml-parse-ignore">
-                                    <blockquote cite="https://www.facebook.com/C%C3%A0y-Phim-%C4%90%C3%AAm-731635003652986/"><a href="https://www.facebook.com/C%C3%A0y-Phim-%C4%90%C3%AAm-731635003652986/"></a></blockquote>
+                                    <blockquote cite="https://www.facebook.com/cayphimdem/"><a href="https://www.facebook.com/cayphimdem/"></a></blockquote>
                                 </div>
                             </div>
 
