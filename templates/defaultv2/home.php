@@ -281,11 +281,22 @@
                 <div class="block ad_location">
                     <?=showAds('right_below_fanpage');?>
                 </div>
+
+                <div class="block trainer">
+                    <div class="widget-title">
+                        <h3 class="title">Trainer phim mới</h3>
+                    </div>
+                    <div class="block-body">
+                        <?=ShowFilm('WHERE film_lb IN (1,2)','ORDER BY film_time_update',12,'showfilm_phimbo_home','cache_phimbonew_home');?>
+                    </div>
+                </div>
+
                 <div class="block chatting">
                     <div class="widget-title">
 						<span class="tabs"><div class="tab active" data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/ tán gẫu</a></div></div>
 							<div class="tab" data-name="request_post" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Gửi yêu cầu</a></div></div>
-								 </span>
+
+                        </span>
                     </div>
 
                     <div class="block-body">
@@ -304,8 +315,10 @@
                     <div class="widget-title">
                         <h3 class="title">Phim hot tuần</h3>
                         <span class="tabs"><div class="tab active" data-name="lew" data-target=".block.interested .content"><div class="name"><a title="Phim lẻ" href="phim-le/">Phim lẻ</a></div></div>
-								<div class="tab" data-name="bow" data-target=".block.interested .content"><div class="name"><a title="Phim bộ" href="phim-bo/">Phim bộ</a></div></div>
-								 </span></div>
+								<div class="tab" data-name="bow" data-target=".block.interested .content"><div class="name"><a title="Phim bộ" href="phim-bo/">Phim bộ</a></div><
+                                    /div>
+								 </span>
+                    </div>
 
 
                     <div class="block-body">
