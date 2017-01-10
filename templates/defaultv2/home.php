@@ -284,7 +284,7 @@
 
                 <div class="block trainer">
                     <div class="widget-title">
-                        <h3 class="title">Trainer phim mới</h3>
+                        <h3 class="title">Trailer phim mới</h3>
                     </div>
                     <div class="block-body">
                       <div class="list-film-simple">
