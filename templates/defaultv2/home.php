@@ -64,7 +64,7 @@
                             </ul> </div> <div class="clearfix"></div></div>
                 </div>
                 <!-- block cinema -->
-                <div class="block update cinema ">
+                <div class="block  cinema ">
 
                     <div class="widget-title">
                         <h3 class="title">Phim chiếu rạp</h3>
@@ -84,25 +84,25 @@
                 <!-- !block cinema -->
 
                 <!-- phim le -->
-                <div class="block update">
+                <div class="block  film-le">
 
                     <div class="widget-title">
                         <h3 class="title">Phim lẻ</h3>
                         <span class="tabs">
-                            <div class="tab active" data-name="all" data-target=".block.update .content">
+                            <div class="tab active" data-name="all" data-target=".block.film-le .content">
                                 <div class="name"><a title="Tất cả" href="javascript:void(0)">Tất cả</a></div></div>
-								<div class="tab" data-name="hanh-dong" data-target=".block.update .content">
+								<div class="tab" data-name="hanh-dong" data-target=".block.film-le .content">
                                     <div class="name"><a title="Phim lẻ" href="phim-le/">Hành Động</a></div></div>
-								<div class="tab" data-name="hai" data-target=".block.update .content">
+								<div class="tab" data-name="hai" data-target=".block.film-le .content">
                                     <div class="name"><a title="Phim bộ" href="phim-hai/">Hài</a>
                                     </div>
                                 </div>
-                                <div class="tab" data-name="kinh-di" data-target=".block.update .content">
+                                <div class="tab" data-name="kinh-di" data-target=".block.film-le .content">
                                     <div class="name">
                                         <a title="Phim bộ" href="phim-chieu-rap/">Kinh Dị</a>
                                     </div>
                                 </div>
-                                <div class="tab" data-name="vo-thuat" data-target=".block.update .content">
+                                <div class="tab" data-name="vo-thuat" data-target=".block.film-le .content">
                                     <div class="name">
                                         <a title="Phim bộ" href="phim-vo-thuat/">Võ thuật</a>
                                     </div>
@@ -146,20 +146,20 @@
                 <!-- !phim le -->
 
                 <!-- phim bộ -->
-                <div class="block update">
+                <div class="block film-bo">
                     <div class="widget-title">
                         <h3 class="title">Phim bộ</h3>
                         <span class="tabs">
-                            <div class="tab active" data-name="all-phim-bo" data-target=".block.update .content">
+                            <div class="tab active" data-name="all-phim-bo" data-target=".block.film-bo .content">
                                 <div class="name"><a title="Tất cả" href="javascript:void(0)">Tất cả</a></div></div>
-								<div class="tab" data-name="film-han-quoc" data-target=".block.update .content">
+								<div class="tab" data-name="film-han-quoc" data-target=".block.film-bo .content">
                                     <div class="name"><a title="Phim lẻ" href="phim-le/">Hàn Quốc</a></div>
                                 </div>
-								<div class="tab" data-name="film-trung-quoc" data-target=".block.update .content">
+								<div class="tab" data-name="film-trung-quoc" data-target=".block.film-bo .content">
                                     <div class="name"><a title="Phim bộ" href="phim-hai/">Trung Quốc</a>
                                     </div>
                                 </div>
-                                <div class="tab" data-name="film-my" data-target=".block.update .content">
+                                <div class="tab" data-name="film-my" data-target=".block.film-bo .content">
                                     <div class="name">
                                         <a title="Phim bộ" href="phim-chieu-rap/">Mỹ</a>
                                     </div>
@@ -197,19 +197,19 @@
                 <!-- !phim bộ -->
 
                 <!-- phim hoạt hình -->
-                <div class="block update">
+                <div class="block hoat-hinh">
                     <div class="widget-title">
                         <h3 class="title">Phim hoạt hình</h3>
                         <span class="tabs">
-                            <div class="tab active" data-name="all-hoat-hinh" data-target=".block.update .content">
+                            <div class="tab active" data-name="all-hoat-hinh" data-target=".block.hoat-hinh .content">
                                 <div class="name">
                                     <a title="Tất cả" href="javascript:void(0)">Tất cả</a>
                                 </div>
                             </div>
-								<div class="tab" data-name="film-animate-le" data-target=".block.update .content">
+								<div class="tab" data-name="film-animate-le" data-target=".block.hoat-hinh .content">
                                     <div class="name"><a title="Phim lẻ" href="phim-le/">phim lẻ</a></div>
                                 </div>
-								<div class="tab" data-name="film-animate-bo" data-target=".block.update .content">
+								<div class="tab" data-name="film-animate-bo" data-target=".block.hoat-hinh .content">
                                     <div class="name"><a title="Phim bộ" href="phim-hai/">phim bộ</a>
                                     </div>
                                 </div>
