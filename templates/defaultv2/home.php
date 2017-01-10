@@ -82,6 +82,67 @@
                     </div>
                 </div>
 
+                <!-- phim le -->
+                <div class="block update">
+
+                    <div class="widget-title">
+                        <h3 class="title">Phim lẻ</h3>
+                        <span class="tabs">
+                            <div class="tab active" data-name="all" data-target=".block.update .content">
+                                <div class="name"><a title="Tất cả" href="javascript:void(0)">Tất cả</a></div></div>
+								<div class="tab" data-name="hanh-dong" data-target=".block.update .content">
+                                    <div class="name"><a title="Phim lẻ" href="phim-le/">Hành Động</a></div></div>
+								<div class="tab" data-name="hai" data-target=".block.update .content">
+                                    <div class="name"><a title="Phim bộ" href="phim-hai/">Hài</a>
+                                    </div>
+                                </div>
+                                <div class="tab" data-name="kinh-di" data-target=".block.update .content">
+                                    <div class="name">
+                                        <a title="Phim bộ" href="phim-chieu-rap/">Kinh Dị</a>
+                                    </div>
+                                </div>
+                                <div class="tab" data-name="vo-thuat" data-target=".block.update .content">
+                                    <div class="name">
+                                        <a title="Phim bộ" href="phim-vo-thuat/">Võ thuật</a>
+                                    </div>
+                                </div>
+                    </div>
+
+                    <div class="block-body">
+                        <div class="content" data-name="all">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb IN (0) AND film_cat NOT LIKE "%,5,%"','ORDER BY film_time_update',8,'showfilm_template','cache_phimle_home');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-le/">Phim lẻ</a> </div>
+                        </div>
+                        <div class="content hidden" data-name="hanh-dong">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb = 0 AND film_cat LIKE "%,1,%"','ORDER BY film_time_update',8,'showfilm_template','cache_phimhanhdong');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-hanh-dong/" title="Phim lẻ">Phim hành động</a> </div>
+                        </div>
+
+                        <div class="content hidden" data-name="hai">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb IN (0) AND film_cat LIKE "%,7,%"','ORDER BY film_time_update',8,'showfilm_template','cache_phimhai');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/" title="Phim bộ">Phim bộ</a> </div>
+                        </div>
+                        <div class="content hidden" data-name="kinh-di">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE  film_lb =0 AND film_cat  LIKE "%,3,%"','ORDER BY film_time_update',8,'showfilm_template','cache_phimkinhdi');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-chieu-rap/" title="Phim chiếu rạp">Phim chiếu rạp</a> </div>
+                        </div>
+                        <div class="content hidden" data-name="vo-thuat">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE  film_lb =0 AND film_cat  LIKE "%,6,%"','ORDER BY film_time_update',8,'showfilm_template','cache_phimvothuat');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-chieu-rap/" title="Phim chiếu rạp">Phim chiếu rạp</a> </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="block movie-update">
                     <div class="col-left">
                         <div class="block-movie">
