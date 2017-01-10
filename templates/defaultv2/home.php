@@ -287,7 +287,7 @@
                         <h3 class="title">Trainer phim mới</h3>
                     </div>
                     <div class="block-body">
-                        <?=ShowFilm('WHERE film_trailer <> \'\' AND film_publish = 1 AND film_lb = 3',12,'showfilm_phimbo_home','cache_trainer_home');?>
+                        <?=ShowFilm('WHERE film_trailer <> \'\' AND film_publish = 0 AND film_lb = 3',12,'showfilm_phimbo_home','cache_trainer_home');?>
                     </div>
                 </div>
 
