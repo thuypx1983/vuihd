@@ -287,7 +287,7 @@
                         <h3 class="title">Trainer phim mới</h3>
                     </div>
                     <div class="block-body">
-                        <?=ShowFilm('WHERE film_lb IN (1,2)','ORDER BY film_time_update',12,'showfilm_phimbo_home','cache_phimbonew_home');?>
+                        <?=ShowFilm('WHERE film_lb IN (0)','ORDER BY film_time_update',12,'showfilm_phimbo_home','cache_trainer_home');?>
                     </div>
                 </div>
 
