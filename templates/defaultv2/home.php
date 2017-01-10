@@ -76,7 +76,7 @@
                                 <?=ShowFilm('WHERE film_chieurap = 1 AND film_lb <> 3 AND film_cat NOT LIKE "%,5,%"','ORDER BY film_time_update',8,'showfilm_template','cache_chieurap');?>
 
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/the-loai/hoat-hinh/">Phim hoạt hình</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-chieu-rap/">Phim chiếu rạp</a> </div>
                         </div>
 
                     </div>
