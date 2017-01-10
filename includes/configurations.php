@@ -8,7 +8,7 @@
     $config['db_host']	= 'localhost';
     $config['db_name'] 	= 'vuihd_com';
     $config['db_user']	= 'vuihd_com';
-    $config['db_pass']	= 'nJ9LE2RsJFMjP29J';
+    $config['db_pass']	= 'TasQdh6dAdLkTEQ3';
     $tb_prefix			= 'table_';
     define('SERVER_HOST',			$config['db_host']);
     define('DATABASE_NAME',			$config['db_name']);
