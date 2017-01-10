@@ -4298,3 +4298,6 @@ custom style by thuypx
 .block.media .block-body .controls .item.toggle-size{
     display: none;
 }
+.movie-kinhdien .slide .slide-thumb {
+    width: 50%;
+}
