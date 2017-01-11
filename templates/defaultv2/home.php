@@ -24,7 +24,7 @@
     <div class="block hotest">
         <div class="block-title">
             <div class="stars"> <i></i> <i></i> <i></i> <span class="hidden-xs"><i></i> <i></i></span> </div>
-            <div class="title">Phim đề cử</div>
+            <div class="title">VuiHD.Com Đề Cử</div>
             <div class="stars"> <i></i> <i></i> <i></i> <span class="hidden-xs"><i></i> <i></i></span> </div>
         </div>
         <div class="block-body slider">
@@ -76,13 +76,79 @@
                                 <?=ShowFilm('WHERE film_chieurap = 1 AND film_lb <> 3 AND film_cat NOT LIKE "%,5,%"','ORDER BY film_time_update',8,'showfilm_template','cache_chieurap');?>
 
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-chieu-rap/">Phim chiếu rạp</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-chieu-rap/">Xem Thêm</a> </div>
                         </div>
 
                     </div>
                 </div>
                 <!-- !block cinema -->
+				<div class="block ad" style="width:100%;overflow:hidden;">
+                    <?=showAds('home_below_phimbo');?>
+                </div>
+				<!-- phim bộ -->
+                <div class="block film-bo">
+                    <div class="widget-title">
+                        <h3 class="title">Phim bộ</h3>
+                        <span class="tabs">
+                            <div class="tab active" data-name="all-phim-bo" data-target=".block.film-bo .content">
+                                <div class="name"><a title="Tất cả" href="javascript:void(0)">Tất cả</a></div></div>
+								<div class="tab" data-name="film-han-quoc" data-target=".block.film-bo .content">
+                                    <div class="name"><a title="Hàn Quốc" href="/quoc-gia/kr/">Hàn Quốc</a></div>
+                                </div>
+								<div class="tab" data-name="film-trung-quoc" data-target=".block.film-bo .content">
+                                    <div class="name"><a title="Trung Quốc" href="/phim-bo/cn/">Trung Quốc</a>
+                                    </div>
+                                </div>
+                                <div class="tab" data-name="film-my" data-target=".block.film-bo .content">
+                                    <div class="name">
+                                        <a title="Mỹ" href="/phim-bo/us/">Mỹ</a>
+                                    </div>
+                                </div>
+								<div class="tab" data-name="film-nhat" data-target=".block.film-bo .content">
+                                    <div class="name">
+                                        <a title="Nhật" href="/phim-bo/jp/">Nhật</a>
+                                    </div>
+                                </div>
+                    </div>
 
+                    <div class="block-body">
+                        <div class="content" data-name="all-phim-bo">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb IN (1,2) AND film_cat NOT LIKE "%,5,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimbo_home');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/">Xem Thêm</a> </div>
+                        </div>
+                        <div class="content hidden" data-name="film-han-quoc">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat NOT LIKE "%,5,%" AND film_country LIKE "%,3,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimhanquoc');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/kr/" title="Phim Hàn Quốc">Phim Bộ Hàn Quốc</a> </div>
+                        </div>
+                        <div class="content hidden" data-name="film-trung-quoc">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat NOT LIKE "%,5,%" AND film_country LIKE "%,2,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimtrungquoc');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/cn/" title="Phim Trung Quốc">Phim Bộ Trung Quốc</a> </div>
+                        </div>
+                        <div class="content hidden" data-name="film-my">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat NOT LIKE "%,5,%" AND film_country LIKE "%,7,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimmy');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/us/" title="Phim Mỹ">Phim Bộ Mỹ</a> </div>
+                        </div>
+						<div class="content hidden" data-name="film-nhat">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat NOT LIKE "%,5,%" AND film_country LIKE "%,6,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimnhat');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/jp/" title="Phim Nhật">Phim Bộ Nhật</a> </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- !phim bộ -->
+				<div class="block ad" style="width:100%;overflow:hidden;">
+                    <?=showAds('movie_sapchieu_below');?>
+                </div>
                 <!-- phim le -->
                 <div class="block  film-le">
 
@@ -104,7 +170,7 @@
                                 </div>
                                 <div class="tab" data-name="vo-thuat" data-target=".block.film-le .content">
                                     <div class="name">
-                                        <a title="Phim lẻ võ thuật" href="/phim-le/vo-thuat/">Võ thuật</a>
+                                        <a title="Phim lẻ võ thuật" href="/phim-le/vo-thuat/">Võ Thuật</a>
                                     </div>
                                 </div>
                     </div>
@@ -112,90 +178,39 @@
                     <div class="block-body">
                         <div class="content" data-name="all">
                             <div class="list-film row">
-                                <?=ShowFilm('WHERE film_lb IN (0) AND film_cat NOT LIKE "%,5,%"','ORDER BY film_time_update',8,'showfilm_template','cache_phimle_home');?>
+                                <?=ShowFilm('WHERE film_lb IN (0) AND film_cat NOT LIKE "%,5,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimle_home');?>
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-le/">Phim lẻ</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-le/">Xem Thêm</a> </div>
                         </div>
                         <div class="content hidden" data-name="hanh-dong">
                             <div class="list-film row">
-                                <?=ShowFilm('WHERE film_lb = 0 AND film_cat LIKE "%,1,%"','ORDER BY film_time_update',8,'showfilm_template','cache_phimhanhdong');?>
+                                <?=ShowFilm('WHERE film_lb = 0 AND film_cat NOT LIKE "%,5,%" AND film_cat LIKE "%,1,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimhanhdong');?>
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-le/hanh-dong/" title="Phim hành động">Phim hành động</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-le/hanh-dong/" title="Phim hành động">Phim Hành Động</a> </div>
                         </div>
 
                         <div class="content hidden" data-name="hai">
                             <div class="list-film row">
-                                <?=ShowFilm('WHERE film_lb IN (0) AND film_cat LIKE "%,7,%"','ORDER BY film_time_update',8,'showfilm_template','cache_phimhai');?>
+                                <?=ShowFilm('WHERE film_lb IN (0) AND film_cat NOT LIKE "%,5,%" AND film_cat LIKE "%,7,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimhai');?>
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-le/hai/" title="Phim hai">Phim hai</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-le/hai/" title="Phim hài">Phim Hài</a> </div>
                         </div>
                         <div class="content hidden" data-name="kinh-di">
                             <div class="list-film row">
-                                <?=ShowFilm('WHERE  film_lb =0 AND film_cat  LIKE "%,3,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimkinhdi');?>
+                                <?=ShowFilm('WHERE  film_lb =0 AND film_cat NOT LIKE "%,5,%" AND film_cat  LIKE "%,3,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimkinhdi');?>
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-le/kinh-di/" title="Phim kinh di">Phim kinh di</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-le/kinh-di/" title="Phim kinh dị">Phim Kinh Dị</a> </div>
                         </div>
                         <div class="content hidden" data-name="vo-thuat">
                             <div class="list-film row">
-                                <?=ShowFilm('WHERE  film_lb =0 AND film_cat  LIKE "%,6,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimvothuat');?>
+                                <?=ShowFilm('WHERE  film_lb =0 AND film_cat NOT LIKE "%,5,%" AND film_cat  LIKE "%,6,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimvothuat');?>
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-le/vo-thuat/" title="Phim võ thuật">Phim võ thuật</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-le/vo-thuat/" title="Phim võ thuật">Phim Võ Thuật</a> </div>
                         </div>
                     </div>
                 </div>
                 <!-- !phim le -->
-
-                <!-- phim bộ -->
-                <div class="block film-bo">
-                    <div class="widget-title">
-                        <h3 class="title">Phim bộ</h3>
-                        <span class="tabs">
-                            <div class="tab active" data-name="all-phim-bo" data-target=".block.film-bo .content">
-                                <div class="name"><a title="Tất cả" href="javascript:void(0)">Tất cả</a></div></div>
-								<div class="tab" data-name="film-han-quoc" data-target=".block.film-bo .content">
-                                    <div class="name"><a title="Hàn Quốc" href="/quoc-gia/kr/">Hàn Quốc</a></div>
-                                </div>
-								<div class="tab" data-name="film-trung-quoc" data-target=".block.film-bo .content">
-                                    <div class="name"><a title="Trung Quốc" href="/quoc-gia/cn/">Trung Quốc</a>
-                                    </div>
-                                </div>
-                                <div class="tab" data-name="film-my" data-target=".block.film-bo .content">
-                                    <div class="name">
-                                        <a title="Phim bộ" href="/quoc-gia/us/">Mỹ</a>
-                                    </div>
-                                </div>
-                    </div>
-
-                    <div class="block-body">
-                        <div class="content" data-name="all-phim-bo">
-                            <div class="list-film row">
-                                <?=ShowFilm('WHERE film_lb IN (1,2)','ORDER BY film_time_update',16,'showfilm_template','cache_phimbo_home');?>
-                            </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/">Phim bộ</a> </div>
-                        </div>
-                        <div class="content hidden" data-name="film-han-quoc">
-                            <div class="list-film row">
-                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_country LIKE "%,3,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimhanquoc');?>
-                            </div>
-                            <div class="more"> <a href="<?=$web_link;?>/quoc-gia/kr/" title="Phim Hàn Quốc">Phim Hàn Quốc</a> </div>
-                        </div>
-                        <div class="content hidden" data-name="film-trung-quoc">
-                            <div class="list-film row">
-                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_country LIKE "%,2,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimtrungquoc');?>
-                            </div>
-                            <div class="more"> <a href="<?=$web_link;?>/quoc-gia/cn/" title="Phim Trung Quốc">Phim Trung Quốc</a> </div>
-                        </div>
-                        <div class="content hidden" data-name="film-my">
-                            <div class="list-film row">
-                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_country LIKE "%,7,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimmy');?>
-                            </div>
-                            <div class="more"> <a href="<?=$web_link;?>/quoc-gia/us/" title="Phim Mỹ">Phim Mỹ</a> </div>
-                        </div>
-
-                    </div>
-                </div>
-                <!-- !phim bộ -->
-
+				<div class="block ad" style="width:100%;overflow:hidden;"><?=showAds("home_above_comingsoon");?></div>
                 <!-- phim hoạt hình -->
                 <div class="block hoat-hinh">
                     <div class="widget-title">
@@ -207,10 +222,10 @@
                                 </div>
                             </div>
 								<div class="tab" data-name="film-animate-le" data-target=".block.hoat-hinh .content">
-                                    <div class="name"><a title="Phim lẻ" href="/phim-le/hoat-hinh/">phim lẻ</a></div>
+                                    <div class="name"><a title="Phim Lẻ Hoạt Hình" href="/phim-le/hoat-hinh/">Phim Lẻ Hoạt Hình</a></div>
                                 </div>
 								<div class="tab" data-name="film-animate-bo" data-target=".block.hoat-hinh .content">
-                                    <div class="name"><a title="Phim bộ" href="/phim-bo/hoat-hinh/">phim bộ</a>
+                                    <div class="name"><a title="Phim Bộ Hoạt Hình" href="/phim-bo/hoat-hinh/">Phim Bộ Hoạt Hình</a>
                                     </div>
                                 </div>
                     </div>
@@ -220,19 +235,19 @@
                             <div class="list-film row">
                                 <?=ShowFilm('WHERE film_cat LIKE "%,5,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimhoathinh');?>
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/the-loai/hoat-hinh/">Phim hoạt hình</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/the-loai/hoat-hinh/">Xem Thêm</a> </div>
                         </div>
                         <div class="content hidden" data-name="film-animate-le">
                             <div class="list-film row">
                                 <?=ShowFilm('WHERE film_lb in (0) AND film_cat LIKE "%,5,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimhoathinhle');?>
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-le/hoat-hinh/" title="Phim lẻ">Phim lẻ hoạt hình</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-le/hoat-hinh/" title="Phim Lẻ Hoạt Hình">Phim Lẻ Hoạt Hình</a> </div>
                         </div>
                         <div class="content hidden" data-name="film-animate-bo">
                             <div class="list-film row">
                                 <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat LIKE "%,5,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimhoathinhbo');?>
                             </div>
-                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/hoat-hinh/" title="Phim lẻ">Phim bộ hoạt hình</a> </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/hoat-hinh/" title="Phim Bộ Hoạt Hình">Phim Bộ Hoạt Hình</a> </div>
                         </div>
 
                     </div>
@@ -240,13 +255,9 @@
                 <!-- !phim hoạt hình -->
 
 
-                <div class="block ad" style="width:100%;overflow:hidden;">
-                    <?=showAds('home_below_phimbo');?>
-                </div>
-                <div class="block ad" style="width:100%;overflow:hidden;">
-                    <?=showAds('movie_sapchieu_below');?>
-                </div>
-                <div class="block ad" style="width:100%;overflow:hidden;"><?=showAds("home_above_comingsoon");?></div>
+                
+                
+                
 
 
                 <!--.block-->
@@ -290,7 +301,7 @@
                 </div>
                 <div class="block chatting">
                     <div class="widget-title">
-						<span class="tabs"><div class="tab active" data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/ tán gẫu</a></div></div>
+						<span class="tabs"><div class="tab active" data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/Tán gẫu</a></div></div>
 							<div class="tab" data-name="request_post" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Gửi yêu cầu</a></div></div>
 								 </span>
                     </div>
