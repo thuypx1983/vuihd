@@ -418,7 +418,7 @@ function showEpisodeDownload($filmId){
     elseif(strpos($episode_url , 'phim.megabox.vn') !== false){
         $episodeLink = "This episode does not support download!";
     }else{
-        $episodeLink = '<a href="'.WEB_URL.'/cartoon/'.$filmSLUG.'-'.replace($filmId).'/download-'.$r['episode_id'].'.html?download='.NOW.$_SESSION['captcha'].'" target="_blank"><i></i>&nbsp;Download Full</a>';
+        $episodeLink = '<a href="'.WEB_URL.'/phim/'.$filmSLUG.'-'.replace($filmId).'/download-'.$r['episode_id'].'.html?download='.NOW.$_SESSION['captcha'].'" target="_blank"><i></i>&nbsp;Download Full</a>';
     }
 	 	
 		$sv[$episode_type] .= '<tr><td>'.ServerNAME($episode_type).'</td><td>Episode '.$episode_name.'</td><td>'.$episodeLink.'</td> <td>'.un_htmlchars($r['episode_message']).'</td> </tr>';
