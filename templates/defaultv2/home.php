@@ -339,7 +339,7 @@
                         <div class="content hidden" data-name="film-interested-hoat-hinh">
                             <div class="list-film-simple">
 
-                                <?=ShowFilm("WHERE film_cat LIKE \"%,5,%\"'","ORDER BY film_viewed_w",10,'showfilm_right_home','phimhoathinh_hotw');?>
+                                <?=ShowFilm("WHERE film_cat LIKE '%,5,%'","ORDER BY film_viewed_w",10,'showfilm_right_home','phimhoathinh_hotw');?>
 
                             </div>
                         </div>
