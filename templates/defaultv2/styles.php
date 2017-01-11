@@ -1,4 +1,4 @@
- <meta property="fb:app_id" content="<?=$cf_fanpageid;?>"> 
+ <meta property="fb:app_id" content="220529061684267">
  <meta property="fb:admins" content="<?=$cf_admin_id;?>" />
  <meta property="og:updated_time" content="<?=NOW;?>" />
  <meta property="og:site_name" content="VuiHD.com" />
