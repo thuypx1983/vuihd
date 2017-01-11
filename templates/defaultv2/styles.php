@@ -51,3 +51,12 @@ s.src="http://widgets.amung.us/classic.js";
 document.getElementsByTagName("head")[0].appendChild(s);
 })();</script></div>
 <?=showAds("ads_popup_header");?>
+ <!-- disable login -->
+ <style type="text/css">
+    #signing{
+        display: none;
+    }
+     .block.chatting{
+         display: none;
+     }
+ </style>
