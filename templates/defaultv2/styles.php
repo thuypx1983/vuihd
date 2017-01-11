@@ -2,7 +2,6 @@
 <meta property="fb:admins" content="<?=$cf_admin_id;?>" />
  <meta property="og:updated_time" content="<?=NOW;?>" />
  <meta property="og:site_name" content="vuihd.com" />
- <meta property="og:type" content="website"/>
  <meta name="author" content="vuihd.com">
  <base href="<?=$web_link;?>/">
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
