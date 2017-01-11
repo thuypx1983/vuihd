@@ -242,7 +242,7 @@ if ($mode == 'edit') {
 			$error_arr = array();
 			$error_arr = $form->checkForm($inp_arr);
 			if (!$error_arr) {
-				if(isset($_POST['password'])) 
+				if(isset($_POST['password']) AND $_POST['password']!="")
 				$password = md5(stripslashes($_POST['password']));
 				$sql = $form->createSQL(array('UPDATE',$tb_prefix.'user','user_id','us_id'),$inp_arr);
 				eval('$mysql->query("'.$sql.'");');
