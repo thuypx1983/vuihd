@@ -322,7 +322,7 @@
 
 
                     <div class="block-body">
-                        <div class="content" data-name="film-animate-le">
+                        <div class="content" data-name="film-interested-le">
                             <div class="list-film-simple">
                                 <?=ShowFilm("WHERE film_lb = 0","ORDER BY film_viewed_w",10,'showfilm_right_home','phimle_hotw');?>
 
