@@ -311,32 +311,32 @@
                     <div class="widget-title">
                         <h3 class="title">Phim hot tuần</h3>
                         <span class="tabs">
-                            <div class="tab active" data-name="lew" data-target=".block.interested .content"><div class="name"><a title="Phim lẻ" href="phim-le/">Phim lẻ</a></div>
+                            <div class="tab active" data-name="film-interested-le" data-target=".block.interested .content"><div class="name"><a title="Phim lẻ" href="phim-le/">Phim lẻ</a></div>
                             </div>
-                            <div class="tab" data-name="bow" data-target=".block.interested .content"><div class="name"><a title="Phim bộ" href="phim-bo/">Phim bộ</a></div>
+                            <div class="tab" data-name="film-interested-bo" data-target=".block.interested .content"><div class="name"><a title="Phim bộ" href="phim-bo/">Phim bộ</a></div>
                             </div>
-                            <div class="tab" data-name="bow" data-target=".block.interested .content"><div class="name"><a title="Phim hoạt hình" href="phim-hoat-hinh/">Phim hoạt hình</a></div>
+                            <div class="tab" data-name="film-interested-hoat-hinh" data-target=".block.interested .content"><div class="name"><a title="Phim hoạt hình" href="phim-hoat-hinh/">Phim hoạt hình</a></div>
                             </div>
                         </span>
                     </div>
 
 
                     <div class="block-body">
-                        <div class="content" data-name="lew">
+                        <div class="content" data-name="film-animate-le">
                             <div class="list-film-simple">
                                 <?=ShowFilm("WHERE film_lb = 0","ORDER BY film_viewed_w",10,'showfilm_right_home','phimle_hotw');?>
 
 
                             </div>
                         </div>
-                        <div class="content hidden" data-name="bow">
+                        <div class="content hidden" data-name="film-interested-bo">
                             <div class="list-film-simple">
 
                                 <?=ShowFilm("WHERE film_lb IN (1,2)","ORDER BY film_viewed_w",10,'showfilm_right_home','phimbo_hotw');?>
 
                             </div>
                         </div>
-                        <div class="content hidden" data-name="bow">
+                        <div class="content hidden" data-name="film-interested-hoat-hinh">
                             <div class="list-film-simple">
 
                                 <?=ShowFilm("WHERE film_cat LIKE \"%,5,%\"'","ORDER BY film_viewed_w",10,'showfilm_right_home','phimhoathinh_hotw');?>
