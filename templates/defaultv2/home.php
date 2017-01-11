@@ -315,7 +315,7 @@
                             </div>
                             <div class="tab" data-name="film-interested-bo" data-target=".block.interested .content"><div class="name"><a title="Phim bộ" href="phim-bo/">Phim bộ</a></div>
                             </div>
-                            <div class="tab" data-name="film-interested-hoat-hinh" data-target=".block.interested .content"><div class="name"><a title="Phim hoạt hình" href="/the-loai/hoat-hinh/">Phim hoạt hình</a></div>
+                            <div class="tab" data-name="film-interested-hoat-hinh" data-target=".block.interested .content"><div class="name"><a title="Phim hoạt hình" href="/the-loai/hoat-hinh/">Hoạt hình</a></div>
                             </div>
                         </span>
                     </div>
