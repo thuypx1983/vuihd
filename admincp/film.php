@@ -352,8 +352,14 @@ if($tt_ac) $t = ' / <font color="red">Phim này đang có <i>'.$tt_ac.'</i> ngư
 			        }elseif($server_img == 2) {
 				        $img = Picasa_Upload($img,1);	
 			        }elseif($server_img == 3){
-			         //   if($_FILES["phimimg"]['name']!=""){   $img	=	ipupload("phimimg","film",replace(get_ascii($name_real))); }elseif($img){ $img = uploadurl($img,replace(get_ascii($name_real)),'film'); }else{ $img = "http://www.phimle.tv/images/ava.jpg";	}	
-					 $img = "http://www.phimle.tv/images/ava.jpg";
+						if($_FILES["phimimg"]['name']!=""){
+							$img	=	ipupload("phimimg","film",replace(get_ascii($name_real)));
+						}elseif($img){
+							$img = uploadurl($img,replace(get_ascii($name_real)),'film');
+						}else{
+							$img = WEB_URL.".statics/defaultv2/images/noimg.jpg";
+						}
+					 //$img = WEB_URL."/images/ava.jpg";
 			        }elseif($server_img == 4){
 					     $img = Imgur_Upload($img,1);	
 					}
@@ -362,8 +368,13 @@ if($tt_ac) $t = ' / <font color="red">Phim này đang có <i>'.$tt_ac.'</i> ngư
 			        }elseif($server_imgbn == 2) {
 			            $imgbn = Picasa_Upload($imgbn,2);
 					}elseif($server_imgbn == 3){
-			        //    if($_FILES["phimimgbn"]['name']!=""){  // $imgbn	=	ipupload("phimimgbn","info",replace(get_ascii($name_real)));  }elseif($imgbn){//  $imgbn = uploadurl($imgbn,replace(get_ascii($name_real)),'info'); }else{  $imgbn = "http://www.phimle.tv/players/no-banner.jpg";	}	
-					 $imgbn = "http://www.phimle.tv/players/no-banner.jpg";	
+						if($_FILES["phimimgbn"]['name']!=""){
+							$imgbn	=	ipupload("phimimgbn","info",replace(get_ascii($name_real)));
+						}elseif($imgbn){
+							$imgbn = uploadurl($imgbn,replace(get_ascii($name_real)),'info');
+						}else{
+							$imgbn = WEB_URL."/players/no-banner.jpg";	}
+
 			        }elseif($server_imgbn == 4){
 					    $imgbn = Imgur_Upload($imgbn,2);	
 					}
@@ -372,8 +383,13 @@ if($tt_ac) $t = ' / <font color="red">Phim này đang có <i>'.$tt_ac.'</i> ngư
 			        }elseif($server_imgkd == 2) {
 			            $imgkinhdien = Picasa_Upload($imgkinhdien,2);
 					}elseif($server_imgkd == 3){
-			           // if($_FILES["phimimgkinhdien"]['name']!=""){  // $imgkinhdien	=	ipupload("phimimgkinhdien","info",replace(get_ascii($name_real)));  }elseif($imgkinhdien){ // $imgkinhdien = uploadurl($imgkinhdien,replace(get_ascii($name_real)),'info'); }else{ $imgkinhdien = "http://www.phimle.tv/players/no-banner.jpg";	}	
-					   $imgkinhdien = "http://www.phimle.tv/players/no-banner.jpg";	
+			            if($_FILES["phimimgkinhdien"]['name']!=""){
+			            	$imgkinhdien	=	ipupload("phimimgkinhdien","phimimgkinhdien",replace(get_ascii($name_real)));
+			            }elseif($imgkinhdien){
+			            	$imgkinhdien = uploadurl($imgkinhdien,replace(get_ascii($name_real)),'info');
+			            }else{
+			            	$imgkinhdien = WEB_URL."/players/no-banner.jpg";
+			            }
 			        }elseif($server_imgkd == 4){
 					    $imgkinhdien = Imgur_Upload($imgkinhdien,2);	
 					}
