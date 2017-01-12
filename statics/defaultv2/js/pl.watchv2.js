@@ -556,7 +556,7 @@ jQuery(document)['ready'](function (t) {
             resizePlayer = true;
             //edit by thuypx
             var offset = jQuery('.block.fblikepl').offset();
-            var sidebarTopMargin =  offset.top - jQuery('.block.fblikepl').outerHeight( true ) - 250;
+            var sidebarTopMargin =  offset.top - jQuery('.block.fblikepl').outerHeight( true ) - 240;
 
             jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
                 marginTop: sidebarTopMargin
