@@ -4294,10 +4294,20 @@ custom style by thuypx
     .block.fanpage{
         height: 250px;
     }
+    .movie-kinhdien .slide .slide-thumb {
+        width: 50%;
+    }
 }
 .block.media .block-body .controls .item.toggle-size{
     display: none;
 }
-.movie-kinhdien .slide .slide-thumb {
-    width: 50%;
+@media (max-width:640px){
+
+    .movie-kinhdien .slide .slide-thumb {
+        width: 100%;
+
+    }
+    .movie-kinhdien .slide .slide-thumb li.slick-slide{
+        display: inline-block;
+    }
 }
