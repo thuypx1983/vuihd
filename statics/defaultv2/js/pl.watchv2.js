@@ -540,13 +540,8 @@ jQuery(document)['ready'](function (t) {
                 'height': Math.ceil(newWidth / 16 * 9 - docHeight)
             };
 
-            //edit by thuypx
-            var offset = jQuery('.block.servers').offset();
-            var sidebarTopMargin =  offset.top - jQuery('.block.servers').outerHeight( true ) - 273;
 
-            jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
-                marginTop: sidebarTopMargin
-            });
+
             jQuery('.block.media')['animate']({
                 "width": newWidth
             });
@@ -558,7 +553,16 @@ jQuery(document)['ready'](function (t) {
                 scrollTop: $('.block #abd_mv')['offset']()['top']
             }, 1000);
             $('div.item.toggle-size.right.hidden-sm.hidden-xs span.wrap span')['html'](resizePlayeron);
-            resizePlayer = true
+            resizePlayer = true;
+            //edit by thuypx
+            var offset = jQuery('.block.fblikepl').offset();
+            var sidebarTopMargin =  offset.top - jQuery('.block.fblikepl').outerHeight( true ) - 250;
+
+            jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
+                marginTop: sidebarTopMargin
+            });
+
+
         } else {
             jQuery('.sidebar.col-lg-4.col-md-4')['animate']({
                 marginTop: 0
