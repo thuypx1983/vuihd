@@ -390,7 +390,8 @@ if (window['jQuery']) {
             id = parseInt(id);
             var EpisodeName = $('div.server a[id=' + id + ']')['attr']('title');
             document['title'] = oldtitle['replace'](tap, EpisodeName);
-            $('span.status')['html'](EpisodeName);
+            //comment by thuypx@outlook.com
+            //$('span.status')['html'](EpisodeName);
             $('div.server a')['removeClass']('active');
             $('div.server a[id=' + id + ']')['addClass']('active');
             if (link != null && link != undefined && link !== '') {
