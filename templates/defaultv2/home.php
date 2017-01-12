@@ -99,6 +99,10 @@
                                     <div class="name"><a title="Trung Quốc" href="/phim-bo/cn/">Trung Quốc</a>
                                     </div>
                                 </div>
+								<div class="tab" data-name="film-hong-kong" data-target=".block.film-bo .content">
+                                    <div class="name"><a title="Hồng Kông" href="/phim-bo/hk/">Hồng Kông</a>
+                                    </div>
+                                </div>
                                 <div class="tab" data-name="film-my" data-target=".block.film-bo .content">
                                     <div class="name">
                                         <a title="Mỹ" href="/phim-bo/us/">Mỹ</a>
@@ -107,6 +111,11 @@
 								<div class="tab" data-name="film-nhat" data-target=".block.film-bo .content">
                                     <div class="name">
                                         <a title="Nhật" href="/phim-bo/jp/">Nhật</a>
+                                    </div>
+                                </div>
+								<div class="tab" data-name="film-thai" data-target=".block.film-bo .content">
+                                    <div class="name">
+                                        <a title="Thái" href="/phim-bo/th/">Thái</a>
                                     </div>
                                 </div>
                     </div>
@@ -130,6 +139,12 @@
                             </div>
                             <div class="more"> <a href="<?=$web_link;?>/phim-bo/cn/" title="Phim Trung Quốc">Phim Bộ Trung Quốc</a> </div>
                         </div>
+						<div class="content hidden" data-name="film-hong-kong">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat NOT LIKE "%,5,%" AND film_country LIKE "%,5,%"','ORDER BY film_time_update',16,'showfilm_template','cache_hongkong');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/hk/" title="Phim Hồng Kông">Phim Bộ Hồng Kông</a> </div>
+                        </div>
                         <div class="content hidden" data-name="film-my">
                             <div class="list-film row">
                                 <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat NOT LIKE "%,5,%" AND film_country LIKE "%,7,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimmy');?>
@@ -141,6 +156,12 @@
                                 <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat NOT LIKE "%,5,%" AND film_country LIKE "%,6,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimnhat');?>
                             </div>
                             <div class="more"> <a href="<?=$web_link;?>/phim-bo/jp/" title="Phim Nhật">Phim Bộ Nhật</a> </div>
+                        </div>
+						<div class="content hidden" data-name="film-thai">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE film_lb in (1,2) AND film_cat NOT LIKE "%,5,%" AND film_country LIKE "%,8,%"','ORDER BY film_time_update',16,'showfilm_template','cache_phimthai');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-bo/th/" title="Phim Thái">Phim Bộ Thái</a> </div>
                         </div>
 
                     </div>

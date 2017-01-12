@@ -286,20 +286,20 @@ function replace_tag_a($txt){
     }else return $txt;
 }
 function textlink_site($info){
-       	$info = str_replace("hành động",'<a title="Phim hành động" href="http://phim.socghe.com/the-loai/hanh-dong/">hành động</a>',$info);
-	       $info = str_replace("tình cảm",'<a title="Phim tình cảm" href="http://phim.socghe.com/the-loai/tinh-cam/">tình cảm</a>',$info);
-	       $info = str_replace("cấp 3",'<a title="Phim cấp 3" href="http://phim.socghe.com/tag/phim-cap-3/">cấp 3</a>',$info);
-	$info = str_replace("18 +",'<a title="Phim 18 +" href="http://phim.socghe.com/tag/phim-18/">18 +</a>',$info);
-	$info = str_replace("18+",'<a title="Phim 18+" href="http://phim.socghe.com/tag/phim-18/">18+</a>',$info);
-	$info = str_replace("kinh di",'<a title="Phim kinh di" href="http://phim.socghe.com/the-loai/kinh-di/">kinh di</a>',$info);
-	       $info = str_replace("võ thuật",'<a title="Phim võ thuật" href="http://phim.socghe.com/the-loai/vo-thuat/">võ thuật</a>',$info);
-	$info = str_replace("tâm lý",'<a title="Phim tâm lý" href="http://phim.socghe.com/the-loai/tam-ly/">tâm lý</a>',$info);
-	       $info = str_replace("hài hước",'<a title="Phim hài hước" href="http://phim.socghe.com/the-loai/hai-huoc/">hài hước</a>',$info);
-	       $info = str_replace("hoạt hình",'<a title="Phim hoạt hình" href="http://phim.socghe.com/the-loai/hoat-hinh/">hoạt hình</a>',$info);
-	       $info = str_replace("viễn tưởng",'<a title="Phim viễn tưởng" href="http://phim.socghe.com/the-loai/vien-tuong/">viễn tưởng</a>',$info);
-	       $info = str_replace("hình sự",'<a title="Phim hình sự" href="http://phim.socghe.com/the-loai/hinh-su/">hình sự</a>',$info);
+       	$info = str_replace("hành động",'<a title="Phim hành động" href="http://vuihd.com/the-loai/hanh-dong/">hành động</a>',$info);
+	       $info = str_replace("tình cảm",'<a title="Phim tình cảm" href="http://vuihd.com/the-loai/tinh-cam/">tình cảm</a>',$info);
+	       $info = str_replace("cấp 3",'<a title="Phim cấp 3" href="http://vuihd.com/tag/phim-cap-3/">cấp 3</a>',$info);
+	$info = str_replace("18 +",'<a title="Phim 18 +" href="http://vuihd.com/tag/phim-18/">18 +</a>',$info);
+	$info = str_replace("18+",'<a title="Phim 18+" href="http://vuihd.com/tag/phim-18/">18+</a>',$info);
+	$info = str_replace("kinh di",'<a title="Phim kinh di" href="http://vuihd.com/the-loai/kinh-di/">kinh di</a>',$info);
+	       $info = str_replace("võ thuật",'<a title="Phim võ thuật" href="http://vuihd.com/the-loai/vo-thuat/">võ thuật</a>',$info);
+	$info = str_replace("tâm lý",'<a title="Phim tâm lý" href="http://vuihd.com/the-loai/tam-ly/">tâm lý</a>',$info);
+	       $info = str_replace("hài hước",'<a title="Phim hài hước" href="http://vuihd.com/the-loai/hai-huoc/">hài hước</a>',$info);
+	       $info = str_replace("hoạt hình",'<a title="Phim hoạt hình" href="http://vuihd.com/the-loai/hoat-hinh/">hoạt hình</a>',$info);
+	       $info = str_replace("viễn tưởng",'<a title="Phim viễn tưởng" href="http://vuihd.com/the-loai/vien-tuong/">viễn tưởng</a>',$info);
+	       $info = str_replace("hình sự",'<a title="Phim hình sự" href="http://vuihd.com/the-loai/hinh-su/">hình sự</a>',$info);
 	
-	$info = str_replace("xem phim",'<a title="Xem Phim" href="http://phim.socghe.com/">xem phim</a>',$info);
+	$info = str_replace("xem phim",'<a title="Xem Phim" href="http://vuihd.com/">xem phim</a>',$info);
        // $info = str_replace($text1,'<a title="'.$text1.'" href="'.$link.'">'.$text1.'</a>',$info);
 	return $info;
 }
