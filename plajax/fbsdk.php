@@ -21,13 +21,13 @@ if(!$isLogin){
         $href = explode("?tranfer=",URL_LOAD);
         $href = $href[1];
     }else{ 
-    $href = "http://www.phimle.tv";
+    $href = "http://vuihd.com";
     } 
     
     ######### Facebook API Configuration ##########
-    $appId = '547998618678011'; //Facebook App ID
-    $appSecret = 'd1b21ba7653df567b98561d9066f750c'; // Facebook App Secret
-    $homeurl = "http://www.phimle.tv/account/login/facebook/";  //return to home
+    $appId = '220529061684267'; //Facebook App ID
+    $appSecret = 'b2304c6d0ce042fe9719577cd4b6f45c'; // Facebook App Secret
+    $homeurl = "http://vuihd.com/account/login/facebook/";  //return to home
     $fbPermissions = 'email';  //Required facebook permissions
     //Call Facebook API
     $facebook = new Facebook(array('appId'  => $appId,'secret' => $appSecret));
