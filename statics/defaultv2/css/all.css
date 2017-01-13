@@ -4313,6 +4313,10 @@ custom style by thuypx
 }
 
 
+.block.interested.video-show .widget-title .title{
+    display: block;
+    float: none;
+}
 .video-show .list-film-simple .item{padding:8px;overflow:hidden;background:#1A1A1A;}
 .video-show .list-film-simple .item:nth-child(2n){background:#141414;border-bottom:1px solid #202020;}
 .video-show .list-film-simple .item .st{float:left;width:35px;padding-right:8px;height:40px;line-height:40px;text-align:center;display:block;font-weight:700;color:#45CCFF;font-size:14px;}
