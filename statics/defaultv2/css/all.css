@@ -4322,3 +4322,8 @@ custom style by thuypx
 .video-show .list-film-simple .item .st{float:left;width:35px;padding-right:8px;height:40px;line-height:40px;text-align:center;display:block;font-weight:700;color:#45CCFF;font-size:14px;}
 .video-show .list-film-simple .item .thumb{float:left;}
 .video-show .list-film-simple .item .thumb img{width:40px;height:40px;display:block;overflow:hidden;background:#ccc;border:1px solid #000;}
+.video-show .list-film-simple .item .info .name,
+.video-show .list-film-simple .item .info dfn{display:block;}
+.video-show .list-film-simple .item .info .name{color:#FFFFFF;font-size:12px;}
+.video-show .list-film-simple .item .info dfn{color:#1a2b44;font-style:normal;}
+.video-show .list-film-simple .item .info dfn.status{font-weight:700;color:#8DC63F;}
