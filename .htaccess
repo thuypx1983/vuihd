@@ -31,7 +31,7 @@ RewriteRule ^account/password/$ ./?models=/home-password/ [L]
 RewriteRule ^account/password$ ./?models=/home-password/ [L]
 
 RewriteRule ^account/login/facebook/$ plajax/fbsdk.php [L]
-RewriteRule ^account/login/facebook$ plajax/fbsdk.php [L]
+#RewriteRule ^account/login/facebook$ plajax/fbsdk.php [L]
 
 RewriteRule ^account/login/$ ./?models=/home-login/ [L]
 RewriteRule ^account/login$ ./?models=/home-login/ [L]
