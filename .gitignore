@@ -1,2 +1,5 @@
 .idea
+data/film/*
+data/info/*
+data/phimimgkinhdien/*
 data/cache_phimle/*
