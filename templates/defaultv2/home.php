@@ -194,6 +194,11 @@
                                         <a title="Phim lẻ võ thuật" href="/phim-le/vo-thuat/">Võ Thuật</a>
                                     </div>
                                 </div>
+								<div class="tab" data-name="adult" data-target=".block.film-le .content">
+                                    <div class="name">
+                                        <a title="Phim 18+" href="/phim-le/adult/">Phim 18+</a>
+                                    </div>
+                                </div>
                     </div>
 
                     <div class="block-body">
@@ -227,6 +232,12 @@
                                 <?=ShowFilm('WHERE  film_lb =0 AND film_cat NOT LIKE "%,5,%" AND film_cat  LIKE "%,6,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimvothuat');?>
                             </div>
                             <div class="more"> <a href="<?=$web_link;?>/phim-le/vo-thuat/" title="Phim võ thuật">Phim Võ Thuật</a> </div>
+                        </div>
+						<div class="content hidden" data-name="adult">
+                            <div class="list-film row">
+                                <?=ShowFilm('WHERE  film_lb =0 AND film_cat NOT LIKE "%,5,%" AND film_cat  LIKE "%,119,%"','ORDER BY film_time_update',12,'showfilm_template','cache_phimadult');?>
+                            </div>
+                            <div class="more"> <a href="<?=$web_link;?>/phim-le/adult/" title="Phim 18+">Phim 18+</a> </div>
                         </div>
                     </div>
                 </div>
