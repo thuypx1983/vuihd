@@ -4311,3 +4311,10 @@ custom style by thuypx
         display: inline-block;
     }
 }
+
+
+.video-show .list-film-simple .item{padding:8px;overflow:hidden;background:#1A1A1A;}
+.video-show .list-film-simple .item:nth-child(2n){background:#141414;border-bottom:1px solid #202020;}
+.video-show .list-film-simple .item .st{float:left;width:35px;padding-right:8px;height:40px;line-height:40px;text-align:center;display:block;font-weight:700;color:#45CCFF;font-size:14px;}
+.video-show .list-film-simple .item .thumb{float:left;}
+.video-show .list-film-simple .item .thumb img{width:40px;height:40px;display:block;overflow:hidden;background:#ccc;border:1px solid #000;}

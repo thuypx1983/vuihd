@@ -175,7 +175,7 @@ echo ShowVideo("WHERE video_cat LIKE '%".$videoCAT."%' AND video_id <> ".$videoI
                         </div> 
           </div>
 
-        <div class="block interested">
+        <div class="block interested video-show">
             <div class="widget-title">
                 <h3 class="title">Phim hot tuần</h3>
                         <span class="tabs">
