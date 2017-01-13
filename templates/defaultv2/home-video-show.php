@@ -174,6 +174,46 @@ echo ShowVideo("WHERE video_cat LIKE '%".$videoCAT."%' AND video_id <> ".$videoI
 
                         </div> 
           </div>
+
+        <div class="block interested">
+            <div class="widget-title">
+                <h3 class="title">Phim hot tuần</h3>
+                        <span class="tabs">
+                            <div class="tab active" data-name="film-interested-le" data-target=".block.interested .content"><div class="name"><a title="Phim lẻ" href="phim-le/">Phim lẻ</a></div>
+                            </div>
+                            <div class="tab" data-name="film-interested-bo" data-target=".block.interested .content"><div class="name"><a title="Phim bộ" href="phim-bo/">Phim bộ</a></div>
+                            </div>
+                            <div class="tab" data-name="film-interested-hoat-hinh" data-target=".block.interested .content"><div class="name"><a title="Phim hoạt hình" href="/the-loai/hoat-hinh/">Hoạt hình</a></div>
+                            </div>
+                        </span>
+            </div>
+
+
+            <div class="block-body">
+                <div class="content" data-name="film-interested-le">
+                    <div class="list-film-simple">
+                        <?=ShowFilm("WHERE film_lb = 0","ORDER BY film_viewed_w",10,'showfilm_right_home','phimle_hotw');?>
+
+
+                    </div>
+                </div>
+                <div class="content hidden" data-name="film-interested-bo">
+                    <div class="list-film-simple">
+
+                        <?=ShowFilm("WHERE film_lb IN (1,2)","ORDER BY film_viewed_w",10,'showfilm_right_home','phimbo_hotw');?>
+
+                    </div>
+                </div>
+                <div class="content hidden" data-name="film-interested-hoat-hinh">
+                    <div class="list-film-simple">
+
+                        <?=ShowFilm("WHERE film_cat LIKE '%,5,%'","ORDER BY film_viewed_w",10,'showfilm_right_home','phimhoathinh_hotw');?>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
 		<div class="medium-6 large-12 columns pop-tab">
 			<ul class="tabs" data-tab role="tablist">
 			  <li class="tab-title">
@@ -322,11 +362,14 @@ $catNAME = $row['cat_name'];
 			<a href="<?=$web_link;?>/videos/tag/soc" title="Đi đến trang Soc"><h5>Soc</h5></a>
 	</div>
 	</div>
-	<div class="row text-center show-for-large-up margin-left-5px bottom-margin-10px">			<div class="ad-box-300">
-						
+	<div class="row text-center show-for-large-up margin-left-5px bottom-margin-10px">
+        <div class="ad-box-300">
+
 						</div>
 		</div>
-</div></main>   </div> </div> </div> 
+</div>
+</main>
+     </div> </div> </div>
 <script src="<?=STATIC_URL;?>/defaultv2/js/pdnghia.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://VuiHD.com/players/jwplayer.js"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
