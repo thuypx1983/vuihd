@@ -53,10 +53,10 @@ document.getElementsByTagName("head")[0].appendChild(s);
 <?=showAds("ads_popup_header");?>
  <!-- disable login -->
  <style type="text/css">
-    #signing{
+   /* #signing{
         display: none;
     }
      .block.chatting{
          display: none;
-     }
+     }*/
  </style>
