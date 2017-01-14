@@ -38,8 +38,7 @@ if(!$isLogin){
             $_SESSION["user_href"] = $href;
    
 	    // echo '<a href="'.$loginUrl.'"><img src="images/fb_login.png"></a>';
-        ob_end_clean();
-        header("Status: 301 Moved Permanently", true, 301);
+        die('4');
         header("Location: ".$loginUrl);
     }else{
 	    $href = $_SESSION["user_href"];
@@ -68,9 +67,7 @@ if(!$isLogin){
 		        
 				$mysql->query("UPDATE ".DATABASE_FX."user SET user_fb_oauth_uid = '".$oauth_uid."',user_time_last = '".NOW."' WHERE user_email = '".$email."'");
                 setcookie('user_id', $id, time() + (86400 * 30 * 12), "/");
-            ob_end_clean();
-            header("Status: 301 Moved Permanently", true, 301);
-            die("kkk");
+            die('3');
 			    unset($_SESSION["user_href"]);
 				header("Location: ".$href);
 			
@@ -88,8 +85,7 @@ if(!$isLogin){
 		        
 				$mysql->query("UPDATE ".DATABASE_FX."user SET user_fb_oauth_uid = '".$oauth_uid."',user_time_last = '".NOW."' WHERE user_email = '".$email."'");
                 setcookie('user_id', $id, time() + (86400 * 30 * 12), "/");
-            ob_end_clean();
-            header("Status: 301 Moved Permanently", true, 301);
+            die('2');
 			    unset($_SESSION["user_href"]);
 				header("Location: ".$href);
         }else{
@@ -105,8 +101,7 @@ if(!$isLogin){
                 $_SESSION["user_group"] = 1;
 		        setcookie('user_id', $row['user_id'], time() + (86400 * 30 * 12), "/");
 				unset($_SESSION["user_href"]);
-            ob_end_clean();
-            header("Status: 301 Moved Permanently", true, 301);
+                die('1');
 				header("Location: ".$href);
 		}
 	
