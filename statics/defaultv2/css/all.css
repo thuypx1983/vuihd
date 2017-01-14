@@ -4309,8 +4309,13 @@ custom style by thuypx
     .movie-kinhdien .slide .slide-thumb li.slick-slide{
         display: inline-block;
     }
+    #signing{
+        margin-bottom: 20px;
+    }
 }
-
+#signing .signin{
+    text-align: right;
+}
 
 .block.interested.video-show .widget-title .title{
     display: block;
