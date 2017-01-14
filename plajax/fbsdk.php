@@ -66,7 +66,7 @@ if(!$isLogin){
 		        
 				$mysql->query("UPDATE ".DATABASE_FX."user SET user_fb_oauth_uid = '".$oauth_uid."',user_time_last = '".NOW."' WHERE user_email = '".$email."'");
                 setcookie('user_id', $id, time() + (86400 * 30 * 12), "/");
-            die('what the hell');
+            #die('what the hell');
 			    unset($_SESSION["user_href"]);
 				header("Location: ".$href);
 			
