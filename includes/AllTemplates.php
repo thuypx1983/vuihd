@@ -321,7 +321,7 @@ function Logged(){
                         <button type="button" class="btn btn btn-bdown dropdown-toggle btn-small" data-toggle="dropdown"><span class="caret"></span></button>
                             <ul class="dropdown-menu" role="menu">
                                  <li><a href="'.WEB_URL.'/account/info">Thông tin tài khoản</a></li>
-                                 <li><a href="'.WEB_URL.'/account/password">Đổi mật khẩu</a></li>
+                                 <!--<li><a href="'.WEB_URL.'/account/password">Đổi mật khẩu</a></li>-->
                                  <li class="divider"></li>
                                  <li><a class="fxlink-logout" href="javascript:;" onclick="Logout();">Thoát</a></li>
                            </ul>
