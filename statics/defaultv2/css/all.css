@@ -3569,16 +3569,15 @@ a:hover{text-decoration:none;outline:0;}
 #header #signing .signup,
 #header #signing .signup:after,
 .block .block-title a{-webkit-transition:all .2s ease-in-out 0s;-o-transition:all .2s ease-in-out 0s;}
-#header #signing .signin:before,
-#header #signing .signup:before{position:absolute;content:"";height:2px;width:14px;}
+/*#header #signing .signin:before,
+#header #signing .signup:before{position:absolute;content:"";height:2px;width:14px;}*/
 #header #signing .signin:after,
 #header #signing .signup:after{transition:all .2s ease-in-out 0s;position:absolute;content:"";top:0;z-index:100;width:0;height:0;border-style:solid;}
 #header #signing .signup{margin-right:0;background-color:#1a2b44;color:#fff;}
 #header #signing .signup:before{top:-2px;right:-7px;}
 #header #signing .signup:after{right:-5px;border-width:36px 10px 0 0;border-color:#1a2b44 transparent transparent;}
 #header #signing .signup:hover{background-color:#253e62;}
-#header #signing .signup:hover:after{border-color:#253e62 transparent transparent;}
-#header #signing .signin{margin-left:0;background-color:#45ccff;color:#273855;}
+#header #signing .signin{margin-left:0;color:#273855;float:right;}
 #header #signing .signin:before{bottom:-2px;left:-7px;}
 .block.info-film .col2 .buttons .watch a:after,
 .mbtn span:after{bottom:-6px;}
