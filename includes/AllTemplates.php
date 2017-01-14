@@ -340,7 +340,11 @@ function Logged(){
 			</div>';
 
         //thuypx added
-        $html = '<a href="/account/login/facebook/" rel="nofollow" class="signin"><img src="http://cdn.traileraddict.com/img/facebooklogin-bar.png"></a> </div>';
+        $html = '<div id="signing">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0px;">
+	<a href="/account/login/facebook/" rel="nofollow" class="signin"><img src="http://cdn.traileraddict.com/img/facebooklogin-bar.png"></a>
+	 </div>
+';
 	}
 
 	return $html;
