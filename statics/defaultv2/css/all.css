@@ -3580,10 +3580,10 @@ a:hover{text-decoration:none;outline:0;}
 #header #signing .signin{margin-left:0;color:#273855;float:right;}
 #header #signing .signin:before{bottom:-2px;left:-7px;}
 .block.info-film .col2 .buttons .watch a:after,
-.mbtn span:after{bottom:-6px;}
-/*#header #signing .signin:after{left:-5px;border-width:0 0 36px 10px;border-color:transparent transparent #45ccff;}*/
+.mbtn span:after{bottom:-6px;}/*
+#header #signing .signin:after{left:-5px;border-width:0 0 36px 10px;border-color:transparent transparent #45ccff;}
 #header #signing .signin:hover{background-color:#00a9e8;}
-#header #signing .signin:hover:after{border-color:transparent transparent #00a9e8;}
+#header #signing .signin:hover:after{border-color:transparent transparent #00a9e8;}*/
 #menu{background-color:#fff;}
 #menu ul{list-style:none;margin:0;padding:0;}
 #menu ul li.item{float:left;position:relative;height:60px;}
