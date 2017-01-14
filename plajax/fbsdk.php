@@ -102,6 +102,9 @@ if(!$isLogin){
 		}
 	
 }
-}else header('Location: '.$web_link.'/account/info'); // end check login
+}else {
+    header("Status: 301 Moved Permanently", false, 301);
+    header('Location: '.$web_link.'/account/info'); // end check login
+}
 
 ?>
