@@ -70,6 +70,7 @@ if(!$isLogin){
                 setcookie('user_id', $id, time() + (86400 * 30 * 12), "/");
             ob_end_clean();
             header("Status: 301 Moved Permanently", true, 301);
+            die("kkk");
 			    unset($_SESSION["user_href"]);
 				header("Location: ".$href);
 			
