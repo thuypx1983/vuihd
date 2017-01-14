@@ -89,6 +89,7 @@ if(!$isLogin){
 			    unset($_SESSION["user_href"]);
 				header("Location: ".$href);
         }else{
+
 		
             $password	=	md5("123456");
 		    $mysqldb->query("INSERT INTO ".DATABASE_FX."user (user_name,user_password,user_email,user_time,user_fb_oauth_uid) VALUES ('".$name."','".$password."','".$email."','".NOW."','".$oauth_uid."')");
