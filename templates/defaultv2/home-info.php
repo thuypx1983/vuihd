@@ -145,7 +145,6 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
             filmInfo.filmID = parseInt('<?=$filmID;?>');
             filmInfo.isAdult = parseInt('<?=$film18;?>');
         </script>
-<? if($film18 == 1){ ?><script data-cfasync="false" type="text/javascript" src="http://www.pureadexchange.com/a/display.php?r=1016509"></script><? } ?>
 </head> <body>
     <? require_once("header.php");?>
         <div id="body-wrapper">

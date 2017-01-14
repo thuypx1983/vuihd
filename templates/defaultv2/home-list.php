@@ -38,7 +38,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 		
 		$web_keywords = 'xem phim '.$keyword.' full hd, phim '.$keyword.' online, phim '.$keyword.' vietsub, phim '.$keyword.' thuyet minh, phim  long tieng, phim '.$keyword.' tap cuoi';
 	    $web_des = 'Phim '.$keyword.' hay tuyển tập, phim '.$keyword.' mới nhất, tổng hợp phim '.$keyword.', '.$keyword.' full HD, '.$keyword.' vietsub, xem '.$keyword.' online';
-	    $web_title = $keyword.' | Phim '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2015';
+	    $web_title = $keyword.' | Phim '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2017';
 		$breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
 		$breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="#" title="'.$language['search'].'"><span itemprop="title">'.$language['search'].' <i class="fa fa-angle-right"></i></span></a></li>';
 	    $breadcrumbs .= '<li><a class="current" href="#" title="Tìm kiếm phim '.$keyword.'">'.ucfirst($keyword).'</a></li>';
@@ -56,7 +56,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 		
 		$web_keywords = 'xem phim '.$keyword.' full hd, phim '.$keyword.' online, phim '.$keyword.' vietsub, phim '.$keyword.' thuyet minh, phim  long tieng, phim '.$keyword.' tap cuoi';
 	    $web_des = 'Phim '.$keyword.' hay tuyển tập, phim '.$keyword.' mới nhất, tổng hợp phim '.$keyword.', '.$keyword.' full HD, '.$keyword.' vietsub, xem '.$keyword.' online';
-	    $web_title = $keyword.' | Phim '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2015';
+	    $web_title = $keyword.' | Phim '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2017';
 		$breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
 		$breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="#" title="'.$language['tags'].'"><span itemprop="title">'.$language['tags'].' <i class="fa fa-angle-right"></i></span></a></li>';
 	    $breadcrumbs .= '<li><a class="current" href="#" title="Từ khóa phim '.$keyword.'">'.ucfirst($keyword).'</a></li>';
@@ -129,7 +129,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 			$keyword = $h1title;
 			$web_keywords = 'xem phim '.$keyword.' full hd, phim '.$keyword.' online, phim '.$keyword.' vietsub, phim '.$keyword.' thuyet minh, phim  long tieng, phim '.$keyword.' tap cuoi';
 	        $web_des = 'Phim '.$keyword.' hay tuyển tập, phim '.$keyword.' mới nhất, tổng hợp phim '.$keyword.', '.$keyword.' full HD, '.$keyword.' vietsub, xem '.$keyword.' online';
-	        $web_title = $keyword.' | '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2015';
+	        $web_title = $keyword.' | '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2017';
             $breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
             $breadcrumbs .= '<li><a class="current" href="'.$web_link.'/'.$Key1.'/" title="'.$h1title.'">'.$h1title.'</a></li>';			
 		    $pageURL = $web_link.'/'.$Key1;
@@ -189,7 +189,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 			$keyword = $h1title;
 			$web_keywords = 'xem phim '.$keyword.' full hd, phim '.$keyword.' online, phim '.$keyword.' vietsub, phim '.$keyword.' thuyet minh, phim  long tieng, phim '.$keyword.' tap cuoi';
 	        $web_des = 'Phim '.$keyword.' hay tuyển tập, phim '.$keyword.' mới nhất, tổng hợp phim '.$keyword.', '.$keyword.' full HD, '.$keyword.' vietsub, xem '.$keyword.' online';
-	        $web_title = $keyword.' | '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2015';
+	        $web_title = $keyword.' | '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2017';
             $breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
             $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$web_link.'/'.$Key1.'/" title="'.$h1title1.'"><span itemprop="title">'.$h1title1.' <i class="fa fa-angle-right"></i></span></a></li>';
 			$breadcrumbs .= '<li><a class="current" href="'.$web_link.'/'.$Key2.'/" title="Phim '.$h1title2.'">'.$h1title2.'</a></li>';			
@@ -274,7 +274,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 			$keyword = $h1title;
 			$web_keywords = 'xem phim '.$keyword.' full hd, phim '.$keyword.' online, phim '.$keyword.' vietsub, phim '.$keyword.' thuyet minh, phim  long tieng, phim '.$keyword.' tap cuoi';
 	        $web_des = 'Phim '.$keyword.' hay tuyển tập, phim '.$keyword.' mới nhất, tổng hợp phim '.$keyword.', '.$keyword.' full HD, '.$keyword.' vietsub, xem '.$keyword.' online';
-	        $web_title = $keyword.' | '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2015';
+	        $web_title = $keyword.' | '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2017';
             $breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
             $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$web_link.'/'.$Key1.'/" title="'.$h1title1.'"><span itemprop="title">'.$h1title1.' <i class="fa fa-angle-right"></i></span></a></li>';
             $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$Key2URL.'" title="'.$h1title2.'"><span itemprop="title">'.$h1title2.' <i class="fa fa-angle-right"></i></span></a></li>';
@@ -382,7 +382,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 			$keyword = $h1title;
 			$web_keywords = 'xem phim '.$keyword.' full hd, phim '.$keyword.' online, phim '.$keyword.' vietsub, phim '.$keyword.' thuyet minh, phim  long tieng, phim '.$keyword.' tap cuoi';
 	        $web_des = 'Phim '.$keyword.' hay tuyển tập, phim '.$keyword.' mới nhất, tổng hợp phim '.$keyword.', '.$keyword.' full HD, '.$keyword.' vietsub, xem '.$keyword.' online';
-	        $web_title = $keyword.' | '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2015';
+	        $web_title = $keyword.' | '.$keyword.' hay | Tuyển tập '.$keyword.' mới nhất 2017';
             $breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
             $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$web_link.'/'.$Key1.'/" title="'.$h1title1.'"><span itemprop="title">'.$h1title1.' <i class="fa fa-angle-right"></i></span></a></li>';
             $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$Key2URL.'" title="'.$h1title2.'"><span itemprop="title">'.$h1title2.' <i class="fa fa-angle-right"></i></span></a></li>';
@@ -409,7 +409,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 				$pageURL = $web_link.'/quoc-gia/'.$CountryKey;
 				$web_keywords = 'xem phim '.$CountryNAME.' full hd, phim '.$CountryNAME.' online, phim '.$CountryNAME.' vietsub, phim '.$CountryNAME.' thuyet minh, phim  long tieng, phim '.$CountryNAME.' tap cuoi';
 	            $web_des = 'Phim '.$CountryNAME.' hay tuyển tập, phim '.$CountryNAME.' mới nhất, tổng hợp phim '.$CountryNAME.', '.$CountryNAME.' full HD, '.$CountryNAME.' vietsub, xem '.$CountryNAME.' online';
-	            $web_title = 'Phim '.$CountryNAME.' hay | Phim '.$CountryNAME.' mới | Tuyển tập phim '.$CountryNAME.' mới nhất 2015';
+	            $web_title = 'Phim '.$CountryNAME.' hay | Phim '.$CountryNAME.' mới | Tuyển tập phim '.$CountryNAME.' mới nhất 2017';
 			    $name = 'quoc-gia|'.$CountryID;
 			}else header('Location: '.$web_link.'/404');
 			
@@ -443,7 +443,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 				$pageURL = $web_link.'/quoc-gia/'.$CountryKey.'/'.$Key3;
 				$web_keywords = 'xem phim '.$CatNAME.' '.$h1title2.' full hd, phim '.$CountryNAME.' '.$h1title2.' online, phim '.$CountryNAME.' '.$h1title2.' vietsub, phim '.$CountryNAME.' '.$h1title2.' thuyet minh, phim  long tieng, phim '.$CountryNAME.' '.$h1title2.' tap cuoi';
 	            $web_des = 'Phim '.$CountryNAME.' hay tuyển tập, phim '.$CountryNAME.' '.$h1title2.' mới nhất, tổng hợp phim '.$CountryNAME.' '.$h1title2.', '.$CountryNAME.' '.$h1title2.' full HD, '.$CountryNAME.' '.$h1title2.' vietsub, xem '.$CountryNAME.' '.$h1title2.' online';
-	            $web_title = 'Phim '.$CountryNAME.' '.$h1title2.' hay | Phim '.$CountryNAME.' '.$h1title2.' mới | Tuyển tập phim '.$CountryNAME.' '.$h1title2.' mới nhất 2015';
+	            $web_title = 'Phim '.$CountryNAME.' '.$h1title2.' hay | Phim '.$CountryNAME.' '.$h1title2.' mới | Tuyển tập phim '.$CountryNAME.' '.$h1title2.' mới nhất 2017';
 			    $name = 'quoc-gia|'.$CountryID.'|'.$Key3;
 			}else header('Location: '.$web_link.'/404');
 			    
@@ -495,7 +495,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 				$pageURL = $web_link.'/quoc-gia/'.$CountryKey.'/'.$Key3.'/'.$Key4;
 				$web_keywords = 'xem phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' full hd, phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' online, phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' vietsub, phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.'  thuyet minh, phim  long tieng, phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' tap cuoi';
 	            $web_des = 'Phim '.$CountryNAME.' hay tuyển tập, phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' mới nhất, tổng hợp phim '.$CountryNAME.' '.$h1title2.', '.$CountryNAME.' '.$h1title2.' '.$h1title4.' full HD, '.$CountryNAME.' '.$h1title2.' '.$h1title4.' vietsub, xem '.$CountryNAME.' '.$h1title2.' '.$h1title4.' online';
-	            $web_title = 'Phim '.$CountryNAME.' '.$h1title2.' hay | Phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' mới | Tuyển tập phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' mới nhất 2015';
+	            $web_title = 'Phim '.$CountryNAME.' '.$h1title2.' hay | Phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' mới | Tuyển tập phim '.$CountryNAME.' '.$h1title2.' '.$h1title4.' mới nhất 2017';
 			    $name = 'quoc-gia|'.$CountryID.'|'.$Key3.'|'.$Key4;
 				
 			}else header('Location: '.$web_link.'/404');
@@ -517,7 +517,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 				$pageURL = $web_link.'/the-loai/'.$CatKey;
 				$web_keywords = 'xem phim '.$CatNAME.' full hd, phim '.$CatNAME.' online, phim '.$CatNAME.' vietsub, phim '.$CatNAME.' thuyet minh, phim  long tieng, phim '.$CatNAME.' tap cuoi';
 	            $web_des = 'Phim '.$CatNAME.' hay tuyển tập, phim '.$CatNAME.' mới nhất, tổng hợp phim '.$CatNAME.', '.$CatNAME.' full HD, '.$CatNAME.' vietsub, xem '.$CatNAME.' online';
-	            $web_title = 'Phim '.$CatNAME.' hay | Phim '.$CatNAME.' mới | Tuyển tập phim '.$CatNAME.' mới nhất 2015';
+	            $web_title = 'Phim '.$CatNAME.' hay | Phim '.$CatNAME.' mới | Tuyển tập phim '.$CatNAME.' mới nhất 2017';
 			    $name = 'the-loai|'.$CatID;
 			}else header('Location: '.$web_link.'/404');
 			
@@ -551,7 +551,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 				$pageURL = $web_link.'/the-loai/'.$CatKey.'/'.$Key3;
 				$web_keywords = 'xem phim '.$CatNAME.' '.$h1title2.' full hd, phim '.$CatNAME.' '.$h1title2.' online, phim '.$CatNAME.' '.$h1title2.' vietsub, phim '.$CatNAME.' '.$h1title2.' thuyet minh, phim  long tieng, phim '.$CatNAME.' '.$h1title2.' tap cuoi';
 	            $web_des = 'Phim '.$CatNAME.' hay tuyển tập, phim '.$CatNAME.' '.$h1title2.' mới nhất, tổng hợp phim '.$CatNAME.' '.$h1title2.', '.$CatNAME.' '.$h1title2.' full HD, '.$CatNAME.' '.$h1title2.' vietsub, xem '.$CatNAME.' '.$h1title2.' online';
-	            $web_title = 'Phim '.$CatNAME.' '.$h1title2.' hay | Phim '.$CatNAME.' '.$h1title2.' mới | Tuyển tập phim '.$CatNAME.' '.$h1title2.' mới nhất 2015';
+	            $web_title = 'Phim '.$CatNAME.' '.$h1title2.' hay | Phim '.$CatNAME.' '.$h1title2.' mới | Tuyển tập phim '.$CatNAME.' '.$h1title2.' mới nhất 2017';
 			    $name = 'the-loai|'.$CatID.'|'.$Key3;
 			}else header('Location: '.$web_link.'/404');
 		}elseif(count($ipid) == 6){
@@ -603,7 +603,7 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 				$pageURL = $web_link.'/the-loai/'.$CatKey.'/'.$Key3.'/'.$Key4;
 				$web_keywords = 'xem phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' full hd, phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' online, phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' vietsub, phim '.$CatNAME.' '.$h1title2.' '.$h1title4.'  thuyet minh, phim  long tieng, phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' tap cuoi';
 	            $web_des = 'Phim '.$CatNAME.' hay tuyển tập, phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' mới nhất, tổng hợp phim '.$CatNAME.' '.$h1title2.', '.$CatNAME.' '.$h1title2.' '.$h1title4.' full HD, '.$CatNAME.' '.$h1title2.' '.$h1title4.' vietsub, xem '.$CatNAME.' '.$h1title2.' '.$h1title4.' online';
-	            $web_title = 'Phim '.$CatNAME.' '.$h1title2.' hay | Phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' mới | Tuyển tập phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' mới nhất 2015';
+	            $web_title = 'Phim '.$CatNAME.' '.$h1title2.' hay | Phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' mới | Tuyển tập phim '.$CatNAME.' '.$h1title2.' '.$h1title4.' mới nhất 2017';
 			    $name = 'the-loai|'.$CatID.'|'.$Key3.'|'.$Key4;
 			}else header('Location: '.$web_link.'/404');
 		}
@@ -631,7 +631,6 @@ if (in_array($value[2], array('the-loai','quoc-gia','danh-sach','tag','tim-kiem'
 <meta name="keywords" content="<?=$web_keywords;?>"/>
 <meta property="og:site_name" content="<?=$web_title;?>"/>
 <? require_once("styles.php");?>
-<? if($relTYPE == 'phim-18' || $relCAT == 'adult'){ ?><script data-cfasync="false" type="text/javascript" src="http://www.pureadexchange.com/a/display.php?r=1016509"></script><? } ?>
 </head>
 
 <body>

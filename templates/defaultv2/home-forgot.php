@@ -5,7 +5,7 @@ if($value[1]=='home-forgot'){
 	if(!$isLogin){
 		$web_keywords = 'quên mật khẩu , xem phim Phim Lẻ full hd, phim Phim Lẻ online, phim Phim Lẻ vietsub, phim Phim Lẻ thuyet minh, phim  long tieng, phim Phim Lẻ tap cuoi';
 	    $web_des = 'Phim Lẻ hay tuyển tập, Phim Lẻ mới nhất, tổng hợp phim Lẻ, Phim Lẻ full HD, Phim Lẻ vietsub, xem Phim Lẻ online';
-	    $web_title = ''.$language['forgotz'].' | Phim Lẻ hay | Tuyển tập Phim Lẻ mới nhất 2015';
+	    $web_title = ''.$language['forgotz'].' | Phim Lẻ hay | Tuyển tập Phim Lẻ mới nhất 2017';
 		$breadcrumbs = '';
 		$breadcrumbs .= '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
 	    $breadcrumbs .= '<li><a class="current" href="'.$web_link.'/account/login" title="'.$language['forgotz'].'">'.$language['forgotz'].'</a></li>';
