@@ -20,7 +20,6 @@ if(!$isLogin){
     if(strpos(URL_LOAD , '?tranfer=') !== false){
         $href = explode("?tranfer=",URL_LOAD);
         $href = $href[1];
-        $_SESSION["user_href"]=$href;
     }else{ 
     $href = "http://vuihd.com";
     }
@@ -68,12 +67,8 @@ if(!$isLogin){
 				$mysql->query("UPDATE ".DATABASE_FX."user SET user_fb_oauth_uid = '".$oauth_uid."',user_time_last = '".NOW."' WHERE user_email = '".$email."'");
                 setcookie('user_id', $id, time() + (86400 * 30 * 12), "/");
             #die('what the hell');
-                $redirect=$_SESSION["user_href"];
 			    unset($_SESSION["user_href"]);
-                if(!$redirect) $redirect='/account/info';
-            echo "xxx";
-            die($redirect);
-				header("Location: ".$redirect);
+				header("Location: /account/info");
 			
 		}elseif(isset($check_fbemail) && !$check_fbid){   
 		    $arr = $mysqldb->prepare("SELECT user_id,user_name,user_email,user_level,user_fb_oauth_uid FROM ".DATABASE_FX."user WHERE user_email =:email");
