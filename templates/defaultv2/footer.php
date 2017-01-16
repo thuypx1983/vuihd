@@ -64,7 +64,10 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 <!-- Like so: -->
 <a href="#test-popup" class="open-popup-link">Show inline popup</a>
 <script type="text/javascript">
-
+    $('.open-popup-link').magnificPopup({
+        type:'inline',
+        midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
+    });
 </script>
 
 
