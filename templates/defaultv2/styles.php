@@ -61,3 +61,32 @@ document.getElementsByTagName("head")[0].appendChild(s);
      }*/
  </style>
  <link rel="stylesheet" href="/statics/defaultv2/css/magnific-popup.css" />
+
+ <style>
+     .white-popup {
+         position: relative;
+         background: #FFF;
+         padding: 20px;
+         width: auto;
+         max-width: 500px;
+         margin: 20px auto;
+     }
+ </style>
+
+ <script type="text/javascript">
+
+     $(document).ready(function(){
+         if($.cookie('enable_popup')!='1'){
+             var date = new Date();
+             var minutes = 24*60;
+             date.setTime(date.getTime() + (minutes * 60 * 1000));
+             $.cookie('enable_popup','1',{ expires: date });
+             $.magnificPopup.open({
+                 items: {
+                     src: '/statics/defaultv2/images/pop-up.jpeg'
+                 },
+                 type: 'image'
+             });
+         }
+     })
+ </script>
