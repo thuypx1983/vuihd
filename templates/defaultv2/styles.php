@@ -60,3 +60,4 @@ document.getElementsByTagName("head")[0].appendChild(s);
          display: none;
      }*/
  </style>
+ <link rel="stylesheet" href="/statics/defaultv2/css/magnific-popup.css" />
