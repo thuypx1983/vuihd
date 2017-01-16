@@ -63,6 +63,7 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 </div>
 <!-- Like so: -->
 <a href="#test-popup" class="open-popup-link">Show inline popup</a>
+<link rel="stylesheet" href="statics/defaultv2/css/magnific-popup.css" />
 <script type="text/javascript">
     $('.open-popup-link').magnificPopup({
         type:'inline',
