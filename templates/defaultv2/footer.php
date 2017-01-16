@@ -83,7 +83,7 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
             var date = new Date();
             var minutes = 24*60;
             date.setTime(date.getTime() + (minutes * 60 * 1000));
-            $.cookie('enable_popup',{ expires: date },);
+            $.cookie('enable_popup','1',{ expires: date });
             $.magnificPopup.open({
                 items: {
                     src: '#alert-popup'
