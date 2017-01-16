@@ -56,8 +56,16 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=LM/Rm1aMp4Z36C" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->  
-<!--/**
+<!-- End Alexa Certify Javascript -->
+
+<div id="test-popup" class="white-popup mfp-hide">
+    Popup content
+</div>
+<!-- Like so: -->
+<a href="#test-popup" class="open-popup-link">Show inline popup</a>
+<script type="text/javascript">
+
+</script>
 
 
  
