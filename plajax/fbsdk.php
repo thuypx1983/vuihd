@@ -20,6 +20,7 @@ if(!$isLogin){
     if(strpos(URL_LOAD , '?tranfer=') !== false){
         $href = explode("?tranfer=",URL_LOAD);
         $href = $href[1];
+        $_SESSION["user_href"]=$href;
     }else{ 
     $href = "http://vuihd.com";
     }
