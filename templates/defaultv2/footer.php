@@ -58,6 +58,16 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=LM/Rm1aMp4Z36C" style="display:none" height="1" width="1" alt="" /></noscript>
 <!-- End Alexa Certify Javascript -->
 
+<style>
+    .white-popup {
+        position: relative;
+        background: #FFF;
+        padding: 20px;
+        width: auto;
+        max-width: 500px;
+        margin: 20px auto;
+    }
+</style>
 <div id="test-popup" class="white-popup mfp-hide">
     Popup content
 </div>
