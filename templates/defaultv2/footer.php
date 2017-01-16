@@ -68,10 +68,6 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
         margin: 20px auto;
     }
 </style>
-<div id="alert-popup" class="white-popup mfp-hide">
-    <img src="/statics/defaultv2/images/pop-up.png">
-</div>
-<!-- Like so: -->
 
 <script type="text/javascript">
 
