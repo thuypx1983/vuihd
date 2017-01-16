@@ -155,7 +155,7 @@ function ClickToLoad(Id) {
                 },
 				logo: {
 				file: '',
-						link: 'http://hayxemphim.net',
+						link: 'http://vuihd.com',
 						position: 'top-right',
 						linktarget: '_blank',
 						over: '1',
@@ -212,7 +212,7 @@ function ClickToLoad(Id) {
                     onSetupError: function () {
                         console['log']('Build Player: Error!');
                         $('#player-area')['css']({
-                            "background-image": 'url(' + MAIN_URL + 'http://hayxemphim.net/players/error-banner.jpg)',
+                            "background-image": 'url(' + MAIN_URL + 'http://vuihd.com/players/error-banner.jpg)',
                             "background-size": 'contain',
                             "background-position": '50% 50%',
                             "background-repeat": 'no-repeat'
@@ -283,7 +283,7 @@ function ClickToLoad(Id) {
                         onSetupError: function () {
                             console['log']('Build Player: Error!');
                             $('#player-area')['css']({
-                                    "background-image": "url(" + MAIN_URL + "http://hayxemphim.net/players/error-banner.jpg)",
+                                    "background-image": "url(" + MAIN_URL + "http://vuihd.com/players/error-banner.jpg)",
                                     "background-size": "contain",
                                     "background-position": "50% 50%",
                                     "background-repeat": "no-repeat"
@@ -362,7 +362,7 @@ function ClickToLoad(Id) {
                             onSetupError: function () {
                                 console['log']('Build Player: Error!');
                                 $('#player-area')['css']({
-                                       "background-image": "url(" + MAIN_URL + "http://hayxemphim.net/players/error-banner.jpg)",
+                                       "background-image": "url(" + MAIN_URL + "http://vuihd.com/players/error-banner.jpg)",
                                        "background-size": "contain",
                                        "background-position": "50% 50%",
                                        "background-repeat": "no-repeat"
