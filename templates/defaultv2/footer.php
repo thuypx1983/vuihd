@@ -69,7 +69,7 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
     }
 </style>
 <div id="alert-popup" class="white-popup mfp-hide">
-    Welcome to Vuihd.com
+    <img src="/statics/defaultv2/images/pop-up.png">
 </div>
 <!-- Like so: -->
 
