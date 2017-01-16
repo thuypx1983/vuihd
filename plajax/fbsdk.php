@@ -70,6 +70,8 @@ if(!$isLogin){
                 $redirect=$_SESSION["user_href"];
 			    unset($_SESSION["user_href"]);
                 if(!$redirect) $redirect='/account/info';
+            echo "xxx";
+            die($redirect);
 				header("Location: ".$redirect);
 			
 		}elseif(isset($check_fbemail) && !$check_fbid){   
