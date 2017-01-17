@@ -298,8 +298,9 @@ function textlink_site($info){
 	       $info = str_replace("hoạt hình",'<a title="Phim hoạt hình" href="http://vuihd.com/the-loai/hoat-hinh/">hoạt hình</a>',$info);
 	       $info = str_replace("viễn tưởng",'<a title="Phim viễn tưởng" href="http://vuihd.com/the-loai/vien-tuong/">viễn tưởng</a>',$info);
 	       $info = str_replace("hình sự",'<a title="Phim hình sự" href="http://vuihd.com/the-loai/hinh-su/">hình sự</a>',$info);
-	
 	$info = str_replace("xem phim",'<a title="Xem Phim" href="http://vuihd.com/">xem phim</a>',$info);
+	$info = str_replace("VuiHD",'<a title="VuiHD" href="http://vuihd.com/">VuiHD</a>',$info);
+	$info = str_replace("VuiHD.com",'<a title="VuiHD.com" href="http://vuihd.com/">VuiHD.com</a>',$info);
        // $info = str_replace($text1,'<a title="'.$text1.'" href="'.$link.'">'.$text1.'</a>',$info);
 	return $info;
 }

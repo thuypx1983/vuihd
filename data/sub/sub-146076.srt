@@ -1,0 +1,7261 @@
+﻿1
+00:00:01,990 --> 00:00:09,990
+VUIHD.COM
+
+2
+00:00:12,200 --> 00:00:16,200
+<font color=#B2FBFF>NĂM 1991</font>
+
+3
+00:01:02,150 --> 00:01:05,050
+<i>Không!!!</i>
+
+4
+00:01:05,520 --> 00:01:08,370
+<i>Không!!!</i>
+
+5
+00:01:10,550 --> 00:01:12,050
+<font color=#FFFF00><i>Khao khát.</i></font>
+
+6
+00:01:13,770 --> 00:01:15,480
+<font color=#FFFF00><i>Rỉ sét.</i></font>
+
+7
+00:01:15,510 --> 00:01:16,930
+<font color=#FFFF00><i>Mười bảy.</i></font>
+
+8
+00:01:16,960 --> 00:01:18,660
+<font color=#FFFF00><i>Hừng đông.</i></font>
+
+9
+00:01:19,270 --> 00:01:20,840
+<font color=#FFFF00><i>Lò lửa.</i></font>
+
+10
+00:01:21,630 --> 00:01:23,050
+<font color=#FFFF00><i>Chín.</i></font>
+
+11
+00:01:23,270 --> 00:01:25,210
+<font color=#FFFF00><i>Nhân từ.</i></font>
+
+12
+00:01:25,860 --> 00:01:28,300
+<font color=#FFFF00><i>Về nhà.</i></font>
+
+13
+00:01:28,680 --> 00:01:30,370
+<font color=#FFFF00><i>Một.</i></font>
+
+14
+00:01:31,510 --> 00:01:33,640
+<font color=#FFFF00><i>Xe chuyên chở.</i></font>
+
+15
+00:01:41,000 --> 00:01:42,950
+<font color=#FFFF00><i>Chào buổi sáng, Chiến Binh.</i></font>
+
+16
+00:01:44,720 --> 00:01:47,280
+<font color=#FFFF00><i>Sẵn sàng nhận lệnh.</i></font>
+
+17
+00:01:47,310 --> 00:01:49,650
+<font color=#FFFF00><i>Tôi có nhiệm vụ cho cậu.</i></font>
+
+18
+00:01:50,770 --> 00:01:52,990
+<font color=#FFFF00><i>Chấp thuận và kí vào.</i></font>
+
+19
+00:01:53,010 --> 00:01:55,060
+<font color=#FFFF00><i>Không để lại nhân chứng.</i></font>
+
+20
+00:02:35,630 --> 00:02:37,880
+<font color=#FFFF00><i>Làm tốt lắm, Chiến Binh.</i></font>
+
+21
+00:02:43,160 --> 00:02:53,160
+~ <font color="#FFFF00">CAPTAIN AMERICA 3: CIVIL WAR</font> ~
+<font color=#00FFFF>NỘI CHIẾN SIÊU ANH HÙNG</font>
+
+22
+00:02:53,160 --> 00:03:01,160
+Phụ đề thực hiện bởi <font color="#FFFF00">SP3 Subteam</font>
+<font color=#00FFFF>https://www.facebook.com/SP3Subteam</font>
+
+23
+00:03:01,160 --> 00:03:06,160
+<font color="#FFFF00">Biên dịch, đồng bộ:</font>
+<font color=#00FFFF>Hồ Văn Diên</font> ~ <font color=#00FF00>dienhosp3</font>
+
+24
+00:03:07,510 --> 00:03:11,660
+<font color=#B2FBFF>LAGOS
+(THỦ ĐÔ NIGERIA)</font>
+
+25
+00:03:12,360 --> 00:03:14,900
+<font color=#B2FBFF>HIỆN TẠI</font>
+
+26
+00:03:22,040 --> 00:03:24,010
+<i>Được rồi, cô quan sát được gì?</i>
+
+27
+00:03:24,030 --> 00:03:26,190
+Cảnh sát hạng thường.
+
+28
+00:03:27,070 --> 00:03:29,130
+Trụ sở nhỏ.
+
+29
+00:03:30,800 --> 00:03:32,510
+Đường phố yên tĩnh.
+
+30
+00:03:32,530 --> 00:03:34,050
+<i>Đó là mục tiêu thích hợp.</i>
+
+31
+00:03:34,070 --> 00:03:36,210
+Có máy ATM ở hướng nam,
+có nghĩa là...
+
+32
+00:03:36,240 --> 00:03:37,450
+Có máy quay.
+
+33
+00:03:37,470 --> 00:03:39,400
+<i>Cả hai đường giao nhau vào một lối?</i>
+
+34
+00:03:39,420 --> 00:03:41,660
+Vậy thì phải dàn xếp lối thoát.
+
+35
+00:03:41,680 --> 00:03:43,360
+<i>Nghĩa là các chàng trai của chúng ta
+không quan tâm việc bị nhìn thấy,</i>
+
+36
+00:03:43,390 --> 00:03:45,710
+hắn không sợ làm loạn
+để thoát được.
+
+37
+00:03:45,730 --> 00:03:47,790
+Cô thấy tay cảnh sát cơ động
+ở nửa đường trên tòa cao ốc chứ.
+
+38
+00:03:47,830 --> 00:03:49,970
+Ý anh là tòa nhà màu đỏ.
+Đẹp đấy.
+
+39
+00:03:49,990 --> 00:03:52,510
+Cũng có nghĩa là nó chống đạn,
+tức là an ninh ngầm,
+
+40
+00:03:52,540 --> 00:03:56,600
+nghĩa là có nhiều súng, và cũng tức là
+đau đầu hơn cho một vài người, có thể là chúng ta.
+
+41
+00:03:56,630 --> 00:03:59,030
+Mọi người biết là tôi có thể
+di chuyển mọi thứ bằng tâm trí rồi, phải không?
+
+42
+00:03:59,050 --> 00:04:02,170
+Đề phòng phải trở thành
+một bản năng thứ hai đấy.
+
+43
+00:04:02,600 --> 00:04:04,970
+Đã ai từng nói với cô là
+cô hơi bị hoang tưởng không?
+
+44
+00:04:05,000 --> 00:04:07,350
+<i>Không nói thẳng vào mặt.
+Sao thế, người ta bàn tán về tôi à?</i>
+
+45
+00:04:07,370 --> 00:04:09,040
+<i>Chú ý vào mục tiêu đi mọi người.</i>
+
+46
+00:04:09,060 --> 00:04:11,040
+Đó là đầu mối tốt nhất của ta về Rumlow
+trong 6 tháng trời.
+
+47
+00:04:11,060 --> 00:04:12,340
+Tôi không muốn để mất hắn đâu.
+
+48
+00:04:12,360 --> 00:04:14,340
+Nếu hắn gặp ta
+thì đó không phải vấn đề đâu,
+
+49
+00:04:14,370 --> 00:04:16,560
+đại khái thì hắn ghét ta sẵn rồi.
+
+50
+00:04:19,400 --> 00:04:22,410
+Sam, thấy xe chở rác không?
+
+51
+00:04:22,430 --> 00:04:23,940
+Bám theo nó.
+
+52
+00:04:42,040 --> 00:04:43,850
+Chụp X-quang.
+
+53
+00:04:45,340 --> 00:04:47,910
+<font color=#00FFFF>~ <i>trọng lượng hàng hóa: 13825 kg </i>~
+~ <i>sức chứa tối đa</i> ~</font>
+
+54
+00:04:48,220 --> 00:04:51,340
+Xe tải được chất trọng lượng tối đa,
+còn lái xe thì được vũ trang.
+
+55
+00:04:51,360 --> 00:04:52,810
+- Búa nện mở đường đây mà.
+- <i>Đi thôi</i>.
+
+56
+00:04:52,830 --> 00:04:54,130
+<i>Gì cơ?</i>
+
+57
+00:04:54,480 --> 00:04:56,490
+Hắn không nhắm vào cảnh sát.
+
+58
+00:04:58,750 --> 00:05:01,590
+<font color=#00FFFF>VIỆN NGHIÊN CỨU
+BỆNH TRUYỀN NHIỄM</font>
+
+59
+00:05:59,810 --> 00:06:02,170
+Trang bị áo giáp.
+Súng AR-15.
+
+60
+00:06:02,190 --> 00:06:04,360
+<i>Tôi đếm còn 7 tên nữa.</i>
+
+61
+00:06:12,470 --> 00:06:14,510
+Tôi đếm được 5.
+
+62
+00:06:19,430 --> 00:06:21,040
+Sam.
+
+63
+00:06:23,930 --> 00:06:25,420
+4.
+
+64
+00:06:29,010 --> 00:06:30,800
+Rumlow ở tầng ba.
+
+65
+00:06:30,830 --> 00:06:33,450
+- Wanda. Làm giống như ta tập trận.
+- Còn khí độc thì sao?
+
+66
+00:06:33,470 --> 00:06:35,060
+Hút nó ra.
+
+67
+00:06:51,590 --> 00:06:52,480
+<font color=#00FFFF>VI SINH VẬT TRUYỀN NHIỄM</font>
+
+68
+00:06:52,480 --> 00:06:53,460
+Gói hàng lại.
+<font color=#00FFFF>VI SINH VẬT TRUYỀN NHIỄM</font>
+
+69
+00:06:53,460 --> 00:06:54,160
+Gói hàng lại.
+
+70
+00:07:31,150 --> 00:07:32,770
+Hắn ở đây.
+
+71
+00:07:35,960 --> 00:07:38,950
+- Rumlow giữ một loại vũ khí sinh học.
+- <i>Tôi đang xử lí.</i>
+
+72
+00:08:13,910 --> 00:08:16,640
+Tao không còn như trước nữa đâu.
+
+73
+00:08:18,800 --> 00:08:20,770
+"Fire in the hole".
+
+74
+00:08:49,670 --> 00:08:53,160
+Sam.
+<i>Hắn ở trong chiếc Humvee hướng về phía bắc.</i>
+
+75
+00:08:57,530 --> 00:08:59,410
+Mang cái này đến chỗ chiết xuất.
+
+76
+00:08:59,430 --> 00:09:02,490
+Ta không chạy nhanh hơn hắn được.
+Phi tang xe thôi.
+
+77
+00:09:09,170 --> 00:09:11,910
+- Anh định gặp chúng tôi ở đâu?
+- Tôi không định đến đâu.
+
+78
+00:09:23,190 --> 00:09:25,370
+Tôi đếm được 4 tên,
+chúng đang chia nhau ra.
+
+79
+00:09:29,800 --> 00:09:31,800
+Tôi lo hai tên bên trái.
+
+80
+00:09:39,990 --> 00:09:41,340
+Chúng bỏ trang bị.
+
+81
+00:09:41,370 --> 00:09:44,140
+Chúng định chơi trò úp vỏ sò.
+Một trong số chúng đang giữ hàng.
+
+82
+00:09:49,000 --> 00:09:51,410
+Mày đây rồi, thằng chó.
+
+83
+00:09:52,160 --> 00:09:54,370
+Tao chờ mãi đến ngày này!
+
+84
+00:10:10,630 --> 00:10:12,320
+Hắn không mang theo hàng.
+
+85
+00:10:12,620 --> 00:10:13,840
+Tôi trắng tay.
+
+86
+00:10:13,860 --> 00:10:16,380
+Tránh đường!
+Coi chừng!
+
+87
+00:10:54,230 --> 00:10:55,600
+Bỏ súng xuống.
+
+88
+00:10:56,030 --> 00:10:57,910
+Không tao ném thứ này xuống.
+
+89
+00:10:58,650 --> 00:11:01,240
+- Bỏ xuống!
+- Làm thật đấy!
+
+90
+00:11:07,990 --> 00:11:09,930
+Món hàng được an toàn.
+Cảm ơn, Sam.
+
+91
+00:11:09,960 --> 00:11:11,490
+Đừng cảm ơn tôi.
+
+92
+00:11:11,520 --> 00:11:14,090
+- Tôi không cảm ơn thứ đó đâu.
+- Tên của "chàng" là Redwing.
+
+93
+00:11:14,110 --> 00:11:17,200
+- Tôi vẫn không cảm ơn nó đâu.
+- "Chàng" dễ thương đấy chứ.
+
+94
+00:11:23,430 --> 00:11:24,920
+Trả đòn đi!
+
+95
+00:11:32,680 --> 00:11:35,710
+Cái này là vì mày đã ném
+cả tòa nhà vào mặt tao.
+
+96
+00:11:56,940 --> 00:11:58,820
+Tao nghĩ cái mặt tao cũng khá được,
+tất cả đều đã được cân nhắc.
+
+97
+00:11:58,840 --> 00:12:00,360
+Người mua là ai?
+
+98
+00:12:00,390 --> 00:12:02,290
+Hắn biết bọn tao quen mày.
+
+99
+00:12:02,310 --> 00:12:05,000
+Bạn, bạn thân mày,
+Bucky của mày đấy.
+
+100
+00:12:06,080 --> 00:12:08,880
+- Mày nói cái gì?
+- Hắn nhớ ra mày rồi.
+
+101
+00:12:09,230 --> 00:12:12,560
+Tao đã ở đó.
+Hắn sướt mướt khi nhớ ra.
+
+102
+00:12:13,310 --> 00:12:15,990
+Cho đến khi họ đưa não hắn
+vào trong cái "máy xay".
+
+103
+00:12:16,020 --> 00:12:17,910
+Hắn muốn nhắn mày một điều.
+
+104
+00:12:17,940 --> 00:12:19,360
+Hắn nói với tao,
+
+105
+00:12:19,390 --> 00:12:21,520
+"<i>Hãy nói với Rogers,</i>
+
+106
+00:12:22,170 --> 00:12:25,700
+<i>Lúc cần đi,
+thì cậu phải đi thôi.</i>"
+
+107
+00:12:27,760 --> 00:12:29,930
+Và mày sẽ đi cùng tao.
+
+108
+00:12:45,900 --> 00:12:47,370
+Ôi trời...
+
+109
+00:12:50,180 --> 00:12:52,880
+Sam. Ta cần...
+
+110
+00:12:53,220 --> 00:12:56,780
+Chữa cháy và cứu hộ,
+ở phía nam của tòa nhà.
+
+111
+00:12:56,870 --> 00:12:58,640
+Ta phải lên trên đó.
+
+112
+00:13:05,170 --> 00:13:11,860
+♪ Hãy cố hình dung về tháng Chín năm ấy ♪
+
+113
+00:13:11,880 --> 00:13:16,900
+♪ cái tháng lúc cỏ còn xanh ngắt... ♪
+
+114
+00:13:16,920 --> 00:13:19,470
+Dậy đi, con yêu.
+Nói lời tạm biệt bố con đi.
+
+115
+00:13:19,490 --> 00:13:21,920
+Kẻ vô gia cư nào
+đang nằm trên ghế thế này?
+
+116
+00:13:22,650 --> 00:13:24,770
+Đây là lí do tại sao
+con thích về nhà vào Giáng Sinh.
+
+117
+00:13:24,790 --> 00:13:26,190
+Ngay trước khi bố rời thị trấn.
+
+118
+00:13:26,210 --> 00:13:28,610
+Dễ chịu chút đi, chồng yêu.
+Con anh vẫn đang du học.
+
+119
+00:13:28,630 --> 00:13:30,740
+Thật sao, học ở nước nào?
+Tên cô ta là gì?
+
+120
+00:13:30,770 --> 00:13:32,190
+Candice.
+
+121
+00:13:32,370 --> 00:13:35,230
+Giúp ta một việc. Cố gắng
+đừng đốt cháy nhà trước Thứ Hai.
+
+122
+00:13:35,250 --> 00:13:36,470
+Được rồi, vậy là Thứ Hai.
+
+123
+00:13:36,500 --> 00:13:40,530
+Biết sớm thế này hay quá.
+Con còn biết lập kế hoạch tiệc toker.
+
+124
+00:13:40,550 --> 00:13:41,750
+Hai người đi đâu vậy?
+
+125
+00:13:41,790 --> 00:13:44,340
+Bố dẫn mẹ bay đến Bahamas
+để giải tỏa một thời gian.
+
+126
+00:13:44,360 --> 00:13:46,020
+Chúng ta có thể
+dừng nhanh tại chỗ nào đó.
+
+127
+00:13:46,050 --> 00:13:48,270
+Ở Lầu Năm Góc. Phải không?
+
+128
+00:13:48,300 --> 00:13:51,400
+Đừng lo. Rồi mẹ sẽ thích
+kì nghỉ ở cái "điểm nối" đó thôi.
+
+129
+00:13:51,420 --> 00:13:54,330
+Thiên hạ vẫn nói rằng,
+mỉa mai là thước đo cho tiềm năng.
+
+130
+00:13:54,360 --> 00:13:56,300
+Nếu đúng là thế thì rồi một ngày,
+mày sẽ là người vĩ đại lắm đấy.
+
+131
+00:13:56,330 --> 00:13:58,140
+Tôi đi lấy hành lí.
+
+132
+00:14:00,260 --> 00:14:03,160
+Ông ấy nhớ con
+khi con không ở đây.
+
+133
+00:14:04,110 --> 00:14:08,390
+Và thẳng thắn thì,
+con rồi sẽ nhớ chúng ta thôi.
+
+134
+00:14:08,420 --> 00:14:12,060
+Vì đây là lần cuối cùng
+chúng ta cùng đoàn tụ thế này.
+
+135
+00:14:12,670 --> 00:14:15,260
+Con biết điều gì sắp ra rồi.
+
+136
+00:14:15,720 --> 00:14:19,430
+Nói gì đó đi.
+Không thì con sẽ hối tiếc đấy.
+
+137
+00:14:22,790 --> 00:14:24,390
+Con yêu bố, bố ạ.
+
+138
+00:14:25,510 --> 00:14:27,810
+Con biết hai người
+đã làm điều tốt nhất có thể.
+
+139
+00:14:43,560 --> 00:14:45,620
+Ước gì mọi chuyện đã xảy ra như vậy.
+
+140
+00:14:47,870 --> 00:14:51,720
+<i>Bằng phương pháp tăng cường kí ức đơn thuần</i>,
+hay "BARF" (viết tắt).
+
+141
+00:14:51,740 --> 00:14:53,470
+Trời ạ, tôi đang giải nghĩa từ viết tắt mà.
+
+142
+00:14:53,500 --> 00:14:58,510
+Một phương pháp vô cùng tốn kém,
+chôm chỉa ý tưởng của đồi hải mã,
+
+143
+00:14:58,660 --> 00:15:03,210
+để xóa đi...
+những kí ức đau buồn.
+
+144
+00:15:06,470 --> 00:15:09,890
+Nó chẳng thay đổi sự thật rằng
+họ không đến nổi sân bay,
+
+145
+00:15:10,290 --> 00:15:13,480
+hay những điều tôi đã làm
+để tránh chạm vào nỗi đau của mình.
+
+146
+00:15:15,240 --> 00:15:20,100
+Thêm nữa, 611 triệu USD
+cho một thí nghiệm điều trị nhỏ của tôi?
+
+147
+00:15:21,590 --> 00:15:24,710
+Chẳng ai minh mẫn
+mà lại đi tài trợ cho nó.
+
+148
+00:15:25,510 --> 00:15:28,330
+Giúp tôi chút.
+Phát biểu tiếp nhận MIT là gì nhỉ?
+
+149
+00:15:28,350 --> 00:15:32,970
+Nhằm tạo mầm, gieo hạt
+và lưu giữ kiến thức,
+
+150
+00:15:33,000 --> 00:15:34,650
+và làm việc với
+những người khác,
+
+151
+00:15:34,680 --> 00:15:37,880
+để chinh phục được
+những thách thức vĩ đại của thế giới.
+
+152
+00:15:38,520 --> 00:15:42,270
+Vậy là, các bạn,
+hoặc những người khác,
+
+153
+00:15:42,710 --> 00:15:45,750
+và những thử thách âm thầm
+đối mặt diện với bạn,
+
+154
+00:15:45,780 --> 00:15:47,630
+tất cả là những điều vĩ đại nhất
+mà con người từng biết đến.
+
+155
+00:15:47,660 --> 00:15:50,100
+Thêm nữa,
+hầu hết các bạn lại túng tiền.
+
+156
+00:15:50,130 --> 00:15:52,190
+Mà tôi lại muốn các bạn được làm việc.
+
+157
+00:15:52,210 --> 00:15:55,980
+Tính đến giờ, mọi sinh viên đều đã
+nhận những phần tài trợ ngang nhau
+
+158
+00:15:56,010 --> 00:15:59,250
+từ Quỹ Tài Trợ Khai Mầm Tháng Chín.
+
+159
+00:15:59,270 --> 00:16:04,050
+Qua đó tôi muốn tuyên bố rằng, tất cả công trình nghiên cứu
+của các bạn đều được chấp thuận và nhận tài trợ.
+
+160
+00:16:06,840 --> 00:16:08,490
+Không ràng buộc.
+Không thuế.
+
+161
+00:16:08,520 --> 00:16:11,910
+Hãy cứ... định hình tương lai.
+
+162
+00:16:11,980 --> 00:16:13,660
+Bắt đầu từ bây giờ.
+
+163
+00:16:14,600 --> 00:16:19,030
+<font color=#00FFFF><i>Giờ tôi rất muốn được giới thiệu
+người đứng đầu của quỹ tài trợ: Pepper Potts.</i></font>
+
+164
+00:16:23,940 --> 00:16:25,570
+Thực hành nghịch vài thứ đi nào!
+
+165
+00:16:34,790 --> 00:16:38,020
+Điều đó...
+Điều đó làm tôi ngột hết cả thở!
+
+166
+00:16:38,040 --> 00:16:40,500
+Tony, rất hào phóng,
+phóng ra từng hào.
+
+167
+00:16:40,530 --> 00:16:43,760
+Wow! Tôi...
+rất rất tò mò và...
+
+168
+00:16:43,780 --> 00:16:46,630
+Liệu có phần nào trong quỹ tài trợ
+được cung cấp cho giảng viên không nhỉ?
+
+169
+00:16:46,660 --> 00:16:48,130
+Tôi biết, à.. tổng toàn bộ...
+nhưng cứ nghe tôi đã.
+
+170
+00:16:48,150 --> 00:16:50,290
+Tôi có một ý tưởng rất đặc biệt
+về xúc xích tự nấu.
+
+171
+00:16:50,310 --> 00:16:51,860
+Cơ bản thì
+ngòi châm nổ hóa học được nhúng...
+
+172
+00:16:51,860 --> 00:16:54,060
+- Phòng nghỉ lối này à?
+- Đúng. Nhúng trong thịt hầm..
+
+173
+00:16:54,080 --> 00:16:56,290
+Ngài Stark, tôi rất xin lỗi
+về cái máy hiện chữ.
+
+174
+00:16:56,320 --> 00:16:59,280
+Tôi không biết cô Potts đã hủy đến đây.
+Nhân viên không có thời gian để sửa phần đó.
+
+175
+00:16:59,310 --> 00:17:03,540
+Không sao đâu.
+Tôi sẽ quay lại ngay.
+
+176
+00:17:03,560 --> 00:17:05,230
+Chúng ta sẽ nói chuyện sau.
+
+177
+00:17:22,960 --> 00:17:25,890
+Thật là tử tế, việc mà
+anh làm cho những người trẻ.
+
+178
+00:17:26,010 --> 00:17:27,940
+Thì, họ xứng đáng thôi.
+
+179
+00:17:28,100 --> 00:17:30,340
+Với lại điều đó cũng giúp
+xoa dịu lương tâm tôi.
+
+180
+00:17:30,820 --> 00:17:35,590
+Người ta nói rằng có sự tương quan
+giữa sự rộng lượng và cảm giác tội lỗi.
+
+181
+00:17:36,350 --> 00:17:39,190
+Nhưng, anh thì có tiền.
+
+182
+00:17:39,910 --> 00:17:42,060
+Anh thích phá bao nhiêu chả được.
+
+183
+00:17:42,750 --> 00:17:44,180
+Tỏa sáng đấy.
+
+184
+00:17:52,870 --> 00:17:54,280
+Cô có đi lên không?
+
+185
+00:17:54,310 --> 00:17:56,770
+Tôi ở đúng nơi mà tôi muốn đứng.
+
+186
+00:17:57,120 --> 00:17:58,890
+Được rồi, được rồi.
+Này!
+
+187
+00:18:01,370 --> 00:18:04,530
+Tôi xin lỗi.
+Là bệnh nghề nghiệp của tôi.
+
+188
+00:18:04,550 --> 00:18:08,860
+Tôi làm cho Bộ Ngoại Giao.
+Bộ phận Nguồn Nhân Lực.
+
+189
+00:18:08,890 --> 00:18:10,620
+Tôi biết việc đó nhàm chán.
+
+190
+00:18:11,140 --> 00:18:14,640
+Nhưng tôi vẫn có thể
+nuôi dạy một đứa con.
+
+191
+00:18:15,260 --> 00:18:18,950
+Tôi rất tự hào vì
+con người mà nó đã trở thành.
+
+192
+00:18:20,160 --> 00:18:22,770
+Tên thằng bé là Charlie Spencer.
+
+193
+00:18:25,170 --> 00:18:27,100
+Anh đã giết nó.
+
+194
+00:18:27,890 --> 00:18:29,850
+Ở Sokovia.
+
+195
+00:18:31,200 --> 00:18:34,200
+Chẳng điều gì quan trọng
+đối với anh cả đâu.
+
+196
+00:18:35,970 --> 00:18:38,860
+Anh nghĩ rằng anh chiến đấu cho chúng tôi.
+
+197
+00:18:39,290 --> 00:18:41,750
+Anh chỉ chiến đấu cho mình thôi.
+
+198
+00:18:43,070 --> 00:18:47,220
+Ai sẽ báo thù
+cho con trai tôi đây, Stark?
+
+199
+00:18:47,800 --> 00:18:51,860
+Nó chết rồi.
+Và tôi đổ lỗi lên đầu anh!
+
+200
+00:19:00,310 --> 00:19:03,420
+<i>11 người Wakanda nằm trong số
+những người thiệt mạng trong cuộc đối đầu</i>
+
+201
+00:19:03,450 --> 00:19:05,730
+<i>giữa Avengers và một nhóm lính đánh thuê</i>
+
+202
+00:19:05,760 --> 00:19:07,910
+<i>ở Lagos, Nigeria, tháng trước.</i>
+
+203
+00:19:07,930 --> 00:19:09,830
+<i>Những người Wakanda theo đạo
+sống ẩn mình này</i>
+
+204
+00:19:09,830 --> 00:19:13,090
+<i>đang có nhiệm vụ tiếp cận cộng đồng
+ở Lagos, khi vụ tấn công xảy ra.</i>
+
+205
+00:19:13,110 --> 00:19:17,040
+<i>Máu của đồng bào ta đang đổ xuống
+ở ngoài lãnh thổ đất nước.</i>
+
+206
+00:19:17,060 --> 00:19:20,250
+<i>Không chỉ vì
+hoạt động của bọn tội phạm,</i>
+
+207
+00:19:20,270 --> 00:19:24,040
+<i>mà còn vì sự thờ ơ
+trước những điều cam kết để ngăn chặn chúng.</i>
+
+208
+00:19:24,060 --> 00:19:29,540
+<i>Chiến thắng trên cái giá phải trả của người vô tội?
+Chẳng hề là chiến thắng chút nào.</i>
+
+209
+00:19:29,560 --> 00:19:32,430
+<i>Vua Wakanda đã thuyết phục...</i>
+
+210
+00:19:37,770 --> 00:19:40,410
+<i>Cơ quan pháp lí nào cho phép
+một người có siêu sức mạnh</i>
+
+211
+00:19:40,440 --> 00:19:44,200
+<i>như Wanda Maximoff
+hoạt động ở Nigeria?</i>
+
+212
+00:19:47,990 --> 00:19:50,300
+- Đó là lỗi của tôi.
+- Không phải thế.
+
+213
+00:19:50,330 --> 00:19:54,020
+Vậy thì bật TV lại thôi,
+họ đã nói rất cụ thể.
+
+214
+00:19:54,040 --> 00:19:57,680
+Tôi nên ôm lấy quả bom
+với tư cách là người dẫn đến vụ đối đầu.
+
+215
+00:19:58,690 --> 00:20:00,790
+Rumlow nói "Bucky" và...
+
+216
+00:20:01,730 --> 00:20:05,060
+Đột nhiên, tôi lại là
+thằng nhóc 16 tuổi hồi ở Brooklyn.
+
+217
+00:20:09,310 --> 00:20:10,790
+Họ bỏ mạng.
+
+218
+00:20:13,130 --> 00:20:16,680
+- Là do tôi.
+- Do cả hai chúng ta.
+
+219
+00:20:17,070 --> 00:20:18,760
+Cái công việc này..
+
+220
+00:20:21,640 --> 00:20:24,390
+Chúng ta cố gắng cứu
+nhiều người nhất có thể.
+
+221
+00:20:24,410 --> 00:20:26,270
+Đôi lúc không có nghĩa là
+cứu được tất cả mọi người.
+
+222
+00:20:26,290 --> 00:20:28,410
+nhưng, nếu ta không tìm được cách
+để tiếp tục sống với điều đó,
+
+223
+00:20:28,430 --> 00:20:30,170
+Thì lần tới...
+
+224
+00:20:31,610 --> 00:20:33,830
+có lẽ sẽ chẳng có ai được cứu.
+
+225
+00:20:37,420 --> 00:20:39,480
+Vis, chúng ta bàn
+về chuyện này rồi mà.
+
+226
+00:20:39,510 --> 00:20:42,560
+Đúng. Nhưng cửa vẫn mở
+nên tôi cứ nghĩ là...
+
+227
+00:20:44,190 --> 00:20:47,270
+Đội trưởng Rogers muốn biết
+lúc nào thì ngài Stark đến.
+
+228
+00:20:47,290 --> 00:20:49,240
+Cảm ơn cậu.
+Chúng tôi sẽ xuống ngay.
+
+229
+00:20:49,260 --> 00:20:52,090
+Tôi sẽ... dùng cửa.
+
+230
+00:20:52,250 --> 00:20:54,720
+À, và có vẻ như
+ngài ấy mang đến một vị khách.
+
+231
+00:20:54,740 --> 00:20:56,480
+Chúng tôi có biết đó là ai không?
+
+232
+00:20:56,750 --> 00:20:58,770
+Bộ Trưởng Bộ Ngoại Giao.
+
+233
+00:21:01,800 --> 00:21:05,800
+Oh. 5 năm trước,
+tôi bị một cơn đau tim.
+
+234
+00:21:05,940 --> 00:21:09,350
+Tôi thả gậy ngay giữa
+lượt đánh của mình.
+
+235
+00:21:09,740 --> 00:21:11,750
+Hóa ra, đó là hiệp đấu
+tốt nhất trong đời tôi,
+
+236
+00:21:11,770 --> 00:21:16,670
+vì sau 13 giờ phẫu thuật và
+một đường dẫn máu gấp ba lần đến tim,
+
+237
+00:21:17,240 --> 00:21:21,710
+tôi học được một thứ mà
+40 năm trong quân đội chưa bao giờ dạy mình:
+
+238
+00:21:21,730 --> 00:21:23,740
+Cách nhìn nhận sự việc.
+
+239
+00:21:24,740 --> 00:21:29,140
+Thế giới nợ nhóm Avengers
+một món nợ không trả nổi.
+
+240
+00:21:29,850 --> 00:21:33,030
+Các bạn đã...
+chiến đấu vì chúng tôi.
+
+241
+00:21:33,050 --> 00:21:36,410
+Bảo vệ chúng tôi.
+Đánh liều mạng của mình.
+
+242
+00:21:36,440 --> 00:21:40,440
+Nhưng trong khi đa số mọi người
+xem các bạn là anh hùng,
+
+243
+00:21:40,480 --> 00:21:42,400
+Thì có một số...
+
+244
+00:21:43,730 --> 00:21:45,650
+lại thích dùng từ "những kẻ lộng hành".
+
+245
+00:21:45,680 --> 00:21:48,400
+Vậy ông dùng từ nào vậy,
+ngài Bộ trưởng?
+
+246
+00:21:48,420 --> 00:21:50,160
+"Nguy hiểm" thì sao nhỉ?
+
+247
+00:21:50,190 --> 00:21:55,390
+Các bạn sẽ gọi một nhóm người
+có trụ sở tại Mỹ, có siêu sức mạnh,
+
+248
+00:21:55,420 --> 00:22:00,370
+những người mà thường xuyên bỏ qua
+chủ quyền biên giới và sẵn sàng hành động
+
+249
+00:22:00,390 --> 00:22:03,220
+bất kì nơi nào mà họ chọn,
+và thẳng thắn thì đó là những người
+
+250
+00:22:03,250 --> 00:22:06,630
+dường như chẳng quan tâm
+đến những gì họ để lại sau đó.
+
+251
+00:22:10,490 --> 00:22:12,150
+New York.
+
+252
+00:22:26,050 --> 00:22:28,250
+Washington D.C.
+
+253
+00:22:36,220 --> 00:22:38,030
+Sokovia.
+
+254
+00:22:48,470 --> 00:22:50,060
+Lagos.
+
+255
+00:22:58,520 --> 00:23:00,920
+Được rồi.
+Thế là đủ rồi đấy.
+
+256
+00:23:02,420 --> 00:23:06,740
+Trong 4 năm vừa qua, các bạn hoạt động
+với sức mạnh không giới hạn và không bị kiểm soát.
+
+257
+00:23:06,770 --> 00:23:11,390
+Đó là một sự sắp xếp mà Chính phủ các nước
+không thể dung thứ thêm được nữa.
+
+258
+00:23:13,510 --> 00:23:15,970
+Nhưng tôi nghĩ chúng ta
+đã có một giải pháp.
+
+259
+00:23:19,650 --> 00:23:22,230
+Hiệp định Sokovia.
+
+260
+00:23:22,320 --> 00:23:25,440
+Được chấp thuận bởi 117 quốc gia.
+
+261
+00:23:25,470 --> 00:23:31,110
+Nó nói rõ rằng Avengers sẽ
+không còn là tổ chức tư nhân nữa.
+
+262
+00:23:31,130 --> 00:23:36,780
+Thay vào đó, nhóm sẽ hoạt động
+dưới sự kiểm soát của một ban hội thẩm Liên Hợp Quốc,
+
+263
+00:23:36,810 --> 00:23:42,470
+chỉ khi được ban hội thẩm
+xét thấy điều đó là cần thiết.
+
+264
+00:23:42,490 --> 00:23:45,720
+Avengers được thành lập
+để giúp thế giới trở thành một nơi an toàn hơn.
+
+265
+00:23:45,740 --> 00:23:47,510
+Tôi cảm thấy là
+chúng tôi đã làm được điều đó.
+
+266
+00:23:47,540 --> 00:23:52,300
+Nói cho tôi biết đi, Captain. Hiện tại
+anh có biết Thor và Banner đang ở chốn nào không?
+
+267
+00:23:52,530 --> 00:23:55,210
+Nếu tôi làm thất lạc một vài
+đầu đạn hạt nhân 30 triệu tấn,
+
+268
+00:23:55,240 --> 00:23:57,920
+thì cá với cậu rằng
+rồi sẽ có hậu quả.
+
+269
+00:23:57,950 --> 00:24:02,190
+Thỏa hiệp. Cam đoan.
+Đó là cách mà thế giới này hoạt động.
+
+270
+00:24:02,220 --> 00:24:06,270
+Tin tôi đi, đây là thỏa hiệp
+tốt cho cả hai bên.
+
+271
+00:24:06,410 --> 00:24:09,230
+Vậy là còn những phương án dự phòng?
+
+272
+00:24:09,250 --> 00:24:13,920
+3 ngày nữa kể từ hôm nay, Liên Hợp Quốc
+sẽ họp tại Vienna để phê chuẩn Hiệp định.
+
+273
+00:24:16,290 --> 00:24:18,020
+Thế nên mọi người cứ bàn bạc đi.
+
+274
+00:24:21,230 --> 00:24:24,670
+Và nếu chúng tôi đưa ra
+một quyết định mà các ngài không thích?
+
+275
+00:24:25,230 --> 00:24:27,390
+Thì sau đó cô nghỉ hưu.
+
+276
+00:24:33,040 --> 00:24:36,850
+<font color=#B2FBFF>CLEVELAND
+(Ohio, Mỹ)</font>
+
+277
+00:24:50,160 --> 00:24:51,580
+<i>Xin chào?</i>
+
+278
+00:24:52,930 --> 00:24:55,070
+<i>Có phải xe anh ở trước nhà không?</i>
+
+279
+00:24:56,640 --> 00:24:58,560
+<i>Tôi lỡ phóng lên lề.</i>
+
+280
+00:25:00,040 --> 00:25:03,150
+<i>Có lẽ chúng ta tự
+đàm phán với nhau được.</i>
+
+281
+00:25:03,180 --> 00:25:05,960
+<i>Còn nếu anh muốn gọi cảnh sát,
+thì cũng được thôi, tôi nghĩ vậy.</i>
+
+282
+00:25:05,980 --> 00:25:07,300
+Không.
+
+283
+00:25:08,640 --> 00:25:10,300
+Không cớm.
+
+284
+00:25:11,190 --> 00:25:12,580
+<i>Cảm ơn.</i>
+
+285
+00:25:49,650 --> 00:25:51,690
+Anh nhìn vẫn vậy, Đại tá.
+
+286
+00:25:52,400 --> 00:25:54,460
+Chúc mừng.
+
+287
+00:25:57,350 --> 00:26:01,620
+Báo cáo nhiệm vụ:
+Ngày 16 tháng 12 năm 1991.
+
+288
+00:26:01,650 --> 00:26:03,350
+Mày là ai?
+
+289
+00:26:04,000 --> 00:26:05,940
+Tên tôi là Zemo.
+
+290
+00:26:07,210 --> 00:26:09,700
+Tôi sẽ lặp lại câu hỏi.
+
+291
+00:26:09,920 --> 00:26:15,130
+Báo cáo nhiệm vụ:
+Ngày 16 tháng 12 năm 1991.
+
+292
+00:26:15,160 --> 00:26:16,600
+Làm thế nào mày lần ra tao?
+
+293
+00:26:16,620 --> 00:26:18,840
+Khi SHIELD sụp đổ,
+
+294
+00:26:19,140 --> 00:26:22,400
+Black Widow đã công bố
+hồ sơ HYDRA cho công chúng.
+
+295
+00:26:22,680 --> 00:26:25,420
+Cả triệu trang,
+cả đống trang được mã hóa,
+
+296
+00:26:25,440 --> 00:26:27,250
+chẳng dễ dàng gì
+để giải mã.
+
+297
+00:26:27,270 --> 00:26:28,680
+Nhưng...
+
+298
+00:26:30,560 --> 00:26:32,540
+tôi lại có kinh nghiệm.
+
+299
+00:26:33,220 --> 00:26:35,130
+Và kiên nhẫn nữa.
+
+300
+00:26:36,270 --> 00:26:38,990
+Một người có thể làm bất cứ
+việc gì nếu có được cả hai thứ đó.
+
+301
+00:26:39,450 --> 00:26:41,150
+Mày muốn gì?
+
+302
+00:26:41,810 --> 00:26:47,920
+Báo cáo nhiệm vụ:
+Ngày 16 tháng 12 năm 1991.
+
+303
+00:26:47,940 --> 00:26:51,440
+Chết mẹ mày đi!
+
+304
+00:27:05,520 --> 00:27:08,560
+HYDRA xứng đáng với vị trí tàn lụi
+của nó trên cái gạt tàn,
+
+305
+00:27:08,580 --> 00:27:11,290
+thế nên cái chết của anh
+cũng chẳng làm tôi quan tâm đâu.
+
+306
+00:27:11,550 --> 00:27:13,790
+Nhưng tôi phải dùng cuốn sổ này,
+
+307
+00:27:13,810 --> 00:27:17,470
+và những biện pháp tàn bạo hơn
+để móc ra được những gì tôi cần.
+
+308
+00:27:17,500 --> 00:27:19,840
+Tôi chẳng mong muốn
+phải mạnh tay đâu.
+
+309
+00:27:21,130 --> 00:27:25,240
+Anh biết đấy, anh có thể chết vì...
+lòng kiêu hãnh của mình.
+
+310
+00:27:39,810 --> 00:27:42,760
+HYDRA muôn năm.
+
+311
+00:27:53,600 --> 00:27:57,690
+Bộ trưởng Ross, có một Huân chương Danh dự Hoa Kỳ,
+tức là nhiều hơn 1 so với của anh.
+
+312
+00:27:57,710 --> 00:27:59,270
+<i>Cứ giả sử là
+ta đồng ý ký hiệp định.</i>
+
+313
+00:27:59,300 --> 00:28:01,170
+<i>Còn bao lâu trước khi mà
+họ đeo cái vòng theo dõi ta</i>
+
+314
+00:28:01,190 --> 00:28:02,500
+<i>giống như đống bọn tội phạm thông thường?</i>
+
+315
+00:28:02,730 --> 00:28:05,270
+117 nước muốn kí hiệp định này.
+
+316
+00:28:05,290 --> 00:28:07,510
+117, Sam, và sẽ đến lúc cậu tỏ vẻ kiểu
+"À, hiệp định này cũng được đấy".
+
+317
+00:28:07,530 --> 00:28:08,980
+Còn cậu thì định làm cho
+cả hai phe đến bao giờ?
+
+318
+00:28:09,010 --> 00:28:12,570
+- Tôi muốn nói công bằng thế này.
+- Oh, điều này sẽ giải quyết hiểu lầm đây.
+
+319
+00:28:12,780 --> 00:28:15,910
+Trong 8 năm kể từ khi ngài Stark
+tuyên bố mình với tư cách Iron Man,
+
+320
+00:28:15,940 --> 00:28:20,450
+số người có siêu sức mạnh
+tăng lên theo cấp số nhân.
+
+321
+00:28:20,470 --> 00:28:22,660
+Và cũng trong khoảng thời gian đó,
+
+322
+00:28:22,680 --> 00:28:24,710
+số sự kiện có khả năng
+hủy diệt thế giới
+
+323
+00:28:24,740 --> 00:28:26,540
+cũng tăng lên
+với tốc độ diễn ra các sự kiện đó.
+
+324
+00:28:26,560 --> 00:28:28,230
+Cậu đang nói đó là lỗi của chúng ta?
+
+325
+00:28:28,250 --> 00:28:31,060
+Ý tôi là có thể có một nguyên nhân.
+
+326
+00:28:32,700 --> 00:28:35,370
+Sức mạnh của chúng ta
+"mời gọi" thách thức.
+
+327
+00:28:35,390 --> 00:28:38,280
+Thách thức lại "khuyến khích" xung đột.
+
+328
+00:28:38,300 --> 00:28:43,830
+Và xung đột... sinh ra thảm họa.
+
+329
+00:28:44,170 --> 00:28:45,950
+Giám sát.
+
+330
+00:28:47,850 --> 00:28:50,900
+Giám sát không phải là một quan niệm
+có thể bị bác bỏ ngoài tầm kiểm soát.
+
+331
+00:28:50,930 --> 00:28:52,200
+Boom.
+
+332
+00:28:52,370 --> 00:28:56,850
+Tony, anh có vẻ không bị tác động gì
+giống tính cách hằng ngày của anh nhỉ?
+
+333
+00:28:56,870 --> 00:28:58,390
+Vì anh ta đã đưa ra quyết định rồi.
+
+334
+00:28:58,410 --> 00:29:00,200
+Chàng trai, cậu biết tôi rõ quá.
+
+335
+00:29:01,430 --> 00:29:04,660
+Thực ra, tôi đang chăm sóc
+cái đầu đau vì điện từ của tôi.
+
+336
+00:29:04,680 --> 00:29:05,920
+Đó là những gì đang xảy ra, Cap.
+
+337
+00:29:05,940 --> 00:29:10,150
+Chỉ là nỗi đau...
+ống hút cần nói chuyện đấy.
+
+338
+00:29:10,180 --> 00:29:12,920
+Ai để bã cà phê
+trong tấm lọc bồn rửa bát thế này?
+
+339
+00:29:12,950 --> 00:29:15,840
+Không lẽ tôi lại đang cấp chỗ qua đêm
+cho một băng đua xe sao?
+
+340
+00:29:22,010 --> 00:29:24,580
+À, tiện thể thì đây là Charles Spencer.
+
+341
+00:29:24,610 --> 00:29:26,930
+Thằng bé rất tuyệt.
+Có bằng Kĩ sư máy tính.
+
+342
+00:29:26,960 --> 00:29:28,860
+Điểm GPA 3.6.
+
+343
+00:29:28,880 --> 00:29:31,740
+Cậu ta có một công việc tạm thời.
+Cả kế hoạch vào Intel vào mùa thu nữa.
+
+344
+00:29:31,760 --> 00:29:34,350
+Nhưng trước tiên, cậu ta muốn
+trang bị cho mình vài thứ đã,
+
+345
+00:29:34,380 --> 00:29:36,160
+trước khi trở thành
+một nhân viên văn phòng.
+
+346
+00:29:36,190 --> 00:29:38,990
+Nhìn ngắm thế giới,
+mà có lẽ là vào quân đội.
+
+347
+00:29:39,470 --> 00:29:42,060
+Charlie không muốn đến Vegas,
+việc mà tôi sẽ làm nếu là cậu ấy.
+
+348
+00:29:42,090 --> 00:29:45,370
+Cậu ấy không muốn đến Paris hay Amsterdam.
+Nghe có vẻ vui.
+
+349
+00:29:45,390 --> 00:29:48,850
+Cậu quyết định dành cả mùa hè để đi xây
+những ngôi nhà chắc chắn cho người nghèo.
+
+350
+00:29:48,880 --> 00:29:51,010
+Đoán xem ở đâu, Sokovia đấy.
+
+351
+00:29:54,490 --> 00:29:56,550
+Cậu muốn làm nên điều khác biệt, tôi nghĩ thế.
+Ý tôi là, ta cũng sẽ chẳng biết được,
+
+352
+00:29:56,580 --> 00:30:00,130
+vì chúng ta đã thả cả một tòa nhà lên cậu ta
+lúc chúng ta đang "hăng hái" làm việc.
+
+353
+00:30:07,670 --> 00:30:10,200
+Chẳng có quyết định nào
+được tạo ra ở đây hết.
+
+354
+00:30:11,940 --> 00:30:13,610
+Chúng ta cần phải
+được đặt trong tầm kiểm soát.
+
+355
+00:30:13,630 --> 00:30:15,760
+Dù điều đó có dưới hình thức nào đi nữa,
+tôi sẵn sàng.
+
+356
+00:30:15,790 --> 00:30:17,800
+Nếu chúng ta không chấp nhận bị hạn chế,
+không ràng buộc,
+
+357
+00:30:17,820 --> 00:30:20,340
+thì ta cũng chẳng tốt đẹp hơn gì những kẻ xấu.
+
+358
+00:30:20,370 --> 00:30:22,940
+Tony, nếu ai đó chết vì chúng ta,
+thì ta cũng không được bỏ cuộc.
+
+359
+00:30:22,970 --> 00:30:24,110
+Ai nói chúng ta bỏ cuộc?
+
+360
+00:30:24,140 --> 00:30:26,770
+Chúng ta không chịu trách nhiệm
+cho hành động của mình.
+
+361
+00:30:26,800 --> 00:30:30,400
+- Những tài liệu này lại đổ trách nhiệm lên chúng ta.
+- Xin lỗi. Steve. Điều đó...
+
+362
+00:30:30,430 --> 00:30:32,080
+Đó là tính kiêu ngạo nguy hiểm đấy.
+
+363
+00:30:32,110 --> 00:30:34,170
+Chúng ta đang nói về
+Liên Hợp Quốc.
+
+364
+00:30:34,200 --> 00:30:37,940
+Nó không phải là hội đồng an ninh thế giới,
+không phải SHIELD, cũng chả phải HYDRA.
+
+365
+00:30:37,960 --> 00:30:40,790
+Không, nhưng nó hoạt động dưới những người
+phải họp hành, và họp hành thì hay thay đổi.
+
+366
+00:30:40,810 --> 00:30:42,730
+Tốt. Đó là lí do tôi ở đây.
+
+367
+00:30:42,760 --> 00:30:45,780
+Khi tôi nhận ra rằng vũ khí của mình
+có khả năng lọt vào tay kẻ địch,
+
+368
+00:30:45,800 --> 00:30:47,140
+Tôi tiêu hủy
+và ngừng sản xuất chúng.
+
+369
+00:30:47,160 --> 00:30:49,820
+Tony.
+Anh chọn làm điều đó.
+
+370
+00:30:49,850 --> 00:30:53,240
+Nếu ta kí hiệp định này,
+chúng ta sẽ mất quyền lựa chọn.
+
+371
+00:30:53,710 --> 00:30:56,110
+Sẽ thế nào nếu ban hội thẩm cử ta đến một nơi
+mà ta nghĩ không nên đến.
+
+372
+00:30:56,130 --> 00:30:59,040
+Sẽ thế nào nếu ta muốn đến một nơi,
+và họ không cho phép chúng ta đi?
+
+373
+00:30:59,060 --> 00:31:02,190
+Chúng ta có thể không hoàn hảo,
+nhưng tự mình quyết định vẫn là an toàn nhất.
+
+374
+00:31:02,220 --> 00:31:06,740
+Nếu ta không kí,
+thì rồi họ cũng sẽ cho ta về vườn.
+
+375
+00:31:06,770 --> 00:31:08,430
+Đó là sự thật.
+Chẳng đẹp đẽ cho lắm.
+
+376
+00:31:08,460 --> 00:31:11,440
+- Ông đang nói là họ sẽ đến bắt tôi?
+- Chúng tôi sẽ bảo vệ cô.
+
+377
+00:31:11,470 --> 00:31:13,350
+Có thể Tony nói đúng.
+
+378
+00:31:14,380 --> 00:31:18,680
+Nếu, chúng ta còn một tay cầm tay lái,
+thì ta vẫn có thể điều khiển xe được.
+
+379
+00:31:19,040 --> 00:31:22,410
+Cô chắc không phải người mà vài năm trước
+đã nói Chính Phủ bợ đít chúng tôi vài năm trước đấy nhỉ?
+
+380
+00:31:22,440 --> 00:31:25,340
+Tôi chỉ... lắng nghe ý kiến thôi.
+
+381
+00:31:25,370 --> 00:31:28,750
+Chúng ta đã gây ra
+vài sai lầm rất công khai.
+
+382
+00:31:28,780 --> 00:31:30,950
+Ta cần chiếm lại lòng tin của họ.
+
+383
+00:31:30,970 --> 00:31:33,790
+Tôi xin lỗi, có phải tôi nghe không rõ
+hay là cô đang đồng ý với tôi thế?
+
+384
+00:31:33,810 --> 00:31:36,360
+- Oh, tôi muốn rút lại lời ban nãy rồi.
+- Không, không. Cô không thể rút lại.
+
+385
+00:31:36,390 --> 00:31:39,060
+<i>Cảm ơn cô.
+Tôi ấn tượng vì những gì cô nói.</i>
+
+386
+00:31:39,130 --> 00:31:40,830
+<i>Được rồi, vụ này đóng lại đã.</i>
+
+387
+00:31:40,850 --> 00:31:42,960
+- <i>Tôi thắng.</i>
+<font color=#00FFFF><i>Bà ấy đi rồi. Đã nhắm mắt</i></font>
+
+388
+00:31:42,980 --> 00:31:44,730
+Tôi phải đi.
+
+389
+00:31:57,640 --> 00:32:00,990
+<font color=#B2FBFF>LONDON
+(Anh)</font>
+
+390
+00:32:20,160 --> 00:32:25,320
+<font color=#00FFFF>MARGARET "PEGGY" CARTER</font>
+
+391
+00:32:26,250 --> 00:32:27,540
+Và bây giờ,
+
+392
+00:32:27,570 --> 00:32:32,830
+tôi muốn mời Sharon Carter,
+lên đây và phát biểu vài điều.
+
+393
+00:32:45,210 --> 00:32:48,900
+Margaret Carter được biết đến nhiều nhất
+với tư cách là một người thành lập SHIELD.
+
+394
+00:32:49,440 --> 00:32:52,290
+Nhưng tôi chỉ biết bà ấy
+với tư cách là dì Peggy.
+
+395
+00:32:53,810 --> 00:32:55,930
+Dì ấy có một bức ảnh trong văn phòng của mình.
+
+396
+00:32:55,960 --> 00:32:59,390
+Dì Peggy đứng cạnh JFK.
+<font color=#FFF672>(<i>JFK: Kennedy, Tổng thống Mỹ</i>)</font>
+
+397
+00:32:59,930 --> 00:33:01,960
+Hồi còn là một đứa trẻ
+thì điều đó thật tuyệt vời.
+
+398
+00:33:01,990 --> 00:33:04,220
+Nhưng thực ra đó là điều
+để tôi cố gắng làm được như dì ấy.
+
+399
+00:33:04,240 --> 00:33:07,560
+Đó cũng là lí do mà tôi không bao giờ
+nói với ai rằng chúng tôi có quan hệ dì cháu.
+
+400
+00:33:08,220 --> 00:33:12,440
+Có một lần tôi hỏi dì rằng
+làm sao dì có thể làm tốt ngoại giao và hoạt động gián điệp,
+
+401
+00:33:12,470 --> 00:33:17,250
+tại cái thời điểm mà không ai muốn
+thấy phụ nữ thành công ở lĩnh vực đó.
+
+402
+00:33:17,270 --> 00:33:20,130
+Và dì nói rằng,
+cứ thỏa hiệp nếu mình có thể.
+
+403
+00:33:20,150 --> 00:33:23,640
+Ở nơi nào không thỏa hiệp được thì đừng.
+
+404
+00:33:24,130 --> 00:33:30,050
+Ngay cả khi tất cả mọi người với bạn rằng
+điều sai trái là điều đúng đắn.
+
+405
+00:33:30,080 --> 00:33:33,250
+Ngay cả khi cả thế giới
+thuyết phục bạn cất bước.
+
+406
+00:33:33,280 --> 00:33:37,270
+Nuôi dưỡng bản thân vững chãi như một cái cây,
+đó là nhiệm vụ của bạn.
+
+407
+00:33:37,290 --> 00:33:40,030
+Hãy nhìn vào mắt họ và nói
+"<i>Không...</i>
+
+408
+00:33:40,050 --> 00:33:41,920
+<i>bạn mới là người phải cất bước.</i>"
+
+409
+00:33:53,430 --> 00:33:55,740
+Khi tôi rã đóng băng,
+
+410
+00:33:55,760 --> 00:33:58,270
+cứ nghĩ là tôi muốn không nhận ra
+rằng cô ấy đã ra đi.
+
+411
+00:33:58,780 --> 00:34:01,340
+Khi tôi biết rằng cô ấy còn sống,
+
+412
+00:34:02,080 --> 00:34:04,150
+Chỉ là tôi quá may mắn
+khi có được cô ấy.
+
+413
+00:34:04,170 --> 00:34:06,660
+Cô ấy cũng luôn mong ngóng tin của anh.
+
+414
+00:34:08,190 --> 00:34:10,170
+Có những ai kí?
+
+415
+00:34:10,190 --> 00:34:13,630
+Tony, Rhodey, Vision.
+
+416
+00:34:14,120 --> 00:34:15,760
+Clint?
+
+417
+00:34:15,900 --> 00:34:17,490
+Nói rằng anh ấy nghỉ hưu rồi.
+
+418
+00:34:17,510 --> 00:34:20,240
+- Wanda?
+- Vẫn bất định.
+
+419
+00:34:20,770 --> 00:34:23,760
+Tôi đang trên đường
+đến Vienna để kí Hiệp định.
+
+420
+00:34:23,790 --> 00:34:26,210
+Còn rất nhiều chỗ
+trên máy bay đấy.
+
+421
+00:34:29,260 --> 00:34:34,580
+Chỉ vì đó là con đường dễ nhất,
+không có nghĩa là con đường sai lầm.
+
+422
+00:34:34,600 --> 00:34:37,840
+Sát cánh cùng nhau còn quan trọng hơn
+cái cách mà chúng ta ở bên cạnh nhau.
+
+423
+00:34:38,530 --> 00:34:40,620
+Để kí hiệp đình
+thì rồi ta phải bỏ đi thứ gì đây?
+
+424
+00:34:44,810 --> 00:34:48,340
+Xin lỗi, Nat.
+Tôi không kí được.
+
+425
+00:34:49,280 --> 00:34:50,920
+Tôi hiểu.
+
+426
+00:34:52,860 --> 00:34:54,700
+Vậy thì...
+Cô đang làm gì ở đây?
+
+427
+00:34:57,130 --> 00:34:59,430
+Tôi không muốn để anh một mình.
+
+428
+00:35:05,990 --> 00:35:07,380
+Lại đây nào.
+
+429
+00:35:09,400 --> 00:35:12,550
+<font color=#B2FBFF>VIENNA
+(Áo)</font>
+
+430
+00:35:12,700 --> 00:35:15,620
+<i>Tại một hội nghị đặc biệt của Liên Hợp Quốc,</i>
+
+431
+00:35:15,640 --> 00:35:21,620
+<i>117 quốc gia đã cùng nhau
+phê chuẩn Hiệp định Sokovia.</i>
+
+432
+00:35:25,190 --> 00:35:26,850
+- <i>Xin lỗi, Cô Romanoff?</i>
+- <i>Vâng</i>.
+
+433
+00:35:26,870 --> 00:35:28,850
+<i>Tôi cần cô kí vào đây.</i>
+
+434
+00:35:30,060 --> 00:35:31,680
+- Cảm ơn cô.
+- Cảm ơn.
+
+435
+00:35:32,490 --> 00:35:36,090
+Tôi cho rằng cả hai chúng ta
+đều từng là tâm điểm của báo chí đấy.
+
+436
+00:35:36,120 --> 00:35:39,320
+Chà. Báo chí không phải
+lúc nào cũng tâng bốc.
+
+437
+00:35:39,350 --> 00:35:42,320
+Tính đến giờ thì có vẻ
+cô vẫn đang làm rất tốt.
+
+438
+00:35:42,340 --> 00:35:44,670
+Hãy cân nhắc chuyến đi cuối cùng
+của cô đến Capitol Hill.
+<font color=#FFF672>(Capitol Hill ám chỉ Quốc hội Mỹ)</font>
+
+439
+00:35:44,710 --> 00:35:48,180
+Tôi không nghĩ là cô sẽ thoải mái
+khi ở cùng nhóm người này đâu.
+
+440
+00:35:48,200 --> 00:35:49,660
+Đúng là tôi cảm thấy thế thật.
+
+441
+00:35:49,690 --> 00:35:52,570
+Mặc dù đứng đây một mình, nhưng dù sao tôi
+rất vui vì cô cũng có mặt, Cô Romanoff.
+
+442
+00:35:52,600 --> 00:35:54,170
+Tại sao...
+Ngài không thông qua hiệp định này?
+
+443
+00:35:54,200 --> 00:35:58,170
+Hiệp định, thì có.
+Nhưng chính trị, thì không hẳn.
+
+444
+00:35:58,190 --> 00:36:01,880
+Hai người, trong một căn phòng,
+có thể làm việc tốt hơn cả 100 người.
+
+445
+00:36:01,900 --> 00:36:04,520
+Trừ trường hợp họ muốn
+di chuyển một cây đàn piano
+
+446
+00:36:04,540 --> 00:36:06,680
+- Chào cha.
+- Con trai.
+
+447
+00:36:06,710 --> 00:36:08,490
+- Cô Romanoff.
+- Kính chào vua T'Chaka.
+
+448
+00:36:08,520 --> 00:36:12,160
+Cho phép tôi được xin lỗi
+vì vụ việc xảy ra ở Nigeria.
+
+449
+00:36:12,190 --> 00:36:13,810
+Cảm ơn cô.
+
+450
+00:36:13,840 --> 00:36:16,090
+Cảm ơn cô đã đồng ý kí hiệp định.
+
+451
+00:36:16,110 --> 00:36:19,760
+Tôi rất buồn khi nghe tin rằng Đội trưởng Rogers
+sẽ không tham dự cùng với chúng ta ngày hôm nay.
+
+452
+00:36:19,790 --> 00:36:22,150
+- Vâng, tôi cũng rất tiếc.
+- <i>Mọi người, xin hãy ổn định chỗ ngồi.</i>
+
+453
+00:36:22,180 --> 00:36:24,700
+<i>Cuộc họp sẽ bắt đầu ngay bây giờ.</i>
+
+454
+00:36:25,230 --> 00:36:27,440
+Lời kêu gọi của tương lai đấy.
+
+455
+00:36:28,290 --> 00:36:29,660
+Rất hân hạnh.
+
+456
+00:36:29,680 --> 00:36:31,200
+Cảm ơn cô.
+
+457
+00:36:31,960 --> 00:36:36,350
+<font color=#FFFF00><i>Với một chàng trai
+phản đối ngoại giao</i></font>
+
+458
+00:36:36,370 --> 00:36:38,520
+<font color=#FFFF00><i>thì con đang khá tiến bộ rồi đấy.</i></font>
+
+459
+00:36:38,540 --> 00:36:41,040
+<font color=#FFFF00><i>Con rất vui, thưa Cha.</i></font>
+
+460
+00:36:45,220 --> 00:36:46,820
+<font color=#FFFF00><i>Cảm ơn con.</i></font>
+
+461
+00:36:47,120 --> 00:36:48,890
+<font color=#FFFF00><i>Cảm ơn cha.</i></font>
+
+462
+00:36:49,110 --> 00:36:54,580
+<i>Khi mà vibranium của Wakanda bị đánh cắp
+để tạo ra một vũ khí hủy diệt khủng khiếp,</i>
+
+463
+00:36:54,610 --> 00:36:59,070
+<i>chúng tôi, những người sống trong Wakanda
+đã được thúc đẩy tiến tới việc đặt vấn đề về di sản của mình.</i>
+
+464
+00:36:59,100 --> 00:37:03,300
+Những đàn ông và phụ nữ đã bị giết ở Nigeria,
+là một phần trong nhiệm vụ cao cả đó,
+
+465
+00:37:03,320 --> 00:37:06,800
+đến từ một đất nước nằm trong
+bó buộc ngoại giao đã quá lâu rồi.
+
+466
+00:37:06,990 --> 00:37:11,250
+Bằng bất cứ cách nào đi nữa, chúng tôi sẽ
+không để sự bất hạnh đẩy chúng tôi lùi lại.
+
+467
+00:37:11,280 --> 00:37:15,440
+Chúng tôi sẽ chiến đấu để chứng minh
+với thế giới rằng chúng tôi muốn được tham gia.
+
+468
+00:37:15,470 --> 00:37:20,190
+Tôi rất biết ơn nhóm Avengers
+đã ủng hộ sáng kiến này.
+
+469
+00:37:21,360 --> 00:37:25,320
+<i>Wakanda tự hào mở rộng
+vòng tay của mình trong hòa bình.</i>
+
+470
+00:37:25,340 --> 00:37:27,630
+Tất cả nằm xuống!
+
+471
+00:38:01,770 --> 00:38:04,650
+Mẹ tôi cố gắng thuyết phục tôi
+gia nhập quân đội, nhưng...
+
+472
+00:38:04,670 --> 00:38:06,110
+tôi không như dì Peggy.
+
+473
+00:38:06,130 --> 00:38:08,700
+Bà đã cho tôi
+cái bao da đựng súng đầu tiên.
+
+474
+00:38:08,730 --> 00:38:12,300
+- Rất thực tế.
+- Và hợp thời trang nữa.
+
+475
+00:38:17,930 --> 00:38:20,020
+Bây giờ CIA cử cô đóng quân tại đây à?
+
+476
+00:38:20,050 --> 00:38:23,580
+- Ở Berlin cơ, bên lực lượng khủng bố và đặc nhiệm.
+- Được đấy.
+
+477
+00:38:23,600 --> 00:38:26,440
+- Có vẻ vui đấy.
+- Tôi biết đúng là thế.
+
+478
+00:38:29,040 --> 00:38:31,370
+Tôi vẫn có ý hỏi cô.
+
+479
+00:38:31,400 --> 00:38:34,350
+Khi cô làm nhiệm vụ theo dõi tôi
+ở phòng bên kia sảnh...
+
+480
+00:38:34,370 --> 00:38:36,880
+Ý anh là khi tôi
+làm việc của mình sao?
+
+481
+00:38:39,050 --> 00:38:40,810
+Peggy có biết không?
+
+482
+00:38:42,630 --> 00:38:44,860
+Dì ấy đã giữ rất nhiều bí mật.
+
+483
+00:38:45,470 --> 00:38:47,810
+Tôi không muốn dì ấy
+phải nhớ về anh nữa.
+
+484
+00:38:51,390 --> 00:38:54,530
+- Cảm ơn vì đưa tôi về.
+- Không có gì.
+
+485
+00:38:57,770 --> 00:39:01,160
+Steve.
+Có tin mà anh muốn xem đấy.
+
+486
+00:39:01,180 --> 00:39:03,070
+<i>Một quả bom giấu trong
+một chiếc xe làm truyền hình...</i>
+
+487
+00:39:03,100 --> 00:39:05,310
+<i>...đã phát nổ xuyên tòa nhà Liên Hợp Quốc tại Vienna.</i>
+- Ai đang lo việc ở đó?
+
+488
+00:39:05,340 --> 00:39:08,750
+<i>Hơn 70 người bị thương.
+Ít nhất 12 người chết.</i>
+
+489
+00:39:08,770 --> 00:39:11,370
+<i>Bao gồm cả Vua T'Chaka của Wakanda.</i>
+
+490
+00:39:11,400 --> 00:39:13,680
+<i>Các viên chức đã tung ra một
+đoạn video về nghi phạm,</i>
+
+491
+00:39:13,700 --> 00:39:17,490
+<i>được xác định là James Buchanan Barnes,
+Chiến Binh Mùa Đông.</i>
+
+492
+00:39:17,510 --> 00:39:20,630
+<i>Điệp vụ HYDRA khét tiếng này
+liên quan đến rất nhiều hành động khủng bố</i>
+
+493
+00:39:20,660 --> 00:39:22,430
+<i>và các vụ ám sát chính trị.</i>
+
+494
+00:39:22,460 --> 00:39:24,320
+Tôi phải đi làm việc đây.
+
+495
+00:39:29,540 --> 00:39:36,300
+Gọi MI6, thử xem ta có kết quả
+Pháp y Vi sinh vật để đẩy nhanh tiến độ.
+
+496
+00:39:45,920 --> 00:39:47,750
+Tôi rất tiếc.
+
+497
+00:39:53,900 --> 00:39:59,090
+Trong nền văn hóa của chúng tôi,
+cái chết không phải là kết thúc.
+
+498
+00:40:00,300 --> 00:40:03,730
+Nó chỉ là... một giai đoạn
+bước đi đến một nơi khác.
+
+499
+00:40:04,460 --> 00:40:08,280
+Chúng tôi dang rộng hai bàn tay
+và đắm mình... trong giai đoạn đó.
+
+500
+00:40:08,300 --> 00:40:11,400
+Họ sẽ dẫn chúng tôi
+đến thung lũng xanh ngắt, nơi mà...
+
+501
+00:40:12,080 --> 00:40:14,050
+chúng tôi có thể chạy trên đó mãi mãi.
+
+502
+00:40:15,210 --> 00:40:17,720
+Điều đó có vẻ rất yên bình.
+
+503
+00:40:18,120 --> 00:40:20,540
+Cha tôi cũng nghĩ vậy.
+
+504
+00:40:22,020 --> 00:40:24,470
+Tôi không phải là cha tôi.
+
+505
+00:40:24,490 --> 00:40:26,140
+T'Challa.
+
+506
+00:40:26,170 --> 00:40:29,470
+Lực Lượng Đặc Nhiệm sẽ quyết định
+những người đi bắt Barnes.
+
+507
+00:40:30,930 --> 00:40:33,240
+Đừng bận tâm, Cô Romanoff.
+
+508
+00:40:34,150 --> 00:40:36,370
+Tôi sẽ tự tay giết hắn.
+
+509
+00:40:42,610 --> 00:40:44,320
+- Sao thế?
+- Cô ổn chứ?
+
+510
+00:40:44,340 --> 00:40:47,980
+<i>Ừ đúng rồi, cảm ơn anh.
+Tôi gặp may.</i>
+
+511
+00:40:53,230 --> 00:40:57,390
+Tôi biết Barnes có ý nghĩa với anh như thế nào.
+Tôi rất hiểu.
+
+512
+00:40:58,000 --> 00:40:59,740
+Hãy ở nhà đi.
+
+513
+00:40:59,760 --> 00:41:03,770
+Anh sẽ chỉ làm việc này tệ hơn
+cho tất cả chúng ta thôi. Làm ơn đấy.
+
+514
+00:41:03,800 --> 00:41:06,540
+- Cô đang nói là sẽ bắt tôi?
+- Không.
+
+515
+00:41:07,820 --> 00:41:10,960
+Ai đó sẽ bắt anh, nếu anh can thiệp.
+Đó là cách mà hiệp định hoạt động.
+
+516
+00:41:10,980 --> 00:41:13,030
+Nếu cậu ấy đã đi tới nước này thì...
+
+517
+00:41:13,050 --> 00:41:14,420
+Tôi nên là người
+mang cậu ấy về.
+
+518
+00:41:14,450 --> 00:41:15,440
+Tại sao?
+
+519
+00:41:15,480 --> 00:41:18,190
+Vì tôi là người có ít khả năng chết nhất
+khi cố làm việc này.
+
+520
+00:41:20,320 --> 00:41:21,880
+Chết tiệt.
+
+521
+00:41:25,600 --> 00:41:27,600
+Cô ấy nói anh tránh xa
+vụ này phải không?
+
+522
+00:41:29,270 --> 00:41:31,680
+- Cũng phải suy nghĩ đấy.
+- Cậu ấy sẽ ra đầu thú vì tôi.
+
+523
+00:41:31,700 --> 00:41:33,280
+Vào năm 1945
+thì có thể đúng.
+
+524
+00:41:33,310 --> 00:41:36,190
+Tôi chỉ muốn chắn chắn rằng
+chúng ta đã cân nhắc hết tất cả lựa chọn.
+
+525
+00:41:36,210 --> 00:41:40,300
+Những người thường chĩa súng vào anh
+rồi cũng chĩa súng sang tôi.
+
+526
+00:41:41,930 --> 00:41:44,650
+Tiền thưởng truy nã cứ được đổ ra
+từ khi đoạn bằng được công khai.
+
+527
+00:41:44,670 --> 00:41:47,160
+Ai cũng nghĩ Chiến Binh Mùa Đông
+đi đến phòng tập gym của mình.
+
+528
+00:41:47,180 --> 00:41:50,650
+Hầu hết là tin vịt,
+trừ tin này.
+
+529
+00:41:52,030 --> 00:41:54,630
+Sếp tôi mong muốn một cuộc họp
+và ông ta biết khá nhiều, nên...
+
+530
+00:41:54,660 --> 00:41:56,700
+đó là tất cả câu trả lời
+mà anh sẽ được hỏi.
+
+531
+00:41:56,890 --> 00:41:59,790
+- Cảm ơn cô.
+- Và các anh phải khẩn trương lên.
+
+532
+00:42:00,080 --> 00:42:02,590
+Chúng tôi có lệnh bắn ngay khi thấy đấy.
+
+533
+00:42:04,930 --> 00:42:06,930
+<font color=#FFFF00><i>Về nhà.</i></font>
+
+534
+00:42:13,980 --> 00:42:15,980
+<font color=#FFFF00><i>Một.</i></font>
+
+535
+00:42:20,050 --> 00:42:22,050
+<font color=#FFFF00><i>Xe chuyên chở.</i></font>
+
+536
+00:42:32,600 --> 00:42:35,830
+<font color=#FFFF00><i>Ông Muller,
+tôi mang bữa sáng đến.</i></font>
+
+537
+00:42:39,810 --> 00:42:42,110
+<font color=#FFFF00><i>Tôi còn có thể ngửi được mùi thơm
+trước cả khi mở cửa đấy. Cảm ơn cô.</i></font>
+
+538
+00:42:42,130 --> 00:42:44,830
+<font color=#FFFF00><i>Lại là thịt xông khói và cà phê đen.</i></font>
+
+539
+00:42:44,850 --> 00:42:46,560
+<font color=#FFFF00><i>Tôi có đổi cho ông cái khác,
+nếu ông muốn.</i></font>
+
+540
+00:42:46,590 --> 00:42:47,970
+<font color=#FFFF00><i>Không sao.
+Thế này là quá tuyệt.</i></font>
+
+541
+00:42:47,990 --> 00:42:49,330
+<font color=#FFFF00><i>- Tôi sẽ đặt thức ăn lên...
+- Không, không.</i></font>
+
+542
+00:42:49,360 --> 00:42:51,930
+<font color=#FFFF00><i>Không sao đâu.
+Tôi tự làm được.</i></font>
+
+543
+00:43:15,040 --> 00:43:19,220
+<font color=#B2FBFF>BUCHAREST
+(Thủ đô Romania)</font>
+
+544
+00:44:24,720 --> 00:44:25,900
+<i>Cảnh báo, Cap.</i>
+
+545
+00:44:25,920 --> 00:44:28,620
+<i>Lực lượng đặc biệt của Đức
+đang tiếp cận từ phía Nam.</i>
+
+546
+00:44:29,020 --> 00:44:30,610
+Hiểu rồi.
+
+547
+00:44:39,210 --> 00:44:40,840
+Cậu biết tôi chứ?
+
+548
+00:44:43,200 --> 00:44:44,920
+Anh là Steve.
+
+549
+00:44:45,510 --> 00:44:47,580
+Tôi đã đọc về anh ở bảo tàng.
+
+550
+00:44:47,800 --> 00:44:49,760
+<i>Họ đã lập vòng vây.</i>
+
+551
+00:44:51,180 --> 00:44:53,080
+Tôi biết cậu lo lắng.
+
+552
+00:44:53,190 --> 00:44:55,380
+Và cậu có nhiều lí do để lo lắng.
+
+553
+00:44:56,320 --> 00:44:58,120
+Nhưng cậu đang nói dối.
+
+554
+00:44:58,930 --> 00:45:00,950
+Hôm đó tôi không ở Vienna.
+Tôi không còn làm những việc như vậy nữa.
+
+555
+00:45:00,980 --> 00:45:02,300
+<i>Họ đang bước vào tòa nhà.</i>
+
+556
+00:45:02,330 --> 00:45:05,060
+Thì những người nghĩ cậu làm việc đó
+đang đến ngay bây giờ.
+
+557
+00:45:05,090 --> 00:45:06,840
+Và họ không tính sẽ bắt sống cậu về đâu.
+
+558
+00:45:06,860 --> 00:45:10,430
+Thông minh đấy.
+Chiến lược tốt.
+
+559
+00:45:11,300 --> 00:45:13,690
+<i>Họ đang ở trên mái.
+Tôi có thể gặp nguy.</i>
+
+560
+00:45:16,160 --> 00:45:18,730
+Lần này không cần phải
+kết thúc bằng vũ lực đâu, Buck.
+
+561
+00:45:23,220 --> 00:45:25,800
+- Kết thúc luôn là một cuộc chiến.
+- <i>5 giây.</i>
+
+562
+00:45:25,830 --> 00:45:29,640
+Cậu kéo tôi lên từ đáy sông.
+Tại sao?
+
+563
+00:45:30,060 --> 00:45:31,890
+- Tôi không biết.
+- <i>3 giây!</i>
+
+564
+00:45:31,920 --> 00:45:33,430
+Có, cậu có biết đấy.
+
+565
+00:45:34,610 --> 00:45:36,890
+<i>Chọc thủng! Lỗ thủng!</i>
+
+566
+00:45:40,010 --> 00:45:41,760
+<font color=#FFFF00><i>Phá cửa!</i></font>
+
+567
+00:45:56,640 --> 00:45:58,440
+Buck, dừng lại!
+
+568
+00:45:58,470 --> 00:46:00,400
+Cậu sẽ giết người mất.
+
+569
+00:46:02,440 --> 00:46:04,550
+Tôi chẳng định giết ai hết.
+
+570
+00:46:49,640 --> 00:46:52,810
+<font color=#FFFF00><i>Nghi phạm đã phá vòng vây.
+Hắn nhắm xuống hướng đông cầu thang bộ.</i></font>
+
+571
+00:47:04,120 --> 00:47:05,470
+Thôi nào!
+
+572
+00:48:09,650 --> 00:48:12,340
+- Sam, phía nam. Sân thượng.
+- <i>Gã kia là thằng quái nào thế?</i>
+
+573
+00:48:12,370 --> 00:48:14,230
+Tôi sắp biết rồi đây.
+
+574
+00:48:26,500 --> 00:48:28,590
+- Sam.
+- Lo được rồi.
+
+575
+00:49:09,950 --> 00:49:11,750
+Đứng lại!
+
+576
+00:49:14,130 --> 00:49:15,790
+Đầu hàng đi!
+
+577
+00:49:43,890 --> 00:49:47,280
+- Sam, tôi không cắt đuôi được gã này.
+- Ngay đằng sau anh đây.
+
+578
+00:51:21,720 --> 00:51:24,540
+<i>Đầu hàng.
+Ngay lập tức.</i>
+
+579
+00:51:30,950 --> 00:51:35,030
+<i>Chúc mừng, Captain.
+Anh là tội phạm.</i>
+
+580
+00:51:57,320 --> 00:51:59,230
+<i>Bệ hạ.</i>
+
+581
+00:52:05,080 --> 00:52:07,220
+Một nhúm ớt bột.
+
+582
+00:52:07,450 --> 00:52:09,130
+Một nhúm.
+
+583
+00:52:12,210 --> 00:52:14,010
+Là món paprikash sao?
+
+584
+00:52:14,030 --> 00:52:18,410
+Tôi nghĩ nó có thể...
+làm cô thấy tốt hơn.
+
+585
+00:52:30,960 --> 00:52:33,270
+Tinh thần đã tốt hơn.
+
+586
+00:52:34,400 --> 00:52:38,170
+Để bảo vệ mình,
+thì tôi thực ra...
+
+587
+00:52:38,360 --> 00:52:40,780
+- ăn bất kì thứ gì trước đây, vậy nên.
+- Được, đồng ý.
+
+588
+00:52:40,810 --> 00:52:42,230
+Mời cô.
+
+589
+00:52:48,660 --> 00:52:50,590
+- Wanda.
+- Hmm.
+
+590
+00:52:50,610 --> 00:52:53,000
+Chẳng ai mà <i>không</i> ưa cô cả, Wanda.
+
+591
+00:52:54,710 --> 00:52:56,510
+- Cảm ơn.
+- Oh, không có gì.
+
+592
+00:52:56,530 --> 00:53:00,250
+Không. Đó là một...
+phản hồi vô thức trong bán cầu não của họ,
+
+593
+00:53:00,280 --> 00:53:02,450
+họ không thể cưỡng lại
+nhưng họ lại sợ cô.
+
+594
+00:53:02,470 --> 00:53:03,700
+Anh có sợ không?
+
+595
+00:53:03,730 --> 00:53:06,430
+Bán cầu não của tôi là tổng hợp, nên...
+
+596
+00:53:09,020 --> 00:53:12,070
+Tôi từng nghĩ rằng
+mình bị cô lập.
+
+597
+00:53:12,100 --> 00:53:16,380
+Nhưng, sau khi có thứ này,
+
+598
+00:53:16,400 --> 00:53:18,700
+tôi lại là một thứ khác.
+
+599
+00:53:18,720 --> 00:53:21,640
+Và tôi nghĩ tôi vẫn là tôi.
+
+600
+00:53:21,670 --> 00:53:27,670
+Nhưng... Đó không phải điều
+mà mọi người khác có thể hiểu được.
+
+601
+00:53:30,070 --> 00:53:32,400
+Cô biết không,
+chính tôi cũng chẳng biết thứ này là gì.
+
+602
+00:53:33,420 --> 00:53:34,820
+Không hẳn.
+
+603
+00:53:34,840 --> 00:53:36,500
+Tôi biết nó không phải của thế giới này.
+
+604
+00:53:36,530 --> 00:53:40,820
+Nhưng nó đã điều khiển được tay sai của Loki,
+rồi cho cô năng lực. Nhưng...
+
+605
+00:53:41,950 --> 00:53:47,580
+Nó thực sự là một bí ẩn.
+Dù sao thì nó cũng là một phần của tôi.
+
+606
+00:53:47,610 --> 00:53:49,330
+Anh có sợ nó không?
+
+607
+00:53:49,360 --> 00:53:51,690
+Tôi muốn hiểu được nó.
+
+608
+00:53:51,870 --> 00:53:54,150
+Càng biết nhiều về nó chừng nào,
+thì nó sẽ càng ít điều khiển được tôi.
+
+609
+00:53:54,180 --> 00:53:59,410
+Một ngày nào đó, ai biết được,
+tôi có thể kiểm soát được nó.
+
+610
+00:54:01,450 --> 00:54:05,980
+Tôi không biết có gì trong món này
+nhưng đây không phải món paprika.
+
+611
+00:54:06,000 --> 00:54:11,000
+Tôi sẽ ra siêu thị chút,
+20 phút nữa sẽ quay lại.
+
+612
+00:54:11,030 --> 00:54:14,610
+Thay vào đó,
+chúng ta có thể đặt pizza không?
+
+613
+00:54:15,300 --> 00:54:18,830
+Vision, anh không cho tôi ra ngoài sao?
+
+614
+00:54:20,170 --> 00:54:24,240
+- Đó là vấn đề an toàn.
+- Tôi có thể tự bảo vệ bản thân mình.
+
+615
+00:54:25,110 --> 00:54:26,870
+Không của riêng cô đâu.
+
+616
+00:54:28,200 --> 00:54:32,960
+Ngài Stark muốn tránh khả năng
+xảy ra một sự cố khác.
+
+617
+00:54:33,170 --> 00:54:37,490
+Đến khi Hiệp định...
+có một nền tảng vững chắc hơn.
+
+618
+00:54:39,590 --> 00:54:41,990
+Và anh muốn gì?
+
+619
+00:54:42,820 --> 00:54:46,870
+Muốn con người nhìn thấy cô...
+theo cách mà tôi nhìn nhận con người cô.
+
+620
+00:54:50,790 --> 00:54:53,980
+<font color=#B2FBFF>BERLIN
+(Đức)</font>
+
+621
+00:55:19,780 --> 00:55:21,880
+- Vậy là anh thích mèo sao?
+- Sam.
+
+622
+00:55:21,910 --> 00:55:25,990
+Sao? Một gã ăn mặc như mèo bỗng xuất hiện
+và anh không muốn biết thêm về hắn sao?
+
+623
+00:55:27,560 --> 00:55:30,200
+Giáp của cậu.
+Làm từ vibranium?
+
+624
+00:55:32,860 --> 00:55:37,840
+Black Panther được bảo vệ
+bởi các thế hệ người Wakanda.
+<font color=#FFF672>(Black Panther ~ Báo Đen)</font>
+
+625
+00:55:38,110 --> 00:55:42,010
+Chiếc áo giáp được truyền từ
+chiến binh này qua đời chiến binh khác.
+
+626
+00:55:43,080 --> 00:55:46,560
+Và giờ do bạn của anh
+giết chết cha tôi,
+
+627
+00:55:46,980 --> 00:55:49,470
+Tôi cũng sẽ mặc giáp của vua.
+
+628
+00:55:50,060 --> 00:55:55,310
+Vậy nên tôi hỏi anh,
+với tư cách chiến binh và nhà vua,
+
+629
+00:55:55,700 --> 00:56:00,180
+anh nghĩ anh có thể giữ bạn mình
+an toàn khỏi tôi được bao lâu?
+
+630
+00:56:19,780 --> 00:56:21,010
+Chuyện gì sẽ xảy ra với cậu ấy?
+
+631
+00:56:21,030 --> 00:56:23,020
+Điều tương tự có thể xảy ra với cậu.
+
+632
+00:56:23,050 --> 00:56:25,580
+Đánh giá tâm thần và dẫn độ.
+
+633
+00:56:25,600 --> 00:56:28,350
+Đây là Everett Ross,
+Phó Chỉ huy Lực lượng đặc nhiệm.
+
+634
+00:56:28,370 --> 00:56:31,240
+- Còn luật sư của chúng tôi thì sao?
+- Luật sư, thật nực cười.
+
+635
+00:56:31,270 --> 00:56:33,500
+Để mắt đến vũ khí của họ
+được khóa kĩ càng.
+
+636
+00:56:33,520 --> 00:56:35,430
+Oh, chúng ta sẽ viết giấy biên nhận nữa.
+
+637
+00:56:35,460 --> 00:56:39,570
+Tốt hơn là tôi không nhìn ra ngoài cửa sổ
+và thấy ai khác bay lượn lờ bằng cặp cánh đó.
+
+638
+00:56:44,810 --> 00:56:47,960
+<i>Cậu sẽ được ở trong một văn phòng
+thay vì ngồi trong xà lim.</i>
+
+639
+00:56:47,990 --> 00:56:50,260
+Và làm cho tôi một việc,
+ở yên trong đó.
+
+640
+00:56:50,630 --> 00:56:52,980
+Tôi chẳng có ý định đi đâu cả.
+
+641
+00:56:53,010 --> 00:56:56,910
+Tôi nói rồi đấy thôi. Việc đó
+chỉ làm mọi việc tệ hơn vẻ ngoài thôi.
+
+642
+00:56:56,940 --> 00:56:58,490
+Cậu ấy còn sống.
+
+643
+00:56:59,960 --> 00:57:02,310
+Phần còn lại của chúng tôi
+đang ở khu vực an ninh của tòa án.
+
+644
+00:57:02,310 --> 00:57:04,010
+Và Đại tá Ross đang giám sát
+việc dọn dẹp hiện trường.
+
+645
+00:57:04,030 --> 00:57:05,530
+Cố đừng phá hỏng thứ gì
+khi chúng tôi đang thương lượng.
+
+646
+00:57:05,560 --> 00:57:08,190
+Hậu quả?
+Ông cá là kiểu gì rồi cũng sẽ có hậu quả mà.
+
+647
+00:57:08,800 --> 00:57:10,990
+Rõ ràng là ông có thể trích lời tôi
+vì tôi vừa nói xong mà.
+
+648
+00:57:11,020 --> 00:57:14,000
+Còn gì nữa không?
+Cảm ơn, thưa ngài.
+
+649
+00:57:14,380 --> 00:57:15,640
+Hậu quả?
+
+650
+00:57:15,670 --> 00:57:18,530
+Bộ trưởng Ross muốn truy tố cả hai người.
+Tôi phải đưa cho hắn cái gì đó.
+
+651
+00:57:18,550 --> 00:57:20,540
+Tôi không lấy lại được cái khiên, đúng không?
+
+652
+00:57:20,560 --> 00:57:22,450
+Trên mặt pháp lí,
+thì nó là tài sản của chính phủ.
+
+653
+00:57:22,480 --> 00:57:24,370
+- Đôi cánh cũng thế.
+- Lạnh lùng vãi.
+
+654
+00:57:24,400 --> 00:57:26,200
+Còn ấm hơn trong tù.
+
+655
+00:57:53,600 --> 00:57:55,950
+Này, muốn xem thứ gì đó ngầu không?
+
+656
+00:57:56,500 --> 00:57:58,810
+Tôi lấy được một thứ ra khỏi
+kho lưu trữ của bố tối.
+
+657
+00:58:00,080 --> 00:58:01,860
+Vừa kịp lúc.
+
+658
+00:58:05,790 --> 00:58:09,460
+FDR đã dùng nó để kí
+Chương trình cho Vay - Thuê đất vào năm 1941.
+<font color=#FFF672>(<i>FDR: Franklin, Tổng thống Mỹ</i>)</font>
+
+659
+00:58:09,740 --> 00:58:12,750
+Cung cấp sự hỗ trợ cho các đồng minh
+khi họ cần nhất.
+
+660
+00:58:12,770 --> 00:58:15,670
+Một số lại nói rằng chính nó
+đã đưa nước ta đến gần với chiến tranh hơn.
+
+661
+00:58:16,690 --> 00:58:19,140
+Chứng kiến đủ những điều đó
+thì anh đã không có mặt ở đây.
+
+662
+00:58:20,650 --> 00:58:23,250
+Tôi đang cố...
+phải gọi nó là thế nào nhỉ?
+
+663
+00:58:23,280 --> 00:58:27,900
+"al'fermage" chăng? Có phải cậu gọi nó là thế không?
+<font color=#FFF672>(<i>al'fermage: cho thuê ~ tiếng Pháp</i>)</font>
+
+664
+00:58:29,070 --> 00:58:31,780
+Pepper có đây không?
+Tôi không thấy cô ấy.
+
+665
+00:58:32,830 --> 00:58:35,850
+Chúng tôi... đại loại là...
+
+666
+00:58:35,880 --> 00:58:37,630
+- mà không phải...
+- Mang thai sao?
+
+667
+00:58:37,900 --> 00:58:41,380
+Không, chắn chắn không rồi.
+Chúng tôi đang tạm chia tay.
+
+668
+00:58:41,890 --> 00:58:43,700
+Chẳng phải lỗi của ai cả.
+
+669
+00:58:44,700 --> 00:58:46,870
+Xin lỗi, Tony.
+Tôi không biết chuyện.
+
+670
+00:58:46,890 --> 00:58:50,640
+Vài năm trước, tôi suýt mất cô ấy,
+vậy nên tôi hủy hết các bộ giáp.
+
+671
+00:58:50,660 --> 00:58:52,530
+Thế rồi chúng ta
+phải đi phá HYDRA.
+
+672
+00:58:52,550 --> 00:58:55,260
+Và tiếp theo là Ultron, lỗi của tôi.
+
+673
+00:58:55,280 --> 00:58:58,680
+Và rồi, cứ thế.
+Tôi chẳng bao giờ dừng lại.
+
+674
+00:58:58,710 --> 00:59:01,300
+Vì sự thật là
+tôi không muốn dừng.
+
+675
+00:59:02,490 --> 00:59:04,230
+Tôi không muốn mất cô ấy.
+
+676
+00:59:04,700 --> 00:59:07,700
+Tôi nghĩ có thể Hiệp định
+có thể tạo nên điều khác biệt.
+
+677
+00:59:11,020 --> 00:59:13,250
+Thật lòng mà nói thì,
+tôi là kẻ khó chịu trong mắt cô ấy.
+
+678
+00:59:14,310 --> 00:59:18,590
+Tuy nhiên bố luôn là kẻ khó chịu,
+nhưng bố và mẹ thì lại hợp nhau.
+
+679
+00:59:18,620 --> 00:59:20,920
+Biết không, tôi mừng vì
+Howard đã kết hôn.
+
+680
+00:59:20,950 --> 00:59:22,820
+Tôi chỉ quen ông ta
+hồi ông còn trẻ và độc thân.
+
+681
+00:59:22,840 --> 00:59:25,170
+Oh thật sao?
+Hai người biết nhau à?
+
+682
+00:59:25,200 --> 00:59:29,430
+Ông ấy chẳng bao giờ nhắc tới.
+Mà có lẽ chỉ cả nghìn lần.
+
+683
+00:59:29,930 --> 00:59:31,930
+Chúa ơi, tôi ghét anh.
+
+684
+00:59:33,420 --> 00:59:34,810
+Tôi không có ý làm mọi việc khó xử hơn.
+
+685
+00:59:34,830 --> 00:59:37,340
+Tôi biết. Vì anh là
+một người rất lịch sự.
+
+686
+00:59:37,850 --> 00:59:42,840
+Nếu tôi thấy một hoàn cảnh xấu đi
+thì tôi không thể làm ngơ được.
+
+687
+00:59:42,860 --> 00:59:45,630
+- Đôi khi tôi ước rằng mình có thể.
+- Không, anh không muốn thế.
+
+688
+00:59:48,370 --> 00:59:51,580
+Không phải thế.
+Đôi khi...
+
+689
+00:59:51,610 --> 00:59:55,030
+Đôi khi tôi muốn đấm vào
+bộ hàm "hoàn hảo" của anh.
+
+690
+00:59:55,450 --> 00:59:57,520
+Nhưng tôi không muốn anh ra đi.
+
+691
+00:59:57,550 --> 00:59:59,150
+Chúng tôi cần anh, Cap.
+
+692
+00:59:59,610 --> 01:00:03,440
+Cho đến khi chưa có việc gì xảy ra,
+những việc mà không thể cứu chữa được, làm ơn... kí đi.
+
+693
+01:00:03,620 --> 01:00:05,690
+Chúng ta còn 24 giờ
+để hợp pháp hóa văn bản.
+
+694
+01:00:05,710 --> 01:00:10,300
+Barnes được chuyển giao cho một trại tâm thần của Mỹ
+thay vì vào tù ở Wakanda.
+
+695
+01:00:22,010 --> 01:00:25,370
+Tôi không nói rằng việc đó là bất khả thi.
+Nhưng phải có biện pháp đảm bảo an toàn chứ.
+
+696
+01:00:25,400 --> 01:00:26,700
+Chắn chắn rồi.
+
+697
+01:00:26,770 --> 01:00:30,800
+Một khi chúng ta đã dập được ngọn lửa truyền thông,
+ta có thể sửa đổi những tài liệu đó.
+
+698
+01:00:30,820 --> 01:00:32,890
+Tôi sẽ gửi đơn yêu cầu
+phục chức cho anh và Wanda.
+
+699
+01:00:32,910 --> 01:00:34,600
+- Wanda? Wanda sao rồi?
+- Cô ấy ổn.
+
+700
+01:00:34,620 --> 01:00:37,500
+Hiện tại cô ấy được hạn chế trong một tòa nhà.
+Vision đang bầu bạn với cô ấy.
+
+701
+01:00:37,520 --> 01:00:39,600
+Ôi Chúa ơi, Tony!
+Lần nào cũng thế.
+
+702
+01:00:39,630 --> 01:00:41,710
+Lúc nào anh cũng nghĩ mình
+nhìn nhận mọi việc một cách đúng đắn...
+
+703
+01:00:41,730 --> 01:00:43,180
+Sao? Tòa nhà diện tích 100 arce, còn có cả bể bơi,
+<font color=#FFF672>(<i>100 arce ≈ 40 hécta</i>)</font>
+
+704
+01:00:43,200 --> 01:00:45,210
+Có cả phòng chiếu phim.
+Còn có biện pháp tệ hơn nhằm bảo vệ người dân đấy.
+
+705
+01:00:45,230 --> 01:00:47,700
+Bảo vệ ư?
+Đó là cách anh nhìn nhận việc này?
+
+706
+01:00:47,720 --> 01:00:49,800
+Đây là bảo vệ ư?
+Là giam giữ đấy, Tony.
+
+707
+01:00:49,830 --> 01:00:51,100
+Cô ta không phải công dân Mỹ.
+
+708
+01:00:51,130 --> 01:00:53,170
+- <i>Thôi nào, Tony.</i>
+- và họ không cấp visa
+cho một thứ vũ khí hủy diệt hàng loạt.
+
+709
+01:00:53,200 --> 01:00:55,680
+- Cô ấy chỉ là một đứa trẻ!
+- Cho tôi thở tí đi!
+
+710
+01:00:56,380 --> 01:00:58,590
+Tôi làm những gì cần phải làm,
+
+711
+01:00:59,030 --> 01:01:01,390
+...để cứu chúng ta khỏi tình trạng xấu hơn thôi.
+
+712
+01:01:03,770 --> 01:01:06,100
+Anh cứ tự an ủi mình vậy đi.
+
+713
+01:01:08,870 --> 01:01:11,190
+Tôi ghét phải phá cặp chúng.
+
+714
+01:01:17,580 --> 01:01:19,310
+<i>Chào, anh Barnes.</i>
+
+715
+01:01:19,340 --> 01:01:22,390
+<i>Tôi được Liên Hợp Quốc cử đến
+để đánh giá anh.</i>
+
+716
+01:01:22,410 --> 01:01:24,160
+<i>Tôi ngồi được chứ?</i>
+
+717
+01:01:29,660 --> 01:01:32,070
+<i>Tên của anh là James?</i>
+
+718
+01:01:32,580 --> 01:01:34,960
+Biên nhận cho đồ nghề của các anh.
+
+719
+01:01:36,710 --> 01:01:38,410
+Trang phục chim sao?
+Không phải chứ.
+
+720
+01:01:38,430 --> 01:01:40,090
+Tôi có viết nó đâu.
+
+721
+01:01:46,330 --> 01:01:48,200
+<i>Tôi không ở đây để xét xử anh.</i>
+
+722
+01:01:48,230 --> 01:01:50,970
+<i>Tôi chỉ muốn hỏi anh vài câu.</i>
+
+723
+01:01:51,540 --> 01:01:53,910
+<i>Anh có biết giờ mình đang ở đâu không, James?</i>
+
+724
+01:01:57,030 --> 01:02:00,310
+<i>Tôi không thể giúp anh
+nếu anh không nói chuyện với tôi, James.</i>
+
+725
+01:02:00,590 --> 01:02:02,720
+<i>Tên tôi là Bucky.</i>
+
+726
+01:02:11,440 --> 01:02:12,970
+<font color=#FFFF00>Xin chào?</font>
+
+727
+01:02:19,940 --> 01:02:21,490
+<font color=#FFFF00><i>Này.
+Có bưu kiện gửi cho ông.</i></font>
+
+728
+01:02:27,400 --> 01:02:28,980
+<font color=#FFFF00><i>Được rồi.</i></font>
+
+729
+01:02:30,070 --> 01:02:33,070
+<font color=#FFFF00><i>Đây.
+Kí vào chỗ này.</i></font>
+
+730
+01:02:33,090 --> 01:02:35,000
+<font color=#FFFF00><i>- Đây ư?
+- Ừ.</i></font>
+
+731
+01:02:41,560 --> 01:02:44,540
+Tại sao Lực Lược Đặc Nhiệm
+lại công bố bức ảnh này để khởi đầu?
+
+732
+01:02:44,560 --> 01:02:46,880
+Đưa tin thôi,
+huy động nhiều tai mắt nhất có thể?
+
+733
+01:02:46,900 --> 01:02:48,150
+Phải.
+
+734
+01:02:48,180 --> 01:02:49,970
+Đó là cách hay để dụ
+một người ra khỏi chỗ ẩn náu.
+
+735
+01:02:49,990 --> 01:02:51,970
+Đặt một quả bom,
+rồi chụp ảnh đối tượng.
+
+736
+01:02:51,990 --> 01:02:54,190
+Điều đó sẽ làm 7 tỉ người
+tìm kiếm Chiến Binh Mùa Đông.
+
+737
+01:02:54,220 --> 01:02:56,040
+Ý anh là có kẻ gài bẫy
+để tìm anh ta?
+
+738
+01:02:56,070 --> 01:02:58,610
+Steve, chúng ta đã tìm cậu ta
+trong cả 2 năm trời mà không tìm được gì cả.
+
+739
+01:02:58,640 --> 01:03:00,840
+Ta chẳng dại gì mà đánh bom LHQ.
+Việc đó thu hút quá nhiều sự chú ý.
+
+740
+01:03:00,870 --> 01:03:02,980
+Thì sao? Điều đó cũng không đảm bảo
+rằng kẻ gài anh ta
+
+741
+01:03:03,020 --> 01:03:05,320
+cũng chả đảm bảo bắt được anh ta
+như khả năng của ta đâu.
+
+742
+01:03:11,630 --> 01:03:13,140
+Phải rồi.
+
+743
+01:03:15,160 --> 01:03:16,880
+Nói tôi biết, Bucky.
+
+744
+01:03:17,020 --> 01:03:19,470
+Anh đã chứng kiến rất nhiều
+việc trọng đại, phải không?
+
+745
+01:03:20,770 --> 01:03:23,210
+Tôi không muốn nói về điều đó.
+
+746
+01:03:23,240 --> 01:03:24,450
+Anh cảm thấy rằng...
+
+747
+01:03:24,480 --> 01:03:28,270
+nếu mình mở miệng,
+thì nỗi kinh hoàng sẽ không chấm dứt.
+
+748
+01:03:31,870 --> 01:03:33,300
+Đừng lo.
+
+749
+01:03:33,320 --> 01:03:35,550
+<font color=#00FFFF>TIN NHẮN ĐẾN 1:
+TRẠNG THÁI: ĐÃ GIAO HÀNG</font>
+
+750
+01:03:35,890 --> 01:03:38,690
+Chúng ta chỉ cần nói về một việc thôi.
+
+751
+01:03:49,050 --> 01:03:51,000
+<font color=#FFFF00>- <i>Này, cái gì đây?</i>
+- <i>Cái gì?</i></font>
+
+752
+01:04:01,600 --> 01:04:03,950
+Tuyệt. Nào mọi người.
+Cho tôi thấy hình của Barnes đi.
+
+753
+01:04:03,970 --> 01:04:04,980
+Đi thôi.
+
+754
+01:04:05,010 --> 01:04:08,260
+Friday.
+Cho tôi biết nguyên nhân mất điện.
+
+755
+01:04:09,320 --> 01:04:11,390
+Tầng hầm thứ 5, phía đông.
+
+756
+01:04:14,630 --> 01:04:17,890
+- Chuyện quái gì thế này?
+- Sao ta không bàn về nhà của anh nhỉ?
+
+757
+01:04:17,920 --> 01:04:21,600
+Không phải Romania.
+Chắc chắn cũng không phải Brooklyn.
+
+758
+01:04:22,180 --> 01:04:26,290
+Ý tôi là, ngôi nhà thực sự của anh đấy.
+
+759
+01:04:31,410 --> 01:04:33,250
+<font color=#FFFF00><i>Khao khát.</i></font>
+
+760
+01:04:35,880 --> 01:04:37,240
+<font color=#FFFF00><i>Rỉ sét.</i></font>
+
+761
+01:04:37,270 --> 01:04:38,490
+Dừng lại.
+
+762
+01:04:38,520 --> 01:04:40,380
+<font color=#FFFF00><i>Mười bảy.</i></font>
+
+763
+01:04:41,810 --> 01:04:43,250
+Dừng lại.
+
+764
+01:04:45,250 --> 01:04:46,900
+<font color=#FFFF00><i>Hừng đông.</i></font>
+
+765
+01:04:52,370 --> 01:04:53,800
+<font color=#FFFF00><i>Lò lửa.</i></font>
+
+766
+01:04:56,020 --> 01:04:57,580
+<font color=#FFFF00><i>Chín.</i></font>
+
+767
+01:04:59,980 --> 01:05:02,180
+<font color=#FFFF00><i>Nhân từ.</i></font>
+
+768
+01:05:04,660 --> 01:05:06,840
+<font color=#FFFF00><i>Về nhà.</i></font>
+
+769
+01:05:06,860 --> 01:05:08,500
+<font color=#FFFF00><i>Một.</i></font>
+
+770
+01:05:09,370 --> 01:05:11,410
+<font color=#FFFF00><i>Xe chuyên chở.</i></font>
+
+771
+01:05:26,780 --> 01:05:28,320
+<font color=#FFFF00><i>Chiến Binh?</i></font>
+
+772
+01:05:30,890 --> 01:05:33,270
+<font color=#FFFF00><i>Sẵn sàng nhận lệnh.</i></font>
+
+773
+01:05:33,300 --> 01:05:39,400
+Báo cáo nhiệm vụ:
+Ngày 16 tháng 12 năm 1991.
+
+774
+01:05:49,120 --> 01:05:52,570
+Giúp tôi.
+Giúp tôi.
+
+775
+01:05:55,550 --> 01:05:56,870
+Đứng dậy.
+
+776
+01:05:59,710 --> 01:06:01,970
+Ngươi là ai?
+Ngươi muốn gì?
+
+777
+01:06:03,070 --> 01:06:05,640
+Thấy một đế chế sụp đổ.
+
+778
+01:06:36,810 --> 01:06:38,280
+Này.
+
+779
+01:06:45,060 --> 01:06:46,360
+Sơ tán tất cả dân thường.
+
+780
+01:06:46,390 --> 01:06:48,910
+Thiết lập vòng vây quanh tòa nhà
+và trực thăng chiến trên không.
+
+781
+01:06:48,940 --> 01:06:50,450
+Làm ơn nói là anh mang theo bộ giáp đi.
+
+782
+01:06:50,470 --> 01:06:52,960
+Tất nhiên là có. Một bộ Tom Ford,
+3 mảnh, 2 cúc...
+
+783
+01:06:52,990 --> 01:06:55,300
+Tôi đang công tác,
+chứ không phải ra trận.
+
+784
+01:06:55,320 --> 01:06:56,820
+Theo tôi.
+
+785
+01:07:13,650 --> 01:07:15,310
+<i>Chúng tôi đã vào vị trí.</i>
+
+786
+01:07:47,090 --> 01:07:49,740
+Ít nhất thì anh cũng phải nhận ra tôi chứ.
+
+787
+01:08:41,850 --> 01:08:43,380
+Mẹ kiếp.
+
+788
+01:09:18,130 --> 01:09:20,130
+*<i> Thả ra, không phải máy bay của cậu </i>*
+
+789
+01:10:11,630 --> 01:10:16,630
+Phụ đề thực hiện bởi <font color="#FFFF00">SP3 Subteam</font>
+<font color=#00FFFF>https://www.facebook.com/SP3Subteam</font>
+
+790
+01:10:20,740 --> 01:10:22,690
+<i>Thằng bé lại hỏi em
+là anh có tới hay không?</i>
+
+791
+01:10:22,720 --> 01:10:24,940
+<i>Em nói em không chắc.</i>
+
+792
+01:10:24,970 --> 01:10:28,470
+<i>Anh nên tới nhìn khuôn mặt bé nhỏ
+của thằng bé. Anh cố đến nhé?</i>
+
+793
+01:10:28,550 --> 01:10:32,340
+<i>Em đi ngủ đây.
+Em yêu anh.</i>
+
+794
+01:10:35,070 --> 01:10:39,440
+<font color=#FFFF00><i>James Barnes, nghi phạm đánh bom
+Liên Hợp Quốc tại Vienna...</i></font>
+
+795
+01:10:39,460 --> 01:10:41,370
+<font color=#FFFF00><i>...hôm nay đã thoát khỏi vòng kiểm soát.</i></font>
+
+796
+01:10:41,390 --> 01:10:46,450
+<font color=#FFFF00><i>Ngoài ra hắn cũng biến mất cùng các thành viên Avenger,
+Đội trưởng Steve Rogers and Sam Wilson.</i></font>
+
+797
+01:10:48,630 --> 01:10:51,800
+<font color=#00FFFF>Cổng 6 - Sân bay BERLIN
+Chuyến bay tới MOSCOW (Nga)</font>
+
+798
+01:11:09,650 --> 01:11:11,330
+<i>Này, Cap!</i>
+
+799
+01:11:23,460 --> 01:11:25,110
+Steve.
+
+800
+01:11:25,610 --> 01:11:27,860
+Tôi đang nói chuyện với Bucky nào?
+
+801
+01:11:29,320 --> 01:11:32,090
+Mẹ cậu tên là Sarah.
+
+802
+01:11:35,640 --> 01:11:39,310
+Cậu thường lót báo
+vào trong giày của mình.
+
+803
+01:11:40,280 --> 01:11:41,680
+Chuyện đó cậu không thể
+đọc được ở bảo tàng.
+
+804
+01:11:41,710 --> 01:11:43,910
+Có thế thôi là
+chúng ta lại bình thường à?
+
+805
+01:11:43,930 --> 01:11:46,460
+- Tôi đã làm gì?
+- Cũng đủ.
+
+806
+01:11:46,490 --> 01:11:48,010
+Tôi biết rằng chuyện này sẽ xảy ra.
+
+807
+01:11:48,030 --> 01:11:50,660
+Mọi thứ HYDRA nhét vào
+người tôi vẫn còn đó.
+
+808
+01:11:50,690 --> 01:11:52,680
+Những gì hắn phải làm
+chỉ là đọc một vài từ chết tiệt.
+
+809
+01:11:52,710 --> 01:11:54,400
+- Hắn là ai?
+- Tôi không biết.
+
+810
+01:11:54,420 --> 01:11:56,870
+Những người đã chết.
+Vụ đánh bom. Dựng bằng chứng.
+
+811
+01:11:56,900 --> 01:11:59,100
+Tên bác sĩ làm tất cả điều đó
+chỉ để có 10 phút với cậu sao?
+
+812
+01:11:59,130 --> 01:12:02,050
+Tôi cần cậu hành động nhiều hơn
+là câu "<i>Tôi không biết</i>".
+
+813
+01:12:04,770 --> 01:12:07,700
+Hắn muốn biết về Siberia.
+
+814
+01:12:10,090 --> 01:12:12,080
+Nơi tôi bị giam giữ.
+
+815
+01:12:13,760 --> 01:12:17,460
+- Hắn muốn biết chính xác ở đâu.
+- Tại sao hắn lại muốn biết nơi đó?
+
+816
+01:12:19,860 --> 01:12:22,980
+Vì tôi không phải là
+Chiến Binh Mùa Đông duy nhất.
+
+817
+01:12:23,010 --> 01:12:25,770
+<font color=#B2FBFF>NĂM 1991</font>
+
+818
+01:13:15,680 --> 01:13:17,300
+<font color=#FFFF00><i>Đau quá!</i></font>
+
+819
+01:13:54,510 --> 01:13:56,810
+<font color=#FFFF00><i>Làm tốt lắm.</i></font>
+
+820
+01:14:06,560 --> 01:14:08,810
+<font color=#FFFF00><i>Đưa tao ra khỏi đây.</i></font>
+
+821
+01:14:22,830 --> 01:14:25,970
+- Chúng là ai?
+- Biệt đội sát thủ tinh nhuệ nhất.
+
+822
+01:14:25,990 --> 01:14:28,340
+Lấy mạng nhiều hơn bất cứ ai
+trong lịch sử HYDRA.
+
+823
+01:14:28,360 --> 01:14:31,070
+- Và đó là trước khi tiêm huyết thanh.
+- Họ trở thành như anh sao?
+
+824
+01:14:31,100 --> 01:14:32,470
+Tệ hơn nữa.
+
+825
+01:14:32,590 --> 01:14:35,370
+Tay bác sĩ,
+liệu hắn có kiểm soát được họ không?
+
+826
+01:14:35,400 --> 01:14:36,950
+Đủ rồi.
+
+827
+01:14:36,980 --> 01:14:39,880
+- Hắn nói rằng muốn chứng kiến một đế chế sụp đổ.
+- Với những người đó, hắn sẽ làm được.
+
+828
+01:14:39,900 --> 01:14:43,200
+Họ nói 30 thứ tiếng,
+biết cách ẩn thân,
+
+829
+01:14:43,230 --> 01:14:45,570
+xâm nhập, ám sát, gây bất ổn.
+
+830
+01:14:45,600 --> 01:14:47,700
+Họ có thể phá hủy
+cả một quốc gia trong một đêm.
+
+831
+01:14:47,720 --> 01:14:49,910
+Mà không ai phát hiện ra họ.
+
+832
+01:14:51,440 --> 01:14:53,950
+Việc này sẽ dễ dàng hơn nếu ta...
+
+833
+01:14:53,970 --> 01:14:55,150
+Gọi cho Tony.
+
+834
+01:14:55,180 --> 01:14:56,900
+- Oh, anh ta sẽ không tin ta nữa.
+- Mặc cho những chuyện mà gã bác sĩ đó gây ra?
+
+835
+01:14:56,920 --> 01:15:00,090
+Ai biết được là Hiệp định
+sẽ để anh ta giúp?
+
+836
+01:15:00,660 --> 01:15:02,480
+Ta tự lo vậy.
+
+837
+01:15:02,920 --> 01:15:04,650
+Cũng không hẳn.
+
+838
+01:15:05,660 --> 01:15:07,600
+Tôi biết một gã.
+
+839
+01:15:08,180 --> 01:15:11,870
+Và tôi không nghĩ là
+anh biết bọn họ ở đâu.
+
+840
+01:15:11,890 --> 01:15:14,220
+Ta sẽ biết thôi.
+GSG-9 đã phòng thủ sẵn ở biên giới.
+
+841
+01:15:14,240 --> 01:15:16,630
+Máy bay thăm dò hoạt động 24/7.
+
+842
+01:15:16,650 --> 01:15:18,090
+Họ sẽ lộ diện.
+Thì ta sẽ lo liệu.
+
+843
+01:15:18,120 --> 01:15:19,990
+Cậu không hiểu sao, Stark.
+Đây không phải việc cậu cần lo.
+
+844
+01:15:20,010 --> 01:15:23,900
+Rõ ràng cậu không phải là mục tiêu.
+Tôi đang triển khai chiến dịch đặc biệt cho vụ này.
+
+845
+01:15:23,930 --> 01:15:26,680
+Và chuyện gì sẽ xảy ra khi cuộc nổ súng
+bắt đầu, để họ giết Steve Rogers?
+
+846
+01:15:26,720 --> 01:15:28,240
+Nếu ta bị khiêu khích.
+
+847
+01:15:28,290 --> 01:15:31,810
+Barnes đáng lẽ đã bị loại bỏ ở Romania
+nếu không có Rogers can thiệp.
+
+848
+01:15:31,840 --> 01:15:36,070
+Những người đã bỏ mạng,
+đáng ra giờ họ vẫn còn sống.
+
+849
+01:15:36,520 --> 01:15:38,100
+Cứ thoải mái
+về tính toán của tôi đi.
+
+850
+01:15:38,140 --> 01:15:41,360
+Với tất cả sự kính trọng, ông không định xử lí
+bằng những chàng trai mặc vest chống đạn đấy chứ?
+
+851
+01:15:41,530 --> 01:15:42,820
+Ông phải để bọn tôi bắt anh ấy.
+
+852
+01:15:42,850 --> 01:15:44,790
+Và nó sẽ kết thúc như thế nào,
+liệu có khác lần mới đây không?
+
+853
+01:15:44,810 --> 01:15:48,820
+Vì lần này tôi không muốn
+đi đôi Loafer và mặc vest lụa nữa.
+
+854
+01:15:48,840 --> 01:15:51,170
+72 giờ, cam đoan đấy.
+
+855
+01:15:51,200 --> 01:15:53,320
+36 giờ.
+
+856
+01:15:54,590 --> 01:15:56,300
+Barnes.
+
+857
+01:15:57,420 --> 01:16:00,380
+Rogers.
+Wilson.
+
+858
+01:16:00,410 --> 01:16:02,130
+Cảm ơn ngài.
+
+859
+01:16:06,080 --> 01:16:08,690
+Tay trái tôi bị tê,
+thế có bình thường không?
+
+860
+01:16:11,310 --> 01:16:12,940
+Anh ổn chứ?
+
+861
+01:16:12,970 --> 01:16:14,490
+Lúc nào chả thế.
+
+862
+01:16:17,540 --> 01:16:20,090
+36 giờ, trời ạ.
+
+863
+01:16:20,120 --> 01:16:23,330
+- Ta thiếu quân số trầm trọng.
+- Ừ, phải.
+
+864
+01:16:23,360 --> 01:16:27,050
+Nếu phe ta có Hulk ngay bây giờ
+thì tuyệt. Còn cơ hội nào không?
+
+865
+01:16:27,080 --> 01:16:28,420
+Không.
+
+866
+01:16:28,620 --> 01:16:31,290
+Anh thực sự nghĩ rằng
+anh ấy sẽ về phe ta?
+
+867
+01:16:31,310 --> 01:16:32,460
+Tôi biết rõ luôn.
+
+868
+01:16:32,490 --> 01:16:35,420
+- Tôi có ý này.
+- Tôi cũng thế.
+
+869
+01:16:35,440 --> 01:16:38,430
+- Ý cô là gì?
+- Tầng dưới.
+
+870
+01:16:38,450 --> 01:16:40,270
+Còn ý của anh?
+
+871
+01:16:41,820 --> 01:16:46,870
+<font color=#B2FBFF>KHU QUEENS
+(New York, Mỹ)</font>
+
+872
+01:17:01,660 --> 01:17:04,440
+- Chào, dì May.
+- Chào cháu.
+
+873
+01:17:06,580 --> 01:17:09,580
+- Ở trường hôm nay thế nào?
+- Cũng được.
+
+874
+01:17:09,610 --> 01:17:12,520
+Cái xe điên đỗ bên ngoài...
+
+875
+01:17:15,440 --> 01:17:17,930
+- Oh, cậu Parker.
+- Umm.
+
+876
+01:17:19,320 --> 01:17:21,550
+Gì vậy trời!
+Ngài đang làm gì ở đây vậy?
+
+877
+01:17:21,580 --> 01:17:23,830
+Xin chào.
+Tôi là Peter.
+
+878
+01:17:23,860 --> 01:17:25,440
+- Tony.
+- Ông đang...
+
+879
+01:17:25,460 --> 01:17:26,930
+Ông đang... đang làm gì ở đây vậy?
+
+880
+01:17:26,960 --> 01:17:30,150
+Đến lúc chúng ta gặp mặt rồi.
+Cậu nhận được email của tôi rồi chứ?
+
+881
+01:17:30,170 --> 01:17:32,230
+- Phải không?
+- Vâng, đúng.
+
+882
+01:17:32,260 --> 01:17:34,600
+- Về vấn đề...
+- Cháu chưa kể cho dì về khoản tài trợ.
+
+883
+01:17:34,630 --> 01:17:36,130
+- Tài trợ.
+- Quỹ Tài Trợ Tháng Chín.
+
+884
+01:17:36,150 --> 01:17:38,620
+- Phải rồi.
+- Đúng rồi. Nhớ lúc cậu nạp đơn không?
+
+885
+01:17:38,790 --> 01:17:40,280
+- Tất nhiên rồi.
+- Tôi đã chấp thuận.
+
+886
+01:17:40,310 --> 01:17:42,790
+Nên giờ chúng ta bàn công việc.
+
+887
+01:17:42,810 --> 01:17:44,710
+Cháu chả kể với dì chuyện gì cả.
+Sao lại thế?
+
+888
+01:17:44,740 --> 01:17:46,130
+- Giữ bí mật với dì sao?
+- Thì cháu... cháu chỉ...
+
+889
+01:17:46,160 --> 01:17:47,670
+Cháu biết dì thích bất ngờ,
+
+890
+01:17:47,690 --> 01:17:50,790
+nên cháu nghĩ mình
+sẽ không cho dì biết...
+
+891
+01:17:51,010 --> 01:17:52,940
+- Nhân tiện, tôi nộp đơn để làm gì ấy nhỉ?
+- Đó là lí do tôi đến đây để làm rõ.
+
+892
+01:17:52,970 --> 01:17:54,770
+Được rồi.
+Làm rõ, được rồi.
+
+893
+01:17:54,790 --> 01:17:58,260
+Thật khó tin là cô ấy
+lại là dì của ai đó.
+
+894
+01:17:58,280 --> 01:18:00,450
+Có người nọ người kia mà,
+anh biết đấy.
+
+895
+01:18:00,480 --> 01:18:02,550
+Bánh hồ đào này ngon tuyệt.
+
+896
+01:18:02,570 --> 01:18:04,140
+- Ông có thể dừng một chút được không?
+- Ừ?
+
+897
+01:18:04,170 --> 01:18:08,160
+Khoản tài trợ này, kiểu như nhận tiền
+rồi phải trói buộc công việc hay không vậy?
+
+898
+01:18:08,180 --> 01:18:09,320
+- Đúng rồi.
+- Thế sao.
+
+899
+01:18:09,340 --> 01:18:10,900
+- Là một khoản tài trợ kha khá đấy.
+- Chà.
+
+900
+01:18:10,930 --> 01:18:12,740
+Nhìn xem cậu đang nói chuyện với ai đi.
+
+901
+01:18:12,760 --> 01:18:15,410
+- Tôi xin 5 phút với cậu bé nhé?
+- Tất nhiên rồi.
+
+902
+01:18:20,720 --> 01:18:24,290
+Nhổ bánh hồ đào ra
+thì cũng không tệ.
+
+903
+01:18:25,200 --> 01:18:28,050
+Oh. Ta có gì ở đây nào,
+công nghệ cổ xưa sao?
+
+904
+01:18:28,070 --> 01:18:31,120
+- Cửa hàng tiết kiệm? Đồ cứu trợ?
+- Uh, thực ra là từ bãi rác.
+
+905
+01:18:31,140 --> 01:18:33,230
+- Cậu là kẻ bới thùng rác Dumpster.
+- Đúng, tôi đã...
+
+906
+01:18:33,250 --> 01:18:34,790
+Sao cũng được,
+nghe này. Umm.
+
+907
+01:18:34,810 --> 01:18:36,550
+Chắn chắn là tôi chẳng hề
+nộp đơn xin tài trợ của ngài.
+
+908
+01:18:36,570 --> 01:18:38,280
+- Uh, uh. Tôi nói trước.
+- Được rồi.
+
+909
+01:18:38,300 --> 01:18:41,010
+Câu hỏi nhanh về
+sự đa dạng phép tu từ.
+
+910
+01:18:42,250 --> 01:18:44,440
+Đó là cậu, phải không?
+
+911
+01:18:44,670 --> 01:18:45,490
+Um, không.
+
+912
+01:18:45,520 --> 01:18:47,330
+- Ý chú, ý chú là...
+- Đúng vậy.
+
+913
+01:18:48,150 --> 01:18:49,760
+Xem cậu này.
+
+914
+01:18:49,780 --> 01:18:53,130
+Chà, bắt tốt kinh!
+3000 pound. 40dặm/h.
+
+915
+01:18:53,150 --> 01:18:55,950
+Chẳng dễ dàng gì.
+Cậu có kĩ năng đấy.
+
+916
+01:18:55,980 --> 01:18:57,810
+Mấy cái... mấy cái đó
+chỉ là trên YouTube thôi mà.
+
+917
+01:18:57,830 --> 01:18:59,610
+Ý tôi là chúng ta
+xem đầy trên YouTube.
+
+918
+01:18:59,630 --> 01:19:02,060
+Thì chú cũng biết đó toàn hàng dựng thôi.
+Dựng bằng máy tính ấy.
+
+919
+01:19:02,090 --> 01:19:03,400
+Mm-hmm.
+
+920
+01:19:03,420 --> 01:19:04,680
+Giống như cái video ghi lại...
+
+921
+01:19:04,700 --> 01:19:07,480
+Yea yea yea yea... ý cậu là
+mấy cái UFO ở Phoenix?
+
+922
+01:19:07,510 --> 01:19:08,670
+Chính xác!
+
+923
+01:19:08,690 --> 01:19:10,320
+Ta có gì ở đây nào?
+
+924
+01:19:11,500 --> 01:19:13,890
+Uh...
+Đó là...
+
+925
+01:19:16,480 --> 01:19:17,770
+Vậy là.
+
+926
+01:19:19,250 --> 01:19:21,300
+Cậu là... Spider...ling.
+<font color=#FFF672>(<i>Spiderling: nhện con</i>)</font>
+
+927
+01:19:21,330 --> 01:19:24,010
+Đấu với bọn tội phạm,
+Spider... Spider-Boy?
+
+928
+01:19:25,950 --> 01:19:27,900
+S... Spider-Man.
+
+929
+01:19:27,930 --> 01:19:29,940
+Trong bộ đồ ngủ đó
+thì không phải đâu.
+
+930
+01:19:30,430 --> 01:19:32,360
+Đó không phải đồ ngủ.
+
+931
+01:19:33,640 --> 01:19:36,910
+Ngài không tin được đâu. Tôi thực sự
+đang có một ngày tuyệt vời, ngài Stark.
+
+932
+01:19:36,930 --> 01:19:40,710
+Không bị lỡ tàu. Máy DVD
+vẫn nguyên ở đó và...
+
+933
+01:19:40,730 --> 01:19:43,910
+Bài kiểm tra đại số.
+Làm ngon lành!
+
+934
+01:19:44,220 --> 01:19:46,500
+Có ai khác biết không?
+Bất kì ai?
+
+935
+01:19:47,320 --> 01:19:48,770
+Không ai cả.
+
+936
+01:19:48,790 --> 01:19:51,920
+- Kể cả... cô dì quyến rũ một cách bất thường ư?
+- Không.
+
+937
+01:19:51,950 --> 01:19:54,890
+Không, không. Không hề.
+Nếu dì ấy biết thì sẽ phát hoảng mất.
+
+938
+01:19:54,910 --> 01:19:56,760
+Và khi dì ấy phát hoảng,
+tôi phát hoảng theo.
+
+939
+01:19:56,780 --> 01:19:59,900
+Cậu biết cái gì khiến tôi
+thấy ngầu nhất không? Đống tơ này.
+
+940
+01:20:00,200 --> 01:20:02,980
+Độ căng trên cả tuyệt vời.
+
+941
+01:20:03,010 --> 01:20:06,230
+- Ai chế ra nó?
+- Tôi chế ra.
+
+942
+01:20:06,690 --> 01:20:07,980
+Còn leo tường.
+
+943
+01:20:08,000 --> 01:20:10,070
+Sao cậu leo được thế?
+Găng tay dính chăng?
+
+944
+01:20:10,100 --> 01:20:11,820
+Chuyện dài lắm.
+Tôi chỉ...
+
+945
+01:20:11,850 --> 01:20:14,080
+Trời đất! Cậu vẫn
+nhìn được đường khi đeo thứ này?
+
+946
+01:20:14,100 --> 01:20:16,960
+Đúng. Đúng.
+Tôi có... có thể.
+
+947
+01:20:17,530 --> 01:20:20,970
+Tôi có... có thể nhìn thấy được.
+Được chưa? Chỉ là...
+
+948
+01:20:21,000 --> 01:20:25,320
+khi... mà chuyện gì xảy ra thì cũng đã xảy ra rồi.
+Là do các giác quan của tôi được tăng cường lên cực đại.
+
+949
+01:20:25,630 --> 01:20:29,840
+Có rất nhiều thứ được đưa vào, vậy nên...
+đại khái là chúng giúp tôi tập trung.
+
+950
+01:20:29,860 --> 01:20:32,510
+Cậu cần được nâng cấp khẩn cấp.
+
+951
+01:20:32,530 --> 01:20:34,180
+Hệ thống hóa,
+từ trên xuống dưới.
+
+952
+01:20:34,200 --> 01:20:36,700
+Nâng cấp 100%.
+Đó là lí do tôi đến đây.
+
+953
+01:20:39,000 --> 01:20:40,860
+Sao cậu lại làm việc đó?
+
+954
+01:20:41,500 --> 01:20:42,810
+Tôi muốn biết.
+Cách làm việc của cậu ra sao.
+
+955
+01:20:42,840 --> 01:20:45,420
+Điều gì khiến cậu ra khỏi giường đôi
+đó vào mỗi sáng.
+
+956
+01:20:45,440 --> 01:20:46,950
+Bởi vì...
+
+957
+01:20:50,740 --> 01:20:52,810
+...bởi vì tôi vẫn luôn là
+chính mình suốt cuộc đời rồi,
+
+958
+01:20:52,830 --> 01:20:55,910
+- và tôi vừa có được sức mạnh này
+trong 6 tháng vừa qua.
+- Mm-hm.
+
+959
+01:20:55,950 --> 01:20:58,840
+Tôi đọc sách.
+Dựng máy tính...
+
+960
+01:20:59,530 --> 01:21:02,270
+Và.. và đúng.
+Tôi cũng muốn chơi bóng đá.
+
+961
+01:21:02,300 --> 01:21:03,990
+Nhưng hồi trước tôi không thể
+nên giờ cũng thế.
+
+962
+01:21:04,020 --> 01:21:05,820
+- Chắc chắn rồi. Vì cậu khác biệt.
+- Chính xác.
+
+963
+01:21:05,850 --> 01:21:08,630
+Nhưng tôi không thể để ai biết,
+nên tôi không cho ai biết hết.
+
+964
+01:21:12,520 --> 01:21:14,970
+Khi người ta có thể làm được
+những việc mà tôi có thể,
+
+965
+01:21:15,680 --> 01:21:17,580
+mà người ta lại không làm...
+
+966
+01:21:18,640 --> 01:21:21,080
+và rồi điều tồi tệ xảy đến,
+
+967
+01:21:22,250 --> 01:21:24,280
+điều xảy đến là do người đó.
+
+968
+01:21:28,550 --> 01:21:31,470
+Vậy là cậu muốn bảo vệ người yếu.
+Cậu muốn làm phần việc của mình.
+
+969
+01:21:31,490 --> 01:21:33,200
+Làm thế giới trở thành
+một nơi tốt đẹp hơn?
+
+970
+01:21:33,230 --> 01:21:36,740
+Đúng. Chỉ là ngăn ngừa
+nguy hiểm cho những người tầm thường.
+
+971
+01:21:36,840 --> 01:21:39,080
+Chỉ... chỉ có thế thôi.
+
+972
+01:21:46,030 --> 01:21:48,680
+Tôi sẽ ngồi ở đây,
+nên cậu dịch cái chân ra nào.
+
+973
+01:21:57,140 --> 01:21:58,710
+- Có hộ chiếu chưa?
+- Oh, chưa.
+
+974
+01:21:58,740 --> 01:22:01,290
+- Tôi thậm chí còn chưa có bằng lái.
+- Cậu đến Đức bao giờ chưa?
+
+975
+01:22:01,320 --> 01:22:02,500
+- Chưa.
+- Oh, cậu sẽ thích nó cho xem.
+
+976
+01:22:02,530 --> 01:22:05,250
+- Tôi không thể tới Đức!
+- Tại sao?
+
+977
+01:22:06,960 --> 01:22:09,030
+Vì tôi còn...
+bài tập về nhà.
+
+978
+01:22:09,050 --> 01:22:10,440
+Được rồi, tôi sẽ giả vờ như
+cậu chưa nói điều đó.
+
+979
+01:22:10,470 --> 01:22:13,050
+Tôi... tôi nghiêm túc đấy!
+Tôi không thể bỏ học được.
+
+980
+01:22:13,070 --> 01:22:14,380
+Có thể có một chút nguy hiểm.
+
+981
+01:22:14,400 --> 01:22:17,240
+Tốt hơn là bảo cô dì nóng bỏng
+rằng ta dẫn cậu đi thực tế.
+
+982
+01:22:18,980 --> 01:22:20,840
+Đừng kể với dì May.
+
+983
+01:22:21,590 --> 01:22:23,570
+Được rồi Spider-Man.
+
+984
+01:22:26,440 --> 01:22:29,650
+- Gỡ nó ra giúp tôi.
+- Xin lỗi, để tôi kiếm...
+
+985
+01:22:41,810 --> 01:22:45,040
+- Chuyện gì vậy?
+- Làm ơn, ở yên đây.
+
+986
+01:22:51,440 --> 01:22:54,770
+- Tôi nghĩ là mình nên gõ cửa.
+- Ôi Chúa ơi.
+
+987
+01:22:55,080 --> 01:22:58,730
+- Anh làm gì ở đây vậy
+- Làm con tôi thất vọng.
+
+988
+01:23:02,360 --> 01:23:04,650
+Tôi cứ nghĩ là sẽ đi
+lướt ván nước cơ.
+
+989
+01:23:04,670 --> 01:23:06,790
+Cap cần chúng ta giúp, đi nào.
+
+990
+01:23:06,810 --> 01:23:08,310
+Clint!
+
+991
+01:23:09,320 --> 01:23:11,420
+Anh không nên tới đây.
+
+992
+01:23:13,260 --> 01:23:14,690
+Thật sao?
+
+993
+01:23:15,070 --> 01:23:18,180
+Tôi nghỉ hưu được khoảng... 5 phút?
+Và rồi mọi việc chả vào đâu.
+
+994
+01:23:18,220 --> 01:23:20,750
+Xin hãy xem xét hậu quả
+của hành động này.
+
+995
+01:23:20,780 --> 01:23:22,730
+Tất nhiên, chúng được xem xét rồi.
+
+996
+01:23:23,240 --> 01:23:25,240
+Được rồi,
+chúng ta phải đi.
+
+997
+01:23:29,360 --> 01:23:30,920
+Lối này.
+
+998
+01:23:30,940 --> 01:23:33,420
+Tôi đã gây đủ rắc rối rồi.
+
+999
+01:23:37,280 --> 01:23:38,800
+Cô phải giúp tôi, Wanda.
+
+1000
+01:23:38,820 --> 01:23:40,590
+...cô có thể đến trường trung học?
+
+1001
+01:23:40,620 --> 01:23:44,270
+Cô muốn bù đắp hành động của mình?
+Nhấc mông đi thôi.
+
+1002
+01:23:44,290 --> 01:23:45,740
+Cái đệt.
+
+1003
+01:23:51,500 --> 01:23:53,710
+Tôi biết là nên khởi động trước mà.
+
+1004
+01:24:06,880 --> 01:24:11,460
+- Clint, anh không thể chế ngự được tôi.
+- Tôi biết mình không thể.
+
+1005
+01:24:11,900 --> 01:24:13,760
+Nhưng cô ấy thì có.
+
+1006
+01:24:14,880 --> 01:24:18,600
+Vision.
+Đủ rồi, thả anh ấy ra.
+
+1007
+01:24:18,990 --> 01:24:22,090
+- Tôi sẽ đi.
+- Tôi không thể để cô đi.
+
+1008
+01:24:26,270 --> 01:24:28,040
+Tôi xin lỗi.
+
+1009
+01:24:31,170 --> 01:24:33,270
+Nếu cô làm vậy,
+
+1010
+01:24:33,300 --> 01:24:37,020
+con người sẽ chẳng bao giờ
+ngừng sợ hãi cô.
+
+1011
+01:24:37,670 --> 01:24:41,750
+Tôi không thể chế ngự được sự sợ hãi
+của họ, chỉ riêng tôi thôi.
+
+1012
+01:24:53,340 --> 01:24:55,060
+Oh...
+
+1013
+01:24:56,600 --> 01:24:59,650
+Đi nào.
+Chúng ta phải đến một điểm nữa.
+
+1014
+01:24:59,820 --> 01:25:01,550
+Chỉ là vấn đề thời gian thôi.
+
+1015
+01:25:01,580 --> 01:25:07,000
+Vệ tinh của ta đang quét nhân dạng,
+sinh trắc học và dò mẫu hành vi.
+
+1016
+01:25:10,450 --> 01:25:13,440
+Xê ra, không thì cô sẽ "được" xê ra đấy.
+
+1017
+01:25:14,160 --> 01:25:17,040
+Sẽ thú vị lắm đây.
+
+1018
+01:25:17,070 --> 01:25:19,380
+Anh nghĩ rằng mình có thể tìm được anh ta?
+
+1019
+01:25:19,700 --> 01:25:21,510
+Nguồn tin của chúng tôi rất rộng lớn.
+
+1020
+01:25:21,540 --> 01:25:24,020
+Phải rồi. Thế giới mất 70 năm
+để tìm ra Barnes.
+
+1021
+01:25:24,050 --> 01:25:27,070
+Vậy anh nghĩ rằng mình có thể
+làm nhanh hơn họ đến một nửa khoảng thời gian đó?
+
+1022
+01:25:27,720 --> 01:25:29,490
+Cô biết họ ở đâu.
+
+1023
+01:25:29,510 --> 01:25:31,630
+Tôi biết người có thông tin.
+
+1024
+01:25:34,140 --> 01:25:36,850
+Tôi không nghĩ là anh hiểu
+khái niệm về xe thoát thân.
+
+1025
+01:25:36,870 --> 01:25:38,560
+Để khỏi thu hút sự chú ý thôi.
+
+1026
+01:25:38,590 --> 01:25:41,910
+Tốt, bởi vì đống đồ này
+có xu hướng thu hút đám đông đấy.
+
+1027
+01:25:43,210 --> 01:25:46,270
+- Anh dịch ghế lên chút được không?
+- Không.
+
+1028
+01:25:46,290 --> 01:25:47,780
+Tôi lại nợ cô rồi.
+
+1029
+01:25:47,800 --> 01:25:49,710
+Tôi đang ghi nợ đấy.
+
+1030
+01:25:52,600 --> 01:25:54,980
+Anh biết không, anh ta kiểu như
+muốn giết thịt tôi vậy.
+
+1031
+01:25:55,300 --> 01:25:58,330
+Xin lỗi. Tôi sẽ ghi nó vào sổ nợ.
+
+1032
+01:26:01,270 --> 01:26:03,290
+Họ sẽ tìm tới cô đấy.
+
+1033
+01:26:03,900 --> 01:26:05,490
+Tôi biết.
+
+1034
+01:26:07,360 --> 01:26:09,210
+Cảm ơn, Sharon.
+
+1035
+01:26:24,280 --> 01:26:26,610
+- Nó hơi...
+- Muộng màng.
+
+1036
+01:26:26,640 --> 01:26:28,290
+Chuẩn rồi.
+
+1037
+01:26:32,060 --> 01:26:34,200
+- Em phải đi.
+- Được rồi.
+
+1038
+01:26:58,770 --> 01:27:00,100
+Cap.
+
+1039
+01:27:00,370 --> 01:27:02,140
+Cậu biết là tôi sẽ không gọi
+nếu không còn lựa chọn khác.
+
+1040
+01:27:02,170 --> 01:27:06,390
+Thôi nào, anh đang giúp tôi đấy.
+Còn nữa, chúng tôi đã quyết định rồi.
+
+1041
+01:27:06,420 --> 01:27:10,270
+- Cảm ơn vì đã hỗ trợ tôi.
+- Đến lúc tôi phải nhấc mông lên rồi.
+
+1042
+01:27:10,290 --> 01:27:12,100
+Còn thành viên mới của ta?
+
+1043
+01:27:12,120 --> 01:27:14,030
+Cậu ta sẵn sàng rồi.
+
+1044
+01:27:14,500 --> 01:27:16,730
+Tôi vừa cho cậu ta ít cà phê,
+nhưng...
+
+1045
+01:27:17,080 --> 01:27:18,830
+...cậu ta sẽ ổn thôi.
+
+1046
+01:27:21,340 --> 01:27:23,130
+Ta đang ở múi giờ nào vậy?
+
+1047
+01:27:23,150 --> 01:27:25,420
+Thôi nào.
+Đi đi.
+
+1048
+01:27:28,030 --> 01:27:30,660
+- Captain America.
+- Cậu Lang.
+
+1049
+01:27:31,250 --> 01:27:34,330
+Thật vinh dự.
+Tôi bắt tay anh hơi lâu.
+
+1050
+01:27:34,360 --> 01:27:36,910
+Chà. Tuyệt thật.
+Captain America.
+
+1051
+01:27:36,930 --> 01:27:39,230
+Tôi cũng biết cô,
+cô tuyệt lắm.
+
+1052
+01:27:42,140 --> 01:27:43,660
+Chúa ơi.
+
+1053
+01:27:43,750 --> 01:27:45,060
+Nghe này, tôi muốn nói rằng...
+
+1054
+01:27:45,090 --> 01:27:47,930
+Tôi biết anh quen khá nhiều
+có siêu năng lực, vậy nên...
+
+1055
+01:27:48,320 --> 01:27:50,230
+Cảm ơn vì đã nghĩ đến tôi.
+
+1056
+01:27:50,260 --> 01:27:52,600
+- Này anh bạn.
+- Gì thế tic-tac?
+
+1057
+01:27:52,620 --> 01:27:54,990
+Rất vui được gặp anh.
+Nghe này. Chuyện lần trước xảy ra...
+
+1058
+01:27:55,020 --> 01:27:58,380
+Buổi "thử giọng" tuyệt đấy, nhưng...
+nó sẽ không bao giờ xảy ra nữa đâu.
+
+1059
+01:27:58,410 --> 01:28:00,580
+Anh ta kể cho cậu là
+ta đang chống lại cái gì chưa?
+
+1060
+01:28:00,790 --> 01:28:04,180
+Đại loại là về...
+bọn sát thủ tâm thần?
+
+1061
+01:28:04,210 --> 01:28:06,500
+Vụ này chúng tôi
+nằm ngoài vòng pháp luật.
+
+1062
+01:28:06,530 --> 01:28:08,950
+Thế nên nếu anh đi cùng chúng tôi,
+anh sẽ bị truy nã.
+
+1063
+01:28:08,970 --> 01:28:10,520
+Ừ thì cũng có gì mới đâu?
+
+1064
+01:28:10,540 --> 01:28:13,700
+- Chúng ta nên đi thôi.
+- Tôi sắp xếp trực thăng chờ sẵn rồi.
+
+1065
+01:28:18,400 --> 01:28:20,150
+Họ đang sơ tán sân bay.
+
+1066
+01:28:20,180 --> 01:28:22,610
+- Stark.
+- Stark ư?
+
+1067
+01:28:23,860 --> 01:28:25,320
+Mặc đồ đi.
+
+1068
+01:28:45,850 --> 01:28:48,020
+<i>Chà, cái cách anh chạy đón người
+ở sân bay rất chi là kỳ cục đấy.</i>
+
+1069
+01:28:48,050 --> 01:28:49,880
+- Cậu không thấy kỳ quặc sao?
+- <i>Chắc chắn là có rồi.</i>
+
+1070
+01:28:49,900 --> 01:28:51,120
+Nghe tôi này, Tony.
+
+1071
+01:28:51,150 --> 01:28:55,130
+Cái tên bác sĩ, chuyên gia tâm thần đó,
+hắn đứng sau tất cả chuyện này.
+
+1072
+01:28:57,760 --> 01:29:00,530
+- Captain.
+- Bệ hạ.
+
+1073
+01:29:00,560 --> 01:29:01,850
+Sao đi nữa thì...
+
+1074
+01:29:01,870 --> 01:29:04,110
+Ross cho tôi 36 giờ
+để đưa các anh về.
+
+1075
+01:29:04,130 --> 01:29:05,940
+Đã được 24 giờ rồi.
+
+1076
+01:29:05,960 --> 01:29:08,500
+- Cậu giúp người anh em này được không?
+- Anh đuổi theo nhầm người rồi.
+
+1077
+01:29:08,530 --> 01:29:10,840
+Phán đoán của anh là sai lệch.
+
+1078
+01:29:10,840 --> 01:29:13,240
+Bạn thời chiến của anh đã giết
+nhiều người vô tội vào hôm qua.
+
+1079
+01:29:13,260 --> 01:29:16,210
+Và có 5 siêu chiến binh
+cũng giống cậu ấy nữa.
+
+1080
+01:29:16,480 --> 01:29:18,840
+Tôi không thể để tên bác sĩ
+tìm ra họ trước được, Tony. Tôi không thể.
+
+1081
+01:29:18,860 --> 01:29:20,340
+Steve.
+
+1082
+01:29:20,710 --> 01:29:23,400
+Anh biết chuyện gì sắp xảy ra rồi đấy.
+
+1083
+01:29:23,420 --> 01:29:26,520
+Anh có thực sự muốn dùng nắm đấm
+để giải quyết việc này không?
+
+1084
+01:29:29,850 --> 01:29:31,930
+Thôi được, tôi hết kiên nhẫn rồi.
+
+1085
+01:29:31,950 --> 01:29:33,680
+Đồ Lót ơi!
+
+1086
+01:29:38,380 --> 01:29:39,900
+Tốt lắm, nhóc.
+
+1087
+01:29:39,920 --> 01:29:42,040
+Cảm ơn. Chà, tôi có hạ cánh
+khá hơn chút.
+
+1088
+01:29:42,070 --> 01:29:43,330
+Chỉ là... bộ đồ mới này...
+
+1089
+01:29:43,350 --> 01:29:45,790
+Không có ý gì đâu, ngài Stark.
+Nó hoàn hảo, cảm ơn ngài.
+
+1090
+01:29:45,810 --> 01:29:47,440
+Ừ, chúng ta thực sự
+không cần phải bàn về chuyện đó.
+
+1091
+01:29:47,460 --> 01:29:49,900
+Được rồi.
+Cap... Captain.
+
+1092
+01:29:50,330 --> 01:29:51,530
+Fan bự của anh.
+Tôi là Spider-Man.
+
+1093
+01:29:51,560 --> 01:29:53,300
+Được rồi, ta sẽ nói
+chuyện đó sau. Chỉ cần...
+
+1094
+01:29:53,320 --> 01:29:55,280
+- Chào mọi người.
+- Làm tốt lắm.
+
+1095
+01:29:55,300 --> 01:29:58,300
+- Anh bận nhỉ.
+- Còn anh thì là một thằng ngốc toàn diện luôn.
+
+1096
+01:29:58,320 --> 01:29:59,490
+Kéo Clint vào.
+
+1097
+01:29:59,510 --> 01:30:01,660
+Giải thoát Wanda khỏi nơi
+mà cô ấy chưa từng muốn rời đi.
+
+1098
+01:30:01,680 --> 01:30:04,800
+Một nơi an toàn.
+Tôi đang cố giữ...
+
+1099
+01:30:05,800 --> 01:30:08,960
+Tôi đang cố giữ cậu
+khỏi việc chia nhóm Avengers.
+
+1100
+01:30:09,340 --> 01:30:11,330
+Anh đã chia nhóm khi đặt bút kí rồi.
+
+1101
+01:30:12,650 --> 01:30:14,160
+Được rồi, hết nói.
+
+1102
+01:30:14,390 --> 01:30:16,530
+Anh sẽ phải giao Barnes ra
+và các người rồi sẽ đi cùng bọn tôi.
+
+1103
+01:30:16,560 --> 01:30:18,690
+Ngay lập tức!
+Vì chúng tôi ở đây!
+
+1104
+01:30:18,720 --> 01:30:22,830
+Chúng tôi vừa thành lập JSOC,
+làm việc có bất lịch sự thì cũng không hối hận đâu.
+
+1105
+01:30:27,170 --> 01:30:28,680
+<i>Chúng tôi tìm thấy rồi.</i>
+
+1106
+01:30:30,010 --> 01:30:33,120
+Chiếc Quinjet ở nhà chứa số 5,
+phía bắc đường băng.
+
+1107
+01:30:36,430 --> 01:30:38,060
+Được rồi, Lang.
+
+1108
+01:30:38,610 --> 01:30:40,420
+Này mọi người.
+Có gì đó...
+
+1109
+01:30:40,610 --> 01:30:42,130
+Ơ.
+Cái đéo gì thế?
+
+1110
+01:30:42,150 --> 01:30:44,030
+Tôi tin cái này thuộc về anh,
+Captain America.
+
+1111
+01:30:44,060 --> 01:30:46,550
+Tuyệt thật.
+Có 2 người đang ở trên bãi đậu.
+
+1112
+01:30:46,580 --> 01:30:48,660
+Một trong hai là Maximoff,
+tôi sẽ lo cô ta.
+
+1113
+01:30:48,690 --> 01:30:49,850
+<i>Rhodey, cậu muốn bắt Cap chứ?</i>
+
+1114
+01:30:49,880 --> 01:30:52,100
+<i>Có 2 người ở trạm đón khách.
+Wilson và Barnes.</i>
+
+1115
+01:30:52,120 --> 01:30:53,980
+Barnes là của tôi!
+
+1116
+01:30:54,490 --> 01:30:55,850
+Này, ngài Stark,
+tôi làm gì bây giờ?
+
+1117
+01:30:55,920 --> 01:30:57,880
+Ta đã bàn rồi. Giữ khoảng cách.
+Phóng tơ cản bọn họ.
+
+1118
+01:30:57,910 --> 01:30:59,710
+Được rồi, rõ!
+
+1119
+01:31:04,150 --> 01:31:05,780
+Tránh ra, Captain.
+
+1120
+01:31:05,800 --> 01:31:08,350
+Tôi không nhắc lại lần thứ hai đâu.
+
+1121
+01:31:09,920 --> 01:31:14,060
+- Nghe này, tôi không muốn đánh cô chút nào hết.
+- Tôi cũng có căng thẳng vì điều đó đâu.
+
+1122
+01:31:25,510 --> 01:31:29,720
+- Cái quái gì thế?
+- Giờ ai cũng có đồ ngon cả.
+
+1123
+01:31:35,870 --> 01:31:39,490
+Anh có cánh tay kim loại sao?
+Tuyệt cú mèo luôn, anh zai à!
+
+1124
+01:31:40,220 --> 01:31:43,090
+Anh có quyền giữ im lặng!
+
+1125
+01:31:56,510 --> 01:32:00,240
+Xin lỗi, Cap. Thứ này không lấy mạng anh
+nhưng cũng không gãi ngứa giúp anh đâu.
+
+1126
+01:32:04,770 --> 01:32:08,120
+- <i>Wanda, tôi nghĩ cô đã làm tổn thương Vision.</i>
+- Ông nhốt tôi trong phòng.
+
+1127
+01:32:08,150 --> 01:32:09,990
+<i>Được rồi. Thứ nhất,
+nói thế là hơi quá mức.</i>
+
+1128
+01:32:10,010 --> 01:32:12,180
+<i>Thứ hai,
+tôi làm thế để bảo vệ cô.</i>
+
+1129
+01:32:12,210 --> 01:32:13,820
+- Chào, Clint.
+- Chào anh bạn.
+
+1130
+01:32:13,840 --> 01:32:17,310
+<i>Rõ ràng là nghỉ hưu không hợp
+với anh nhỉ. Chán đánh golf rồi à?</i>
+
+1131
+01:32:17,340 --> 01:32:20,480
+Ừ thì, tôi chơi 18 lỗ,
+trúng cả 18.
+
+1132
+01:32:20,760 --> 01:32:22,900
+Có vẻ là
+trượt không nổi.
+
+1133
+01:32:24,750 --> 01:32:27,740
+- <i>Cái gì chả có lần đầu nhỉ.</i>
+- Xem lại đi.
+
+1134
+01:32:37,640 --> 01:32:41,750
+- <font color=#FF4F31><i>Phát hiện nhiều va chạm.</i></font>
+- Ừ, tôi cũng tự phát hiện được.
+
+1135
+01:32:48,800 --> 01:32:50,270
+Chúa ơi.
+
+1136
+01:32:51,090 --> 01:32:53,570
+Anh zai ơi,
+tôi nghĩ anh mất cái này này!
+
+1137
+01:33:04,980 --> 01:33:07,700
+- Cánh làm từ sợi carbon à?
+- Cậu "phóng ra" thứ này sao?
+
+1138
+01:33:07,730 --> 01:33:09,810
+Điều đó giải thích được
+độ cứng và dẻo của nó đấy.
+
+1139
+01:33:09,830 --> 01:33:11,480
+và phải nói rằng,
+nó tuyệt lắm đấy.
+
+1140
+01:33:11,500 --> 01:33:13,000
+Tôi không biết trước giờ
+cậu đã chiến đấu lúc nào chưa,
+
+1141
+01:33:13,030 --> 01:33:16,740
+- nhưng chả ai nói lắm thế đâu.
+- Được rồi, xin lỗi, lỗi của tôi.
+
+1142
+01:33:21,040 --> 01:33:22,460
+Này mấy anh.
+Tôi rất muốn tiếp tục trò chuyện
+
+1143
+01:33:22,480 --> 01:33:25,220
+nhưng hôm nay tôi chỉ có một việc duy nhất,
+và tôi phải gây ấn tượng với ngài Stark.
+
+1144
+01:33:25,250 --> 01:33:27,810
+vậy nên, tôi rất xin lỗi.
+
+1145
+01:33:29,590 --> 01:33:30,920
+Wwahhhh!
+
+1146
+01:33:30,940 --> 01:33:33,300
+Anh không làm thế sớm hơn được sao?
+
+1147
+01:33:33,710 --> 01:33:35,470
+Tôi ghét anh.
+
+1148
+01:33:42,420 --> 01:33:44,220
+Captain, coi chừng!
+
+1149
+01:33:45,570 --> 01:33:47,340
+Ném nó vào cái này.
+
+1150
+01:33:47,370 --> 01:33:48,750
+Ngay lập tức!
+
+1151
+01:33:52,170 --> 01:33:53,940
+<i>Oh, không phải chứ!</i>
+
+1152
+01:33:56,430 --> 01:33:59,070
+Ôi trời. Tôi cứ tưởng đó
+là xe tải chở nước.
+
+1153
+01:33:59,090 --> 01:34:01,420
+Ờ... xin lỗi nha.
+
+1154
+01:34:03,210 --> 01:34:05,350
+Được.
+Giờ tôi nóng rồi đấy.
+
+1155
+01:34:05,480 --> 01:34:06,970
+Việc này có nằm trong kế hoạch không?
+
+1156
+01:34:07,000 --> 01:34:10,430
+<i>Kế hoạch của tôi là nhẹ tay với họ.
+Muốn tăng mức độ không?</i>
+
+1157
+01:34:12,580 --> 01:34:14,220
+Nó kia rồi.
+
+1158
+01:34:15,630 --> 01:34:17,160
+Nhanh lên!
+
+1159
+01:34:25,590 --> 01:34:27,560
+Đội trưởng Rogers.
+
+1160
+01:34:27,850 --> 01:34:31,430
+Tôi biết anh tin rằng
+những điều mình làm là đúng đắn.
+
+1161
+01:34:31,480 --> 01:34:36,220
+Nhưng, vì lợi ích tập thể
+mọi người phải đầu hàng ngay bây giờ.
+
+1162
+01:34:52,940 --> 01:34:54,810
+Chúng ta làm gì đây, Cap?
+
+1163
+01:34:55,680 --> 01:34:57,220
+Chiến đấu.
+
+1164
+01:34:58,710 --> 01:35:00,780
+Chuyện này sẽ chẳng kết thúc tốt đẹp gì.
+
+1165
+01:35:06,980 --> 01:35:08,580
+Họ không dừng lại.
+
+1166
+01:35:08,610 --> 01:35:10,200
+Ta cũng vậy.
+
+1167
+01:35:40,650 --> 01:35:44,220
+- Ta vẫn là bạn chứ?
+- Còn tùy cô đánh tôi thế nào nữa.
+
+1168
+01:35:52,290 --> 01:35:54,520
+Anh không đánh hết sức.
+
+1169
+01:35:58,330 --> 01:36:01,960
+- Tôi không giết cha cậu.
+- Thế sao phải chạy?
+
+1170
+01:36:08,800 --> 01:36:10,810
+Lãnh đủ đi!
+
+1171
+01:36:19,680 --> 01:36:21,730
+Thứ đó chẳng tuân theo
+quy luật vật lí nào cả.
+
+1172
+01:36:21,750 --> 01:36:23,880
+Nghe này nhóc. Có nhiều thứ
+xảy ra ở đây mà cậu không hiểu.
+
+1173
+01:36:23,900 --> 01:36:25,770
+Stark bảo là anh sẽ nói thế.
+
+1174
+01:36:35,100 --> 01:36:37,630
+Ngài ấy cũng nói là nhắm vào chân anh.
+
+1175
+01:36:48,850 --> 01:36:50,820
+Clint, cậu cắt đuôi anh ta với?
+
+1176
+01:36:50,840 --> 01:36:53,460
+- Bám chắc chưa?
+- Ừ. Không sao, tôi ổn.
+
+1177
+01:36:53,480 --> 01:36:56,250
+Tôi ổn, chàng cung thủ à!
+Đi nào, đi nào!
+
+1178
+01:37:17,320 --> 01:37:18,840
+Stark có bảo cậu điều gì nữa không?
+
+1179
+01:37:18,860 --> 01:37:22,050
+Rằng anh đã sai.
+Nhưng cứ nghĩ mình đúng.
+
+1180
+01:37:22,080 --> 01:37:24,180
+Và điều đó khiến anh nguy hiểm.
+
+1181
+01:37:28,750 --> 01:37:30,750
+Tôi nghĩ anh ta nói cũng có lí.
+
+1182
+01:37:35,090 --> 01:37:38,110
+Cậu là người tốt đấy, nhóc.
+Cậu đến từ đâu?
+
+1183
+01:37:38,260 --> 01:37:39,760
+Queens.
+
+1184
+01:37:40,770 --> 01:37:42,200
+Brooklyn.
+
+1185
+01:37:48,160 --> 01:37:50,350
+- <i>Friday</i>?
+- <font color=#FF4F31><i>Một vài hệ thống vũ khí đã bị tắt.</i></font>
+
+1186
+01:37:50,380 --> 01:37:51,410
+Sao cơ?
+
+1187
+01:37:51,440 --> 01:37:53,890
+Oh, anh sẽ phải mang thứ này
+vào cửa hàng thôi.
+
+1188
+01:37:53,910 --> 01:37:57,330
+- Ai đang nói thế?
+- Lương tâm của anh đấy.
+
+1189
+01:37:57,360 --> 01:37:59,280
+Mấy ngày nay chúng ta
+không nói chuyện nhiều lắm.
+
+1190
+01:37:59,300 --> 01:38:03,060
+- Friday?
+- <font color=#FF4F31>Hệ thống đang thải khí làm mát.</font>
+
+1191
+01:38:03,060 --> 01:38:04,570
+Oh oh.
+
+1192
+01:38:06,060 --> 01:38:07,650
+Ôi trời.
+
+1193
+01:38:16,240 --> 01:38:18,580
+- Chúng ta phải đi.
+- Hắn ta có lẽ đã đến Siberia trước rồi.
+
+1194
+01:38:18,600 --> 01:38:20,150
+Ta cần phải hạ vật thể bay.
+
+1195
+01:38:20,170 --> 01:38:21,770
+Tôi sẽ lo Vision.
+Cậu đến chỗ phản lực.
+
+1196
+01:38:21,800 --> 01:38:25,370
+Không, 2 người tới chỗ phản lực!
+Cả hai!
+
+1197
+01:38:26,940 --> 01:38:28,550
+Chúng tôi sẽ không thoát được khỏi đây đâu.
+
+1198
+01:38:28,570 --> 01:38:31,320
+Tôi ghét phải thừa nhận điều này,
+nhưng nếu ta có thắng trận này,
+
+1199
+01:38:31,350 --> 01:38:33,000
+thì một số trong chúng ta
+cũng phải thua thôi.
+
+1200
+01:38:33,030 --> 01:38:35,400
+Đây không phải là chiến thật sự, Steve.
+
+1201
+01:38:35,430 --> 01:38:40,030
+- Được rồi, Sam. Kế hoạch là gì?
+- Chúng ta cần làm sao nhãng, thứ gì đó kích cỡ lớn.
+
+1202
+01:38:41,080 --> 01:38:44,270
+Tôi có thứ cũng khá là lớn đây,
+nhưng tôi không duy trì được lâu.
+
+1203
+01:38:44,290 --> 01:38:46,600
+Khi nào tôi ra hiệu,
+thì chạy hết sức!
+
+1204
+01:38:46,620 --> 01:38:49,600
+Và nếu tôi có bị tách đôi người ra,
+thì cũng đừng trở lại.
+
+1205
+01:38:49,630 --> 01:38:51,830
+- Anh ta sẽ tách làm đôi sao?
+- Cậu có chắc không đấy, Scott?
+
+1206
+01:38:51,860 --> 01:38:54,580
+Tôi làm suốt.
+Ý tôi là mỗi một lần...
+
+1207
+01:38:54,600 --> 01:38:57,610
+...trong phòng thí nghiệm.
+Rồi tôi ngất đi.
+
+1208
+01:39:15,340 --> 01:39:17,650
+Vãi cả cức!
+
+1209
+01:39:20,890 --> 01:39:24,120
+Được rồi, gã tí hon hóa khổng lồ.
+Hắn khổng lồ rồi đấy.
+
+1210
+01:39:24,970 --> 01:39:26,560
+Tôi nghĩ đó là tín hiệu.
+
+1211
+01:39:26,590 --> 01:39:28,690
+Làm tốt lắm, tic-tac!
+
+1212
+01:39:29,600 --> 01:39:32,290
+Trả Rhodey lại cho tôi.
+
+1213
+01:39:34,920 --> 01:39:36,470
+Tôi lo được!
+
+1214
+01:39:58,410 --> 01:40:01,070
+Được rồi. Có ai ở phe ta
+còn trốn và gây sốc,
+
+1215
+01:40:01,100 --> 01:40:03,450
+có khả năng đặc biệt
+mà muốn tiết lộ không,
+
+1216
+01:40:03,480 --> 01:40:05,730
+Tôi sẵn sàng lắng nghe đây.
+
+1217
+01:40:12,580 --> 01:40:16,770
+Muốn tới chỗ họ sao?
+Bước qua xác tôi trước đã.
+
+1218
+01:40:42,480 --> 01:40:44,360
+Ta chưa biết nhau.
+
+1219
+01:40:46,860 --> 01:40:49,470
+- Tôi là Clint.
+- Không quan tâm.
+
+1220
+01:41:16,360 --> 01:41:18,090
+Bỏ ra.
+
+1221
+01:41:31,960 --> 01:41:34,510
+Có gì đó xuyên vào người tôi!
+
+1222
+01:41:57,850 --> 01:41:59,630
+Anh không định dừng lại?
+
+1223
+01:41:59,660 --> 01:42:01,390
+Cô biết là tôi không thể.
+
+1224
+01:42:01,420 --> 01:42:03,460
+Tôi sẽ hối hận lắm đây.
+
+1225
+01:42:06,420 --> 01:42:07,910
+Đi đi.
+
+1226
+01:42:13,010 --> 01:42:15,910
+Này mọi người.
+Mọi người đã xem bộ phim cũ rích đó chưa?
+
+1227
+01:42:15,940 --> 01:42:18,830
+- Empire Strikes Back ấy?
+- Trời ạ, Tony, cậu ta mấy tuổi rồi?
+
+1228
+01:42:18,860 --> 01:42:22,100
+Tôi không biết. Tôi đã định tuổi carbon
+cậu ta đâu? Cậu ta còn trẻ trâu lắm.
+
+1229
+01:42:23,260 --> 01:42:25,250
+Biết cảnh này trong phim chứ?
+
+1230
+01:42:25,340 --> 01:42:30,010
+Cảnh trên hành tinh tuyết ấy?
+Có cả bọn người máy khổng lồ biết đi nữa?
+
+1231
+01:42:31,390 --> 01:42:34,610
+- Có lẽ thằng bé có ý gì đó.
+- Tôi hiểu rồi. Tony, bay lên.
+
+1232
+01:42:42,240 --> 01:42:43,420
+Đúng rồi!
+
+1233
+01:42:43,440 --> 01:42:45,930
+Ha ha!
+Tuyệt cú mèo!
+
+1234
+01:43:00,260 --> 01:43:03,520
+Ai có múi cam nào không?
+
+1235
+01:43:08,810 --> 01:43:10,730
+- Nhóc, ổn chứ?
+- Này!
+
+1236
+01:43:11,830 --> 01:43:13,430
+- Bỏ tôi ra!
+- Đoán xem ai nào?
+
+1237
+01:43:13,460 --> 01:43:15,120
+- Chào.
+- Oh.
+
+1238
+01:43:15,150 --> 01:43:16,600
+- Chào ngài.
+- Ừ.
+
+1239
+01:43:16,620 --> 01:43:17,850
+- Sợ quá.
+- Ừ.
+
+1240
+01:43:17,880 --> 01:43:19,890
+- Cậu xong việc rồi. Được chứ?
+- Sao cơ?
+
+1241
+01:43:19,920 --> 01:43:21,410
+- Cậu làm tốt lắm.
+- Không. Tôi ổn, tôi khỏe mà.
+
+1242
+01:43:21,430 --> 01:43:22,790
+- Bình tĩnh.
+- Không, tôi phải đi bắt anh ta lại!
+
+1243
+01:43:22,810 --> 01:43:24,200
+Cậu về nhà
+hoặc tôi sẽ gọi dì May!
+
+1244
+01:43:24,230 --> 01:43:25,530
+Cậu xong rồi.
+
+1245
+01:43:25,550 --> 01:43:26,800
+Chờ đã.
+
+1246
+01:43:26,820 --> 01:43:30,180
+Ngài Stark, chờ đã!
+Tôi chưa "xong", tôi không...
+
+1247
+01:43:31,930 --> 01:43:33,730
+Thôi được, tôi xong rồi.
+
+1248
+01:43:50,380 --> 01:43:53,200
+Tôi nói rằng sẽ giúp anh tìm
+anh ta, không phải bắt anh ta.
+
+1249
+01:43:53,230 --> 01:43:55,210
+Có sự khác nhau đấy.
+
+1250
+01:44:01,100 --> 01:44:03,110
+Tôi xin lỗi.
+
+1251
+01:44:03,230 --> 01:44:04,840
+Tôi cũng thế.
+
+1252
+01:44:05,210 --> 01:44:08,630
+Như tôi đã nói, thảm họa.
+
+1253
+01:44:21,220 --> 01:44:23,940
+Vision, tôi có một kẻ cướp ở hướng 6 giờ.
+
+1254
+01:44:27,750 --> 01:44:29,310
+Vision, nghe rõ không?
+
+1255
+01:44:29,340 --> 01:44:32,070
+Nhắm vào bộ phận tên lửa,
+biến cậu ta thành tàu lượn đi.
+
+1256
+01:44:46,070 --> 01:44:47,590
+Rhodey?
+
+1257
+01:44:48,980 --> 01:44:51,140
+Tony, tôi đang rơi tự do.
+
+1258
+01:44:59,050 --> 01:45:00,700
+Rhodes!
+
+1259
+01:45:12,700 --> 01:45:14,330
+Quét dấu hiệu sự sống.
+
+1260
+01:45:14,520 --> 01:45:18,680
+<font color=#FF4F31><i>Phát hiện nhịp tim.
+Cứu thương khẩn cấp đang đến.</i></font>
+
+1261
+01:45:23,070 --> 01:45:24,830
+Tôi xin lỗi.
+
+1262
+01:45:41,560 --> 01:45:43,420
+<font color=#FFFF00><i>Chào buổi sáng.
+Phục vụ phòng xin nghe.</i></font>
+
+1263
+01:45:43,450 --> 01:45:45,710
+<font color=#FFFF00>Chào buổi sáng, Cô Leben.</font>
+
+1264
+01:45:45,730 --> 01:45:48,680
+<font color=#FFFF00>- Tôi ở phòng 201.
+- <i>Chào buổi sáng, ngài Muller.</i></font>
+
+1265
+01:45:48,700 --> 01:45:51,300
+<font color=#FFFF00><i>Lại thịt xông khói
+và cà phê đen nữa sao?</i></font>
+
+1266
+01:45:51,610 --> 01:45:53,880
+<font color=#FFFF00><i>Cô hiểu tôi quá.</i></font>
+
+1267
+01:45:54,700 --> 01:45:57,390
+<font color=#FFFF00><i>Xin chào, tôi mang bữa sáng đến.</i></font>
+
+1268
+01:45:57,660 --> 01:45:59,680
+<font color=#FFFF00><i>Tôi vào được chứ?</i></font>
+
+1269
+01:46:07,650 --> 01:46:09,450
+<font color=#FFFF00><i>Ngài Muller?</i></font>
+
+1270
+01:46:12,400 --> 01:46:14,360
+<font color=#FFFF00><i>Ngài Muller?</i></font>
+
+1271
+01:46:16,410 --> 01:46:18,100
+<font color=#FFFF00><i>Ôi Chúa ơi!</i></font>
+
+1272
+01:46:23,890 --> 01:46:26,270
+Rồi chuyện gì sẽ xảy ra
+với bạn bè của cậu?
+
+1273
+01:46:34,050 --> 01:46:37,960
+Dù gì đi nữa
+thì tôi cũng sẽ lo được.
+
+1274
+01:46:40,840 --> 01:46:44,430
+Tôi không biết rằng mình
+có xứng đáng được thế này hay không nữa, Steve.
+
+1275
+01:46:50,270 --> 01:46:52,660
+Những việc cậu đã làm trong những năm qua...
+
+1276
+01:46:53,010 --> 01:46:54,720
+Không phải lỗi của cậu.
+
+1277
+01:46:55,110 --> 01:46:57,280
+Cậu không có lựa chọn.
+
+1278
+01:46:58,280 --> 01:46:59,770
+Tôi biết.
+
+1279
+01:47:02,460 --> 01:47:04,380
+Nhưng tôi đã làm đấy thôi.
+
+1280
+01:47:18,530 --> 01:47:21,190
+Vision, sao chuyện này xảy ra được?
+
+1281
+01:47:21,220 --> 01:47:23,430
+Tôi bị phân tâm.
+
+1282
+01:47:25,590 --> 01:47:28,080
+Tôi không nghĩ điều đó
+là có thể.
+
+1283
+01:47:29,090 --> 01:47:31,220
+Tôi cũng vậy.
+
+1284
+01:47:47,040 --> 01:47:50,330
+Bác sĩ nói rằng
+cậu ta bị liệt xương L4 đến S1.
+The doctor said he shattered
+L4 to S1.
+
+1285
+01:47:50,360 --> 01:47:53,210
+Gãy tủy sống hết mức.
+
+1286
+01:47:53,240 --> 01:47:56,530
+Có lẽ sẽ bị tê liệt.
+
+1287
+01:47:59,310 --> 01:48:01,340
+Steve sẽ không dừng lại.
+
+1288
+01:48:01,370 --> 01:48:03,900
+Nếu anh biết kiềm chế,
+thì Rhodey sẽ có tương lai tốt đẹp.
+
+1289
+01:48:03,920 --> 01:48:06,400
+- Cô để họ đi, Nat.
+- Chúng ta sai rồi.
+
+1290
+01:48:06,430 --> 01:48:07,850
+Chúng ta ư?
+
+1291
+01:48:08,670 --> 01:48:11,330
+Trời ạ. Cô chắc phải là khó khăn lắm
+để làm điệp vụ hai mang, phải không?
+
+1292
+01:48:11,350 --> 01:48:13,460
+Dính chặt trong DNA rồi.
+
+1293
+01:48:14,390 --> 01:48:20,000
+Anh có thể bỏ cái tôi đi
+dù chỉ 1 giây thôi không?
+
+1294
+01:48:23,580 --> 01:48:28,990
+T'Challa đã kể cho Ross về việc cô làm,
+nên họ sẽ đến tìm cô đấy.
+
+1295
+01:48:29,890 --> 01:48:32,830
+Tôi không phải là người
+cần phải canh chừng họ đâu.
+
+1296
+01:48:41,070 --> 01:48:42,440
+Tôi đang nhìn cái gì đây, Friday?
+
+1297
+01:48:42,460 --> 01:48:45,530
+<font color=#FF4F31><i>Dữ liệu tải lên mới đây
+của cảnh sát Berlin.</i></font>
+
+1298
+01:48:48,040 --> 01:48:50,110
+Khởi động trực thăng.
+
+1299
+01:48:55,370 --> 01:48:59,530
+<font color=#FF4F31><i>Lực Lượng Đặc Nhiệm đã gọi
+bác sĩ tâm thần ngay khi Barnes bị bắt.</i></font>
+
+1300
+01:48:59,560 --> 01:49:03,360
+<font color=#FF4F31><i>LHQ cử Bác sĩ Theo Broussard từ Geneva,
+và trong vòng không quá 1 giờ,</i></font>
+
+1301
+01:49:03,390 --> 01:49:04,960
+<font color=#FF4F31><i>ông ta đã gặp người này.</i></font>
+
+1302
+01:49:04,990 --> 01:49:07,880
+- Đã quét nhân dạng chưa?
+- <font color=#FF4F31><i>Trông tôi ngơ lắm à?</i></font>
+
+1303
+01:49:07,910 --> 01:49:09,480
+Tôi không biết,
+nhưng tôi nghĩ tóc cô màu đỏ.
+
+1304
+01:49:09,500 --> 01:49:11,480
+<font color=#FF4F31><i>Chắc chắn là ngài
+đang nghĩ đến ai khác.</i></font>
+
+1305
+01:49:11,510 --> 01:49:12,510
+Phải rồi.
+
+1306
+01:49:12,530 --> 01:49:16,180
+<font color=#FF4F31><i>Bác sĩ giả mạo thực ra là
+Đại tá Helmut Zemo.</i></font>
+
+1307
+01:49:16,370 --> 01:49:18,820
+<font color=#FF4F31><i>Cục tình báo Sokovia.</i></font>
+
+1308
+01:49:19,720 --> 01:49:24,700
+<font color=#FF4F31><i>Zemo điều hành EKO Skorpion,
+một biệt đội sát thủ bí mật ở Sokovia.</i></font>
+
+1309
+01:49:26,310 --> 01:49:27,820
+Vậy chuyện gì xảy ra với Broussard thật?
+
+1310
+01:49:27,840 --> 01:49:30,230
+<font color=#FF4F31><i>Xác ông ta được tìm thấy
+trong một khách sạn ở Berlin.</i></font>
+
+1311
+01:49:30,250 --> 01:49:33,030
+<font color=#FF4F31><i>Cảnh sát cũng đã tìm được
+bộ tóc giả và mặt nạ</i></font>
+
+1312
+01:49:33,050 --> 01:49:38,060
+<font color=#FF4F31><i>gần giống với khuôn mặt
+của James Buchanan Barnes.</i></font>
+
+1313
+01:49:38,080 --> 01:49:40,110
+Thằng chó.
+
+1314
+01:49:41,840 --> 01:49:44,480
+- Gửi cái này cho Ross.
+- <font color=#FF4F31><i>Vâng, thưa ngài.</i></font>
+
+1315
+01:51:17,350 --> 01:51:21,750
+<i>Đây là phòng quản lí nhà tù Raft.
+Ngài được phép hạ cánh, ngài Stark.</i>
+
+1316
+01:51:39,380 --> 01:51:42,300
+<font color=#B2FBFF>NHÀ TÙ RAFT</font>
+
+1317
+01:51:54,570 --> 01:51:56,550
+Vậy, ông nhận được tài liệu chưa?
+
+1318
+01:51:56,580 --> 01:51:59,860
+Hãy đổi đối tượng của vệ tinh,
+và bắt đầu quét nhân dạng của gã Zemo này đi.
+
+1319
+01:51:59,890 --> 01:52:04,550
+Anh thực sự nghĩ là tôi sẽ nghe anh,
+thậm chí là sau thất bại ở Leipzig?
+
+1320
+01:52:04,620 --> 01:52:07,260
+Anh còn may vì không bị
+ở trong xà lim này đấy.
+
+1321
+01:52:37,760 --> 01:52:43,120
+<i>Nhà tương lai học kìa, các quý ông!
+Nhà tương lai học tới rồi đấy!</i>
+
+1322
+01:52:43,150 --> 01:52:45,470
+Anh ta đoán được hết mọi thứ!
+
+1323
+01:52:45,490 --> 01:52:49,100
+Anh ta biết điều gì tốt nhất cho ta,
+dù ta có muốn hay không.
+
+1324
+01:52:49,130 --> 01:52:50,460
+Cho tôi thở tí đi, Barton.
+
+1325
+01:52:50,490 --> 01:52:52,880
+<i>Tôi không biết là họ
+sẽ nhốt mọi người ở đây.</i>
+
+1326
+01:52:53,170 --> 01:52:56,330
+Ừ, nhưng anh cũng biết là họ
+sẽ tống bọn tôi vào nơi nào đó rồi, Tony.
+
+1327
+01:52:56,370 --> 01:52:59,310
+Đúng, nhưng không phải
+cái nhà tù to lềnh bềnh giữa đại dương thế này.
+
+1328
+01:52:59,330 --> 01:53:02,020
+Cậu biết nơi này dành cho bọn tâm thần rồi đấy.
+Nơi này dành cho...
+
+1329
+01:53:02,040 --> 01:53:03,570
+"Tội phạm"?
+
+1330
+01:53:04,650 --> 01:53:06,710
+"Tội phạm" đấy, Tony.
+
+1331
+01:53:06,730 --> 01:53:09,590
+Tôi nghĩ anh đang
+định dùng từ đó.
+
+1332
+01:53:10,620 --> 01:53:11,940
+Phải không?
+
+1333
+01:53:12,250 --> 01:53:16,090
+Từ đó đéo được dùng để ám chỉ tôi,
+hay Sam, hay Wanda.
+
+1334
+01:53:16,120 --> 01:53:19,150
+- Nhưng bọn tôi ở đây rồi đấy.
+- Vì các cậu phá luật.
+
+1335
+01:53:19,180 --> 01:53:21,200
+- Phải.
+- Tôi có bắt các cậu làm thế đâu.
+
+1336
+01:53:21,400 --> 01:53:23,540
+- Luật, luật, luật.
+- Cậu đọc rồi, và vẫn phá luật.
+
+1337
+01:53:23,570 --> 01:53:24,600
+Luật, luật, luật.
+
+1338
+01:53:24,620 --> 01:53:27,490
+Được chưa? Cậu cũng trưởng thành rồi.
+Có cả vợ và con nữa.
+
+1339
+01:53:27,520 --> 01:53:31,220
+Tôi không hiểu. Sao cậu không nghĩ đến họ
+trước khi chọn sai phe?
+
+1340
+01:53:31,910 --> 01:53:34,360
+Mọi người nên đề phòng gã này.
+
+1341
+01:53:35,220 --> 01:53:37,390
+Có cơ hội là anh ta sẽ đâm sau lưng đấy!
+
+1342
+01:53:38,880 --> 01:53:42,450
+Hank Pym luôn nói rằng,
+đừng bao giờ tin tưởng nhà Stark.
+
+1343
+01:53:42,770 --> 01:53:44,360
+Ai đây?
+
+1344
+01:53:44,810 --> 01:53:46,740
+Không phải chứ.
+
+1345
+01:53:48,140 --> 01:53:49,330
+Rhodes sao rồi?
+
+1346
+01:53:49,360 --> 01:53:50,930
+Tôi đưa cậu ấy đến điều trị
+ở Columbia ngày mai.
+
+1347
+01:53:50,960 --> 01:53:54,320
+Nên... hi vọng là ổn.
+
+1348
+01:53:55,370 --> 01:53:57,670
+Cậu cần gì?
+Họ cho các cậu ăn chưa?
+
+1349
+01:53:59,070 --> 01:54:01,130
+Giờ anh là cớm tốt bụng đấy à?
+
+1350
+01:54:01,150 --> 01:54:03,020
+Tôi chỉ là người cần biết
+Steve đi đâu.
+
+1351
+01:54:03,040 --> 01:54:04,860
+Vậy thì anh nên
+làm cớm bẩn thì hơn,
+
+1352
+01:54:04,890 --> 01:54:06,760
+vì anh sẽ phải đóng dấu
+"Kẻ Hủy Diệt" trên mông tôi
+
+1353
+01:54:06,790 --> 01:54:09,100
+để móc được thông tin.
+
+1354
+01:54:09,130 --> 01:54:11,400
+Oh, tôi vừa vô hiệu hóa âm thanh
+của máy ghi hình rồi.
+
+1355
+01:54:11,420 --> 01:54:14,970
+Chúng ta có khoảng 30 giây trước khi
+họ nhận ra rằng hư hỏng không do máy móc.
+
+1356
+01:54:15,210 --> 01:54:18,230
+Cậu vừa làm gì thế?
+Bật nó lên đi!
+
+1357
+01:54:19,180 --> 01:54:20,730
+Nhìn này.
+
+1358
+01:54:21,080 --> 01:54:25,810
+Vì đây là gã đáng ra
+phải là người thẩm vấn Barnes.
+
+1359
+01:54:26,080 --> 01:54:28,900
+Rõ ràng là tôi đã sai.
+Sam, tôi sai rồi.
+
+1360
+01:54:28,930 --> 01:54:30,370
+Lần đầu đấy.
+
+1361
+01:54:30,400 --> 01:54:34,840
+Cap chắc chắn đã tách nhóm và
+anh ta cần mọi sự giúp đỡ.
+
+1362
+01:54:35,030 --> 01:54:36,660
+Chúng ta không thân nhau lắm.
+Cậu không phải...
+
+1363
+01:54:36,680 --> 01:54:38,830
+Này.
+Ổn rồi.
+
+1364
+01:54:46,600 --> 01:54:48,490
+Nghe này, tôi sẽ nói.
+
+1365
+01:54:48,510 --> 01:54:52,160
+Nhưng anh phải đi một mình,
+với tư cách là bạn bè.
+
+1366
+01:54:53,280 --> 01:54:54,830
+Dễ thôi.
+
+1367
+01:54:57,430 --> 01:55:00,270
+Stark, cậu ta có nói gì cho cậu về Rogers không?
+
+1368
+01:55:00,300 --> 01:55:02,790
+Không, cậu ta bảo tôi xuống địa ngục đi.
+Thay vì xuống đó, tôi về nhà vậy.
+
+1369
+01:55:02,810 --> 01:55:05,920
+Nhưng ông có thể gọi tôi bất cứ lúc nào.
+
+1370
+01:55:05,940 --> 01:55:08,870
+Tôi sẽ bắt ông giữ máy,
+vì tôi thích xem đèn báo nhấp nháy.
+
+1371
+01:56:17,050 --> 01:56:18,830
+Cậu có nhớ cái lần
+chúng ta phải lái xe về
+
+1372
+01:56:18,860 --> 01:56:21,100
+từ bãi biển Rockaway
+trong cái xe đông lạnh chứ?
+
+1373
+01:56:21,130 --> 01:56:24,770
+Đó có phải lần mà chúng ta
+dùng tiền mua vé tàu để mua hotdog không?
+
+1374
+01:56:24,790 --> 01:56:28,780
+Cậu tiêu hết 3 đô để cố thắng
+thấy con gấu bông cho cô nàng tóc đó.
+
+1375
+01:56:28,810 --> 01:56:31,840
+- Mà tên cô ấy là gì nhỉ?
+- Dolores. Cậu gọi cô ta là Da.
+
+1376
+01:56:31,870 --> 01:56:33,760
+Giờ cô ta chắc cũng cả trăm tuổi rồi.
+
+1377
+01:56:33,790 --> 01:56:35,910
+Ta cũng vậy mà, anh bạn.
+
+1378
+01:56:44,720 --> 01:56:46,770
+Hắn đến đây chưa nổi vài giờ đâu.
+
+1379
+01:56:46,790 --> 01:56:48,960
+Cũng đủ thời gian để đánh thức chúng.
+
+1380
+01:57:30,850 --> 01:57:32,270
+Cậu sẵn sàng chưa?
+
+1381
+01:57:32,290 --> 01:57:33,830
+Rồi.
+
+1382
+01:57:47,100 --> 01:57:49,330
+Anh có vẻ hơi đề phòng.
+
+1383
+01:57:50,080 --> 01:57:52,060
+Vừa trải qua một ngày dài mà.
+
+1384
+01:57:52,290 --> 01:57:54,200
+Thoải mái đi, Chiến Binh.
+Tôi không ở đây để bắt cậu.
+
+1385
+01:57:54,230 --> 01:57:56,320
+Thế anh ở đây làm gì?
+
+1386
+01:57:56,630 --> 01:57:58,960
+Có vẻ câu chuyện của anh
+cũng không điên rồ cho lắm.
+
+1387
+01:57:59,580 --> 01:58:01,110
+Có lẽ thế.
+
+1388
+01:58:02,070 --> 01:58:05,140
+Ross không biết tôi ở đây,
+tôi cũng thích giữ bí mật với lão.
+
+1389
+01:58:05,850 --> 01:58:08,540
+Nếu không thì,
+tôi đã tự bắt giữ mình rồi.
+
+1390
+01:58:09,200 --> 01:58:11,650
+Chà, nghe giống như
+một đống giấy giờ cần thông qua.
+
+1391
+01:58:14,410 --> 01:58:17,770
+- Rất vui được gặp lại anh, Tony.
+- Tôi cũng thế, Cap.
+
+1392
+01:58:17,770 --> 01:58:20,210
+Này ứng cử viên Manchuria, anh định giết tôi đấy à?
+<font color=#FFF672>(<i>Ứng cử viên Manchuria: ám chỉ chiến binh người Mỹ bị tẩy não</i>)</font>
+
+1393
+01:58:20,240 --> 01:58:22,930
+Đang có hiệp định ngừng bắn,
+cậu có thể bỏ nó xuống.
+
+1394
+01:58:42,390 --> 01:58:45,360
+- <i>Có tín hiệu nhiệt.</i>
+- Bao nhiêu?
+
+1395
+01:58:46,130 --> 01:58:48,750
+<i>À... một.</i>
+
+1396
+01:59:07,050 --> 01:59:11,400
+<i>Nếu có niềm ai ủi nào thì,
+đó là việc họ chết khi chìm trong giấc ngủ.</i>
+
+1397
+01:59:17,680 --> 01:59:20,780
+<i>Mày nghĩ rằng tao cần
+nhiều hơn những kẻ như mày sao?</i>
+
+1398
+01:59:21,990 --> 01:59:23,950
+Cái quái gì thế?
+
+1399
+01:59:24,490 --> 01:59:29,660
+<i>Tôi rất biết ơn họ,
+họ đã mang các người tới đây.</i>
+
+1400
+01:59:33,680 --> 01:59:35,240
+<i>Thôi đi nào, Captain.</i>
+
+1401
+01:59:35,270 --> 01:59:40,100
+<i>Người Xô Viết xây dựng căn phòng này
+có thể chịu được sức nổ từ cả trăm quả bom rocket.</i>
+
+1402
+01:59:40,130 --> 01:59:41,980
+<i>Tôi cá là mình có thể phá được đấy.</i>
+
+1403
+01:59:42,010 --> 01:59:44,320
+<i>Oh, tôi chắc chắn là ông có thể, ngài Stark.</i>
+
+1404
+01:59:44,350 --> 01:59:46,110
+<i>Phải mất thời gian đấy.</i>
+
+1405
+01:59:46,280 --> 01:59:48,100
+<i>Nhưng thế thì các người sẽ không
+biết được tại sao mình lại ở đây.</i>
+
+1406
+01:59:48,120 --> 01:59:51,460
+Ngươi giết người vô tội ở Vienna
+mục đích chỉ muốn dụ bọn tôi tới đây?
+
+1407
+01:59:57,390 --> 02:00:01,600
+Tôi chẳng nghĩ về điều gì khác
+trong hơn một năm qua.
+
+1408
+02:00:01,880 --> 02:00:06,260
+Tôi đã tìm hiểu về cậu.
+Theo dõi cậu.
+
+1409
+02:00:06,290 --> 02:00:10,300
+Nhưng giờ cậu đang đứng đây,
+tôi chợt nhận ra...
+
+1410
+02:00:12,260 --> 02:00:15,640
+Có một chút xanh lá
+lẫn trong đôi mắt màu xanh dương của cậu.
+
+1411
+02:00:17,140 --> 02:00:19,920
+Thật tuyệt khi tìm được một khiếm khuyết.
+
+1412
+02:00:20,200 --> 02:00:22,130
+Ngươi là người Sokovia.
+
+1413
+02:00:22,900 --> 02:00:24,480
+Có phải đó là lí do không?
+
+1414
+02:00:24,510 --> 02:00:28,010
+Sokovia vốn đã là một đất nước thất bại từ lâu
+trước khi các người thổi tung nó rồi.
+
+1415
+02:00:28,030 --> 02:00:29,540
+Không phải.
+
+1416
+02:00:30,600 --> 02:00:33,710
+Tôi ở đây vì
+tôi đã hứa một điều.
+
+1417
+02:00:36,850 --> 02:00:38,890
+Ngươi mất ai đó sao.
+
+1418
+02:00:41,890 --> 02:00:44,690
+Tôi mất tất cả mọi người.
+
+1419
+02:00:45,730 --> 02:00:47,880
+Và cậu cũng sẽ như thế.
+
+1420
+02:00:50,080 --> 02:00:52,080
+<font color=#00FFFF><i>Ngày 16 tháng 12 năm 1991</i></font>
+
+1421
+02:00:53,790 --> 02:00:57,820
+Một đế chế bị lung lay bởi kẻ địch
+hoàn toàn có thể trỗi dậy lần nữa.
+
+1422
+02:00:58,280 --> 02:01:01,020
+Nhưng nếu nó đổ nát từ bên trong...
+
+1423
+02:01:02,020 --> 02:01:03,810
+thì nó sẽ lụi tàn...
+
+1424
+02:01:04,750 --> 02:01:06,420
+...mãi mãi.
+
+1425
+02:01:14,410 --> 02:01:16,200
+Tôi biết con đường này.
+
+1426
+02:01:16,220 --> 02:01:18,520
+<font color=#00FFFF><i>Ngày 16 tháng 12 năm 1991</i></font>
+
+1427
+02:01:18,550 --> 02:01:20,390
+Cái gì đây?
+
+1428
+02:01:42,670 --> 02:01:44,500
+<i>Cứu vợ tôi.</i>
+
+1429
+02:01:45,530 --> 02:01:48,270
+<i>Làm ơn.
+Giúp cô ấy.</i>
+
+1430
+02:01:53,460 --> 02:01:55,530
+<i>Trung sĩ Barnes.</i>
+
+1431
+02:01:56,150 --> 02:01:57,920
+<i>Howard.</i>
+
+1432
+02:02:05,060 --> 02:02:06,850
+<i>Howard!</i>
+
+1433
+02:02:26,250 --> 02:02:27,740
+<i>Cứu với.</i>
+
+1434
+02:02:43,700 --> 02:02:45,410
+Tony.
+Tony.
+
+1435
+02:02:54,370 --> 02:02:56,180
+Anh có biết không?
+
+1436
+02:02:57,960 --> 02:02:59,380
+Tôi không biết đó là cậu ấy.
+
+1437
+02:02:59,410 --> 02:03:02,950
+Đừng nói tào lao nữa, Rogers!
+Anh có biết không?
+
+1438
+02:03:06,310 --> 02:03:07,860
+Có.
+
+1439
+02:04:03,710 --> 02:04:05,420
+Chạy đi!
+
+1440
+02:04:16,310 --> 02:04:18,590
+Không phải do cậu ấy, Tony.
+HYDRA đã kiểm soát cậu ấy!
+
+1441
+02:04:18,610 --> 02:04:19,800
+Xê ra!
+
+1442
+02:04:19,830 --> 02:04:21,320
+Không phải do cậu ấy!
+
+1443
+02:04:29,580 --> 02:04:31,990
+<font color=#FF4F31><i>Phản lực chân trái bị hỏng.</i></font>
+
+1444
+02:04:32,020 --> 02:04:34,490
+<font color=#FF4F31><i>Hệ thống bay bị tổn hại.</i></font>
+
+1445
+02:04:34,720 --> 02:04:36,570
+Đéo phải chứ.
+
+1446
+02:04:49,670 --> 02:04:52,110
+Anh ta không dừng lại đâu.
+Đi đi!
+
+1447
+02:05:14,560 --> 02:05:17,370
+- Thôi nào, thôi nào.
+- <font color=#FF4F31><i>Hệ thống ngắm không chuẩn xác, thưa sếp.</i></font>
+
+1448
+02:05:17,390 --> 02:05:19,030
+Tôi tự ngắm vậy.
+
+1449
+02:05:37,090 --> 02:05:38,940
+Mày có nhớ họ nữa không?
+
+1450
+02:05:38,970 --> 02:05:41,150
+Tôi nhớ tất cả.
+
+1451
+02:06:03,480 --> 02:06:05,620
+Việc này sẽ chẳng thay đổi được
+những gì đã xảy ra.
+
+1452
+02:06:05,640 --> 02:06:09,640
+Tôi không quan tâm.
+Hắn giết mẹ tôi.
+
+1453
+02:07:10,250 --> 02:07:13,620
+<i>Anh nên tới nhìn khuôn mặt bé nhỏ
+của thằng bé. Anh cố đến nhé?</i>
+
+1454
+02:07:13,650 --> 02:07:17,600
+<i>Em đi ngủ đây.
+Em yêu anh.</i>
+
+1455
+02:07:25,460 --> 02:07:28,080
+Tôi suýt nữa đã giết nhầm người.
+
+1456
+02:07:29,030 --> 02:07:31,090
+Hắn cũng không vô tội lắm đâu.
+
+1457
+02:07:31,090 --> 02:07:31,240
+<font color=#00FFFF>[TIN NHẮN ĐÃ XÓA]</font>
+Hắn cũng không vô tội lắm đâu.
+
+1458
+02:07:31,240 --> 02:07:31,270
+<font color=#00FFFF>[TIN NHẮN ĐÃ XÓA]</font>
+
+1459
+02:07:31,270 --> 02:07:33,390
+Đây là điều ngươi muốn sao?
+<font color=#00FFFF>[TIN NHẮN ĐÃ XÓA]</font>
+
+1460
+02:07:33,820 --> 02:07:36,630
+Chứng kiến họ cắn xé nhau.
+
+1461
+02:07:40,240 --> 02:07:43,240
+Cha tôi sống ở bên ngoài thành phố.
+
+1462
+02:07:43,780 --> 02:07:46,450
+Tôi cứ nghĩ chúng tôi sẽ an toàn khi ở đó.
+
+1463
+02:07:46,700 --> 02:07:48,790
+Con trai tôi rất háo hức.
+
+1464
+02:07:48,810 --> 02:07:52,130
+Vì nó có thể thấy Iron Man
+từ cửa sổ ô tô.
+
+1465
+02:07:52,480 --> 02:07:56,010
+Và tôi nói với vợ mình,
+"<i>Đừng lo</i>
+
+1466
+02:07:56,030 --> 02:08:00,360
+<i>Họ chiến đấu trong nội thành.
+Chúng ta cách xa khu vực nguy hiểm hàng dặm.</i>"
+
+1467
+02:08:02,300 --> 02:08:08,280
+Khi bụi lắng xuống,
+và những tiếng la hét ngừng lại.
+
+1468
+02:08:08,410 --> 02:08:13,260
+Tôi mất 2 ngày để tìm xác của họ.
+
+1469
+02:08:14,790 --> 02:08:16,700
+Cha tôi...
+
+1470
+02:08:17,260 --> 02:08:21,390
+vẫn đang ôm chặt
+vợ và con tôi trong vòng tay.
+
+1471
+02:08:25,230 --> 02:08:27,490
+Và Avengers...
+
+1472
+02:08:28,410 --> 02:08:30,330
+Chúng cứ thế về nhà.
+
+1473
+02:08:32,010 --> 02:08:34,510
+Tôi biết mình không thể giết chúng.
+
+1474
+02:08:34,530 --> 02:08:37,560
+Những kẻ mạnh hơn nhiều
+những người mà tôi từng giết.
+
+1475
+02:08:37,940 --> 02:08:42,490
+Nhưng, nếu tôi có thể
+làm chúng giết chóc lẫn nhau?
+
+1476
+02:08:46,010 --> 02:08:48,660
+Tôi rất tiếc vì cái chết của cha cậu.
+
+1477
+02:08:49,220 --> 02:08:51,280
+Ông ta có vẻ là người tốt.
+
+1478
+02:08:52,800 --> 02:08:55,280
+Cùng một người con hiếu thảo.
+
+1479
+02:08:59,210 --> 02:09:02,030
+Thù hận đã nuốt lấy ngươi.
+
+1480
+02:09:03,490 --> 02:09:05,810
+Nuốt luôn cả bọn họ.
+
+1481
+02:09:09,740 --> 02:09:12,760
+Tôi sẽ không để nó nuốt tôi nữa đâu.
+
+1482
+02:09:15,730 --> 02:09:18,730
+Công lí sẽ đến sớm thôi.
+
+1483
+02:09:21,280 --> 02:09:23,310
+Đi mà nói điều đó với người đã chết.
+
+1484
+02:09:27,570 --> 02:09:30,490
+Người còn sống
+vẫn chưa xong việc với ngươi đâu.
+
+1485
+02:09:33,100 --> 02:09:35,930
+<font color=#FF4F31><i>Ngài không thể đấu tay đôi với anh ta được.</i></font>
+
+1486
+02:09:36,940 --> 02:09:38,810
+Phân tích chiến thuật của anh ta.
+
+1487
+02:09:38,830 --> 02:09:40,490
+<font color=#FF4F31><i>Đang quét!</i></font>
+
+1488
+02:09:44,290 --> 02:09:46,250
+<font color=#FF4F31><i>Sẵn sàng biện pháp đối phó.</i></font>
+
+1489
+02:09:47,370 --> 02:09:49,140
+Đá đít anh ta nào.
+
+1490
+02:10:02,120 --> 02:10:04,280
+Cậu ấy là bạn tôi.
+
+1491
+02:10:04,310 --> 02:10:06,040
+Tôi cũng từng là bạn cậu.
+
+1492
+02:10:12,350 --> 02:10:14,960
+Đầu hàng đi.
+Cảnh báo lần cuối.
+
+1493
+02:10:28,750 --> 02:10:30,900
+Tôi có thể đánh nhau cả ngày.
+
+1494
+02:11:37,130 --> 02:11:39,270
+Cái khiên đó không thuộc về anh.
+
+1495
+02:11:41,070 --> 02:11:45,250
+Anh không xứng với nó!
+Cha tôi đã chế tạo chiếc khiên đó!
+
+1496
+02:12:20,780 --> 02:12:22,480
+Ăn lúc 8 giờ và 5 giờ.
+
+1497
+02:12:22,510 --> 02:12:25,170
+Đi vệ sinh 2 lần/ngày.
+
+1498
+02:12:26,610 --> 02:12:29,420
+To tiếng, điện giật.
+
+1499
+02:12:29,520 --> 02:12:31,700
+Chạm vào kính, giật.
+
+1500
+02:12:31,720 --> 02:12:33,920
+Chú mày mà vượt quá giới hạn
+thì tôi sẽ xử lí.
+
+1501
+02:12:33,940 --> 02:12:37,160
+Làm ơn, vượt quá giới hạn đi. Hm?
+
+1502
+02:12:38,340 --> 02:12:40,180
+Cảm giác thế nào?
+
+1503
+02:12:40,560 --> 02:12:43,340
+Khi dành toàn bộ thời gian
+và nỗ lực.
+
+1504
+02:12:43,910 --> 02:12:47,990
+Và âm mưu thất bại,
+
+1505
+02:12:48,340 --> 02:12:50,850
+thảm hại quá.
+
+1506
+02:12:54,180 --> 02:12:55,740
+Thất bại thật sao?
+
+1507
+02:13:21,800 --> 02:13:23,160
+- Đây chỉ là hệ thống thử nghiệm đầu tiên thôi.
+- Được rồi.
+
+1508
+02:13:23,190 --> 02:13:25,420
+Cứ phản hồi cho tôi.
+Bất kì điều gì cậu nghĩ ra.
+
+1509
+02:13:25,450 --> 02:13:28,730
+Hấp thụ va chạm.
+Cử động bên hông.
+
+1510
+02:13:28,930 --> 02:13:30,140
+Muốn nghỉ uống trà à?
+
+1511
+02:13:30,170 --> 02:13:32,790
+No, tôi đang nghĩ về
+động cơ điện dưới chân.
+
+1512
+02:13:35,380 --> 02:13:36,640
+Đứng lên nào.
+Tôi giúp một tay.
+
+1513
+02:13:36,670 --> 02:13:38,900
+Không, đừng.
+Đứng đỡ tôi. Đừng giúp.
+
+1514
+02:13:54,490 --> 02:13:59,190
+138.
+138 lần ra trận.
+
+1515
+02:13:59,220 --> 02:14:01,380
+Tôi đã bay được từng ấy lần, Tony.
+
+1516
+02:14:01,400 --> 02:14:04,640
+Lần nào cũng có thể là lần bay cuối
+của tôi, nhưng tôi vẫn bay.
+
+1517
+02:14:06,480 --> 02:14:08,570
+Chiến đấu vì điều đúng đắn.
+
+1518
+02:14:08,590 --> 02:14:10,670
+Cũng giống như Hiệp định này.
+
+1519
+02:14:10,700 --> 02:14:14,530
+Tôi kí bởi vì tôi nghĩ rằng
+đó là điều đúng đắn nên làm.
+
+1520
+02:14:16,040 --> 02:14:18,820
+Mặc dù... thế này tệ thật.
+Đây là...
+
+1521
+02:14:19,440 --> 02:14:21,390
+Đây là một cú thua đau đớn.
+
+1522
+02:14:23,510 --> 02:14:25,930
+Nhưng tôi không thay đổi quan diểm đâu.
+
+1523
+02:14:26,520 --> 02:14:28,080
+Anh nghĩ sao?
+
+1524
+02:14:38,580 --> 02:14:40,500
+- Cậu ổn chứ?
+- Ừ.
+
+1525
+02:14:43,360 --> 02:14:46,230
+Có phải cậu là Tony "Stank"?
+<font color=#FFF672>(<i>stank: hôi hám</i>)</font>
+
+1526
+02:14:46,340 --> 02:14:50,690
+Đúng rồi, đây là Tony "Stank"!
+Ông đến đúng chỗ rồi.
+
+1527
+02:14:50,710 --> 02:14:52,610
+Cảm ơn nhé!
+
+1528
+02:14:52,640 --> 02:14:54,580
+- Tôi sẽ không bỏ qua bưu kiện đó đâu.
+- Trời ạ.
+
+1529
+02:14:54,610 --> 02:14:58,760
+Dọn bàn cho mình ngài "Stank" thôi.
+Làm ơn, bên cạnh nhà vệ sinh ấy.
+
+1530
+02:15:04,930 --> 02:15:06,420
+<i>Tony.</i>
+
+1531
+02:15:06,770 --> 02:15:08,670
+<i>Tôi mừng vì anh đã trở lại tòa nhà.</i>
+
+1532
+02:15:08,700 --> 02:15:12,100
+<i>Tôi không thích việc anh nói luyên thuyên một mình
+trong ngôi biệt thự của anh,</i>
+
+1533
+02:15:12,130 --> 02:15:13,960
+<i>chúng ta đều cần một gia đình.</i>
+
+1534
+02:15:14,830 --> 02:15:18,840
+<i>Nhóm Avengers là của anh,
+có thể là có ý nghĩa nhiều hơn so với tôi.</i>
+
+1535
+02:15:19,320 --> 02:15:22,520
+<i>Tôi đã tự lập từ năm 18 tuổi.</i>
+
+1536
+02:15:22,680 --> 02:15:27,400
+<i>Tôi thực sự là không hợp sống ở đâu hết,
+kể cả trong quân đội.</i>
+
+1537
+02:15:28,860 --> 02:15:34,090
+<i>Tôi đoán là số phận của mình
+nằm trong tay con người, từng người một.</i>
+
+1538
+02:15:34,300 --> 02:15:37,470
+<i>Và, tôi rất vui khi nói rằng,
+phần lớn mọi người,</i>
+
+1539
+02:15:37,600 --> 02:15:39,590
+<i>họ không làm tôi thất vọng.</i>
+
+1540
+02:15:41,330 --> 02:15:44,200
+<i>Chính vì thế nên giờ
+tôi cũng không thể làm họ thất vọng.</i>
+
+1541
+02:15:47,680 --> 02:15:51,220
+<i>Khóa có thể thay,
+nhưng có lẽ họ không nên làm vậy.</i>
+
+1542
+02:15:53,030 --> 02:15:55,230
+<i>Tôi nghĩ tôi đã tổn thương anh, Tony.</i>
+
+1543
+02:15:55,330 --> 02:16:00,790
+<i>Tôi đoán là mình suy nghĩ bằng cách giữ kín chuyện bố mẹ anh,
+tôi không muốn làm anh tổn thương. Nhưng...</i>
+
+1544
+02:16:00,980 --> 02:16:04,110
+<i>Giờ tôi hiểu ra rằng
+tôi chỉ quá sợ làm tổn thương mình.</i>
+
+1545
+02:16:04,140 --> 02:16:06,220
+<i>Và tôi xin lỗi.</i>
+
+1546
+02:16:06,240 --> 02:16:08,720
+<i>Hi vọng một ngày nào đó
+anh sẽ hiểu được.</i>
+
+1547
+02:16:09,230 --> 02:16:12,770
+<i>Tôi ước là chúng ta có thể đồng ý
+với Hiệp định, tôi rất muốn.</i>
+
+1548
+02:16:12,790 --> 02:16:14,250
+<i>Tôi biết anh làm
+những gì mà anh tin tưởng.</i>
+
+1549
+02:16:14,270 --> 02:16:17,360
+<i>Và đó là tất cả những gì ta có thể làm.
+Là những gì ta nên làm.</i>
+
+1550
+02:16:17,390 --> 02:16:19,540
+<font color=#FF4F31><i>Cuộc gọi ưu tiên từ Bộ trưởng Ross.</i></font>
+
+1551
+02:16:19,560 --> 02:16:22,190
+<font color=#FF4F31><i>Có một vụ đột nhập ở nhà tù RAFT.</i></font>
+
+1552
+02:16:23,140 --> 02:16:24,900
+Được, nối máy cho ông ta đi.
+
+1553
+02:16:26,500 --> 02:16:28,280
+- <i>Tony, chúng tôi có rắc rối.</i>
+- Ah, xin chờ máy.
+
+1554
+02:16:28,300 --> 02:16:30,570
+Không.
+Đừng...
+
+1555
+02:16:32,500 --> 02:16:34,320
+<i>Vậy nên dù bất cứ chuyện gì đi nữa.</i>
+
+1556
+02:16:34,980 --> 02:16:38,080
+<i>Tôi hứa với anh,
+nếu anh cần chúng tôi,</i>
+
+1557
+02:16:38,700 --> 02:16:40,610
+<i>nếu anh cần tôi,</i>
+
+1558
+02:16:45,460 --> 02:16:47,110
+<i>tôi sẽ tới.</i>
+
+1559
+02:16:48,000 --> 02:16:53,000
+Phụ đề thực hiện bởi <font color="#FFFF00">SP3 Subteam</font>
+<font color=#00FFFF>https://www.facebook.com/SP3Subteam</font>
+
+1560
+02:16:53,000 --> 02:16:57,000
+<font color="#FFFF00">Biên dịch, đồng bộ:</font>
+<font color=#00FFFF>Hồ Văn Diên</font> ~ <font color=#00FF00>dienhosp3</font>
+
+1561
+02:18:46,250 --> 02:18:48,140
+Cậu chắc về việc này chứ?
+
+1562
+02:18:48,900 --> 02:18:51,540
+Tôi không thể tin tưởng lí trí của mình.
+
+1563
+02:18:53,710 --> 02:18:56,480
+Nên đến khi họ tìm được cách
+loại bỏ những thứ này ra khỏi đầu tôi,
+
+1564
+02:18:56,510 --> 02:18:59,320
+thì tôi nghĩ mình nên ngủ đông
+là biện pháp tốt nhất...
+
+1565
+02:18:59,760 --> 02:19:01,750
+...cho tất cả mọi người.
+
+1566
+02:19:23,390 --> 02:19:25,470
+Cảm ơn cậu vì điều này.
+
+1567
+02:19:27,270 --> 02:19:29,530
+Bạn anh và cha tôi,
+
+1568
+02:19:30,120 --> 02:19:32,740
+họ đều là nạn nhân.
+
+1569
+02:19:33,280 --> 02:19:37,340
+Nếu tôi có thể giúp
+một trong hai người tìm thấy sự thanh thản...
+
+1570
+02:19:39,620 --> 02:19:42,460
+Anh biết là nếu họ biết được
+cậu ấy ở đây,
+
+1571
+02:19:42,780 --> 02:19:44,720
+họ sẽ đến bắt cậu ấy.
+
+1572
+02:19:46,310 --> 02:19:48,610
+Cứ để họ thử xem.
+
+1573
+02:26:29,380 --> 02:26:32,450
+<i>Vậy. Là thằng nào?
+Thằng nào đánh cháu?</i>
+
+1574
+02:26:32,470 --> 02:26:33,650
+Là một gã.
+
+1575
+02:26:33,670 --> 02:26:35,230
+Ngứa vãi.
+Chết tiệt.
+
+1576
+02:26:35,250 --> 02:26:38,200
+- Tên thằng đó là gì?
+- À, Steve.
+
+1577
+02:26:38,220 --> 02:26:39,250
+Steve?
+
+1578
+02:26:39,280 --> 02:26:40,790
+Thật sao?
+
+1579
+02:26:40,820 --> 02:26:42,000
+Có phải thằng có cái xe đạp không?
+
+1580
+02:26:42,030 --> 02:26:44,580
+Không, không. Dì không biết hắn đâu,
+thằng cha đó ở Brooklyn.
+
+1581
+02:26:47,360 --> 02:26:48,660
+Ao...
+
+1582
+02:26:48,680 --> 02:26:50,190
+Chà.
+
+1583
+02:26:50,440 --> 02:26:52,140
+Hi vọng cháu cũng đấm nó được vài cú.
+
+1584
+02:26:52,180 --> 02:26:54,190
+Ừ, thì cháu cũng nện được vài cú.
+
+1585
+02:26:54,210 --> 02:26:55,250
+Được rồi.
+
+1586
+02:26:55,270 --> 02:26:59,050
+Bạn của hắn to con lắm.
+To kiểu khổng lồ luôn.
+
+1587
+02:27:00,980 --> 02:27:03,220
+Cháu đỡ hơn rồi.
+Cảm ơn dì.
+
+1588
+02:27:03,250 --> 02:27:05,500
+Được rồi, chàng trai máu chiến.
+
+1589
+02:27:08,200 --> 02:27:11,530
+Cháu yêu dì, dì May à.
+Này, dì đóng cửa giúp cháu.
+
+1590
+02:27:26,370 --> 02:27:29,880
+<font color=#B2FBFF><i>Spider-Man sẽ trở lại</i></font>
+

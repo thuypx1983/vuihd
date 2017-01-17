@@ -56,8 +56,37 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=LM/Rm1aMp4Z36C" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->  
-<!--/**
+<!-- End Alexa Certify Javascript -->
+
+<style>
+    .white-popup {
+        position: relative;
+        background: #FFF;
+        padding: 20px;
+        width: auto;
+        max-width: 500px;
+        margin: 20px auto;
+    }
+</style>
+
+<script type="text/javascript">
+
+    $(document).ready(function(){
+        if($.cookie('enable_popup')!='1'){
+            var date = new Date();
+            var minutes = 24*60;
+            date.setTime(date.getTime() + (minutes * 60 * 1000));
+            $.cookie('enable_popup','1',{ expires: date });
+            $.magnificPopup.open({
+                items: {
+                    src: '/statics/defaultv2/images/pop-up.jpeg'
+                },
+                type: 'image'
+            });
+        }
+    })
+</script>
+
 
 
  
