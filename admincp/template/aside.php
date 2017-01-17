@@ -77,7 +77,7 @@ $menu_arr = array(
 		'bg-warning dker',
 	),
 	'news'	=>	array(
-		'News',
+		'NEWS',
 		array(
 			'list'	=>	array('Danh sách news','act=news&mode=edit'),
 			'add'	=>	array('Thêm news','act=news&mode=add'),
