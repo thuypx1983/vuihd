@@ -68,10 +68,19 @@ $menu_arr = array(
 		'bg-primary',
 	),
 	'page'	=>	array(
-		'PAGE/ NEWS',
+		'PAGE',
 		array(
-			'list'	=>	array('Danh sách Page/News','act=page&mode=edit'),
-			'add'	=>	array('Thêm Page/News','act=page&mode=add'),
+			'list'	=>	array('Danh sách Page','act=page&mode=edit'),
+			'add'	=>	array('Thêm Page','act=page&mode=add'),
+		),
+		'fa-book',
+		'bg-warning dker',
+	),
+	'news'	=>	array(
+		'News',
+		array(
+			'list'	=>	array('Danh sách news','act=news&mode=edit'),
+			'add'	=>	array('Thêm news','act=news&mode=add'),
 		),
 		'fa-book',
 		'bg-warning dker',
