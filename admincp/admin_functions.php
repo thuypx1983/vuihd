@@ -282,6 +282,24 @@ function acp_cat($id = 0, $add = false) {
 	$html .="</td><tr></tbody></table>";
 	return $html;
 }
+function acp_cat_news($id = 0, $add = false) {
+    global $mysql,$tb_prefix;
+    $q = $mysql->query("SELECT * FROM ".$tb_prefix."news_cat WHERE 1 ORDER BY news_cat_id ASC");
+    $cat=explode(',',$id);
+    $num = count($cat);
+    $html="<table><tbody><tr><td>";
+    $is = 0;
+    while ($r = $q->fetch(PDO::FETCH_ASSOC)) {
+        for ($i=1; $i<$num;$i++) if ($cat[$i]==$r['news_cat_id']) $checked='checked="checked"';
+        if ($is>3){ $html.="</td><td>";$is=0;}
+        $html .= '<input type="checkbox" id="selectcat" name="selectcat[]" value="'.$r['news_cat_id'].'" '.$checked.'> '.$r['news_cat_name']."<br/>";
+        $checked="";
+        $is++;
+    }
+    $html .="</td><tr></tbody></table>";
+    return $html;
+}
+
 function acp_country($id = 0, $add = false) {
 	global $mysql,$tb_prefix;
 	$q = $mysql->query("SELECT * FROM ".$tb_prefix."country ORDER BY country_order ASC");
@@ -420,6 +438,17 @@ function acp_film($id = 0, $add = false) {
 	}
 	$html .= "</select>";
 	return $html;
+}
+function acp_film_news($id = 0, $add = false) {
+    global $mysql,$tb_prefix;
+    $q = $mysql->query("SELECT * FROM ".$tb_prefix."film ORDER BY film_name_ascii ASC");
+    $html = "<select name=film class='form-control m-b'>";
+    if ($add) $html .= "<option value=dont_edit".(($id == 0)?" selected":'').">Không sửa</option>";
+    while ($r = $q->fetch(PDO::FETCH_ASSOC)) {
+        $html .= "<option value=".$r['film_id'].(($id == $r['film_id'])?" selected":'').">".$r['film_name']."</option>";
+    }
+    $html .= "</select>";
+    return $html;
 }
 function acp_film_ep_slt($file_type){
 	    global $web_server;		

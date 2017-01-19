@@ -27,13 +27,13 @@ $inp_arr = array(
 		'news_cat'	=> array(
 			'table'	=>	'news_cat',
 			'name'	=>	'THỂ LOẠI',
-			'type'	=>	'function::acp_cat::number',
+			'type'	=>	'function::acp_cat_news::number',
 			'can_be_empty'	=> true,
 		),
 		'film'	=> array(
 			'table'	=>	'film',
 			'name'	=>	'Film',
-			'type'	=>	'function::acp_film::number',
+			'type'	=>	'function::acp_film_news::number',
 			'can_be_empty'	=> true,
 		),
 		'news_film'	=> array(
@@ -41,6 +41,7 @@ $inp_arr = array(
 			'name'	=>	'Film',
 			'type'	=>	'hidden_value',
 			'can_be_empty'	=> true,
+            'change_on_update'=>true,
 		),
 		'news_content'	=> array(
 			'table'	=>	'news_content',
@@ -152,7 +153,17 @@ if ($mode == 'edit') {
 		if (!isset($_POST['submit'])) {
 			$q = $mysql->query("SELECT * FROM ".$tb_prefix."news WHERE news_id = '".$news_id."'");
 			$r = $q->fetch(PDO::FETCH_ASSOC);
-			foreach ($inp_arr as $key=>$arr) $$key = $r[$arr['table']];
+			foreach ($inp_arr as $key=>$arr) {
+				if($arr['table']=='news_film'){
+					$x='film';
+					$$key = $r['news_film'];
+					$$x = $r['news_film'];
+				}else{
+					$$key = $r[$arr['table']];
+				}
+			}
+            $film=$r['news_film'];
+            $news_film=$r['news_film'];
 		}else {
 			$error_arr = array();
 			$error_arr = $form->checkForm($inp_arr);
@@ -180,9 +191,9 @@ if ($mode == 'edit') {
 			            $news_img = Picasa_Upload($news_img,2);
 			}elseif($server_imgbn == 3){
 			            if($_FILES["phimimgbn"]['name']!=""){ 
-	                        $news_img	=	ipupload("phimimgbn","info",replace(get_ascii($name_real)));
+	                        $news_img	=	ipupload("phimimgbn","info",replace(get_ascii($news_url)));
 	                    }elseif($news_img){
-	                        $news_img = uploadurl($news_img,replace(get_ascii($name_real)),'info');
+	                        $news_img = uploadurl($news_img,replace(get_ascii($news_url)),'info');
 	                    }else{ 
 	                        $news_img = "http://www.phimle.tv/images/playbg.jpg";	}	
 			}elseif($server_imgbn == 4){
