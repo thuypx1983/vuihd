@@ -72,7 +72,7 @@ if($row['video_id']){
 .tabs {
     float: none;
 }
-#player-area{display:block;position:relative;height: 385px;    margin-bottom: 10px;}
+#player-area{display:block;position:relative;height: 420px;    margin-bottom: 10px;}
 </style>
 </head> <body>  <? require_once("header.php");?>
  <div id="body-wrapper"> 
@@ -371,7 +371,7 @@ $catNAME = $row['cat_name'];
 </main>
      </div> </div> </div>
 <script src="<?=STATIC_URL;?>/defaultv2/js/pdnghia.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://VuiHD.com/players/jwplayer.js"></script>
+<script type="text/javascript" src="/newplayer/jwplayer.js"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/plvideo.js" type="text/javascript"></script>
 <script type="text/javascript">
