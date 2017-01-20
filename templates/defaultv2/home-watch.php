@@ -363,7 +363,7 @@ $film_countryz_title = "";
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.public.js" type="text/javascript"></script>
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.watchv2.js" type="text/javascript"></script>
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
- <script type="text/javascript" src="http://vuihd.com/players/jwplayer.js"></script>
+ <script type="text/javascript" src="/newplayer/jwplayer.js"></script>
   <script type="text/javascript">
   
  $(document).ready(function() {PhimLe(filmInfo.episodeID,filmInfo.filmID);
