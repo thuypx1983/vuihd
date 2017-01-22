@@ -316,6 +316,16 @@
                         <div class="announcement-list"><?=strip_tags(text_tidy1($announcement),'<a><b><i><u><br>');?></div>
                     </div>
                 </div>
+                <div class="block updated-news">
+                    <div class="widget-title">
+                        <h3 class="title">Tin tức điện ảnh</h3>
+                    </div>
+                    <div class="block-body">
+                        <div class="list-film-simple">
+                            <?=ShowNews("WHERE 1","ORDER BY news_id",10,'shownews_right_home','cache_news_home');?>
+                        </div>
+                    </div>
+                </div>
                 <div class="block trainer">
                     <div class="widget-title">
                         <h3 class="title">Trailer phim mới</h3>

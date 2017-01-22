@@ -58,6 +58,7 @@ $inp_arr = array(
 			'table'	=>	'news_poster',
 			'type'	=>	'hidden_value',
 			'can_be_empty'	=> false,
+			'change_on_update'=>true,
 		),
 		'news_date'	=> array(
 			'table'	=>	'news_date',
@@ -173,6 +174,7 @@ if ($mode == 'edit') {
 
 				$news_poster = $_SESSION['admin_id'];
 				$inp_arr['news_date']['value'] = date('d/m/Y');
+				$inp_arr['news_poster']['value'] = $news_poster;
 
 				$inp_arr['news_content']['value'] = $news_content;
 				$inp_arr['news_name']['value'] = $news_name;

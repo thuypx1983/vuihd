@@ -12,6 +12,13 @@ RewriteRule ^rank.html$ rank.html [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
+RewriteRule ^tin-tuc/(.*)/$ index.php?models=/news-list/tin-tuc/$1  [NC,QSA,L]
+RewriteRule ^tin-tuc/(.*)/trang-(.*).html$ index.php?models=/news-list/tin-tuc/$1/$2  [NC,QSA,L]
+RewriteRule ^tin-tuc/$ index.php?models=/news-list/tin-tuc/all  [NC,QSA,L]
+RewriteRule ^tin-tuc/trang-(.*).html$ index.php?models=/news-list/tin-tuc/all/$1  [NC,QSA,L]
+RewriteRule ^tin-tuc/(.*)-(.*).html?$ index.php?models=/news-detail/$2 [NC,QSA,L]
+
+
 RewriteRule ^load/download$ plajax/download.php [L]
 RewriteRule ^load/subscribe$ plajax/subscribe.php [L]
 RewriteRule ^ajax/$ plajax/load.php [L]

@@ -43,6 +43,44 @@ function ShowFilm($where,$order,$limit,$file,$keycache){
 	}
 	return $html;
 }
+function ShowNews($where,$order,$limit,$file,$keycache){
+    global $mysql,$web_link,$CurrentSkin,$language,$phpFastCache;
+    $keycache = 'phimletv-'.$keycache;
+    $data_cache = $phpFastCache->get($keycache);//Kiểm tra xem link truyền vào đã cache chưa
+    //if($data_cache != null && ($keycache != 'phimletv-')){
+    if(false){
+        $html = '<!---Use Cache '.$keycache.'---->'.$data_cache.'<!---/End Use Cache '.$keycache.'---->';
+    }else{
+
+        $arr = $mysql->query("SELECT * FROM ".DATABASE_FX."news $where $order DESC LIMIT $limit");
+        $html = '';
+        $z = 0;
+        $rs=$mysql->query("SELECT * FROM ".DATABASE_FX."news_cat");
+        $cats=$rs->fetchAll(PDO::FETCH_ASSOC);
+        $tmp=array();
+        foreach($cats as $item){
+            $tmp["{$item['news_cat_id']}"]=$item;
+        }
+        $cats=$tmp;
+        unset($tmp);
+
+        while($row = $arr->fetch(PDO::FETCH_ASSOC)){
+            $row['news_url']=WEB_URL.'/tin-tuc/'.$row['news_url'].'.html';
+            $catids=explode(',',$row['news_cat']);
+            $data="";
+            foreach($catids as $catid){
+                if(isset($cats[$catid])){
+                    $data.='<a href="'.WEB_URL.'/tin-tuc/'.$cats[$catid]['news_cat_url'].'/">'.$cats[$catid]['news_cat_name'].'</a>';
+                }
+            }
+            $rows['news_cat']=$data;
+
+            include("templates/".$CurrentSkin."/".$file.".php");
+        }
+        if($html != '') $phpFastCache->set($keycache, $html, CACHED_TIME);
+    }
+    return $html;
+}
 function ShowRequest($where,$order,$limit,$file){
     global $mysql,$web_link,$CurrentSkin,$language;
 	$arr = $mysql->query("SELECT * FROM ".DATABASE_FX."request $where $order DESC LIMIT $limit");
@@ -274,6 +312,70 @@ $main = '';
     }
 
   return $main;
+
+}
+
+function view_pages_news($type,$ttrow,$limit,$page,$ext,$rel,$skin=""){
+    global $language;
+    $total = ceil($ttrow/$limit);
+
+    if ($total <= 1) return '';
+
+    $main = '';
+
+    if ($page<>1){
+
+        if($type=='news')
+            if($skin = "defaultv2")
+                $main .= '<span class="item"><a href="'.View_pages_url($ext,1,$rel).'" title="Trang 1">Đầu</a></span>';
+            else
+                $main .= '<li><a title="'.$language['first'].'" href="'.View_pages_url($ext,1,$rel).'" data="1"><i class="fa fa-angle-left"></i></a></li>';
+
+    }
+
+
+
+    $main .= '';
+
+    for($num = 1; $num <= $total; $num++){
+
+        if ($num < $page - 1 || $num > $page + 4)
+
+            continue;
+
+        if($num==$page)
+            if($skin = "defaultv2")
+                $main .= '<span class="current">'.$num.'</span>';
+            else
+                $main .= '<li class="active"><a title="'.$language['page'].' '.$num.'" href="'.View_pages_url($ext,$num,$rel).'" data="'.$num.'">'.$num.'</a></li>';
+
+        else {
+
+            if($type=='news')
+                if($skin = "defaultv2")
+                    $main .= '<span class="item"><a href="'.View_pages_url($ext,$num,$rel).'" title="Trang '.$num.'">'.$num.'</a></span>';
+                else
+                    $main .= '<li><a title="'.$language['page'].' '.$num.'" href="'.View_pages_url($ext,$num,$rel).'" data="'.$num.'">'.$num.'</a></li>';
+
+
+        }
+
+    }
+
+    $main .= '';
+
+    if ($page<>$total){
+
+        if($type=='news')
+            if($skin = "defaultv2")
+                $main .= '<span class="item"><a href="'.View_pages_url($ext,$total,$rel).'" title="Trang cuối">Cuối</a></span>';
+            else
+                $main .= '<li><a title="'.$language['last'].'" href="'.View_pages_url($ext,$total,$rel).'" data="'.$total.'"><i class="fa fa-angle-right"></i></a></li>';
+
+
+    }
+
+    return $main;
 
 }
 function checkLogin(){
