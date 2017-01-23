@@ -81,11 +81,18 @@ $menu_arr = array(
 		array(
 			'list'	=>	array('Danh sách news','act=news&mode=edit'),
 			'add'	=>	array('Thêm news','act=news&mode=add'),
-            'listcat'	=>	array('Danh sách category','act=newscat&mode=edit'),
 		),
 		'fa-book',
 		'bg-warning dker',
 	),
+    'newscat'	=>	array(
+        'NEWSCAT',
+        array(
+            'list'	=>	array('Danh sách cat news','act=newscat&mode=edit'),
+        ),
+        'fa-book',
+        'bg-warning dker',
+    ),
 	'cache'	=>	array(
 		'CẬP NHẬT CACHE',
 		array(
