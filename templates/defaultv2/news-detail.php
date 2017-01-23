@@ -6,6 +6,7 @@ $rs=$mysql->query($query);
 $news=$rs->fetch(PDO::FETCH_ASSOC);
 
 $query="SELECT * FROM ".DATABASE_FX."news_cat WHERE news_cat_id=".$news['news_cat'];
+    echo $query;
 $rs=$mysql->query($query);
 $news_cat=$rs->fetch(PDO::FETCH_ASSOC);
 
