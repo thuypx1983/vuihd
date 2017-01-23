@@ -20,21 +20,34 @@ $inp_arr = array(
 		),
 		'news_cat_title'	=> array(
 			'table'	=>	'news_cat_title',
-			'name'	=>	'news_cat_title',
+			'name'	=>	'Meta title',
 			'type'	=>	'free',
 			'can_be_empty'	=>	false
 		),
 
 		'news_cat_keyword'	=> array(
 			'table'	=>	'news_cat_keyword',
-			'name'	=>	'news_cat_keyword',
+			'name'	=>	'Meta  keyword',
 			'type'	=>	'free',
 			'can_be_empty'	=>	false
 		),
 
 		'news_cat_description'	=> array(
 			'table'	=>	'news_cat_description',
-			'name'	=>	'news_cat_description',
+			'name'	=>	'Meta  description',
+			'type'	=>	'free',
+			'can_be_empty'	=>	false
+		),
+		'news_cat_description'	=> array(
+			'table'	=>	'news_cat_description',
+			'name'	=>	'Meta description',
+			'type'	=>	'free',
+			'can_be_empty'	=>	false
+		),
+
+		'news_cat_order'	=> array(
+			'table'	=>	'news_cat_order',
+			'name'	=>	'Thứ tự hiển thị',
 			'type'	=>	'free',
 			'can_be_empty'	=>	false
 		),
