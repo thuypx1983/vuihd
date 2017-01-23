@@ -80,12 +80,33 @@ $inp_arr = array(
 			'type'	=>	'texts',
 			'can_be_empty'	=> true,
 		),
-                'cf_web_gkphp'	=> array(
+        'cf_web_gkphp'	=> array(
 			'table'	=>	'cf_web_gkphp',
 			'name'	=>	'WEB KEY GkPHP',
 			'type'	=>	'texts',
 			'can_be_empty'	=> true,
 		),
+
+        'cf_news_title'	=> array(
+            'table'	=>	'cf_news_title',
+            'name'	=>	'news_title',
+            'type'	=>	'texts',
+            'can_be_empty'	=> true,
+        ),
+
+        'cf_news_keyword'	=> array(
+            'table'	=>	'cf_news_keyword',
+            'name'	=>	'news_keyword',
+            'type'	=>	'texts',
+            'can_be_empty'	=> true,
+        ),
+
+        'cf_news_description'	=> array(
+            'table'	=>	'cf_news_description',
+            'name'	=>	'news_description',
+            'type'	=>	'texts',
+            'can_be_empty'	=> true,
+        ),
 	);
 
 ?>
