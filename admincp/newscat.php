@@ -175,8 +175,8 @@ if ($mode == 'edit') {
 
 				echo '<tr>
                             <td> <input class="checkbox" type="checkbox" id="checkbox" name="checkbox[]" value="'.$id2.'"></td>
-                            <td>#'.$id.'</td>
-							<td><b><a style="color:#555;" href=?act=news&mode=edit&news_cat_id='.$id.'>'.$news_cat_name.'</a></b></a></td>
+                            <td>#'.$r['news_cat_id'].'</td>
+							<td><b><a style="color:#555;" href=?act=newscat&mode=edit&news_cat_id='.$id.'>'.$news_cat_name.'</a></b></a></td>
                             <td><b>'.$r['news_cat_url'].'</b></td>
                            </tr>';
 				
