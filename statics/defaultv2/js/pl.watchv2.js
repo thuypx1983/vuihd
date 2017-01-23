@@ -9,36 +9,36 @@ if (!light) {
 };
 if (!miniPlayer) {
     var miniPlayer = false
-};
+};/*var adsConfig = {
+ swfVast : "/newplayer/vastplay.swf",
+ pause:[
+ "/newplayer/adstest/pause.xml"
+ ],
+ video: [
+ {
+ position : 0,
+ link : [
+ '/newplayer/adstest/vast.xml',
+ ]
+ }],
+ overlay: [
+ {
+ type : "tags",
+ position : 0,
+ time : 30,/!*30 thuypx change value*!/
+ link : [
+ "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+ ]
+
+ }
+ ]
+ };
+ //thuypx added
+ adsConfig={};*/
 //if (location['hostname'] != '5sphim.com') {
 //    window['location']['replace']('http://5sphim.com')
 //};
-var adsConfig = {
-	swfVast : "/newplayer/vastplay.swf",
-	pause:[
-		"/newplayer/adstest/pause.xml"
-	],
-	video: [
-	{
-		position : 0,
-		link : [
-			'/newplayer/adstest/vast.xml',
-		]
-	}],
-	overlay: [
-	{
-		type : "tags",
-		position : 0, 
-		time : 30,/*30 thuypx change value*/
-		link : [
-			"http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
-		]
-		
-	}
-	]
-};
-//thuypx added
-adsConfig={};
+
 var orgPlayerSize = {
     'width': 0,
     'height': 0

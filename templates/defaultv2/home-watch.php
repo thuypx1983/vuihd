@@ -144,6 +144,71 @@ $film_countryz_title = "";
             filmInfo.slug = '<?=$filmURL;?>';
         </script>
 <? if($film18 == 1){ ?><script data-cfasync="false" type="text/javascript" src=""></script><? } ?>
+
+    <?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()) {
+        ?>
+        <script type="text/javascript">
+            var adsConfig = {
+                swfVast : "/newplayer/vastplay.swf",
+                pause:[
+                    "/newplayer/adstest/pause.xml"
+                ],
+                video: [
+                    {
+                        position : 0,
+                        link : [
+                            'http://blueserving.com/vast.xml?key=0cf81923f34c497f07efc0a31c3d0e4d&cat=<?php echo $cat_namez_title?>&country=<?php echo $film_countryz_title?>',
+                        ]
+                    }],
+                /*overlay: [
+                 {
+                 type : "tags",
+                 position : 0,
+                 time : 30,/!*30 thuypx change value*!/
+                 link : [
+                 "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+                 ]
+
+                 }
+                 ]*/
+            };
+        </script>
+    <?php
+    }else{
+    ?>
+        <script type="text/javascript">
+            var adsConfig = {
+                swfVast : "/newplayer/vastplay.swf",
+                pause:[
+                    "/newplayer/adstest/pause.xml"
+                ],
+                video: [
+                    {
+                        position : 0,
+                        link : [
+                            'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=<?php echo $cat_namez_title?>&country=<?php echo $film_countryz_title?>',
+                        ]
+                    }],
+                /*overlay: [
+                 {
+                 type : "tags",
+                 position : 0,
+                 time : 30,/!*30 thuypx change value*!/
+                 link : [
+                 "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+                 ]
+
+                 }
+                 ]*/
+            };
+            adsConfig={};
+        </script>
+        <?php
+    }
+    ?>
+
 </head>
 
     <body>
