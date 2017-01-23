@@ -6,6 +6,7 @@ $rs=$mysql->query($query);
 $news=$rs->fetch(PDO::FETCH_ASSOC);
 $cids=explode(',',$news['news_cat']);
 $cids=array_filter($cids,'intval');
+    print_r($cids);
 
 $query="SELECT * FROM ".DATABASE_FX."news_cat WHERE news_cat_id=".$cids[0];
 $rs=$mysql->query($query);
