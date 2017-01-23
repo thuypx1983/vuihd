@@ -32,7 +32,7 @@ $inp_arr = array(
 			'can_be_empty'	=>	false
 		),
 
-		'news_cat_keyword'	=> array(
+		'news_cat_description'	=> array(
 			'table'	=>	'news_cat_description',
 			'name'	=>	'news_cat_description',
 			'type'	=>	'free',
