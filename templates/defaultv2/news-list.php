@@ -29,7 +29,7 @@ if($value[1]=='news-list'){
 
 
 
-	$web_keywords = $news_cat['news_cat_title'];
+	$web_keywords = $news_cat['news_cat_title']? $news_cat['news_cat_title']: $news_cat['news_cat_name'];
 	$web_des = $news_cat['news_cat_description'];
 	$web_title = $news_cat['news_cat_title'];
 	$breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
