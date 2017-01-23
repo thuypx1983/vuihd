@@ -4420,3 +4420,6 @@ ul.news-cat  li a{
         min-height: 100px;
     }
 }
+#player .ytp-paid-content-overlay,#player .ytp-player-content,#player .ytp-iv-video-content{
+    display: none !important;
+}
