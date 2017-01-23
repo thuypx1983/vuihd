@@ -13,7 +13,7 @@ if (!miniPlayer) {
 //if (location['hostname'] != '5sphim.com') {
 //    window['location']['replace']('http://5sphim.com')
 //};
-/*var adsConfig = {
+var adsConfig = {
 	swfVast : "/newplayer/vastplay.swf",
 	pause:[
 		"/newplayer/adstest/pause.xml"
@@ -29,16 +29,16 @@ if (!miniPlayer) {
 	{
 		type : "tags",
 		position : 0, 
-		time : 30,/!*30 thuypx change value*!/
+		time : 30,/*30 thuypx change value*/
 		link : [
 			"http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
 		]
 		
 	}
 	]
-};*/
+};
 //thuypx added
-var adsConfig={};
+adsConfig={};
 var orgPlayerSize = {
     'width': 0,
     'height': 0
