@@ -38,7 +38,7 @@ if (!miniPlayer) {
 	]
 };*/
 //thuypx added
-//adsConfig={};
+var adsConfig={};
 var orgPlayerSize = {
     'width': 0,
     'height': 0
