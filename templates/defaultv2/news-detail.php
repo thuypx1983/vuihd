@@ -264,7 +264,7 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
                     <div class="widget-title">
                         <h3 class="title">Tin liên quan về bộ phim</h3>
                     </div>
-                    <div class="block-body slider">
+                    <div class="block-body news-category ">
                         <div class="list-film row" id="pl-slidez1">
 
                             <?=ShowNews("WHERE 1","ORDER BY news_id",10,'shownews_related','cache_news_related');?>
@@ -375,5 +375,18 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.public.js" type="text/javascript"></script>
 <?if($subscribe != 1){?><script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.subscribe.js" type="text/javascript"></script><? }?>
 <? require_once("footer.php");?>
+
+    <script type="text/javascript">
+        (function ($) {
+            $(function(){
+                $('.news-category .news-item >div').matchHeight({
+                    byRow: true,
+                    property: 'height',
+                    target: null,
+                    remove: false
+                });
+            })
+        })(jQuery)
+    </script>
 </body>
 </html><?}else header('Location: '.$web_link.'/404');  }else header('Location: '.$web_link.'/404'); ?>
