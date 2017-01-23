@@ -27,11 +27,16 @@ if($value[1]=='news-list'){
 	}
 
 
+    if($value[3]!='all'){
+        $web_keywords = $news_cat['news_cat_title']? $news_cat['news_cat_title']: $news_cat['news_cat_name'];
+        $web_des = $news_cat['news_cat_description'];
+        $web_title = $news_cat['news_cat_title'];
+    }else{
+        $web_keywords = $cf['cf_news_keyword']? $news_cat['news_cat_title']: $news_cat['news_cat_name'];
+        $web_des = $cf['cf_news_description'];
+        $web_title = $cf['cf_news_title'];
+    }
 
-
-	$web_keywords = $news_cat['news_cat_title']? $news_cat['news_cat_title']: $news_cat['news_cat_name'];
-	$web_des = $news_cat['news_cat_description'];
-	$web_title = $news_cat['news_cat_title'];
 	$breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
     if($value[3]!='all'){
         $breadcrumbs .= '<li><a itemprop="url" href="/tin-tuc/" title="'.$language['home'].'"><span itemprop="title">Tin tức <i class="fa fa-angle-right"></i></span></a></li>';
