@@ -115,12 +115,12 @@ if($filmQUALITY == 'CAM' || $filmQUALITY == 'TS' || $filmQUALITY == 'SD'){
     $filmSub = 0;
 }else{ $filmSub = 1;}
 
-$web_title = 'Phim '.$filmNAMEVN.' ('.$filmNAMEEN.') '.$filmYEAR.' '.$filmQUALITY.'-'.$filmLANG;
-$web_keywords = $filmTAGS;
+$web_title = $news['news_name'].' - '.$filmNAMEVN;
+$web_keywords = $news['news_name'];
 if($row['film_des'] == '')
     $web_des = $web_title.', thể loại '.strip_tags($film_cat_info);
 else
-    $web_des = $row['film_des'];
+    $web_des = $web_title;
 if($film18 == 1) $filmCanhbao18 = '<span class="canhbao18"></span> '; else $filmCanhbao18 = '';
 if(isset($_SESSION["user_id"])){$filmBox = get_data("user_filmbox","user","user_id",$_SESSION["user_id"]);if(strpos($filmBox, ','.$filmID.',') !== false){$filmLike_class = 'added';}else $filmLike_class = 'normal';}else{$filmLike_class = 'normal';}
 if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subscribe = 2;}elseif($filmLB == 3){$subscribe = 3;}else $subscribe = 1;
