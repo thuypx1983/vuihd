@@ -1,5 +1,5 @@
 <?
-$html .= '<div class="item">
+$html .= '<div class="news-item">
 <div class="col-md-5 col-lg-5">
 <div class="thumb"> <img src="'.$row['news_img'].'" alt="'.$row['news_name'].'"> </div>
 </div>
