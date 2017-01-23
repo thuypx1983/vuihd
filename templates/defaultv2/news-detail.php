@@ -4,9 +4,10 @@ $news_id = (int)$value[2];
 $query="SELECT * FROM ".DATABASE_FX."news WHERE news_id=$news_id";
 $rs=$mysql->query($query);
 $news=$rs->fetch(PDO::FETCH_ASSOC);
+$cids=explode(',',$news['news_cat']);
+$cids=array_filter($cids,'intval');
 
-$query="SELECT * FROM ".DATABASE_FX."news_cat WHERE news_cat_id=".$news['news_cat'];
-    echo $query;
+$query="SELECT * FROM ".DATABASE_FX."news_cat WHERE news_cat_id=".$cids[0];
 $rs=$mysql->query($query);
 $news_cat=$rs->fetch(PDO::FETCH_ASSOC);
 
