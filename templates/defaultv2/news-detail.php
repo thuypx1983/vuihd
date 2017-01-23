@@ -271,7 +271,6 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
                         </div>
                     </div>
                 </div>-->
-                <!--/.block
             </div>
             <!--/.main-->
             <div class="block fanpage">
