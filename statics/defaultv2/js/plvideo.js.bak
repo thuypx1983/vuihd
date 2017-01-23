@@ -64,7 +64,7 @@ function Phimle_videoplayer(url) {
     
     jwplayer.key = '2dQEYIAMkVjy1N0gJEQ4wbTBXJRaJqu/zR0yGg==';
     jwplayer('phimletv_player').setup({
-/*		ads : {
+		ads : {
 			swfVast : "/newplayer/vastplay.swf",
 			pause:[
 				"/newplayer/adstest/pause.xml"
@@ -88,7 +88,6 @@ function Phimle_videoplayer(url) {
 			}
 			]
 		},
-*/
         file: url,
         tracks: [{
             file: '',

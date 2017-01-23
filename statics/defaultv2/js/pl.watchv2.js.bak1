@@ -29,7 +29,7 @@ var adsConfig = {
 	{
 		type : "tags",
 		position : 0, 
-		time : 30,/*30 thuypx change value*/
+		time : 30,
 		link : [
 			"http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
 		]
@@ -37,8 +37,6 @@ var adsConfig = {
 	}
 	]
 };
-//thuypx added
-adsConfig={};
 var orgPlayerSize = {
     'width': 0,
     'height': 0
@@ -163,7 +161,7 @@ function ClickToLoad(Id) {
             jwplayer['key'] = '2dQEYIAMkVjy1N0gJEQ4wbTBXJRaJqu/zR0yGg==';
             var player = jwplayer('player-area');
             player['setup']({
-				ads : adsConfig,
+				/*ads : adsConfig,*/
                 height: '100%',
                 autostart: true,
                 playlist: url_playlist,
@@ -252,7 +250,7 @@ function ClickToLoad(Id) {
                 jwplayer['key'] = 'dWwDdbLI0ul1clbtlw+4/UHPxlYmLoE9Ii9QEw==';
                 var player = jwplayer('player-area');
                 player['setup']({
-					ads : adsConfig,
+				/*	ads : adsConfig,*/
                     height: '100%',
                     autostart: true,
                     file: url_playlist,
@@ -324,7 +322,7 @@ function ClickToLoad(Id) {
                     jwplayer['key'] = 'dWwDdbLI0ul1clbtlw+4/UHPxlYmLoE9Ii9QEw==';
                     var player = jwplayer('player-area');
                     player['setup']({
-						ads : adsConfig,
+/*						ads : adsConfig,*/
                         file: url_playlist,
                         tracks: [{
                             file: '',

@@ -2,6 +2,30 @@ if (!pautonext) var pautonext = true;
 if (!resizePlayer) var resizePlayer = false;
 if (!light) var light = true;
 if (!miniPlayer) var miniPlayer = false; 
+var adsConfig = {
+	swfVast : "/newplayer/vastplay.swf",
+	pause:[
+		"/newplayer/adstest/pause.xml"
+	],
+	video: [
+	{
+		position : 0,
+		link : [
+			'/newplayer/adstest/vast.xml',
+		]
+	}],
+	overlay: [
+	{
+		type : "tags",
+		position : 0, 
+		time : 30,
+		link : [
+			"http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+		]
+		
+	}
+	]
+};
 var orgPlayerSize = {
     'width': 0,
     'height': 0
@@ -79,7 +103,9 @@ var PLTV = {
 	    plplayer.key = "dWwDdbLI0ul1clbtlw+4/UHPxlYmLoE9Ii9QEw==";
         var player = plplayer("player-area");
         player.setup({
-            height: "100%",
+			ads : adsConfig,
+            //height: "100%",
+			aspectratio : "16:9",
             autostart: true,
             playlist: url_playlist,
             stretching: "uniform",
@@ -161,15 +187,17 @@ if(messageError.indexOf("RSS/JSON") > -1){
     jwplayer.key = "N8zhkmYvvRwOhz4aTGkySoEri4x+9pQwR7GHIQ==";
 	var player = jwplayer("player-area");
     player.setup({
+		ads : adsConfig,
         file: url_playlist,
         tracks: [{file: '',label: 'Tiếng Việt',default: true}],
 	    captions: {back: false,color: 'ffffff',fontsize: 18},
 	    autostart: true,
 	    width: '100%',
 	    primary: 'html5',
-	    skin: 'vapor',
+	    //skin: 'vapor',
 	    
-	    height: '100%',
+	    //height: "100%",
+		aspectratio : "16:9",
 	    captions: {
                 color: '#ffffff',
                 fontSize: 20,
@@ -287,6 +315,7 @@ if (window.jQuery) {
     });
 }
 jQuery(document).ready(function(t) {
+	jQuery('#abd_mv').css('padding-bottom' , '40px');
     $('.toggle-autonext').on('click', function() {
         var autonexton = $(this).attr("data-on");
         var autonextoff = $(this).attr("data-off");
