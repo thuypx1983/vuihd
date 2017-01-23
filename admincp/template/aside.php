@@ -81,7 +81,7 @@ $menu_arr = array(
 		array(
 			'list'	=>	array('Danh sách news','act=news&mode=edit'),
 			'add'	=>	array('Thêm news','act=news&mode=add'),
-            'list'	=>	array('Danh sách category','act=newscat&mode=edit'),
+            'listcat'	=>	array('Danh sách category','act=newscat&mode=edit'),
 		),
 		'fa-book',
 		'bg-warning dker',
