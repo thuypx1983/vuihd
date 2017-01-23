@@ -204,6 +204,7 @@ if ( $detect->isMobile() or  $detect->isTablet()) {
              }
              ]*/
         };
+         adsConfig={};
     </script>
     <?php
 }
