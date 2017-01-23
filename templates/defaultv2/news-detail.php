@@ -4,6 +4,11 @@ $news_id = (int)$value[2];
 $query="SELECT * FROM ".DATABASE_FX."news WHERE news_id=$news_id";
 $rs=$mysql->query($query);
 $news=$rs->fetch(PDO::FETCH_ASSOC);
+
+$query="SELECT * FROM ".DATABASE_FX."news_c WHERE newsat_cat_id=".$news['news_cat'];
+$rs=$mysql->query($query);
+$news_cat=$rs->fetch(PDO::FETCH_ASSOC);
+
 $filmID = (int)$news['news_film'];
 $mysql->update("news","news_viewed = news_viewed + 1","news_id = '".$news_id."'");
 $arr = $mysqldb->prepare("SELECT * FROM ".DATABASE_FX."film WHERE film_id = :id");
@@ -54,28 +59,9 @@ $CheckCountry = $row['film_country'];
 $CheckCountry = str_replace(',,',',',$CheckCountry);
 $CheckCountry		=	explode(',',$CheckCountry);
 $breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
-if($filmLB == 0){
-    $filmcat = '<a href="'.$web_link.'/phim-le/" title="Phim lẻ vietsub hd, phim lẻ mới">Phim lẻ</a>, ';
-    $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$web_link.'/phim-le/" title="'.$language['moviesingle'].'"><span itemprop="title">'.$language['moviesingle'].' <i class="fa fa-angle-right"></i></span></a></li>';
-}elseif($filmLB == 1 || $filmLB == 2){
-    $filmcat = '<a href="'.$web_link.'/phim-bo/" title="Phim bộ vietsub hd, phim bộ mới">Phim bộ</a>, ';
-    $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$web_link.'/phim-bo/" title="'.$language['movieserial'].'"><span itemprop="title">'.$language['movieserial'].' <i class="fa fa-angle-right"></i></span></a></li>';
-}else{
-    $filmcat = '<a href="'.$web_link.'/phim-moi/" title="Phim sắp chiếu vietsub hd, phim sắp chiếu mới">Phim sắp chiếu</a>, ';
-    $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$web_link.'/phim-moi/" title="Phim Sắp chiếu"><span itemprop="title">Phim sắp chiếu <i class="fa fa-angle-right"></i></span></a></li>';
-}
-if($filmRAP == 1){
-    $filmchieurap = '<a href="'.$web_link.'/phim-chieu-rap/" title="Phim chiếu rạp vietsub hd, phim chiếu rạp mới">Phim chiếu rạp</a>, ';
-}else $filmchieurap = '';
-$film_cat = '';
-for ($i=1; $i<count($CheckCat)-1;$i++) {
-    $cat_namez	  =	get_data('cat_name','cat','cat_id',$CheckCat[$i]);
-    $cat_namez_title	  =	get_data('cat_name_title','cat','cat_id',$CheckCat[$i]);
-    $cat_namez_key	  =	get_data('cat_name_key','cat','cat_id',$CheckCat[$i]);
-    $film_cat 	.= '<a href="'.$web_link.'/the-loai/'.replace(strtolower(get_ascii($cat_namez_key))).'/" title="'.$cat_namez.'">'.$cat_namez.'</a>,  ';
-    $breadcrumbs .= '<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="'.$web_link.'/the-loai/'.replace(strtolower(get_ascii($cat_namez_key))).'/" title="'.$cat_namez.'"><span itemprop="title">'.$cat_namez.' <i class="fa fa-angle-right"></i></span></a></li>';
-}
-$breadcrumbs .= '<li><a class="current" href="'.$filmURL.'" title="'.$web_title.'">'.$filmNAMEVN.'</a></li>';
+$breadcrumbs .= '<li><a itemprop="url" href="/tin-tuc/" title="'.$language['home'].'"><span itemprop="title">Tin tức <i class="fa fa-angle-right"></i></span></a></li>';
+$breadcrumbs .= '<li><a itemprop="url" href="/'.$news_cat['url'].'/'.$news_cat['news_cat_id'].'" title="'.$language['home'].'"><span itemprop="title">'.$news_cat['news_cat_name'].'</span></a></li>';
+
 $film_cat_info		=	$filmcat.$filmchieurap.$film_cat;
 $link_country="";
 for ($i=1; $i<count($CheckCountry)-1;$i++) {
