@@ -65,7 +65,7 @@ function ShowNews($where,$order,$limit,$file,$keycache){
         unset($tmp);
 
         while($row = $arr->fetch(PDO::FETCH_ASSOC)){
-            $row['news_url']=WEB_URL.'/tin-tuc/'.$row['news_url'].'.html';
+            $row['news_url']=WEB_URL.'/tin-tuc/'.$row['news_url'].'-'.$row['news_id'].'.html';
             $catids=explode(',',$row['news_cat']);
             $data="";
             foreach($catids as $catid){
