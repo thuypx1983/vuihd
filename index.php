@@ -18,7 +18,11 @@ include_once($lang);
 include_once('includes/Templates.php');
 include_once('includes/functions.php');
 include_once('includes/AllTemplates.php');
-include_once("includes/phpmailer.php"); 
+include_once("includes/phpmailer.php");
+
+//thuypx added
+include_once("includes/Mobile_Detect.php");
+
 $ZingDecode = new KZ_Crypt;
 resetTop();
 if(isset($_GET['models'])){
