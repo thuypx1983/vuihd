@@ -383,9 +383,10 @@ $catNAME = $row['cat_name'];
 </script>
 <? require_once("footer.php");?>
 <script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("div.video-annotations").css("display", "none");
+	jQuery(window).load(function() {
+		jQuery('body').find("div.video-annotations").css("display", "none");
 	})
+
 </script>
 </body>
 </html>
