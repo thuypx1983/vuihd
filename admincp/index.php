@@ -93,6 +93,7 @@ else $act = false;
 	case "adspos":					include("adspos.php");break;
 	case "user":				include("user.php");break;
 	case "news":				include("news.php");break;
+	case "newscat":				include("newscat.php");break;
 	case "config":				include("configures.php");break;
 	case "comment":				include("comment.php");break;
 	case "local":				include("local.php");break;
