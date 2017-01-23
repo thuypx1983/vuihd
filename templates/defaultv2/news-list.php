@@ -33,8 +33,16 @@ if($value[1]=='news-list'){
 	$web_des = $news_cat['news_cat_description'];
 	$web_title = $news_cat['news_cat_title'];
 	$breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
-	$breadcrumbs .= '<li><a class="current" href="#" title="'.upperFirstChar($news_cat['news_cat_name']).'">'.$news_cat['news_cat_name'].'</a></li>';
-	$h1title = '<i class="icon-tag font-purple-seance"></i>Phim '.$keyword.': '.$keyword;
+    if($value[3]!='all'){
+        $breadcrumbs .= '<li><a itemprop="url" href="/tin-tuc/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i>Tin tức <i class="fa fa-angle-right"></i></span></a></li>';
+
+        $breadcrumbs .= '<li><a class="current" href="#" title="'.upperFirstChar($news_cat['news_cat_name']).'">'.$news_cat['news_cat_name'].'</a></li>';
+
+    }else{
+        $breadcrumbs .= '<li><a class="current" href="#" title="Tin tức">Tin tức</a></li>';
+
+    }
+		$h1title = '<i class="icon-tag font-purple-seance"></i>Phim '.$keyword.': '.$keyword;
 
 	if($value[3]=='all'){
 		$pageURL = $web_link.'/tin-tuc';
