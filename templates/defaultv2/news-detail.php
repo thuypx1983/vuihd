@@ -260,18 +260,18 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
                     </div>
                 </div>
                 <!--.block-->
-               <!-- <div class="block list-film-slide">
+                <div class="block list-film-slide">
                     <div class="widget-title">
                         <h3 class="title">Tin liên quan bề bộ phim</h3>
                     </div>
                     <div class="block-body slider">
                         <div class="list-film row" id="pl-slidez1">
 
-                            <?php /*//ShowNews("WHERE 1","ORDER BY news_id",10,'shownews_right_home','cache_news_home');*/?>
+                            <?=ShowNews("WHERE 1","ORDER BY news_id",10,'shownews_related','cache_news_related');?>
                         </div>
                     </div>
                 </div>-->
-                <!--/.block-->
+                <!--/.block
             </div>
             <!--/.main-->
             <div class="block fanpage">
