@@ -68,7 +68,7 @@ if($value[1]=='news-list'){
 	$total = get_total("news","news_id","$where_sql $order_sql");
 	$ViewPage = view_pages_news('news',$total,$page_size,$page,$pageURL,$rel,"defaultv2");
 
-	$rs=$mysql->query("SELECT * FROM ".DATABASE_FX."news_cat");
+	$rs=$mysql->query("SELECT * FROM ".DATABASE_FX."news_cat ORDER BY news_cat_order ASC");
 	$cats=$rs->fetchAll(PDO::FETCH_ASSOC);
 	$tmp=array();
 	foreach($cats as $item){
