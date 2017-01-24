@@ -58,6 +58,22 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=LM/Rm1aMp4Z36C" style="display:none" height="1" width="1" alt="" /></noscript>
 <!-- End Alexa Certify Javascript -->
 
+<!--BS TRACKING RICH . DO NOT MODIFY -->
+	   <script>
+			(function () {
+				if (document.getElementById('bscelid') == null) {
+					var bss = document.createElement('script');
+					bss.type = 'text/javascript';
+					bss.id = "bscelid";
+					bss.src = 'http://lab.blueserving.com/libs/bsc.js';
+					(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(bss);
+				}
+			})();
+			document.write("<script type='text/javascript' class='bscelc'><\/script>");
+		</script>
+	<!--END BS TRACKING RICH -->
+	<script type="text/javascript" src="http://lab.blueserving.com/libs/bsca.js"></script>
+
 <style>
     .white-popup {
         position: relative;
