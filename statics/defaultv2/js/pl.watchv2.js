@@ -181,7 +181,8 @@ function ClickToLoad(Id) {
                     edgeStyle: 'raised'
                 },
 				logo: {
-				file: '',
+				file: '/newplayer/logo.png'
+                    ,
 						link: 'http://vuihd.com',
 						position: 'top-right',
 						linktarget: '_blank',
