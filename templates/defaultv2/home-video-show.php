@@ -386,7 +386,30 @@ $catNAME = $row['cat_name'];
 	jQuery(window).load(function() {
 		jQuery('body').find("div.video-annotations").css("display", "none");
 	})
+	var ads_video={
+		swfVast : "/newplayer/vastplay.swf",
+		pause:[
+			"/newplayer/adstest/pause.xml"
+		],
+		video: [
+			{
+				position : 0,
+				link : [
+					'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=giaitri&country=vietnam',
+				]
+			}],
+		/*overlay: [
+			{
+				type : "tags",
+				position : 0,
+				time : 30,
+				link : [
+					"http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+				]
 
+			}
+		]*/
+	};
 </script>
 </body>
 </html>

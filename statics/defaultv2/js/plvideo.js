@@ -60,35 +60,35 @@ jQuery(function($) {
         $('#tgl-next').removeClass('on');
     }
 });
+/*var ads_video={
+    swfVast : "/newplayer/vastplay.swf",
+    pause:[
+        "/newplayer/adstest/pause.xml"
+    ],
+    video: [
+        {
+            position : 0,
+            link : [
+                '/newplayer/adstest/vast.xml',
+            ]
+        }],
+    overlay: [
+        {
+            type : "tags",
+            position : 0,
+            time : 30,
+            link : [
+                "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+            ]
+
+        }
+    ]
+};*/
 function Phimle_videoplayer(url) {
     
     jwplayer.key = '2dQEYIAMkVjy1N0gJEQ4wbTBXJRaJqu/zR0yGg==';
     jwplayer('phimletv_player').setup({
-/*		ads : {
-			swfVast : "/newplayer/vastplay.swf",
-			pause:[
-				"/newplayer/adstest/pause.xml"
-			],
-			video: [
-			{
-				position : 0,
-				link : [
-					'/newplayer/adstest/vast.xml',
-				]
-			}],
-			overlay: [
-			{
-				type : "tags",
-				position : 0, 
-				time : 30,
-				link : [
-					"http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
-				]
-				
-			}
-			]
-		},
-*/
+		ads : ads_video,
         file: url,
         tracks: [{
             file: '',
