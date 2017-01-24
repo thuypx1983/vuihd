@@ -74,33 +74,69 @@ if($row['video_id']){
 }
 #player-area{display:block;position:relative;height: 420px;    margin-bottom: 10px;}
 </style>
+	<?php
+	$detect = new Mobile_Detect;
+	if ( $detect->isMobile() or  $detect->isTablet()) {
+		?>
+		<script type="text/javascript">
+			var adsConfig = {
+				swfVast : "/newplayer/vastplay.swf",
+				/*pause:[
+				 "/newplayer/adstest/pause.xml"
+				 ],*/
+				video: [
+					{
+						position : 0,
+						link : [
+							'http://blueserving.com/vast.xml?key=0cf81923f34c497f07efc0a31c3d0e4d&cat=<?php echo $cat_namez_title?>&country=<?php echo $film_countryz_title?>',
+						]
+					}],
+				/*overlay: [
+				 {
+				 type : "tags",
+				 position : 0,
+				 time : 30,/!*30 thuypx change value*!/
+				 link : [
+				 "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+				 ]
 
-    <script type="text/javascript">
-        var ads_video={
-            swfVast : "/newplayer/vastplay.swf",
-			/*pause:[
-                "/newplayer/adstest/pause.xml"
-            ],*/
-            video: [
-                {
-                    position : 0,
-                    link : [
-                        'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=giaitri&country=vietnam',
-                    ]
-                }],
-            /*overlay: [
-             {
-             type : "tags",
-             position : 0,
-             time : 30,
-             link : [
-             "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
-             ]
+				 }
+				 ]*/
+			};
+		</script>
+	<?php
+	}else{
+	?>
+		<script type="text/javascript">
+			var adsConfig = {
+				swfVast : "/newplayer/vastplay.swf",
+				/*pause:[
+				 "/newplayer/adstest/pause.xml"
+				 ],*/
+				video: [
+					{
+						position : 0,
+						link : [
+							'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=<?php echo $cat_namez_title?>&country=<?php echo $film_countryz_title?>',
+						]
+					}],
+				/*overlay: [
+				 {
+				 type : "tags",
+				 position : 0,
+				 time : 30,/!*30 thuypx change value*!/
+				 link : [
+				 "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+				 ]
 
-             }
-             ]*/
-        };
-    </script>
+				 }
+				 ]*/
+			};
+		</script>
+		<?php
+	}
+	?>
+
 </head>
 <body>  <? require_once("header.php");?>
  <div id="body-wrapper"> 
