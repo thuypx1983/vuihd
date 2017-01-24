@@ -79,7 +79,7 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
             $.cookie('enable_popup','1',{ expires: date });
             $.magnificPopup.open({
                 items: {
-                    src: '/statics/defaultv2/images/pop-up.jpeg'
+                    src: 'https://s29.postimg.org/fmi5xmw53/pop_up.jpg'
                 },
                 type: 'image'
             });
