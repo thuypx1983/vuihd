@@ -77,10 +77,10 @@ if($row['video_id']){
 
     <script type="text/javascript">
         var ads_video={
-            swfVast : "/newplayer/vastplay.swf",
+           /* swfVast : "/newplayer/vastplay.swf",
             pause:[
                 "/newplayer/adstest/pause.xml"
-            ],
+            ],*/
             video: [
                 {
                     position : 0,

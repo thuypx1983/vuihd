@@ -180,10 +180,10 @@ $film_countryz_title = "";
     ?>
         <script type="text/javascript">
             var adsConfig = {
-                swfVast : "/newplayer/vastplay.swf",
+                /*swfVast : "/newplayer/vastplay.swf",
                 pause:[
                     "/newplayer/adstest/pause.xml"
-                ],
+                ],*/
                 video: [
                     {
                         position : 0,
