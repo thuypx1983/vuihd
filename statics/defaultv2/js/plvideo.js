@@ -90,7 +90,7 @@ function Phimle_videoplayer(url) {
     jwplayer('phimletv_player').setup({
 		ads : adsConfig,
         logo : {
-            file : "logo.png",
+            file : "/newplayer/logo.png",
         },
         file: url,
         tracks: [{
