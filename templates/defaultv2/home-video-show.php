@@ -88,7 +88,7 @@ if($row['video_id']){
 					{
 						position : 0,
 						link : [
-							'http://blueserving.com/vast.xml?key=0cf81923f34c497f07efc0a31c3d0e4d&cat=<?php echo $cat_namez_title?>&country=<?php echo $film_countryz_title?>',
+							'http://blueserving.com/vast.xml?key=0cf81923f34c497f07efc0a31c3d0e4d&cat=giaitri&country=vietnam',
 						]
 					}],
 				/*overlay: [
@@ -117,7 +117,7 @@ if($row['video_id']){
 					{
 						position : 0,
 						link : [
-							'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=<?php echo $cat_namez_title?>&country=<?php echo $film_countryz_title?>',
+							'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=giaitri&country=vietnam',
 						]
 					}],
 				/*overlay: [
