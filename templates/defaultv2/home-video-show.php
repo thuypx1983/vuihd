@@ -74,7 +74,35 @@ if($row['video_id']){
 }
 #player-area{display:block;position:relative;height: 420px;    margin-bottom: 10px;}
 </style>
-</head> <body>  <? require_once("header.php");?>
+
+    <script type="text/javascript">
+        var ads_video={
+            swfVast : "/newplayer/vastplay.swf",
+            pause:[
+                "/newplayer/adstest/pause.xml"
+            ],
+            video: [
+                {
+                    position : 0,
+                    link : [
+                        'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=giaitri&country=vietnam',
+                    ]
+                }],
+            /*overlay: [
+             {
+             type : "tags",
+             position : 0,
+             time : 30,
+             link : [
+             "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+             ]
+
+             }
+             ]*/
+        };
+    </script>
+</head>
+<body>  <? require_once("header.php");?>
  <div id="body-wrapper"> 
  <div class="ad_location container desktop hidden-sm hidden-xs" style="padding-top: 0px; margin-bottom: 15px;">  </div> 
  <div class="ad_location container mobile hidden-lg hidden-md" style="padding-top: 0px; margin-bottom: 15px;"> </div>
@@ -382,35 +410,6 @@ $catNAME = $row['cat_name'];
 	
 </script>
 <? require_once("footer.php");?>
-<script type="text/javascript">
-	jQuery(window).load(function() {
-		jQuery('body').find("div.video-annotations").css("display", "none");
-	})
-	var ads_video={
-		swfVast : "/newplayer/vastplay.swf",
-		pause:[
-			"/newplayer/adstest/pause.xml"
-		],
-		video: [
-			{
-				position : 0,
-				link : [
-					'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=giaitri&country=vietnam',
-				]
-			}],
-		/*overlay: [
-			{
-				type : "tags",
-				position : 0,
-				time : 30,
-				link : [
-					"http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
-				]
-
-			}
-		]*/
-	};
-</script>
 </body>
 </html>
 <? }else header('Location: '.$web_link.'/404?error='.$videoID.'+'.$videoKEY);  }else header('Location: '.$web_link.'/404');  ?>
