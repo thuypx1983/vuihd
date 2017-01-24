@@ -203,7 +203,6 @@ $film_countryz_title = "";
                  }
                  ]*/
             };
-            adsConfig={};
         </script>
         <?php
     }
