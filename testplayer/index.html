@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MP4 video file</title>
+	<meta charset="UTF-8" />
+	<meta name="referrer" content="no-referrer">
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<meta content="initial-scale=1.0, width=device-width" name="viewport">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<meta name="format-detection" content="telephone=no">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+	<script type="text/javascript" src="bin-release/jwplayer.js"></script>
+</head>
+<body>
+<h2>Video Player Demo</h2>
+<div id="video-hls">before set up</div>
+<script type="text/javascript">
+jwplayer("video-hls").setup({
+	width: "700px",
+	height  : "420px",
+	repeat : true,
+	item : 0,
+	logo : {
+		file : "logo.png",
+	},
+	flashplayer : "bin-release/jwplayer.flash.swf",
+	playlist: [
+	{
+		file : 'https://www.youtube.com/watch?v=IA35V5Iqiso',
+		type: 'youtube',
+		tracks :[{
+			file : "sub.srt"
+		}]
+	}],
+	ads : {
+		swfVast : "vastplay.swf",
+		pause:[
+		"adstest/pause.xml"
+		],
+		video: [
+		{
+			position : 0,
+			link : [
+				'adstest/vast.xml',
+			]
+		}],
+		overlay: [
+		{
+			type : "tags",
+			position : 0, 
+			time : 30,
+			link : [
+				"http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
+			]
+			
+		}
+		]
+	}
+});
+</script>
+</body>
+</html>
