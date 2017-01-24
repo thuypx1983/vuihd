@@ -89,6 +89,9 @@ function Phimle_videoplayer(url) {
     jwplayer.key = '2dQEYIAMkVjy1N0gJEQ4wbTBXJRaJqu/zR0yGg==';
     jwplayer('phimletv_player').setup({
 		ads : adsConfig,
+        logo : {
+            file : "logo.png",
+        },
         file: url,
         tracks: [{
             file: '',
