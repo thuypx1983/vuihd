@@ -22,6 +22,10 @@ if($row['video_id']){
 	    $videoDES = ($row['video_description']);
 		
 	    $videoURLStream = ($row['video_url']);
+
+        $password='vuihd.com';
+        $encodedVideoUrlStream=cryptoJsAesEncrypt($password, $videoURLStream);
+
 	    $videoLINK = $web_link.'/xem-video/'.$videoKEY.'-'.$row['video_id'].'.html';
 	    $web_title = $videoNAME.' | VuiHD.com';
 		$breadcrumbs .= '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
@@ -64,6 +68,8 @@ if($row['video_id']){
 <link rel="stylesheet" href="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/css/foundation.min.css">
 	<link rel="stylesheet" href="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/css/videopage.css?v=2">
 <? require_once("styles.php");?>
+<script type="text/javascript" src="/statics/defaultv2/js/aes.js"></script>
+<script type="text/javascript" src="/statics/defaultv2/js/aes-json-format.js"></script>
 <style>
 .row {
     margin-right: 0;
@@ -136,7 +142,9 @@ if($row['video_id']){
 		<?php
 	}
 	?>
-
+<script type="text/javascript">
+    var videoURLStream=JSON.parse(CryptoJS.AES.decrypt('<?php echo $encodedVideoUrlStream?>', '<?php echo $password?>', {format: CryptoJSAesJson}).toString(CryptoJS.enc.Utf8))
+</script>
 </head>
 <body>  <? require_once("header.php");?>
  <div id="body-wrapper"> 

@@ -22,6 +22,7 @@ include_once("includes/phpmailer.php");
 
 //thuypx added
 include_once("includes/Mobile_Detect.php");
+include_once("includes/cryptojs-aes.php");
 
 $ZingDecode = new KZ_Crypt;
 resetTop();
