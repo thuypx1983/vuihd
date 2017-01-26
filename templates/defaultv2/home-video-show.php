@@ -450,7 +450,7 @@ $catNAME = $row['cat_name'];
     var	AjaxURL	=	'<?=$web_link;?>/load/video';
     var vCat = parseInt('<?=$vCat[1];?>');
     var vId = parseInt('<?=$videoID;?>');
-    Phimle_videoplayer('<?=$videoURLStream;?>');
+    Phimle_videoplayer(videoURLStream);
 	
 </script>
 <? require_once("footer.php");?>
