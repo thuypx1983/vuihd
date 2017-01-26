@@ -91,6 +91,7 @@ function Phimle_videoplayer(url) {
 		ads : adsConfig,
         logo : {
             file : "/newplayer/logo.png",
+            position: 'top-left',
         },
         file: url,
         tracks: [{
