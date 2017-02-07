@@ -4420,6 +4420,19 @@ ul.news-cat  li a{
         min-height: 100px;
     }
 }
-#player iframe#phimletv_player_youtube .ytp-paid-content-overlay,#player .ytp-player-content,#player .ytp-iv-video-content{
-    display: none !important;
+.news-film .watch a{
+    background:#860E0E;height:40px;display:block;
+    line-height:40px;color:#fff;font-size:16px;
+    text-transform:uppercase;font-weight:700;
+    -webkit-transition:background .2s ease-in-out 0s;
+    -khtml-transition:background .2s ease-in-out 0s;
+    -moz-transition:background .2s ease-in-out 0s;
+    -ms-transition:background .2s ease-in-out 0s;
+    -o-transition:background .2s ease-in-out 0s;
+    transition:background .2s ease-in-out 0s;
+    padding-left:10px;
+    padding-right: 10px;
+}
+.block.info-film.news-film .col2 .extra-info{
+    height: 40px;
 }
