@@ -4081,7 +4081,7 @@ table.imagetable td{padding:8px;border-style:solid;border:1px solid #151414;colo
 .announcement .block-body{background: #000000;padding: 0px;color: #FFF;border: 8px solid #232222;width: 100%;background-size: cover;background-repeat: no-repeat;background-position: top center;height: 100%;}
 .announcement .block-body .announcement-list{color: rgb(255, 255, 255);background: rgba(0, 0, 0, 0.25) none repeat scroll 0% 0%;padding: 8px;}
 #abd_mv{background:#000;}
-.jwplayer.jw-skin-seven:not(.jw-flag-fullscreen) .jw-controls .jw-controlbar {bottom: -40px !important;display: table !important;}
+.jwplayer.jw-skin-seven:not(.jw-flag-fullscreen) .jw-controls .jw-controlbar {display: table !important;}
 .jwplayer.jw-skin-seven:not(.jw-flag-fullscreen) {margin-bottom: 40px !important;overflow: visible !important;}
 .jwplayer.jw-flag-rightclick-open { overflow: visible;}
 .block.info-film .col1 .poster .btn-block {
