@@ -112,7 +112,7 @@ if($row['film_id']){
 }
 $breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
 $breadcrumbs .= '<li><a itemprop="url" href="/tin-tuc/" title="'.$language['home'].'"><span itemprop="title">Tin tức <i class="fa fa-angle-right"></i></span></a></li>';
-$breadcrumbs .= '<li><a itemprop="url" href="/'.$news_cat['url'].'/'.$news_cat['news_cat_id'].'" title="'.$language['home'].'"><span itemprop="title">'.$news_cat['news_cat_name'].'</span></a></li>';
+$breadcrumbs .= '<li><a itemprop="url" href="/tin-tuc/'.$news_cat['news_cat_url'].'/" title="'.$language['home'].'"><span itemprop="title">'.$news_cat['news_cat_name'].'</span></a></li>';
 $web_title = $news['news_name'];
 $web_keywords = $news['news_name'];
 $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['news_content'])),0,100).'...';
