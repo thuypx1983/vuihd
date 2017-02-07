@@ -212,19 +212,33 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
                     </div>
                 </div>
                 <!--.block-->
-                <?php if($filmID){?>
-                <div class="block list-film-slide">
+                <?php if($filmID){
+                    $content=ShowNews("WHERE news_film={$filmID} AND news_id!={$news['news_id']}","ORDER BY news_id",2,'shownews_related','');
+                    ?>
+                <div class="block list-film-slide" style="<?php if(!$content) echo 'display:none'?>">
                     <div class="widget-title">
                         <h3 class="title">Tin liên quan về bộ phim</h3>
                     </div>
                     <div class="block-body news-category ">
                         <div class="list-film row" id="pl-slidez1">
 
-                            <?=ShowNews("WHERE news_film={$filmID}","ORDER BY news_id",2,'shownews_related','');?>
+                            <?=$content?>
                         </div>
                     </div>
                 </div>
                 <?php }?>
+                <?php $content= ShowNews("WHERE news_cat LIKE '%,{$news_cat['news_cat_id']},%' AND news_id!={$news['news_id']}","ORDER BY news_id",2,'shownews_related','');?>
+                <div class="block list-film-slide"  style="<?php if(!$content) echo 'display:none'?>">
+                    <div class="widget-title">
+                        <h3 class="title">Tin mới cập nhật</h3>
+                    </div>
+                    <div class="block-body news-category ">
+                        <div class="list-film row" id="pl-slidez1">
+
+                            <?=$content?>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!--/.main-->
             <div class="block fanpage">
