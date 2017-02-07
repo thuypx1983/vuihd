@@ -126,16 +126,14 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
     <title><?=$web_title;?></title>
     <meta name="description" content="<?=$web_des;?>"/>
     <meta name="keywords" content="<?=$web_keywords;?>"/>
-    <link rel="canonical" href="<?=$filmURL;?>" />
-    <meta itemprop="url" content="<?=$filmURL;?>" />
-    <meta itemprop="image" content="<?=$filmIMGBN;?>" />
-    <meta itemprop="image" content="<?=$filmIMG;?>" />
+    <link rel="canonical" href="<?php echo WEB_URL.'/tin-tuc/'.$news['news_url']?>-<?php echo $news['news_id'] ?>.html" />
+    <meta itemprop="url" content="<?=$news['news_image'];?>" />
+    <meta itemprop="image" content="<?php echo WEB_URL.'/tin-tuc/'.$news['news_url']?>-<?php echo $news['news_id'] ?>.html" />
     <meta property="og:title" content="<?=$web_title;?>" />
     <meta property="og:type" content="video.movie" />
     <meta property="og:description" content="<?=$web_des;?>" />
-    <meta property="og:url" content="<?=$filmURL;?>" />
-    <meta property="og:image" content="<?=$filmIMGBN;?>" />
-    <meta property="og:image" content="<?=$filmIMG;?>" />
+    <meta property="og:url" content="<?php echo WEB_URL.'/tin-tuc/'.$news['news_url']?>-<?php echo $news['news_id'] ?>.html" />
+    <meta property="og:image" content="<?=$news['news_image'];?>" />
     <? require_once("styles.php");?>
     <script type="text/javascript">
         var filmInfo = {};
@@ -228,7 +226,7 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
                 </div>
                 <?php }?>
                 <?php $content= ShowNews("WHERE news_cat LIKE '%,{$news_cat['news_cat_id']},%' AND news_id!={$news['news_id']}","ORDER BY news_id",2,'shownews_related','');?>
-                <div class="block list-film-slide"  style="<?php if(!$content) echo 'display:none'?>">
+                <div class="block list-film-slide">
                     <div class="widget-title">
                         <h3 class="title">Tin mới cập nhật</h3>
                     </div>
