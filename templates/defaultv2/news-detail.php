@@ -15,100 +15,116 @@ $news_cat=$rs->fetch(PDO::FETCH_ASSOC);
 $filmID = (int)$news['news_film'];
 
 $mysql->update("news","news_viewed = news_viewed + 1","news_id = '".$news_id."'");
-if($filmID){
+if($filmID) {
 
-$arr = $mysqldb->prepare("SELECT * FROM ".DATABASE_FX."film WHERE film_id = :id");
-$arr->execute(array('id' => $filmID));
-$row = $arr->fetch();
-if($row['film_id']){
-    $filmPublish = $row['film_publish'];
-    $filmThongbao = $row['film_thongbao'];
-    $filmNAMEVN = $row['film_name'];
-    $filmNAMEEN = $row['film_name_real'];
-    $filmYEAR = $row['film_year'];
-    $filmIMG = changeUrlGoogle($row['film_img']);
-    $filmIMGBN = changeUrlGoogle($row['film_imgbn']);
-    $film18 = $row['film_phim18'];
-    $filmRAP = $row['film_chieurap'];
-    $filmRATE = $row['film_rate'];
-    $filmTRAILER = $row['film_trailer'];
-    $filmLIKED = $row['film_liked'];
-    $filmSLUG = $row['film_slug'];
-    $filmRATETOTAL = $row['film_rating_total'];
-    if($filmRATE != 0)
-        $filmRATESCORE = round($filmRATETOTAL/$filmRATE,1);
-    else $filmRATESCORE = 0;
-    $filmSTATUS = $row['film_trangthai'];
-    $filmTIME = $row['film_time'];
-    $filmIMDb = ($row['film_imdb']?''.$row['film_imdb'].'':"N/A");
-    $filmVIEWED = number_format($row['film_viewed']);
-    $filmLB = $row['film_lb'];
-    $filmPRODUCERS = TAGS_LINK2($row['film_area']);
-    $filmDIRECTOR = TAGS_LINK2($row['film_director']);
-    $filmACTOR = TAGS_ACTOR($row['film_actor']);
-    $filmLANG = film_lang($row['film_lang']);
-    $filmQUALITY = ($row['film_tapphim']);
-    $filmTAGS = $row['film_tag'];
-    $filmURL = $web_link.'/phim/'.$filmSLUG.'-'.replace($filmID).'/';
-    $filmINFO = strip_tags(text_tidy1($row['film_info']),'<b><i><u><img><br><p>');
-    $filmINFOcut = (strip_tags(text_tidy1($filmINFO)));
+    $arr = $mysqldb->prepare("SELECT * FROM " . DATABASE_FX . "film WHERE film_id = :id");
+    $arr->execute(array('id' => $filmID));
+    $row = $arr->fetch();
+    if ($row['film_id']) {
+        $filmPublish = $row['film_publish'];
+        $filmThongbao = $row['film_thongbao'];
+        $filmNAMEVN = $row['film_name'];
+        $filmNAMEEN = $row['film_name_real'];
+        $filmYEAR = $row['film_year'];
+        $filmIMG = changeUrlGoogle($row['film_img']);
+        $filmIMGBN = changeUrlGoogle($row['film_imgbn']);
+        $film18 = $row['film_phim18'];
+        $filmRAP = $row['film_chieurap'];
+        $filmRATE = $row['film_rate'];
+        $filmTRAILER = $row['film_trailer'];
+        $filmLIKED = $row['film_liked'];
+        $filmSLUG = $row['film_slug'];
+        $filmRATETOTAL = $row['film_rating_total'];
+        if ($filmRATE != 0)
+            $filmRATESCORE = round($filmRATETOTAL / $filmRATE, 1);
+        else $filmRATESCORE = 0;
+        $filmSTATUS = $row['film_trangthai'];
+        $filmTIME = $row['film_time'];
+        $filmIMDb = ($row['film_imdb'] ? '' . $row['film_imdb'] . '' : "N/A");
+        $filmVIEWED = number_format($row['film_viewed']);
+        $filmLB = $row['film_lb'];
+        $filmPRODUCERS = TAGS_LINK2($row['film_area']);
+        $filmDIRECTOR = TAGS_LINK2($row['film_director']);
+        $filmACTOR = TAGS_ACTOR($row['film_actor']);
+        $filmLANG = film_lang($row['film_lang']);
+        $filmQUALITY = ($row['film_tapphim']);
+        $filmTAGS = $row['film_tag'];
+        $filmURL = $web_link . '/phim/' . $filmSLUG . '-' . replace($filmID) . '/';
+        $filmINFO = strip_tags(text_tidy1($row['film_info']), '<b><i><u><img><br><p>');
+        $filmINFOcut = (strip_tags(text_tidy1($filmINFO)));
 
-    if($filmLB == 0){
-        $Status = $filmQUALITY.' '.$filmLANG;
-    }else{
-        $Status = $filmSTATUS.' '.$filmLANG;
-    }
-    $CheckCat = $row['film_cat'];
-    $CheckCat = str_replace(",,",",",$CheckCat);
-    $CheckCat = explode(',',$CheckCat);
-    $CheckCountry = $row['film_country'];
-    $CheckCountry = str_replace(',,',',',$CheckCountry);
-    $CheckCountry		=	explode(',',$CheckCountry);
-
-    $film_cat_info		=	$filmcat.$filmchieurap.$film_cat;
-    $link_country="";
-    for ($i=1; $i<count($CheckCountry)-1;$i++) {
-        $film_country = get_data('country_name','country','country_id',$CheckCountry[$i]);
-        $film_country_key = get_data('country_name_key','country','country_id',$CheckCountry[$i]);
-        $link_country .= '<a href="'.$web_link.'/quoc-gia/'.replace(strtolower(get_ascii($film_country_key))).'/'.'" title="'.$film_country.'">'.$film_country.'</a>,  ';
-    }
-    $link_country_list = $link_country;
-    $isEpisode = get_data_multi("episode_id","episode","episode_film = '".$filmID."' AND episode_servertype NOT IN (13,14)"); // có hoặc ko có episode play
-    $isDown = get_data_multi("episode_id","episode","episode_film = '".$filmID."' AND episode_servertype IN (1,2,3,4,5,6,7,8,9,10,11,12,13,14)"); // có hoặc ko có episode download
-
-    if($filmPublish == 1){
-        $filmWATCH = '<div class="copyright"><p class="copyright_del">DELETED</p><p class="copyright_desc">Phim bị xóa vì vi phạm bản quyền</p></div>';
-        $filmDownload = '';
-    }else{
-        if($isEpisode && $isDown){
-            $filmWATCH = '<div class="col-lg-5 col-md-5 col-sm-6 col-xs-6"><div class="watch"> <a href="'.$filmURL.'xem-phim.html" title="'.$filmNAMEVN.'"><i class="micon play"></i>Xem phim</a> </div></div>';
-            $filmDownload = ' <li class="item"><a id="btn-film-download" class="btn btn-green btn" title="Phim '.$filmNAMEVN.' VietSub HD | '.$filmNAMEEN.' '.$filmYEAR.'" href="'.$filmURL.'download.html"><i class="fa fa-download"></i>  Download</a></li>';
-        }elseif(!$isEpisode && $isDown){
-            $filmWATCH = '';
-            $filmDownload = ' <li class="item"><a id="btn-film-download" class="btn btn-green btn" title="Phim '.$filmNAMEVN.' VietSub HD | '.$filmNAMEEN.' '.$filmYEAR.'" href="'.$filmURL.'download.html"><i class="fa fa-download"></i>  Download</a></li>';
-        }elseif($isEpisode && !$isDown){
-            $filmWATCH = '<div class="col-lg-5 col-md-5 col-sm-6 col-xs-6"><div class="watch"> <a href="'.$filmURL.'xem-phim.html" title="'.$filmNAMEVN.'"><i class="micon play"></i>Xem phim</a> </div></div>';
-            $filmDownload = '';
-        }else{
-            $filmWATCH = '';
-            $filmDownload = '';
+        if ($filmLB == 0) {
+            $Status = $filmQUALITY . ' ' . $filmLANG;
+        } else {
+            $Status = $filmSTATUS . ' ' . $filmLANG;
         }
+        $CheckCat = $row['film_cat'];
+        $CheckCat = str_replace(",,", ",", $CheckCat);
+        $CheckCat = explode(',', $CheckCat);
+        $CheckCountry = $row['film_country'];
+        $CheckCountry = str_replace(',,', ',', $CheckCountry);
+        $CheckCountry = explode(',', $CheckCountry);
+
+        $film_cat_info = $filmcat . $filmchieurap . $film_cat;
+        $link_country = "";
+        for ($i = 1; $i < count($CheckCountry) - 1; $i++) {
+            $film_country = get_data('country_name', 'country', 'country_id', $CheckCountry[$i]);
+            $film_country_key = get_data('country_name_key', 'country', 'country_id', $CheckCountry[$i]);
+            $link_country .= '<a href="' . $web_link . '/quoc-gia/' . replace(strtolower(get_ascii($film_country_key))) . '/' . '" title="' . $film_country . '">' . $film_country . '</a>,  ';
+        }
+        $link_country_list = $link_country;
+        $isEpisode = get_data_multi("episode_id", "episode", "episode_film = '" . $filmID . "' AND episode_servertype NOT IN (13,14)"); // có hoặc ko có episode play
+        $isDown = get_data_multi("episode_id", "episode", "episode_film = '" . $filmID . "' AND episode_servertype IN (1,2,3,4,5,6,7,8,9,10,11,12,13,14)"); // có hoặc ko có episode download
+
+        if ($filmPublish == 1) {
+            $filmWATCH = '<div class="copyright"><p class="copyright_del">DELETED</p><p class="copyright_desc">Phim bị xóa vì vi phạm bản quyền</p></div>';
+            $filmDownload = '';
+        } else {
+            if ($isEpisode && $isDown) {
+                $filmWATCH = '<div class="col-lg-5 col-md-5 col-sm-6 col-xs-6"><div class="watch"> <a href="' . $filmURL . 'xem-phim.html" title="' . $filmNAMEVN . '"><i class="micon play"></i>Xem phim</a> </div></div>';
+                $filmDownload = ' <li class="item"><a id="btn-film-download" class="btn btn-green btn" title="Phim ' . $filmNAMEVN . ' VietSub HD | ' . $filmNAMEEN . ' ' . $filmYEAR . '" href="' . $filmURL . 'download.html"><i class="fa fa-download"></i>  Download</a></li>';
+            } elseif (!$isEpisode && $isDown) {
+                $filmWATCH = '';
+                $filmDownload = ' <li class="item"><a id="btn-film-download" class="btn btn-green btn" title="Phim ' . $filmNAMEVN . ' VietSub HD | ' . $filmNAMEEN . ' ' . $filmYEAR . '" href="' . $filmURL . 'download.html"><i class="fa fa-download"></i>  Download</a></li>';
+            } elseif ($isEpisode && !$isDown) {
+                $filmWATCH = '<div class="col-lg-5 col-md-5 col-sm-6 col-xs-6"><div class="watch"> <a href="' . $filmURL . 'xem-phim.html" title="' . $filmNAMEVN . '"><i class="micon play"></i>Xem phim</a> </div></div>';
+                $filmDownload = '';
+            } else {
+                $filmWATCH = '';
+                $filmDownload = '';
+            }
+        }
+
+        if ($filmThongbao != '' && $filmPublish == 0) {
+            $filmNote = '<div class="block info-film-note"><div class="film-note"><h4 class="hidden">Lịch chiếu/ghi chú</h4>' . un_htmlchars($filmThongbao) . '</div></div>';
+        } else $filmNote = '';
+
+        if ($filmQUALITY == 'CAM' || $filmQUALITY == 'TS' || $filmQUALITY == 'SD') {
+
+            $filmSub = 0;
+        } else {
+            $filmSub = 1;
+        }
+
+
+        if ($film18 == 1) $filmCanhbao18 = '<span class="canhbao18"></span> '; else $filmCanhbao18 = '';
+        if (isset($_SESSION["user_id"])) {
+            $filmBox = get_data("user_filmbox", "user", "user_id", $_SESSION["user_id"]);
+            if (strpos($filmBox, ',' . $filmID . ',') !== false) {
+                $filmLike_class = 'added';
+            } else $filmLike_class = 'normal';
+        } else {
+            $filmLike_class = 'normal';
+        }
+        if (($filmSub == 0) && ($filmLB == 0)) {
+            $subscribe = 0;
+        } elseif ($filmLB == 2) {
+            $subscribe = 2;
+        } elseif ($filmLB == 3) {
+            $subscribe = 3;
+        } else $subscribe = 1;
+
     }
-
-    if($filmThongbao != '' && $filmPublish == 0){
-        $filmNote = '<div class="block info-film-note"><div class="film-note"><h4 class="hidden">Lịch chiếu/ghi chú</h4>'.un_htmlchars($filmThongbao).'</div></div>';
-    }else $filmNote = '';
-
-    if($filmQUALITY == 'CAM' || $filmQUALITY == 'TS' || $filmQUALITY == 'SD'){
-
-        $filmSub = 0;
-    }else{ $filmSub = 1;}
-
-
-    if($film18 == 1) $filmCanhbao18 = '<span class="canhbao18"></span> '; else $filmCanhbao18 = '';
-    if(isset($_SESSION["user_id"])){$filmBox = get_data("user_filmbox","user","user_id",$_SESSION["user_id"]);if(strpos($filmBox, ','.$filmID.',') !== false){$filmLike_class = 'added';}else $filmLike_class = 'normal';}else{$filmLike_class = 'normal';}
-    if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subscribe = 2;}elseif($filmLB == 3){$subscribe = 3;}else $subscribe = 1;
-
 }
 $breadcrumbs = '<li><a itemprop="url" href="/" title="'.$language['home'].'"><span itemprop="title"><i class="fa fa-home"></i> '.$language['home'].' <i class="fa fa-angle-right"></i></span></a></li>';
 $breadcrumbs .= '<li><a itemprop="url" href="/tin-tuc/" title="'.$language['home'].'"><span itemprop="title">Tin tức <i class="fa fa-angle-right"></i></span></a></li>';
@@ -188,11 +204,6 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
                 <!--/.block-->
                 <?php }?>
 
-                <?if($subscribe != 1){?>
-                    <div id="subscribe-wrapper" class="block message-block" style="display:block;">
-                    <? if(checkNotif($filmID)){ $showNotif = "none"; echo subscribeOff($filmURL,hashNotif($filmID),$filmID); }else{$showNotif = "block";}?>
-                    <? echo subscribeSuggest($filmLB,$filmURL,$filmNAMEVN,$showNotif); echo subscribeForm($filmURL);?>
-                    </div><? }?>
                 <div class="block info-film-text">
 
                     <div class="block-body">
@@ -354,4 +365,7 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
         })(jQuery)
     </script>
 </body>
-</html><?}else header('Location: '.$web_link.'/404');  }else header('Location: '.$web_link.'/404'); ?>
+</html>
+<?
+}
+else header('Location: '.$web_link.'/404');

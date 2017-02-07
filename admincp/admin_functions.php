@@ -443,7 +443,8 @@ function acp_film_news($id = 0, $add = false) {
     global $mysql,$tb_prefix;
     $q = $mysql->query("SELECT * FROM ".$tb_prefix."film ORDER BY film_name_ascii ASC");
     $html = "<select name=film class='form-control m-b'>";
-    if ($add) $html .= "<option value=dont_edit".(($id == 0)?" selected":'').">Không sửa</option>";
+    //if ($add) $html .= "<option value=dont_edit".(($id == 0)?" selected":'').">Không sửa</option>";
+    if (true) $html .= "<option value=\"\">---</option>";
     while ($r = $q->fetch(PDO::FETCH_ASSOC)) {
         $html .= "<option value=".$r['film_id'].(($id == $r['film_id'])?" selected":'').">".$r['film_name']."</option>";
     }
