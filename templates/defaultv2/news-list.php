@@ -1,11 +1,18 @@
 <?php 
 if($value[1]=='news-list'){
-    $page = explode("trang-",URL_LOAD);
-	$page = explode(".html",$page[1]);
-	$page =	(int)($page[0]);
-	$rel = explode("?rel=",URL_LOAD);
-	$rel = explode(".html",$rel[1]);
-	$rel =	sql_escape(trim($rel[0]));
+    $apage = explode("trang-",URL_LOAD);
+	$page=1;
+	if(isset($apage[1])){
+		$apage = explode(".html",$apage[1]);
+		$page =	(int)($page[0]);
+	}
+	$rel=null;
+	$rels = explode("?rel=",URL_LOAD);
+	if(isset($rels[1])){
+		$rels = explode(".html",$rels[1]);
+		$rel =	sql_escape(trim($rels[0]));
+	}
+
 	$order_sql = "ORDER BY news_id DESC";
 
 	$kw = strip_tags(urldecode(trim($value[3])));
@@ -32,7 +39,7 @@ if($value[1]=='news-list'){
         $web_des = $news_cat['news_cat_description'];
         $web_title = $news_cat['news_cat_title'];
     }else{
-        $web_keywords = $cf['cf_news_keyword']? $news_cat['news_cat_title']: $news_cat['news_cat_name'];
+        $web_keywords = $cf['cf_news_keyword'];
         $web_des = $cf['cf_news_description'];
         $web_title = $cf['cf_news_title'];
     }
@@ -55,12 +62,7 @@ if($value[1]=='news-list'){
 		$pageURL = $web_link.'/tin-tuc/'.$value[3];
 	}
 	$name = $keyword;
-
-	$relCAT = $CatKey;
-	$relCOUNTRY = $CountryKey;
-	$relYEAR = $YearKey;
-	$relTYPE = $TypeKey;
-	$page_size = 1;
+	$page_size = 15;
 	if (!$page) $page = 1;
 	$limit = ($page-1)*$page_size;
 	$query="SELECT * FROM ".DATABASE_FX."news $where_sql $order_sql LIMIT ".$limit.",".$page_size;
@@ -142,7 +144,7 @@ if($value[1]=='news-list'){
 													<i class="fa fa-quote-left"></i> <?php echo $data?>
 												</dfn>
 												<dfn class="view">
-													 <span class="number">3000</span>
+													 <span class="number"><?php echo ($news['news_viewed'])?></span>
 													 <span class="text">Lượt xem</span>
 												</dfn>
 											</div>
