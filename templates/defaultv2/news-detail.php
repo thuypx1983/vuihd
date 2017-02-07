@@ -127,13 +127,13 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
     <meta name="description" content="<?=$web_des;?>"/>
     <meta name="keywords" content="<?=$web_keywords;?>"/>
     <link rel="canonical" href="<?php echo WEB_URL.'/tin-tuc/'.$news['news_url']?>-<?php echo $news['news_id'] ?>.html" />
-    <meta itemprop="url" content="<?=$news['news_image'];?>" />
+    <meta itemprop="url" content="<?=$news['news_img'];?>" />
     <meta itemprop="image" content="<?php echo WEB_URL.'/tin-tuc/'.$news['news_url']?>-<?php echo $news['news_id'] ?>.html" />
     <meta property="og:title" content="<?=$web_title;?>" />
     <meta property="og:type" content="video.movie" />
     <meta property="og:description" content="<?=$web_des;?>" />
     <meta property="og:url" content="<?php echo WEB_URL.'/tin-tuc/'.$news['news_url']?>-<?php echo $news['news_id'] ?>.html" />
-    <meta property="og:image" content="<?=$news['news_image'];?>" />
+    <meta property="og:image" content="<?=$news['news_img'];?>" />
     <? require_once("styles.php");?>
     <script type="text/javascript">
         var filmInfo = {};
