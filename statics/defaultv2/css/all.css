@@ -4441,3 +4441,6 @@ ul.news-cat  li a{
     padding-top: 10px;
     padding-right: 10px;
 }
+#abd_mv{
+    display: none !important;
+}
