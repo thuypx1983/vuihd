@@ -22,6 +22,7 @@ if($value[1]=='news-list'){
 	$kws = str_replace(' ','-',$keyacsii);
 
 	#get category
+	$news_cat=array();
 	if($value[3]!='all'){
 		$query="SELECT * FROM ".DATABASE_FX."news_cat WHERE `news_cat_url`='".injection($value[3])."'";
 		$rs=$mysql->query($query);
@@ -111,11 +112,11 @@ if($value[1]=='news-list'){
 						<h1 class="hidden"><?=$h1title;?></h1>
 						<h2 class="hidden"><?=$web_title;?></h2>
 						<ul class="news-cat">
-							<li class="active"><a href="/tin-tuc/">Tin mới cập nhật</a></li>
+							<li <?php if (!$news_cat) echo 'class="active"'?>><a href="/tin-tuc/">Tin mới cập nhật</a></li>
 							<?php
 							foreach($cats as $cat){
 								?>
-								<li>
+								<li <?php if ($news_cat) echo $cat['news_cat_id']==$news_cat['news_cat_id']?'class="active"':''?> <?php echo $cat['news_cat_id']==5?'style="display:none"':''?>>
 									<a href="/tin-tuc/<?php echo $cat['news_cat_url']?>/"><?php echo $cat['news_cat_name']?></a>
 								</li>
 								<?php
