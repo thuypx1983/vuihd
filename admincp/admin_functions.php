@@ -602,6 +602,15 @@ function acp_user_ban($lv) {
 	"</select>";
 	return $html;
 }
+
+function acp_news_hidden($lv) {
+    $html = "<select name=hidden class='form-control m-b'>".
+        "<option value=0".(($lv==0)?' selected':'').">No</option>".
+        "<option value=1".(($lv==1)?' selected':'').">Yes</option>".
+        "</select>";
+    return $html;
+}
+
 function acp_publish($lv) {
 	$html = "<select name=film_publish class='form-control m-b'>".
 	    "<option value=0".(($lv==0)?' selected':'').">Không vi phạm</option>".

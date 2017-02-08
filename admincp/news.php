@@ -65,6 +65,12 @@ $inp_arr = array(
 			'type'	=>	'hidden_value',
 			'can_be_empty'	=> true,
 		),
+        'hidden'	=> array(
+            'table'	=>	'news_hidden',
+            'name'	=>	'Hidden',
+            'type'	=>	"function::acp_news_hidden",
+            'can_be_empty'	=> true,
+        )
 		
 
 );
