@@ -236,7 +236,13 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
                     </div>
                 </div>
                 <?php }?>
-                <?php $content= ShowNews("WHERE news_cat LIKE '%,{$news_cat['news_cat_id']},%' AND news_id!={$news['news_id']}","ORDER BY news_id",2,'shownews_related','');?>
+                <?php
+                if($news['news_hidden']==0){
+                    $content= ShowNews("WHERE news_cat LIKE '%,{$news_cat['news_cat_id']},%' AND news_id!={$news['news_id']}","ORDER BY news_id",2,'shownews_related','');
+                }else{
+                    $content= ShowNews("WHERE news_hidden=1 AND news_id!={$news['news_id']}","ORDER BY news_id",2,'shownews_related','');
+                }
+                ?>
                 <div class="block list-film-slide">
                     <div class="widget-title">
                         <h3 class="title">Tin mới cập nhật</h3>

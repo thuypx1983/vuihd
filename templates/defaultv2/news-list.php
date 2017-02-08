@@ -27,10 +27,10 @@ if($value[1]=='news-list'){
 		$rs=$mysql->query($query);
 		$news_cat=$rs->fetch(PDO::FETCH_ASSOC);
 
-		$where_sql = "WHERE news_cat LIKE \"%,{$news_cat['news_cat_id']},%\"";
+		$where_sql = "WHERE  news_cat LIKE \"%,{$news_cat['news_cat_id']},%\" AND news_hidden=0";
 	}else{
 
-		$where_sql = "WHERE 1";
+		$where_sql = "WHERE 1 AND news_hidden=0";
 	}
 
 

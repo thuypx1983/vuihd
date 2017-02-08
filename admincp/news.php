@@ -49,6 +49,12 @@ $inp_arr = array(
 			'type'	=>	'text',
 			'can_be_empty'	=> true,
 		),
+        'news_source'	=> array(
+			'table'	=>	'news_source',
+			'name'	=>	'Nguồn copy',
+			'type'	=>	'free',
+			'can_be_empty'	=> true,
+		),
 		'news_name_ascii'	=> array(
 			'table'	=>	'news_name_ascii',
 			'type'	=>	'hidden_value',
@@ -265,6 +271,8 @@ if ($mode == 'edit') {
                         <th>Thể Loại</th>
                         <th>Uploader</th>
                         <th>Time post</th>
+                        <th>Hidden</th>
+                        <th>link</th>
                 
                       </tr>
                     </thead>
@@ -279,8 +287,8 @@ if ($mode == 'edit') {
 				$cat=explode(',',$r['news_cat']);
 				$num=count($cat);
 				$cat_name="";
-				for ($i=1; $i<$num-1;$i++) $cat_name .= '| <i><font color="blue">'.(get_data('cat_name','cat','cat_id',$cat[$i])).'</font></i> ';
-
+				for ($i=1; $i<$num-1;$i++) $cat_name .= '| <i><font color="blue">'.(get_data('news_cat_name','news_cat','news_cat_id',$cat[$i])).'</font></i> ';
+                $link=WEB_URL.'/tin-tuc/'.$r['news_url'].'--'.$r['news_id'].'.html';
 				echo '<tr>
                             <td> <input class="checkbox" type="checkbox" id="checkbox" name="checkbox[]" value="'.$id2.'"></td>
                             <td>#'.$id.'</td>
@@ -289,8 +297,10 @@ if ($mode == 'edit') {
                             <td><b>'.$r['news_url'].'</b></td>
                             <td><span style="float:left;padding-left:10px;"><b>'.$cat_name.'</b></span></td>
                             <td class=fr_2 align=center><b>'.get_data('user_name','user','user_id',$r['news_poster']).'</b></td>
-                            <td class=fr_2 align=center><b>'.date('Y-m-d h:i:sa',$r['news_time']).'</b></td>
-                                            </tr>';
+                            <td class=fr_2 align=center><b>'.$r['news_date'].'</b></td>
+                            <td class=fr_2 align=center><b>'.$r['news_hidden'].'</b></td>
+                            <td class=fr_2 align=center><a href="'.$link.'">'.$link.'</a></td>
+                             </tr>';
 				
 			}
 			

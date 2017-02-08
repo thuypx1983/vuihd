@@ -17,6 +17,7 @@ $CURL = new CURL;
 #######################################
 function get_data($f1,$table,$f2,$f2_value){
 	global $mysql;
+    $x="SELECT $f1 FROM ".DATABASE_FX.$table." WHERE $f2 = '".$f2_value."'";
 	$q = $mysql->query("SELECT $f1 FROM ".DATABASE_FX.$table." WHERE $f2 = '".$f2_value."'");
 	$row = $q->fetch(PDO::FETCH_ASSOC);
 	$f1_value = $row[$f1];
@@ -63,7 +64,7 @@ function user_online(){
 $q = $mysql->query("SELECT * FROM ".$tb_prefix."config WHERE cf_id = 1");
 $cf = $q->fetch(PDO::FETCH_ASSOC);
 $web_title 		= 	$cf['cf_web_name'];
-$web_link 		= 	$cf['cf_web_link'];
+$web_link 		= 	WEB_URL;
 $web_protect 	= 	$cf['cf_protect'];
 if ($web_link[strlen($web_link)-1] == '/') $web_link = substr($web_link,0,-1);
 $web_keywords 	= 	$cf['cf_web_keywords'];
