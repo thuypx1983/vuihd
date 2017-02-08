@@ -113,9 +113,9 @@ if ($mode == 'add') {
 			            $news_img = Picasa_Upload($news_img,2);
 			}elseif($server_imgbn == 3){
 			            if($_FILES["phimimgbn"]['name']!=""){ 
-	                        $news_img	=	ipupload("phimimgbn","info",replace(get_ascii($name_real)));
+	                        $news_img	=	ipupload("phimimgbn","info",replace(get_ascii($news_name)));
 	                    }elseif($news_img){
-	                        $news_img = uploadurl($news_img,replace(get_ascii($name_real)),'info');
+	                        $news_img = uploadurl($news_img,replace(get_ascii($news_name)),'info');
 	                    }else{ 
 	                        $news_img = "http://www.phimle.tv/images/playbg.jpg";	}	
 			}elseif($server_imgbn == 4){
