@@ -13,7 +13,7 @@ if($value[1]=='news-list'){
 		$rel =	sql_escape(trim($rels[0]));
 	}
 
-	$order_sql = "ORDER BY news_id DESC";
+	$order_sql = "ORDER BY news_hot DESC,news_id DESC";
 
 	$kw = strip_tags(urldecode(trim($value[3])));
 	$kw = htmlchars(stripslashes(str_replace('-',' ',$kw)));

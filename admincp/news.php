@@ -76,6 +76,12 @@ $inp_arr = array(
             'name'	=>	'Hidden',
             'type'	=>	"function::acp_news_hidden",
             'can_be_empty'	=> true,
+        ),
+        'hot'	=> array(
+            'table'	=>	'news_hot',
+            'name'	=>	'Hot',
+            'type'	=>	"function::acp_news_hot",
+            'can_be_empty'	=> true,
         )
 		
 

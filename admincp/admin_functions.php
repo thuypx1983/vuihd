@@ -610,6 +610,13 @@ function acp_news_hidden($lv) {
         "</select>";
     return $html;
 }
+function acp_news_hot($lv) {
+    $html = "<select name=hot class='form-control m-b'>".
+        "<option value=0".(($lv==0)?' selected':'').">No</option>".
+        "<option value=1".(($lv==1)?' selected':'').">Yes</option>".
+        "</select>";
+    return $html;
+}
 
 function acp_publish($lv) {
 	$html = "<select name=film_publish class='form-control m-b'>".
