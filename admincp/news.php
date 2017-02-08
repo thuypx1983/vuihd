@@ -278,6 +278,7 @@ if ($mode == 'edit') {
                         <th>Uploader</th>
                         <th>Time post</th>
                         <th>Hidden</th>
+                        <th>Hot</th>
                         <th>link</th>
                 
                       </tr>
@@ -305,6 +306,7 @@ if ($mode == 'edit') {
                             <td class=fr_2 align=center><b>'.get_data('user_name','user','user_id',$r['news_poster']).'</b></td>
                             <td class=fr_2 align=center><b>'.$r['news_date'].'</b></td>
                             <td class=fr_2 align=center><b>'.$r['news_hidden'].'</b></td>
+                            <td class=fr_2 align=center><b>'.$r['news_hot'].'</b></td>
                             <td class=fr_2 align=center><a href="'.$link.'">'.$link.'</a></td>
                              </tr>';
 				
