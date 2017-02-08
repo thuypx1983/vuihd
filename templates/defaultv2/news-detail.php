@@ -208,6 +208,16 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
 
                     <div class="block-body">
                         <?php echo htmlspecialchars_decode ($news['news_content'])?>
+                        <div class="clearfix"></div>
+                        <?php
+                        if($news['news_source']){
+                            ?>
+                            <div class="pull-right">
+                                <span>Nguồn: <?php echo $news['news_source']?></span>
+                            </div>
+                        <?php
+                        }
+                        ?>
                     </div>
 
                 </div>
