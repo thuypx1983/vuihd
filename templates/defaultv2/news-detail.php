@@ -166,13 +166,29 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
             <div class="block-title breadcrumb"> <?=$breadcrumbs;?> </div>
             <div class="main col-lg-8 col-md-8 col-sm-7">
                 <h1><?php echo $news['news_name']?></h1>
+                <div class="author-and-share clearfix" style="padding-bottom: 15px">
+                    <div class="info pull-left">
+                        <?php
+                        $q = $mysql->query("SELECT * FROM ".$tb_prefix."user WHERE {$news['news_poster']}");
+                        $author=$q->fetch();
+                        ?>
+                        <span class="author"><i class="fa fa-user"></i> <?php echo $news['news_source']?$news['news_source']:$author['user_fullname']?></span>
+                        <span class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                            <?php echo $news['news_date']?></span>
+                    </div>
+                    <div class="socials" style="display:inline-block;float:right;">
+                        <div class="fb-like" data-href="<?php echo WEB_URL.'/tin-tuc/'.$news['news_url']?>-<?php echo $news['news_id'] ?>.html" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+                        <div style="position: relative;top: 5px;left: 5px;display: inline-block;"><g:plusone></g:plusone></div>
+                    </div>
+                </div>
                 <?php if($filmID){?>
                 <div class="block info-film watch-film news-film" itemscope="" itemtype="http://schema.org/Movie" style="display:block;">
 
                     <div class="row">
                         <div class="col-sm-3 visible-sm-block col-xs-1 visible-xs-block"></div>
                         <div class="col1 col-md-3 col-sm-8 col-xs-10">
-                            <div class="poster"> <span class="status"><?=$filmQUALITY;?></span> <img src="<?=thumbimg($row['film_img'],200);?>" alt="<?=$filmNAMEVN;?>">
+                            <div class="poster">
+                                <span class="status"><?=$filmQUALITY;?></span> <img src="<?=thumbimg($row['film_img'],200);?>" alt="<?=$filmNAMEVN;?>">
                                 <div class="movie-watch-link-box"><a class="movie-watch-link" href="<?=$filmURL;?>download.html" title="Trailer <?=$filmNAMEVN;?> - <?=$filmNAMEEN;?>">Download</a></div>
                                 <div class="tools-box" style="display:block;"><div class="tools-box-bookmark normal" style="display: block;"><span class="bookmark-status"><i class="fa fa-gittip"></i></span><span class="bookmark-action"></span></div></div>
 
@@ -208,16 +224,6 @@ $web_des = $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['new
 
                     <div class="block-body">
                         <?php echo htmlspecialchars_decode ($news['news_content'])?>
-                        <div class="clearfix"></div>
-                        <?php
-                        if($news['news_source']){
-                            ?>
-                            <div class="pull-right">
-                                <span>Nguồn: <?php echo $news['news_source']?></span>
-                            </div>
-                        <?php
-                        }
-                        ?>
                     </div>
 
                 </div>

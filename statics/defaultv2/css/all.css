@@ -4436,3 +4436,8 @@ ul.news-cat  li a{
 .block.info-film.news-film .col2 .extra-info{
     height: 40px;
 }
+.author-and-share >span{
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 10px;
+}
