@@ -87,7 +87,7 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 
 <script type="text/javascript">
 
-    $(document).ready(function(){
+   /* $(document).ready(function(){
         if($.cookie('enable_popup')!='1'){
             var date = new Date();
             var minutes = 24*60;
@@ -100,7 +100,7 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
                 type: 'image'
             });
         }
-    })
+    })*/
 </script>
 
 
