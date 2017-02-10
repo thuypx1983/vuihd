@@ -429,11 +429,12 @@ $film_countryz_title = "";
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
   <script type="text/javascript">
   
- $(document).ready(function() {PhimLe(filmInfo.episodeID,filmInfo.filmID);
-var isAdult18 = $.cookie("isAdult");
-if (!isAdult18) $.cookie("isAdult", "0", {expires: 365,path: '/'});
-if((!isAdult18 || isAdult18 == 0) && filmInfo.isAdult == 1){
-isAdult();
+ $(document).ready(function() {
+     PhimLe(filmInfo.episodeID,filmInfo.filmID);
+        var isAdult18 = $.cookie("isAdult");
+        if (!isAdult18) $.cookie("isAdult", "0", {expires: 365,path: '/'});
+        if((!isAdult18 || isAdult18 == 0) && filmInfo.isAdult == 1){
+        isAdult();
 }});
 
   </script>	
