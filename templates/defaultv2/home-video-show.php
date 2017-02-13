@@ -134,12 +134,7 @@ if($value[1]=='home-video-show'){
                                         <div class="column small-12 meta-views top-margin-10px"><?=$videoVIEWED;?><span> Lượt xem</span></div>
                                     </div>
                                     <div class="column small-6 medium-12 margin-bottom-5px">
-                                        <div class="el-100">
-                                            <div class="fb-like" data-href="<?=$videoLINK;?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
-                                        </div>
-                                        <div class="el-100">
-                                            <g:plusone></g:plusone>
-                                        </div>
+
                                     </div>
 
 
@@ -150,6 +145,12 @@ if($value[1]=='home-video-show'){
                                     <div class="column medium-12">
                                         <div class="column small-6">
                                             <small><i>Đăng <?=$videoTIME?></i></small>
+                                            <div class="el-100">
+                                                <div class="fb-like" data-href="<?=$videoLINK;?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+                                            </div>
+                                            <div class="el-100">
+                                                <g:plusone></g:plusone>
+                                            </div>
                                         </div>
                                         <div class="column small-6 text-right">
                                             <button id="wacth-report" data-val="" class="radius" title="Báo cáo"><i class="fi-flag"></i></button>
