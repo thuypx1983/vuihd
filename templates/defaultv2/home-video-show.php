@@ -113,7 +113,7 @@ if($value[1]=='home-video-show'){
                             <!-- Composite End -->
 
                             <article class="row v-detail">
-                                <div class="medium-4 columns video-meta">
+                                <div class="medium-4 columns video-meta" style="display: none">
                                     <div class="column small-6 medium-12 bottom-margin-10px margin-top-5px">
                                         <div id="player_ext">
                                             <div class="r">
@@ -146,7 +146,7 @@ if($value[1]=='home-video-show'){
 
 
                                 </div>
-                                <div class="columns medium-8 video-content">
+                                <div class="columns video-content">
                                     <div class="column medium-12">
                                         <div class="column small-6">
                                             <small><i>Đăng <?=$videoTIME?></i></small>
