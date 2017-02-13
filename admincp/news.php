@@ -84,21 +84,21 @@ $inp_arr = array(
             'can_be_empty'	=> true,
         ),
         'news_title'	=> array(
-            'table'	=>	'news_cat_title',
+            'table'	=>	'news_title',
             'name'	=>	'Meta title',
             'type'	=>	'free',
             'can_be_empty'	=>	false
         ),
 
         'news_keyword'	=> array(
-            'table'	=>	'news_cat_keyword',
+            'table'	=>	'news_keyword',
             'name'	=>	'Meta  keyword',
             'type'	=>	'free',
             'can_be_empty'	=>	false
         ),
 
         'news_description'	=> array(
-            'table'	=>	'news_cat_description',
+            'table'	=>	'news_description',
             'name'	=>	'Meta  description',
             'type'	=>	'free',
             'can_be_empty'	=>	false
