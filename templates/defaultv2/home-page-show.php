@@ -70,6 +70,9 @@ if($row['page_id']){
                             </div>
                         </div>
 					<? } ?>
+					<div class="block ad_location" id="ads_location">
+                              <?=showAds('right_below_fanpage');?>
+                        </div>
 <div class="block announcement">
                             <div class="widget-title">
      							<h3 class="title">Thông báo</h3> 

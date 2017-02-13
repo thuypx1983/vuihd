@@ -194,7 +194,6 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                         <div class="col1 col-md-3 col-sm-8 col-xs-10">
                             <div class="poster">
                                 <span class="status"><?=$filmQUALITY;?></span> <img src="<?=thumbimg($row['film_img'],200);?>" alt="<?=$filmNAMEVN;?>">
-                                <div class="movie-watch-link-box"><a class="movie-watch-link" href="<?=$filmURL;?>download.html" title="Trailer <?=$filmNAMEVN;?> - <?=$filmNAMEEN;?>">Download</a></div>
                                 <div class="tools-box" style="display:block;"><div class="tools-box-bookmark normal" style="display: block;"><span class="bookmark-status"><i class="fa fa-gittip"></i></span><span class="bookmark-action"></span></div></div>
 
                             </div>
@@ -228,9 +227,7 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                 <div class="block info-film-text">
 
                     <div class="block-body">
-                        <div class="news-summary"> <?php echo htmlspecialchars_decode ($news['news_summary'])?></div>
-                        <div class="news-content"> <?php echo htmlspecialchars_decode ($news['news_content'])?></div>
-
+                        <?php echo htmlspecialchars_decode ($news['news_content'])?>
                     </div>
 
                 </div>
@@ -300,7 +297,10 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                         <blockquote cite="https://www.facebook.com/hoinhungnguoimephimhay/"><a href="https://www.facebook.com/hoinhungnguoimephimhay/"></a></blockquote>
                     </div>
                 </div>
-				<!-- Header code - Put in HEAD -->
+				
+            </div>
+			
+			<!-- Header code - Put in HEAD -->
 
 <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
 <script>
@@ -332,7 +332,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486957988775-0');
 <script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
 <div class="583347906" data-ants-zone-id="583347906"></div>
 <!--- end ANTS Script -->
-            </div>
+			
 			<!-- Composite Start -->
                                 <div id="M229973ScriptRootC101183">
                                     <div id="M229973PreloadC101183">
@@ -348,7 +348,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486957988775-0');
                                 </div>
                                 <!-- Composite End -->
             <div class="sidebar col-lg-4 col-md-4 col-sm-5">
-                <div class="block announcement">
+                <div class="block ad_location" id="ads_location">
+                              <?=showAds('right_below_fanpage');?>
+                        </div>
+				<div class="block announcement">
                     <div class="widget-title">
                         <h3 class="title">Thông báo</h3>
                     </div>
@@ -356,9 +359,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486957988775-0');
                         <div class="announcement-list"><?=strip_tags(text_tidy1($announcement),'<a><b><i><u><br>');?></div>
                     </div>
                 </div>
-                <div class="block ad_location">
-                    <?=showAds('right_below_fanpage');?>
-                </div>
+                
 
                 <!--<div class="block chatting">
                     <div class="widget-title">

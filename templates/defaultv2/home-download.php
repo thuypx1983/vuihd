@@ -197,7 +197,10 @@ if($value[1]=='home-download' && is_numeric($value[2])){
                     </div>
                     <!--/.main-->
                     <div class="sidebar col-lg-4 col-md-4 col-sm-5">
-<div class="block announcement">
+<div class="block ad_location desktop hidden-sm hidden-xs">
+                              <?=showAds('right_below_fanpage');?>
+                        </div>
+					<div class="block announcement">
                             <div class="widget-title">
      							<h3 class="title">Thông báo</h3> 
 								</div> 
@@ -205,9 +208,7 @@ if($value[1]=='home-download' && is_numeric($value[2])){
                                 <div class="announcement-list"><?=strip_tags(text_tidy1($announcement),'<a><b><i><u><br>');?></div>
                             </div>
                         </div>
-					<div class="block ad_location desktop hidden-sm hidden-xs">
-                              <?=showAds('right_below_fanpage');?>
-                        </div>
+					
                        
 						<!--<div class="block chatting">
 						<div class="widget-title">

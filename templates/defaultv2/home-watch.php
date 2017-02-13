@@ -220,6 +220,10 @@ $film_countryz_title = "";
                 <div class="content-wrapper background-dark watch-page">
                     <div class="container fit">
 					<div class="block-title breadcrumb"> <?=$breadcrumbs;?> </div>
+					<div id="player-area" style="width:100%;height:100%;">    
+                                        </div>
+					
+					
                         <div class="main col-lg-8 col-md-8">
 <div class="block info-film watch-film" itemscope="" itemtype="http://schema.org/Movie" style="display:block;">
                             
@@ -263,10 +267,6 @@ $film_countryz_title = "";
 							<?	}else{?>
                                     <div id="ads_location" class="ad_location desktop"><?=showAds("banner_home_watch");?> </div>
                                  
-                                    <div id="abd_mv">
-                                        <div id="player-area" style="width:100%;height:100%;">    
-                                        </div>
-                                    </div>
                                     <div class="controls" itemscope itemtype="http://data-vocabulary.org/Review-aggregate">
                                         <div class="item widget rating" data-scores="<?=$filmRATESCORE;?>" data-count="<?=$filmRATE;?>"> <span class="stars"> <?=showStar($filmRATESCORE);?> </span> <span class="text" data-text="%s luợt"> <?=$filmRATESCORE;?> / <?=$filmRATE;?> lượt </span> </div> <span class="hidden" itemprop="votes"><?=$filmRATE;?></span> <span class="hidden" itemtype="http://data-vocabulary.org/Rating" itemscope itemprop="rating"> <span itemprop="average"><?=$filmRATESCORE;?></span>
                                         <meta itemprop="best" content="10">
@@ -274,11 +274,15 @@ $film_countryz_title = "";
                                         <!--<div class="item remove-ad"> <span class="wrap"> <i class="fa fa-support"></i> <span>Tắt QC</span> </span>
                                         </div>-->
 										<div class="item toggle-addbox hidden-sm hidden-xs" data-on="Đã thích" data-off="Thích" title="Thích để thêm phim vào tủ phim của bạn!"> <span class="wrap" onclick="Player.Box(<?=$filmID;?>);" data="<?=$filmNAMEVN;?>"><i class="fa fa-gittip"></i> <span>Thích</span> </span> </div>
-                                        <div class="item toggle-autonext hidden-sm hidden-xs" data-on="Chuyển tập: ON" data-off="Chuyển tập: OFF"> <span class="wrap"> <span>Chuyển tập: ON</span> </span> </div>
-                                        <div class="item toggle-light right hidden-sm hidden-xs" data-on="Tắt đèn" data-off="Bật đèn"> <span class="wrap"> <i class="fa fa-lightbulb-o"></i> <span>Tắt đèn</span> </span>
+										<div class="item toggle-autonext hidden-sm hidden-xs" data-on="Chuyển tập: ON" data-off="Chuyển tập: OFF"> <span class="wrap"> <span>Chuyển tập: ON</span> </span> </div>
+										<div class="fb-send" style="left:4px" data-href="<?=$filmURL;?>" data-size="large"></div> <div class="fb-like" style="left: 4px" data-href="<?=$filmURL;?>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+										<div style="position: relative;top: 5px;left: 4px;display: inline-block;"><g:plusone></g:plusone></div>
+
+
+                                        <!--<div class="item toggle-light right hidden-sm hidden-xs" data-on="Tắt đèn" data-off="Bật đèn"> <span class="wrap"> <i class="fa fa-lightbulb-o"></i> <span>Tắt đèn</span> </span>
                                         </div>
                                         <div class="item toggle-size right hidden-sm hidden-xs" data-on="Thu nhỏ" data-off="Phóng to"> <span class="wrap"> <i class="fa fa-exchange"></i> <span>Phóng to</span> </span> </div>
-										<div class="item toggle-error right hidden-sm hidden-xs"> <span class="wrap"> <i class="fa fa-exclamation-circle"></i> <span>Báo lỗi</span> </span> </div>
+										<div class="item toggle-error right hidden-sm hidden-xs"> <span class="wrap"> <i class="fa fa-exclamation-circle"></i> <span>Báo lỗi</span> </span> </div>-->
                                     </div>
 									<? } ?>
                                 </div>
@@ -286,11 +290,7 @@ $film_countryz_title = "";
                             <!--.block-->
                             <div class="ad_location desktop hidden-sm hidden-xs"> </div>
                             <div class="ad_location mobile hidden-lg hidden-md"> </div>
-<div class="block fblikepl" style="margin-top:10px;"> <div class="block-body">
-							<div class="fb-like" style="top:-4px;" data-href="<?=$filmURL;?>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-<div style="position: relative;top: 3px;left: 5px;display: inline-block;"><g:plusone></g:plusone></div>Bấm vào <div class="fb-send" data-href="<?=$filmURL;?>" data-size="large"></div> để gửi phim này cho bạn bè cùng xem !
-</div>
-</div>
+
                             <div class="block servers">
                                 <div class="server" data-type="watch">
 								    <?=$EpisodeList;?>
@@ -338,7 +338,10 @@ $film_countryz_title = "";
 
                         </div> 
                          <div class="sidebar col-lg-4 col-md-4 col-sm-5">
-<div class="block announcement">
+							<div class="block ad_location" id="ads_location">
+                              <?=showAds('right_below_fanpage');?>
+                        </div>
+							<div class="block announcement">
                             <div class="widget-title">
      							<h3 class="title">Thông báo</h3> 
 								</div> 
@@ -346,9 +349,7 @@ $film_countryz_title = "";
                                 <div class="announcement-list"><?=strip_tags(text_tidy1($announcement),'<a><b><i><u><br>');?></div>
                             </div>
                         </div>
-                       <div class="block ad_location" id="ads_location">
-                              <?=showAds('right_below_fanpage');?>
-                        </div>
+                       
 						<!--<div class="block chatting">
 						<div class="widget-title">
 						<span class="tabs"><div class="tab " data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/ tán gẫu</a></div></div>

@@ -166,7 +166,10 @@ if($value[1]=='news-list'){
                 </div>
                 <!--/.main-->
                 <div class="sidebar col-lg-4 col-md-4 col-sm-5">
-                       <div class="block announcement">
+                       <div class="block ad_location" id="ads_location">
+                              <?=showAds('right_below_fanpage');?>
+                        </div>
+					   <div class="block announcement">
                             <div class="widget-title">
      							<h3 class="title">Thông báo</h3> 
 								</div> 
@@ -174,9 +177,7 @@ if($value[1]=='news-list'){
                                 <div class="announcement-list"><?=strip_tags(text_tidy1($announcement),'<a><b><i><u><br>');?></div>
                             </div>
                         </div>
-<div class="block ad_location" id="ads_location">
-                              <?=showAds('right_below_fanpage');?>
-                        </div>
+
 						<!--<div class="block chatting">
 						<div class="widget-title">
 						<span class="tabs"><div class="tab" data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/ tán gẫu</a></div></div>
