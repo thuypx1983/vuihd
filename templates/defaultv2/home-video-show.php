@@ -114,7 +114,7 @@ if($value[1]=='home-video-show'){
 
                             <article class="row v-detail">
 
-                                <div class="columns medium-8 video-content">
+                                <div class="columnsvideo-content">
                                     <div class="column medium-12">
                                         <div class="column small-6">
                                             <small><i>Đăng <?=$videoTIME?></i></small>
@@ -132,7 +132,12 @@ if($value[1]=='home-video-show'){
                                     <div class="column medium-12 title-v">
                                         <?=$videoNAME;?>
                                     </div>
+                                    <div class="column medium-12" id="content-p">
+                                        <?=$des;?>
+                                        <div class="tag-post"></div>
+                                        <div class="cat-post"><span>Danh mục : </span><?=$video_cat;?></div>
 
+                                    </div>
                                 </div>
                             </article>
                             <div id="fbcomments" class="row">
