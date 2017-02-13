@@ -4448,4 +4448,5 @@ ul.news-cat  li a{
     display: block;
     float: left;
     margin-right: 5px;
+    line-height: 22px;
 }
