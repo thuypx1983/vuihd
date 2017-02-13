@@ -159,7 +159,7 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
                             <div class="row">
                                 <div class="col-sm-3 visible-sm-block col-xs-1 visible-xs-block"></div>
                                 <div class="col1 col-md-5 col-sm-8 col-xs-10">
-                                    <div class="poster"> <span class="status"><?=$filmQUALITY;?></span> <?=$filmCanhbao18;?><img src="<?=$filmIMG?>" alt="<?=$filmNAMEVN;?>">
+                                    <div class="poster"> <span class="status"><?=$filmQUALITY;?></span> <?=$filmCanhbao18;?><img src="<?=str_replace('http://vuihd.com/data/film/','http://vuihd.com/data/film/thumb/',$filmIMG)?>" alt="<?=$filmNAMEVN;?>">
 									<div class="tools-box" style="display:block;"><div class="tools-box-bookmark <?=$filmLike_class;?>" style="display: block;"><span class="bookmark-status"><i class="fa fa-gittip"></i></span><span class="bookmark-action"></span></div></div> 
 									<ul class="btn-block">
 										<?=$filmDownload;?>
