@@ -113,42 +113,14 @@ if($value[1]=='home-video-show'){
                             <!-- Composite End -->
 
                             <article class="row v-detail">
-                                <div class="medium-4 columns video-meta">
-                                    <div class="column small-6 medium-12 bottom-margin-10px margin-top-5px">
-                                        <div id="player_ext">
-                                            <div class="r">
-                                                <div id="tgl-next" class="it"><label for="next_switch">Tự động phát</label> <button class="label" onclick="next_on()">ON</button><button class="bg" onclick="next_switch()" id="next_switch"><span></span></button><button class="label" onclick="next_off()">OFF</button></div>
-                                            </div></div>
-                                        <!--<div class="column small-6 medium-6 text-right border-right-E94D4A">
-                                            <button id="wacth-like" data-val="" title="Like This" >
-                                                <i class="fi-like "></i>
-                                            </button>
-                                            <span id="m-total_like">0</span>
-                                        </div>
-                                        <div class="column small-6 medium-6">
-                                            <button id="wacth-dislike" data-val="" title="Dislike This">
-                                                <i class="fi-dislike "></i>
-                                            </button>
-                                            <span id="m-total_dislike">0</span>
-                                        </div>-->
-                                        <div class="column small-12 meta-views top-margin-10px"><?=$videoVIEWED;?><span> Lượt xem</span></div>
-                                    </div>
-                                    <div class="column small-6 medium-12 margin-bottom-5px">
-
-                                    </div>
-
-
-
-
-                                </div>
-                                <div class="columns medium-8 video-content">
+                                <div class="columns  video-content">
                                     <div class="column medium-12">
                                         <div class="column small-6">
-                                            <small><i>Đăng <?=$videoTIME?></i></small>
-                                            <div class="el-100">
+                                            <small class="video-social"><i>Đăng <?=$videoTIME?></i></small>
+                                            <div class="el-100 video-social">
                                                 <div class="fb-like" data-href="<?=$videoLINK;?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
                                             </div>
-                                            <div class="el-100">
+                                            <div class="el-100 video-social">
                                                 <g:plusone></g:plusone>
                                             </div>
                                         </div>
