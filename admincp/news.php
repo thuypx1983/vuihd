@@ -139,6 +139,7 @@ if ($mode == 'add') {
 			$inp_arr['news_date']['value'] = date('d/m/Y');
 
 			$inp_arr['news_content']['value'] = $news_content;
+			$inp_arr['news_summary']['value'] = $news_summary;
 			$inp_arr['news_name']['value'] = $news_name;
 			$inp_arr['news_film']['value'] = $film;
 			unset($inp_arr['film']);
@@ -221,6 +222,7 @@ if ($mode == 'edit') {
 				$inp_arr['news_poster']['value'] = $news_poster;
 
 				$inp_arr['news_content']['value'] = $news_content;
+				$inp_arr['news_summary']['value'] = $news_summary;
 				$inp_arr['news_name']['value'] = $news_name;
 				$inp_arr['news_film']['value'] = $film;
 				unset($inp_arr['film']);
