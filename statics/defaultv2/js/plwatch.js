@@ -44,9 +44,9 @@ var PhimLe = function(EpisodeId, FilmId) {
         playTech: filmInfo.playTech
     }, function(video) {
         $("#player-area").empty().html(video);
-        $('html, body').animate({
+        /*$('html, body').animate({
             scrollTop: $(".block.media").offset().top
-        }, 1000);
+        }, 1000);*/
         $("#fxloading").css({
             "display": "none"
         });
@@ -153,9 +153,9 @@ var PLTV = {
                             "display": "none"
                         });
                     });
-                    $('html, body').animate({
+                  /*  $('html, body').animate({
                         scrollTop: $(".block.media").offset().top
-                    }, 1000);
+                    }, 1000);*/
                         }
                     }	
 		});
@@ -242,9 +242,9 @@ if(messageError.indexOf("RSS/JSON") > -1){
                             "display": "none"
                         });
                     });
-                    $('html, body').animate({
+                    /*$('html, body').animate({
                         scrollTop: $(".block.media").offset().top
-                    }, 1000);
+                    }, 1000);*/
                         }
                     }
 				},
@@ -302,9 +302,9 @@ if (window.jQuery) {
                         "display": "none"
                     });
                 });
-                $('html, body').animate({
+                /*$('html, body').animate({
                     scrollTop: $(".block.media").offset().top
-                }, 1000);
+                }, 1000);*/
                 var currentEpisodeId = parseInt(getCookie('watchedEpisodeId'));
                 console.log("nextEpisodeId: " + currentEpisodeId);
                 if (!currentEpisodeId || currentEpisodeId == 'NaN') $("div.item.toggle-autonext.hidden-sm.hidden-xs").css({
@@ -456,9 +456,9 @@ jQuery(document).ready(function(t) {
     $('.remove-ad').on('click', function() {
         $("div#ads_location").remove();
         $(this).remove();
-        $('html, body').animate({
+        /*$('html, body').animate({
             scrollTop: $(".block.media").offset().top
-        }, 1000);
+        }, 1000);*/
         return false;
     });
 });

@@ -61,9 +61,9 @@ var PhimLe = function (EpisodeId, FilmId) {
             playTech: filmInfo['playTech']
         }, function (video) {
             $('#player-area')['html'](video);
-            $('html, body')['animate']({
+            /*$('html, body')['animate']({
                 scrollTop: $('.block.media')['offset']()['top']
-            }, 1000);
+            }, 1000);*/
             $('#fxloading')['css']({
                 "display": 'none'
             })
@@ -151,9 +151,9 @@ function ClickToLoad(Id) {
                                 "display": 'none'
                             })
                         });
-                        $('html, body')['animate']({
+                        /*$('html, body')['animate']({
                             scrollTop: $('.block.media')['offset']()['top']
-                        }, 1000)
+                        }, 1000)*/
                     }
                 })
             }
@@ -215,9 +215,9 @@ function ClickToLoad(Id) {
                                         "display": 'none'
                                     })
                                 });
-                                $('html, body')['animate']({
+                                /*$('html, body')['animate']({
                                     scrollTop: $('.block.media')['offset']()['top']
-                                }, 1000)
+                                }, 1000)*/
                             }
                         }
 					localStorage.removeItem("timePlay/" + idPlay);
@@ -289,9 +289,9 @@ function ClickToLoad(Id) {
                                             "display": 'none'
                                         })
                                     });
-                                    $('html, body')['animate']({
+                                    /*$('html, body')['animate']({
                                         scrollTop: $('.block.media')['offset']()['top']
-                                    }, 1000)
+                                    }, 1000)*/
                                 }
                             }
                         },
@@ -359,9 +359,9 @@ function ClickToLoad(Id) {
                                                 "display": 'none'
                                             })
                                         });
-                                        $('html, body')['animate']({
+                                        /*$('html, body')['animate']({
                                             scrollTop: $('.block.media')['offset']()['top']
-                                        }, 1000)
+                                        }, 1000)*/
                                     }
                                 }
                             },
@@ -418,9 +418,9 @@ if (window['jQuery']) {
                         "display": 'none'
                     })
                 });
-                $('html, body')['animate']({
+               /* $('html, body')['animate']({
                     scrollTop: $('.block.media')['offset']()['top']
-                }, 1000);
+                }, 1000);*/
                 var currentEpisodeId = parseInt(getCookie('watchedEpisodeId'));
                 console['log']('EpisodeId đã được lưu: ' + currentEpisodeId);
                 if (!currentEpisodeId || currentEpisodeId == 'NaN') {
@@ -593,9 +593,9 @@ jQuery(document)['ready'](function (t) {
     $('.remove-ad')['on']('click', function () {
         $('div#ads_location')['remove']();
         $(this)['remove']();
-        $('html, body')['animate']({
+       /* $('html, body')['animate']({
             scrollTop: $('.block.media')['offset']()['top']
-        }, 1000);
+        }, 1000);*/
         return false
     })
 })
