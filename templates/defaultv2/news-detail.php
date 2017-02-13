@@ -180,7 +180,12 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                         <div class="fb-like" data-href="<?php echo WEB_URL.'/tin-tuc/'.$news['news_url']?>-<?php echo $news['news_id'] ?>.html" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
                         <div style="position: relative;top: 5px;left: 5px;display: inline-block;"><g:plusone></g:plusone></div>
                     </div>
+					<!--- Script ANTS - 728x90 --> 
+<script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
+
+
                 </div>
+				
                 <?php if($filmID){?>
                 <div class="block info-film watch-film news-film" itemscope="" itemtype="http://schema.org/Movie" style="display:block;">
 
@@ -228,7 +233,20 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
 
                 </div>
 
+<!-- Composite Start -->
+                            <div id="M229973ScriptRootC101217">
 
+                                <script>
+                                    (function(){
+                                        var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+                                        var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC101217")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+                                        catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC101217");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=101217;c[ac](dv);
+                                        var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.101217.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+                                </script>
+                            </div>
+                            <!-- Composite End -->
+							<div class="583347912" data-ants-zone-id="583347912"></div>
+<div id="SC_TBlock_272570" class="SC_TBlock">Đang tải...</div>
 
                 <div class="block comment">
 
@@ -280,8 +298,53 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                         <blockquote cite="https://www.facebook.com/hoinhungnguoimephimhay/"><a href="https://www.facebook.com/hoinhungnguoimephimhay/"></a></blockquote>
                     </div>
                 </div>
+				<!-- Header code - Put in HEAD -->
 
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/2627062/vuihd.com_ROS_300x250', [300, 250], 'div-gpt-ad-1486957988775-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+<!-- Body code - Put below code where the ads will show -->
+
+<!-- /2627062/vuihd.com_ROS_300x250 -->
+<div id='div-gpt-ad-1486957988775-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486957988775-0'); });
+</script>
+</div>
+
+			<!--- Script ANTS - 300x250 --> 
+<script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
+<div class="583347906" data-ants-zone-id="583347906"></div>
+<!--- end ANTS Script -->
             </div>
+			<!-- Composite Start -->
+                                <div id="M229973ScriptRootC101183">
+                                    <div id="M229973PreloadC101183">
+                                        Đang Tải ...
+                                    </div>
+                                    <script>
+                                        (function(){
+                                            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+                                            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC101183")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+                                            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC101183");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=101183;c[ac](dv);
+                                            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.101183.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+                                    </script>
+                                </div>
+                                <!-- Composite End -->
             <div class="sidebar col-lg-4 col-md-4 col-sm-5">
                 <div class="block announcement">
                     <div class="widget-title">
@@ -295,7 +358,7 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                     <?=showAds('right_below_fanpage');?>
                 </div>
 
-                <div class="block chatting">
+                <!--<div class="block chatting">
                     <div class="widget-title">
 						<span class="tabs"><div class="tab " data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/ tán gẫu</a></div></div>
 							<div class="tab active" data-name="request_post" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Gửi yêu cầu</a></div></div>
@@ -313,7 +376,7 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                                 <?=chatForm();?></div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="block interested">
                     <div class="widget-title">
                         <h3 class="title">Phim hot tuần</h3>
@@ -386,6 +449,13 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
             })
         })(jQuery)
     </script>
+	<script type="text/javascript">
+    (sc_adv_out = window.sc_adv_out || []).push({
+        id : "272570",
+        domain : "n.ads1-adnow.com"
+    });
+</script>
+<script type="text/javascript" src="//st-n.ads1-adnow.com/js/adv_out.js"></script>
 </body>
 </html>
 <?

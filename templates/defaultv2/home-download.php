@@ -209,7 +209,7 @@ if($value[1]=='home-download' && is_numeric($value[2])){
                               <?=showAds('right_below_fanpage');?>
                         </div>
                        
-						<div class="block chatting">
+						<!--<div class="block chatting">
 						<div class="widget-title">
 						<span class="tabs"><div class="tab active" data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/ tán gẫu</a></div></div>
 							<div class="tab" data-name="request_post" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Gửi yêu cầu</a></div></div>	
@@ -227,7 +227,7 @@ if($value[1]=='home-download' && is_numeric($value[2])){
 							<?=chatForm();?></div>
                         </div>
                         </div>
-                        </div>
+                        </div>-->
                         <div class="block interested">
 						<div class="widget-title">
      							<h3 class="title">Phim hot tuần</h3> 

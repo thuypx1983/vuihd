@@ -80,7 +80,7 @@ if($row['page_id']){
                         </div>
 						
                        
-						<div class="block chatting">
+						<!--<div class="block chatting">
 						<div class="widget-title">
 						<span class="tabs"><div class="tab " data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/ tán gẫu</a></div></div>
 							<div class="tab active" data-name="request_post" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Gửi yêu cầu</a></div></div>	
@@ -103,17 +103,10 @@ if($row['page_id']){
 							 </form>	</div>
                         </div>
                         </div>
-                        </div>
+                        </div>-->
                         
  
-                         <div class="block fanpage">
-                            <div class="fb-page" data-href="https://www.facebook.com/phimhopcom" data-width="100%" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
-                                <div class="fb-xfbml-parse-ignore">
-                                    <blockquote cite="https://www.facebook.com/phimhopcom"><a href="https://www.facebook.com/phimhopcom">Phim Lẻ</a></blockquote>
-                                </div>
-                            </div>
-
-                        </div>
+                         
                         
                        
                     </div>

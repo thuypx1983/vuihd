@@ -176,6 +176,11 @@ if($value[1]=='home-video-show'){
                                         </div>
 
                                     </div>
+									<!--- Script ANTS - 300x250 --> 
+<script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
+<div class="583347906" data-ants-zone-id="583347906"></div>
+<!--- end ANTS Script -->
+
                                 </div>
 
                                 <!-- Composite Start -->
