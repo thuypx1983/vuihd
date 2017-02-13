@@ -99,7 +99,7 @@ function ClickToLoad(Id) {
                 opacity: 0.9
             });
             player['resolutionSelector']({
-                default_res: '360p'
+                default_res: '720p'
             });
             player['on']('pause', function () {
                 player['bigPlayButton']['show']()
@@ -172,14 +172,6 @@ function ClickToLoad(Id) {
                 //skin: 'tube',
                 primary: 'html5',
                 width: '100%',
-               
-                captions: {
-                    color: '#f3f378',
-                    fontSize: 20,
-                    backgroundOpacity: 0,
-                    fontfamily: 'Arial',
-                    edgeStyle: 'raised'
-                },
 				logo: {
 				file: '/newplayer/logo.png'
                     ,
@@ -263,13 +255,7 @@ function ClickToLoad(Id) {
                     //skin: 'tube',
                     
                     width: '100%',
-                    captions: {
-                        color: '#f3f378',
-                        fontSize: 20,
-                        backgroundOpacity: 0,
-                        fontfamily: 'Arial',
-                        edgeStyle: 'raised'
-                    },
+                    
                     events: {
                         onComplete: function () {
                             if ((window['jQuery']) && (pautonext == true)) {
@@ -332,24 +318,14 @@ function ClickToLoad(Id) {
                             label: 'Tiếng Việt',
                             default: true
                         }],
-                        captions: {
-                            back: false,
-                            color: 'ffffff',
-                            fontsize: 18
-                        },
+                        
                         autostart: true,
                         width: '100%',
                         primary: 'html5',
                         //skin: 'bekle',
                        
                         height: '100%',
-                        captions: {
-                            color: '#f3f378',
-                            fontSize: 20,
-                            backgroundOpacity: 0,
-                            fontfamily: 'Arial',
-                            edgeStyle: 'raised'
-                        },
+                        
                         events: {
                             onComplete: function () {
                                 if ((window['jQuery']) && (pautonext == true)) {
@@ -569,7 +545,7 @@ jQuery(document)['ready'](function (t) {
             var newWidth = 1038;
             var largeSize = {
                'width': newWidth,
-                'height': Math.ceil(newWidth / 16 * 9 - docHeight)
+                'height': 583
             };
 
 

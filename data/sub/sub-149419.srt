@@ -1,0 +1,7772 @@
+﻿1
+00:01:08,862 --> 00:01:17,162
+NGƯỜI VỀ TỪ SAO HỎA
+
+2
+00:01:57,368 --> 00:02:03,166
+VÙNG ACIDALIA PLANITIA
+SAO HỎA
+
+3
+00:02:05,794 --> 00:02:08,046
+<i>Cả đội nghe đây,</i>
+<i>cố gắng ở trong tầm mắt của nhau.</i>
+
+4
+00:02:08,129 --> 00:02:09,464
+<i>Hôm nay hãy cho NASA được tự hào.</i>
+
+5
+00:02:09,547 --> 00:02:10,548
+NASA - ARES III - KHU VỰC ĐÁP
+NGÀY NHIỆM VỤ: SOL 18
+
+6
+00:02:10,632 --> 00:02:12,217
+<i>Bên đó thế nào rồi, Watney?</i>
+
+7
+00:02:12,383 --> 00:02:13,593
+<i>Mọi người sẽ rất vui khi nghe...</i>
+
+8
+00:02:13,760 --> 00:02:19,599
+<i>là ở Điểm Giao 14-28,</i>
+<i>các mẩu đất phần lớn là thô...</i>
+
+9
+00:02:19,766 --> 00:02:22,977
+nhưng ở điểm 29 thì mịn hơn...
+
+10
+00:02:23,144 --> 00:02:25,063
+và khá lý tưởng để phân tích
+thành phần hóa học.
+
+11
+00:02:25,230 --> 00:02:28,399
+<i>Mọi người có nghe thấy không?</i>
+<i>Mark vừa khám phá ra đất.</i>
+
+12
+00:02:28,566 --> 00:02:29,609
+<i>Chúng ta có nên báo</i>
+<i>cho truyền thông biết hay không?</i>
+
+13
+00:02:29,776 --> 00:02:31,611
+<i>Xin lỗi, công việc hôm nay</i>
+<i>của anh là gì, Martinez?</i>
+
+14
+00:02:31,778 --> 00:02:33,655
+Đảm bảo chiếc MAV
+vẫn đứng thẳng hả?
+
+15
+00:02:33,822 --> 00:02:35,448
+<i>Tôi muốn anh biết</i>
+<i>việc tận mắt kiểm tra thiết bị...</i>
+
+16
+00:02:35,615 --> 00:02:37,492
+<i>là tối cần thiết</i>
+<i>để nhiệm vụ thành công.</i>
+
+17
+00:02:37,659 --> 00:02:40,495
+<i>Tôi cũng muốn báo cáo</i>
+<i>là chiếc MAV vẫn đứng thẳng.</i>
+
+18
+00:02:41,162 --> 00:02:43,081
+<i>Watney, anh cứ để kênh liên lạc</i>
+<i>phát liên tục như vậy</i>
+
+19
+00:02:43,248 --> 00:02:44,999
+<i>sẽ làm cho Martinez trả lời anh</i>
+
+20
+00:02:45,166 --> 00:02:46,417
+<i>khiến cho tất cả mọi người</i>
+<i>phải lắng nghe</i>
+
+21
+00:02:46,584 --> 00:02:47,752
+<i>và làm cho tôi thấy phiền.</i>
+
+22
+00:02:48,419 --> 00:02:50,797
+<i>Nghe rõ. Martinez,</i>
+<i>thuyền trưởng muốn anh làm ơn...</i>
+
+23
+00:02:50,964 --> 00:02:52,257
+ngậm cái miệng hay nói leo
+của anh lại.
+
+24
+00:02:53,675 --> 00:02:56,928
+Bọn tôi đề nghị nên dùng một tính từ khác
+để mô tả cái miệng của Martinez.
+
+25
+00:02:57,345 --> 00:02:58,763
+<i>Beck vừa sỉ nhục tôi đúng không?</i>
+
+26
+00:02:58,930 --> 00:03:00,932
+<i>"Tiến sĩ Beck."</i>
+<i>Và đúng vậy.</i>
+
+27
+00:03:01,099 --> 00:03:03,601
+Rất sẵn lòng được tắt sóng radio,
+thưa Chỉ huy.
+
+28
+00:03:03,768 --> 00:03:04,811
+Chỉ cần ra lệnh.
+
+29
+00:03:04,978 --> 00:03:07,522
+Chờ đã, Johanssen.
+Việc giữ liên lạc thông suốt là...
+
+30
+00:03:07,689 --> 00:03:08,773
+Tắt radio của họ đi.
+
+31
+00:03:08,940 --> 00:03:09,941
+<i>Không.</i>
+
+32
+00:03:10,108 --> 00:03:11,276
+Không. Xin lỗi.
+
+33
+00:03:12,277 --> 00:03:14,195
+<i>Tôi xin lỗi</i>
+<i>thay cho đồng hương của tôi, Vogel.</i>
+
+34
+00:03:14,445 --> 00:03:15,655
+Chấp nhận.
+
+35
+00:03:15,822 --> 00:03:17,782
+Chúng ta cần bao nhiêu mẫu đây,
+Chỉ huy?
+
+36
+00:03:17,991 --> 00:03:18,950
+<i>Bảy mẫu.</i>
+
+37
+00:03:19,492 --> 00:03:20,618
+<i>Mỗi mẫu 100 gram.</i>
+
+38
+00:03:25,540 --> 00:03:26,791
+KHẨN CẤP
+CẬP NHẬT TÌNH HÌNH NHIỆM VỤ
+
+39
+00:03:26,958 --> 00:03:28,877
+Chúng ta có cập nhật mới.
+Một tin cảnh báo bão.
+
+40
+00:03:29,043 --> 00:03:31,880
+<i>Chỉ huy, cô nên vào trong.</i>
+<i>Có cái này cô sẽ muốn xem.</i>
+
+41
+00:03:32,046 --> 00:03:32,964
+Cái gì vậy?
+
+42
+00:03:33,131 --> 00:03:34,173
+<i>Tin cảnh báo bão.</i>
+
+43
+00:03:34,340 --> 00:03:35,675
+Tôi có thấy
+trong buổi họp ngắn sáng nay.
+
+44
+00:03:35,842 --> 00:03:37,719
+Chúng tôi sẽ vào trong trước khi bão tới.
+
+45
+00:03:37,886 --> 00:03:40,638
+Vâng, họ đã nâng mức dự đoán.
+
+46
+00:03:40,805 --> 00:03:42,390
+Cơn bão sẽ tệ hơn rất nhiều.
+
+47
+00:03:48,897 --> 00:03:51,024
+<i>Martinez, tình hình thế nào?</i>
+
+48
+00:03:52,150 --> 00:03:53,234
+<i>Không được tốt.</i>
+
+49
+00:03:53,985 --> 00:03:55,987
+KHẨN CẤP
+BÃO XẤU ĐANG TIẾP CẬN
+
+50
+00:03:56,154 --> 00:03:59,073
+"Đường kính 1200 ki-lô-mét,
+hướng đi 24,41 độ."
+
+51
+00:03:59,240 --> 00:04:00,408
+Hướng đi đó dẫn ngay
+đến chỗ chúng ta.
+
+52
+00:04:00,575 --> 00:04:04,412
+"Dựa trên mức tăng hiện tại,
+lực đẩy dự đoán khoảng 8600 newton."
+
+53
+00:04:05,330 --> 00:04:06,581
+Lực đẩy bao nhiêu thì hủy nhiệm vụ?
+
+54
+00:04:06,748 --> 00:04:08,416
+7500.
+
+55
+00:04:09,334 --> 00:04:11,544
+<i>Chỉ cần mạnh hơn một chút thôi</i>
+<i>thì chiếc MAV có thể lật.</i>
+
+56
+00:04:11,711 --> 00:04:13,004
+Chúng ta có rút không?
+
+57
+00:04:13,171 --> 00:04:14,380
+Bắt đầu quy trình rút lui.
+
+58
+00:04:14,923 --> 00:04:17,216
+Chúng ta đang dự đoán
+với sai số biên.
+
+59
+00:04:17,383 --> 00:04:19,010
+Chúng ta có thể đợi cơn bão đi qua.
+
+60
+00:04:19,344 --> 00:04:20,845
+Cùng đợi đi.
+
+61
+00:04:22,430 --> 00:04:23,681
+Cùng đợi đi.
+
+62
+00:04:25,224 --> 00:04:26,059
+Chỉ huy?
+
+63
+00:04:27,352 --> 00:04:29,020
+Chuẩn bị khởi hành khẩn cấp.
+
+64
+00:04:29,187 --> 00:04:30,063
+Chỉ huy?
+
+65
+00:04:30,229 --> 00:04:32,190
+Chúng ta rút. Đó là lệnh.
+
+66
+00:04:42,700 --> 00:04:45,244
+<i>Martinez, bao lâu nữa thì cất cánh?</i>
+
+67
+00:04:45,411 --> 00:04:46,454
+Mười hai phút.
+
+68
+00:04:49,707 --> 00:04:51,376
+Tầm nhìn gần như bằng không.
+
+69
+00:04:51,542 --> 00:04:53,878
+Có ai bị lạc thì tập trung vào
+tín hiệu trên đồ du hành của tôi.
+
+70
+00:04:54,045 --> 00:04:54,921
+Sẵn sàng chưa?
+
+71
+00:04:55,088 --> 00:04:56,381
+Sẵn sàng.
+
+72
+00:04:58,800 --> 00:05:01,552
+- Chỉ huy, cô ổn chứ?
+- Tôi ổn.
+
+73
+00:05:25,827 --> 00:05:28,746
+Chỉ huy, ta nghiêng 10 độ rồi,
+và chiếc MAV sẽ lật ở 12,3 độ.
+
+74
+00:05:29,414 --> 00:05:32,458
+Này! Có lẽ chúng ta có thể
+giữ cho chiếc MAV không lật.
+
+75
+00:05:32,625 --> 00:05:33,418
+Cách nào?
+
+76
+00:05:34,085 --> 00:05:37,088
+Sử dụng dây cáp ở cột ăng-ten
+làm dây căng...
+
+77
+00:05:37,255 --> 00:05:38,923
+cột vào chiếc Rover.
+
+78
+00:05:39,257 --> 00:05:40,299
+Coi chừng!
+
+79
+00:05:43,594 --> 00:05:44,429
+Watney!
+
+80
+00:05:46,264 --> 00:05:48,599
+<i>Cảnh báo.</i>
+<i>Phát hiện lỗ hổng trên đồ du hành.</i>
+
+81
+00:05:48,766 --> 00:05:49,600
+Có chuyện gì vậy?
+
+82
+00:05:49,767 --> 00:05:51,936
+- Anh ấy bị va trúng.
+- Watney, báo cáo đi.
+
+83
+00:05:52,770 --> 00:05:54,814
+Trước khi mất tín hiệu viễn trắc,
+báo động giảm áp của anh ấy đã rung.
+
+84
+00:05:54,981 --> 00:05:57,275
+- Lần cuối cô thấy anh ấy là khi nào?
+- Tôi không biết anh ấy đang ở đâu.
+
+85
+00:05:57,442 --> 00:05:59,277
+- Chỉ số sinh mạng của anh ấy là gì?
+- Mất tín hiệu rồi.
+
+86
+00:05:59,444 --> 00:06:00,862
+Watney đã hoàn toàn mất tín hiệu.
+
+87
+00:06:01,029 --> 00:06:02,155
+- Beck!
+- Vâng.
+
+88
+00:06:02,321 --> 00:06:04,615
+Anh ấy có thể sống được bao lâu
+sau khi giảm áp?
+
+89
+00:06:04,782 --> 00:06:06,034
+Không tới một phút.
+
+90
+00:06:06,492 --> 00:06:08,661
+Đi thành hàng, về phía Tây.
+
+91
+00:06:08,828 --> 00:06:10,788
+Anh ấy có thể đang nằm dưới đất.
+Đừng dẫm lên anh ấy.
+
+92
+00:06:12,623 --> 00:06:13,833
+Chỉ huy...
+
+93
+00:06:14,000 --> 00:06:15,626
+Tàu đã nghiêng 10,5 độ.
+
+94
+00:06:15,793 --> 00:06:16,794
+<i>Cảnh báo.</i>
+<i>Độ nghiêng quá cao.</i>
+
+95
+00:06:16,961 --> 00:06:19,797
+Nghiêng đến 11 độ vì gió mạnh.
+
+96
+00:06:20,048 --> 00:06:21,299
+Rõ.
+
+97
+00:06:21,466 --> 00:06:23,843
+Mọi người, lần theo tín hiệu
+trên đồ du hành của Martinez.
+
+98
+00:06:24,010 --> 00:06:26,054
+Tất cả sẽ đến được nút không khí.
+Vào trong, chuẩn bị cất cánh.
+
+99
+00:06:26,345 --> 00:06:27,722
+Còn cô thì sao, Chỉ huy?
+
+100
+00:06:27,889 --> 00:06:30,558
+Tôi sẽ tìm thêm một chút nữa.
+Đi ngay đi!
+
+101
+00:06:31,017 --> 00:06:31,851
+Đi!
+
+102
+00:06:35,646 --> 00:06:36,814
+Watney!
+
+103
+00:06:37,315 --> 00:06:38,900
+Watney, báo cáo!
+
+104
+00:06:39,067 --> 00:06:41,152
+<i>Chiếc MAV đã nghiêng đến 11,6 độ.</i>
+
+105
+00:06:41,819 --> 00:06:43,154
+Một cơn gió mạnh nữa
+là chúng ta lật.
+
+106
+00:06:43,321 --> 00:06:44,530
+Nếu lật thì anh cất cánh đi.
+
+107
+00:06:44,697 --> 00:06:46,032
+Cô thật sự nghĩ
+là tôi sẽ bỏ cô lại sao?
+
+108
+00:06:46,199 --> 00:06:47,742
+<i>Đó là lệnh, Martinez.</i>
+
+109
+00:06:48,576 --> 00:06:50,411
+Mark!
+
+110
+00:06:50,661 --> 00:06:53,706
+Mark! Anh có nghe không?
+
+111
+00:06:55,249 --> 00:06:58,002
+Martinez, trên ra-đa tầm gần thì sao?
+
+112
+00:06:58,169 --> 00:06:59,837
+Có thấy tín hiệu trên đồ du hành
+của Watney hay không?
+
+113
+00:07:00,004 --> 00:07:01,339
+Ra-đa được chế tạo
+để theo dõi tàu Hermes trên quỹ đạo...
+
+114
+00:07:01,506 --> 00:07:03,382
+chứ không phải để dò một miếng
+kim loại trong một bộ đồ du hành.
+
+115
+00:07:03,549 --> 00:07:04,217
+<i>Cứ thử đi.</i>
+
+116
+00:07:04,675 --> 00:07:05,551
+Rõ.
+
+117
+00:07:05,927 --> 00:07:08,096
+Cô ấy nghĩ gì vậy? Cô ấy biết tia hồng
+ngoại không dò được trong bão cát mà.
+
+118
+00:07:08,262 --> 00:07:10,389
+Cô ấy đang bấu víu lấy mọi cơ hội.
+
+119
+00:07:10,556 --> 00:07:12,725
+<i>Không nhận được tín hiệu nào</i>
+<i>trên ra-đa tầm gần.</i>
+
+120
+00:07:12,892 --> 00:07:13,851
+Không gì cả?
+
+121
+00:07:14,018 --> 00:07:16,020
+<i>Không.</i>
+<i>Tôi còn không thấy được Túp Lều.</i>
+
+122
+00:07:17,105 --> 00:07:19,232
+Chỉ huy, tôi biết cô
+không muốn nghe lời này, nhưng mà...
+
+123
+00:07:19,398 --> 00:07:20,525
+Mark chết rồi.
+
+124
+00:07:22,026 --> 00:07:23,361
+<i>Chỉ huy!</i>
+
+125
+00:07:23,528 --> 00:07:26,030
+Này, anh bị làm sao vậy hả?
+
+126
+00:07:26,197 --> 00:07:28,449
+Bạn của tôi vừa chết.
+Tôi không muốn cả chỉ huy cũng đi theo.
+
+127
+00:07:28,616 --> 00:07:29,867
+<i>Cảnh báo cân bằng.</i>
+
+128
+00:07:30,034 --> 00:07:31,077
+Chúng ta đang lật!
+
+129
+00:07:31,244 --> 00:07:34,580
+<i>Chỉ huy,</i>
+<i>cô cần phải quay về tàu, ngay!</i>
+
+130
+00:07:34,747 --> 00:07:35,581
+13 độ.
+
+131
+00:07:36,582 --> 00:07:38,084
+Nếu vượt mức cân bằng,
+chúng ta sẽ không bao giờ quay về được.
+
+132
+00:07:38,251 --> 00:07:41,045
+Tôi còn một chiêu cuối nữa,
+rồi tôi sẽ tuân lệnh, thưa Chỉ huy.
+
+133
+00:07:42,880 --> 00:07:44,382
+Anh đang sử dụng hệ thống OMS sao?
+
+134
+00:07:45,091 --> 00:07:46,050
+Đúng vậy.
+
+135
+00:07:50,054 --> 00:07:51,139
+Chỉ huy!
+
+136
+00:07:51,722 --> 00:07:53,057
+Đang đến đây.
+
+137
+00:07:56,394 --> 00:07:57,603
+<i>Johanssen, đi thôi.</i>
+
+138
+00:08:05,153 --> 00:08:07,238
+Mark!
+
+139
+00:08:19,333 --> 00:08:20,793
+<i>Chúng ta đang ở 11,5 độ và giữ vững.</i>
+
+140
+00:08:24,505 --> 00:08:25,590
+<i>Sẵn sàng cất cánh theo lệnh của cô.</i>
+
+141
+00:08:28,009 --> 00:08:29,093
+Sẵn sàng phóng.
+
+142
+00:08:30,344 --> 00:08:31,596
+Chỉ huy.
+
+143
+00:08:31,929 --> 00:08:33,598
+Tôi cần cô xác nhận bằng lời nói
+có phóng hay không.
+
+144
+00:08:33,764 --> 00:08:34,849
+Phóng.
+
+145
+00:09:16,474 --> 00:09:19,644
+<i>Vào khoảng 4:30 sáng</i>
+<i>Giờ Trung Tâm CST...</i>
+
+146
+00:09:19,810 --> 00:09:21,938
+<i>vệ tinh của chúng tôi</i>
+<i>phát hiện một cơn bão</i>
+
+147
+00:09:22,021 --> 00:09:24,482
+<i>đang tiếp cận</i>
+<i>khu vực nhiệm vụ Ares 3 trên Sao Hỏa.</i>
+
+148
+00:09:24,899 --> 00:09:28,486
+<i>Vào lúc 6:45,</i>
+<i>cơn bão đã mạnh lên thành bão xấu...</i>
+
+149
+00:09:28,653 --> 00:09:31,489
+<i>và chúng tôi không có lựa chọn nào</i>
+<i>ngoài việc hủy bỏ nhiệm vụ.</i>
+
+150
+00:09:31,656 --> 00:09:34,033
+<i>Nhờ vào phản ứng nhanh</i>
+<i>của Chỉ huy Lewis...</i>
+
+151
+00:09:34,200 --> 00:09:37,328
+<i>các phi hành gia Beck, Johanssen,</i>
+<i>Martinez và Vogel</i>
+
+152
+00:09:37,495 --> 00:09:40,206
+<i>đều đến được</i>
+<i>Phương tiện Bay khỏi Sao hỏa (MAV)...</i>
+
+153
+00:09:40,373 --> 00:09:43,334
+<i>và thực hiện quy trình phóng khẩn cấp</i>
+<i>vào lúc 7:28 Giờ Trung Tâm.</i>
+
+154
+00:09:43,501 --> 00:09:45,336
+TIN NÓNG - PHI HÀNH ĐOÀN ARES III
+ĐANG QUAY VỀ
+
+155
+00:09:45,503 --> 00:09:47,755
+Thật không may,
+trong quá trình di tản...
+
+156
+00:09:47,922 --> 00:09:52,176
+phi hành gia Mark Watney
+đã bị mảnh vỡ va phải và hy sinh.
+
+157
+00:09:53,177 --> 00:09:55,054
+Chỉ huy Lewis và toàn bộ
+phi hành đoàn...
+
+158
+00:09:55,221 --> 00:09:59,850
+đã có thể an toàn lên tàu Hermes
+và đang trở về nhà.
+
+159
+00:10:00,017 --> 00:10:02,436
+Nhưng Mark Watney đã chết.
+
+160
+00:10:02,687 --> 00:10:04,188
+Giám đốc Sanders!
+
+161
+00:10:38,222 --> 00:10:40,599
+<i>Oxy ở mức báo động.</i>
+
+162
+00:10:47,148 --> 00:10:49,233
+<i>Oxy ở mức báo động.</i>
+
+163
+00:10:56,073 --> 00:10:57,742
+<i>Oxy ở mức...</i>
+
+164
+00:12:15,820 --> 00:12:18,030
+<i>Áp suất ổn định.</i>
+
+165
+00:15:17,835 --> 00:15:19,169
+Chết tiệt.
+
+166
+00:15:30,514 --> 00:15:35,561
+đăng nhập nhật ký TÚP LỀU
+NASA
+
+167
+00:15:48,866 --> 00:15:49,700
+Được rồi.
+
+168
+00:15:50,117 --> 00:15:51,201
+<i>Được rồi.</i>
+
+169
+00:15:53,203 --> 00:15:57,249
+<i>Xin chào, tôi là Mark Watney,</i>
+<i>phi hành gia.</i>
+
+170
+00:15:57,958 --> 00:16:00,794
+<i>Tôi đang ghi lại nhật ký này...</i>
+
+171
+00:16:01,378 --> 00:16:03,714
+<i>phòng khi tôi không qua khỏi.</i>
+
+172
+00:16:06,383 --> 00:16:10,429
+<i>Vào lúc 06:53</i>
+<i>ngày Sao Hỏa Sol 19...</i>
+
+173
+00:16:10,596 --> 00:16:13,432
+<i>và tôi còn sống.</i>
+
+174
+00:16:14,767 --> 00:16:15,893
+<i>Rõ ràng rồi.</i>
+
+175
+00:16:16,060 --> 00:16:21,774
+<i>Nhưng tôi đoán đây là một tin bất ngờ</i>
+<i>với phi hành đoàn của tôi và với NASA.</i>
+
+176
+00:16:22,232 --> 00:16:24,902
+<i>Và với cả thế giới, thật vậy, cho nên...</i>
+
+177
+00:16:27,905 --> 00:16:29,406
+<i>Bất ngờ chưa.</i>
+
+178
+00:16:30,741 --> 00:16:33,118
+<i>Tôi đã không chết vào ngày Sol 18.</i>
+
+179
+00:16:33,285 --> 00:16:34,953
+<i>Tôi còn có thể nghiệm ra...</i>
+
+180
+00:16:35,120 --> 00:16:38,666
+<i>ăng-ten liên lạc chính</i>
+<i>đã bị gãy một đoạn dài chừng này</i>
+
+181
+00:16:38,832 --> 00:16:41,001
+<i>và đâm nát</i>
+<i>máy theo dõi sinh học</i>
+
+182
+00:16:41,168 --> 00:16:43,587
+<i>cũng như xỏ một lỗ qua người tôi.</i>
+
+183
+00:16:44,421 --> 00:16:49,635
+<i>Nhưng đoạn ăng-ten và máu</i>
+<i>lại bít được lỗ hổng trên bộ đồ...</i>
+
+184
+00:16:49,802 --> 00:16:53,764
+<i>nhờ vậy mà tôi còn sống, mặc dù</i>
+<i>phi hành đoàn hẳn là tưởng tôi đã chết.</i>
+
+185
+00:16:54,598 --> 00:16:56,934
+<i>Tôi không có cách nào</i>
+<i>liên lạc được với NASA.</i>
+
+186
+00:16:57,101 --> 00:17:00,104
+<i>Và thậm chí nếu có,</i>
+<i>cũng phải mất bốn năm...</i>
+
+187
+00:17:00,270 --> 00:17:02,606
+<i>để một nhiệm vụ có người lái</i>
+<i>đến được chỗ tôi.</i>
+
+188
+00:17:03,607 --> 00:17:05,859
+<i>Và tôi đang ở trong một cái Lều</i>
+<i>được thiết kế để sống trong 31 ngày.</i>
+
+189
+00:17:06,026 --> 00:17:08,362
+<i>Nếu máy tạo oxy bị hỏng,</i>
+<i>tôi sẽ chết ngạt.</i>
+
+190
+00:17:08,529 --> 00:17:10,823
+<i>Nếu máy thu hồi nước bị hư,</i>
+<i>tôi sẽ chết khát.</i>
+
+191
+00:17:10,989 --> 00:17:13,367
+<i>Nếu Túp Lều bị rách,</i>
+<i>tôi sẽ, đại loại là...</i>
+
+192
+00:17:13,534 --> 00:17:14,618
+<i>nổ banh xác.</i>
+
+193
+00:17:15,786 --> 00:17:18,539
+<i>Và nếu như có phép màu,</i>
+<i>những chuyện đó không xảy ra...</i>
+
+194
+00:17:19,289 --> 00:17:21,458
+<i>không chóng thì chày</i>
+<i>tôi cũng sẽ hết lương thực.</i>
+
+195
+00:17:23,043 --> 00:17:24,169
+<i>Cho nên...</i>
+
+196
+00:17:25,462 --> 00:17:26,463
+<i>thế đấy.</i>
+
+197
+00:17:30,634 --> 00:17:31,719
+<i>Thế đấy.</i>
+
+198
+00:19:20,786 --> 00:19:23,080
+Mình sẽ không chết ở đây.
+
+199
+00:19:26,917 --> 00:19:29,837
+NGÀY SOL 21
+
+200
+00:19:42,057 --> 00:19:46,478
+TÚP LỀU
+KHU NHÀ BẾP
+
+201
+00:20:02,911 --> 00:20:04,246
+32...
+
+202
+00:20:05,289 --> 00:20:06,623
+33...
+
+203
+00:20:08,667 --> 00:20:10,002
+34...
+
+204
+00:20:11,128 --> 00:20:12,588
+35, 36.
+
+205
+00:20:12,963 --> 00:20:15,799
+Gà chua ngọt.
+
+206
+00:20:28,687 --> 00:20:29,897
+XẢ NƯỚC BẰNG CHÂN KHÔNG
+
+207
+00:20:40,782 --> 00:20:43,577
+ĐỪNG MỞ
+CHO ĐẾN LỄ TẠ ƠN!!
+
+208
+00:20:48,081 --> 00:20:49,541
+Chúng ta có gì đây?
+
+209
+00:20:55,839 --> 00:20:58,425
+<i>Được rồi, làm phép tính thôi.</i>
+
+210
+00:20:58,592 --> 00:21:02,095
+<i>Nhiệm vụ tìm hiểu bề mặt của chúng tôi</i>
+<i>có thời hạn 31 ngày Sol.</i>
+
+211
+00:21:02,262 --> 00:21:05,432
+<i>Để cho dư dả, họ đã gởi lên lượng</i>
+<i>thực phẩm đủ cho 68 Sol. Cho 6 người.</i>
+
+212
+00:21:05,599 --> 00:21:08,185
+<i>Như thế với một mình tôi,</i>
+<i>là sống được 300 Sol...</i>
+
+213
+00:21:08,352 --> 00:21:11,521
+<i>mà tôi tính là có thể kéo dài</i>
+<i>được đến 400 nếu tôi tiết kiệm.</i>
+
+214
+00:21:11,688 --> 00:21:16,610
+<i>Cho nên tôi phải tìm ra cách trồng</i>
+<i>lương thực đủ cho ba năm ở đây.</i>
+
+215
+00:21:17,444 --> 00:21:19,446
+<i>Trên một hành tinh</i>
+<i>không có gì mọc nổi.</i>
+
+216
+00:21:20,447 --> 00:21:21,448
+<i>Thật may...</i>
+
+217
+00:21:24,242 --> 00:21:25,327
+<i>Tôi là nhà thực vật học.</i>
+
+218
+00:21:25,452 --> 00:21:26,787
+KHÁM PHÁ CÁC QUY TRÌNH
+XỬ LÝ SINH HỌC TRÊN SAO HỎA
+
+219
+00:21:26,954 --> 00:21:28,330
+MARK WATNEY
+NHÀ THỰC VẬT HỌC
+
+220
+00:21:29,373 --> 00:21:34,169
+<i>Sao Hỏa sẽ phải e sợ</i>
+<i>quyền năng thực vật học của tôi.</i>
+
+221
+00:21:34,544 --> 00:21:36,421
+CHẤT THẢI HỮU CƠ
+
+222
+00:21:38,090 --> 00:21:40,759
+NGUY HIỂM
+CHẤT THẢI CON NGƯỜI
+
+223
+00:21:52,813 --> 00:21:54,940
+CAMERA
+TRÊN ĐỒ DU HÀNH CỦA WATNEY
+
+224
+00:22:16,837 --> 00:22:18,797
+NGÀY SOL 22
+NÚT KHÔNG KHÍ CỦA TÚP LỀU
+
+225
+00:22:18,964 --> 00:22:20,799
+<i>Áp suất ổn định.</i>
+
+226
+00:22:31,226 --> 00:22:32,853
+<i>Kim bấm đã rơi ra.</i>
+
+227
+00:22:34,271 --> 00:22:36,773
+NGÀY SOL 24
+
+228
+00:23:22,736 --> 00:23:24,362
+Chết đi, Sao Hỏa.
+
+229
+00:23:24,905 --> 00:23:28,200
+NGÀY SOL 31
+
+230
+00:23:31,578 --> 00:23:33,997
+TÚP LỀU
+KHU NHÀ BẾP
+
+231
+00:23:39,628 --> 00:23:41,088
+Johanssen, trời ạ.
+
+232
+00:24:29,678 --> 00:24:31,429
+NGÀY SOL 36
+
+233
+00:24:43,191 --> 00:24:45,527
+<i>Cái khó là nước.</i>
+
+234
+00:24:46,027 --> 00:24:51,032
+Tôi đã tạo ra
+126 mét vuông đất.
+
+235
+00:24:51,199 --> 00:24:56,246
+<i>Nhưng mỗi mét khối đất cần 40 lít nước</i>
+<i>để có thể canh tác.</i>
+
+236
+00:24:56,413 --> 00:24:59,583
+<i>Cho nên tôi phải làm ra</i>
+<i>thật là nhiều nước.</i>
+
+237
+00:25:00,458 --> 00:25:02,586
+<i>Cái hay là tôi biết công thức.</i>
+
+238
+00:25:03,211 --> 00:25:05,213
+Lấy hydro, cộng với oxy,
+rồi đốt.
+
+239
+00:25:05,714 --> 00:25:11,178
+<i>Bây giờ, tôi có hàng trăm lít nhiên liệu</i>
+<i>hydrazine chưa sử dụng ở chiếc MDV.</i>
+
+240
+00:25:11,344 --> 00:25:16,641
+<i>Nếu cho hydrazine chạy qua chất xúc tác</i>
+<i>iridium, tôi sẽ tách được N2 và H2.</i>
+
+241
+00:25:17,058 --> 00:25:21,188
+<i>Và sau đó nếu tôi dẫn được khí hydro</i>
+<i>vào trong một khu vực nhỏ...</i>
+
+242
+00:25:21,563 --> 00:25:23,356
+<i>và đốt.</i>
+
+243
+00:25:23,690 --> 00:25:26,109
+<i>May mắn là, trong lịch sử nhân loại...</i>
+
+244
+00:25:26,818 --> 00:25:31,448
+chẳng có gì xấu xảy ra khi đốt cháy hydro.
+
+245
+00:25:32,157 --> 00:25:33,909
+<i>NASA ghét cháy.</i>
+
+246
+00:25:34,075 --> 00:25:38,038
+<i>Bởi cái truyền thuyết</i>
+<i>"cháy là chết trong không gian."</i>
+
+247
+00:25:38,413 --> 00:25:41,875
+<i>Vì thế, tất cả mọi thứ họ gởi lên đây</i>
+<i>đều không cháy được...</i>
+
+248
+00:25:42,042 --> 00:25:45,170
+ngoại trừ một số đáng kể...
+
+249
+00:25:46,338 --> 00:25:48,298
+đồ đạc cá nhân của Martinez.
+
+250
+00:25:49,174 --> 00:25:50,342
+Tôi xin lỗi, Martinez.
+
+251
+00:25:50,508 --> 00:25:51,968
+Nhưng nếu anh không muốn tôi
+lục lọi đồ của anh...
+
+252
+00:25:52,135 --> 00:25:54,930
+thì đúng ra anh không được bỏ mặc tôi
+chết trên một hành tinh hoang vu.
+
+253
+00:25:55,513 --> 00:25:59,309
+Nhân tiện, tôi nghĩ Ngài sẽ bỏ qua
+chuyện này, với tình huống hiện tại của tôi.
+
+254
+00:26:01,770 --> 00:26:03,313
+Dựa hết vào Ngài.
+
+255
+00:26:36,972 --> 00:26:40,433
+Đúng vậy, tôi đã tự nướng mình.
+
+256
+00:26:40,600 --> 00:26:42,269
+Suy đoán gần chính xác nhất...
+
+257
+00:26:42,978 --> 00:26:48,191
+Tôi quên cộng cả lượng oxy thừa...
+
+258
+00:26:49,276 --> 00:26:52,779
+mà tôi đã thở ra
+khi làm phép tính.
+
+259
+00:26:53,488 --> 00:26:55,699
+Bởi vì tôi quá ngu.
+
+260
+00:26:58,285 --> 00:27:00,370
+Thế đấy, tôi sẽ trở lại làm việc...
+
+261
+00:27:00,537 --> 00:27:03,415
+ngay khi tôi hết bị ù tai.
+
+262
+00:27:07,919 --> 00:27:10,130
+<i>Một điểm thú vị bên lề, đây thật ra là cách</i>
+
+263
+00:27:10,213 --> 00:27:12,090
+<i>Phòng thí nghiệm Sức đẩy Phản lực</i>
+<i>ra đời.</i>
+
+264
+00:27:12,257 --> 00:27:15,719
+<i>Năm anh chàng Caltech</i>
+<i>tìm cách tạo ra nhiên liệu tên lửa...</i>
+
+265
+00:27:15,885 --> 00:27:17,095
+<i>và gần như thiêu trụi</i>
+<i>ký túc xá của họ.</i>
+
+266
+00:27:17,387 --> 00:27:18,722
+<i>Và thay vì đuổi học...</i>
+
+267
+00:27:18,888 --> 00:27:23,518
+<i>người ta đưa họ đến một nông trại gần đó,</i>
+<i>bảo họ tiếp tục làm việc.</i>
+
+268
+00:27:24,311 --> 00:27:26,146
+<i>Và giờ chúng ta có một</i>
+<i>chương trình không gian.</i>
+
+269
+00:27:29,733 --> 00:27:30,900
+Được rồi.
+
+270
+00:27:50,295 --> 00:27:52,922
+NGÀY THỰC HIỆN NHIỆM VỤ
+SOL 44
+
+271
+00:27:53,089 --> 00:27:55,467
+NGÀY THỰC HIỆN NHIỆM VỤ
+SOL 45
+
+272
+00:27:58,928 --> 00:28:01,014
+NGÀY SOL 48
+
+273
+00:28:11,441 --> 00:28:14,027
+NGÀY SOL 54
+
+274
+00:28:48,144 --> 00:28:49,854
+Xin chào.
+
+275
+00:28:59,864 --> 00:29:03,118
+<i>Đất nước này thật may mắn khi có Mark</i>
+<i>tham gia vào chương trình không gian.</i>
+
+276
+00:29:03,493 --> 00:29:05,745
+<i>Trong khi sự ra đi của anh</i>
+<i>được nhiều người thương cảm...</i>
+
+277
+00:29:05,912 --> 00:29:08,540
+<i>thì những con người ở NASA</i>
+<i>dù nam hay nữ cũng sẽ tiếp bước...</i>
+
+278
+00:29:08,706 --> 00:29:10,542
+<i>tiến lên và ngẩng cao đầu trong nhiệm vụ</i>
+<i>mà cơ quan họ được giao.</i>
+
+279
+00:29:10,708 --> 00:29:12,001
+TEDDY SANDERS
+GIÁM ĐỐC NASA
+
+280
+00:29:12,168 --> 00:29:16,089
+<i>Nhờ đó, họ có thể vinh danh</i>
+<i>di sản mà Mark đã để lại...</i>
+
+281
+00:29:16,673 --> 00:29:18,925
+<i>và đảm bảo sự hy sinh của anh</i>
+<i>sẽ không vô ích.</i>
+
+282
+00:29:19,092 --> 00:29:21,094
+TRUNG TÂM KHÔNG GIAN JOHNSON
+HOUSTON, BANG TEXAS
+
+283
+00:29:23,012 --> 00:29:27,392
+VINCENT KAPOOR
+GIÁM ĐỐC NHIỆM VỤ SAO HỎA, NASA
+
+284
+00:29:31,020 --> 00:29:34,065
+<i>Tôi có vinh dự được thay mặt không chỉ</i>
+<i>đàn ông và phụ nữ của NASA...</i>
+
+285
+00:29:34,607 --> 00:29:36,192
+<i>mà còn cho toàn thể con người</i>
+<i>trên khắp thế giới...</i>
+
+286
+00:29:36,359 --> 00:29:38,570
+Tôi nghĩ bài diễn văn của anh rất hay.
+
+287
+00:29:41,448 --> 00:29:43,116
+Tôi cần anh cấp cho tôi
+quyền sử dụng vệ tinh.
+
+288
+00:29:43,283 --> 00:29:44,826
+Không có chuyện đó đâu.
+
+289
+00:29:44,993 --> 00:29:46,786
+Chúng ta đã được tài trợ
+năm nhiệm vụ Ares.
+
+290
+00:29:46,953 --> 00:29:49,205
+Tôi nghĩ tôi có thể đề nghị Quốc hội
+cấp phép cho nhiệm vụ thứ sáu.
+
+291
+00:29:49,372 --> 00:29:51,458
+- Không.
+- Ares 3 đã rút lui sau 18 ngày Sol.
+
+292
+00:29:51,624 --> 00:29:53,710
+Lượng tiếp tế trên đó
+còn đủ cho một nửa nhiệm vụ.
+
+293
+00:29:53,877 --> 00:29:56,337
+Tôi có thể thuyết phục vì chi phí
+chỉ còn một phần so với thông thường...
+
+294
+00:29:56,504 --> 00:29:58,882
+và tất cả những gì tôi cần biết
+là tài sản của chúng ta còn lại gì.
+
+295
+00:29:59,048 --> 00:30:00,467
+Anh không phải là người duy nhất
+cần sử dụng vệ tinh.
+
+296
+00:30:00,633 --> 00:30:02,594
+Hàng tiếp tế cho nhiệm vụ Ares 4
+sắp khởi hành rồi.
+
+297
+00:30:02,760 --> 00:30:05,013
+Chúng ta nên tập trung
+vào miệng hố Schiaparelli.
+
+298
+00:30:05,263 --> 00:30:07,140
+Được rồi, chúng ta có đến 12 vệ tinh trên
+đó. Rõ ràng là có thể chừa ra vài giờ...
+
+299
+00:30:07,307 --> 00:30:09,309
+Quan trọng không phải ở thời gian
+sử dụng vệ tinh, Vince.
+
+300
+00:30:09,476 --> 00:30:11,603
+Chúng ta là cơ quan nhà nước.
+
+301
+00:30:11,769 --> 00:30:13,062
+- Chúng ta cần minh bạch chuyện này.
+- Được rồi.
+
+302
+00:30:13,229 --> 00:30:14,981
+Ngay khi chúng ta chĩa vệ tinh
+về phía Túp Lều...
+
+303
+00:30:15,148 --> 00:30:18,067
+cả thế giới sẽ nhìn thấy hình ảnh
+thi thể của Mark Watney.
+
+304
+00:30:18,234 --> 00:30:19,611
+Anh lo sợ rắc rối về truyền thông sao?
+
+305
+00:30:19,777 --> 00:30:21,362
+Dĩ nhiên tôi phải lo sợ rắc rối
+về truyền thông rồi.
+
+306
+00:30:21,529 --> 00:30:22,739
+Một nhiệm vụ khác?
+
+307
+00:30:22,906 --> 00:30:25,241
+Quốc hội sẽ không hoàn trả cho chúng ta
+dù chỉ là một cái kẹp giấy...
+
+308
+00:30:25,408 --> 00:30:28,411
+nếu tôi đưa một phi hành gia đã chết
+lên trang bìa tờ Washington Post.
+
+309
+00:30:28,578 --> 00:30:31,080
+Anh ta sẽ không đi đâu cả, Teddy.
+Ý tôi là, anh ta...
+
+310
+00:30:31,539 --> 00:30:34,834
+Anh ta sẽ không phân hủy, anh biết mà.
+Anh ta sẽ ở trên đó mãi mãi.
+
+311
+00:30:35,001 --> 00:30:37,795
+Bên khí tượng dự đoán
+anh ta sẽ bị vùi trong cát...
+
+312
+00:30:37,962 --> 00:30:39,672
+từ các hoạt động thời tiết bình thường
+trong vòng một năm.
+
+313
+00:30:39,839 --> 00:30:41,591
+Nhưng chúng tôi không đợi được một năm.
+Chúng tôi còn việc phải làm.
+
+314
+00:30:41,758 --> 00:30:44,761
+Năm năm nữa Ares 5 cũng chưa phóng.
+Chúng ta có thừa thời gian.
+
+315
+00:30:45,595 --> 00:30:46,596
+Được rồi.
+
+316
+00:30:47,764 --> 00:30:48,765
+Được rồi.
+
+317
+00:30:49,933 --> 00:30:51,267
+Được rồi, hãy nghe thử chuyện này.
+
+318
+00:30:52,769 --> 00:30:56,189
+Hiện tại, thế giới đang ủng hộ chúng ta.
+
+319
+00:30:56,356 --> 00:30:57,815
+Thương cảm cho gia đình Watney.
+
+320
+00:30:58,191 --> 00:31:00,902
+Ares 6 có thể mang thi thể
+của anh ta về.
+
+321
+00:31:01,736 --> 00:31:03,279
+Giờ, chúng ta không nói
+đó là mục tiêu của nhiệm vụ...
+
+322
+00:31:03,446 --> 00:31:05,406
+nhưng chúng ta nói rõ đó
+sẽ là một phần của nhiệm vụ.
+
+323
+00:31:05,573 --> 00:31:06,699
+Chúng ta nói cụ thể như thế.
+
+324
+00:31:07,200 --> 00:31:10,578
+Nhận thêm sự ủng hộ của Quốc hội.
+Nhưng không phải là chờ một năm.
+
+325
+00:31:11,329 --> 00:31:13,331
+Một năm nữa, chẳng còn ai quan tâm.
+
+326
+00:31:28,805 --> 00:31:33,101
+PHÒNG ĐIỀU HÀNH NHIỆM VỤ, NASA
+TRUNG TÂM KHÔNG GIAN JOHNSON
+
+327
+00:31:33,726 --> 00:31:35,937
+01:30 SÁNG
+
+328
+00:31:39,023 --> 00:31:43,403
+MINDY PARK
+PHÒNG LIÊN LẠC VỆ TINH, NASA
+
+329
+00:31:45,071 --> 00:31:46,239
+ĐÃ NHẬN TIN NHẮN
+TỪ VINCENT KAPOOR
+
+330
+00:31:46,406 --> 00:31:47,907
+Vincent Kapoor?
+
+331
+00:31:48,074 --> 00:31:49,158
+CHÀO MINDY,
+HÃY KIỂM TRA CÁC TỌA ĐỘ NÀY:
+
+332
+00:31:49,325 --> 00:31:50,410
+VĨ ĐỘ: 48° 42' 0"
+KINH ĐỘ: 22° 0' 0"
+
+333
+00:31:53,204 --> 00:31:54,914
+6-2.
+
+334
+00:31:55,790 --> 00:31:57,458
+7-6-2.
+
+335
+00:32:00,962 --> 00:32:03,506
+Vùng Acidalia Planitia.
+
+336
+00:32:09,596 --> 00:32:10,305
+NGÀY SOL 54
+
+337
+00:32:10,471 --> 00:32:11,514
+NGÀY SOL 18
+
+338
+00:32:14,517 --> 00:32:15,560
+Cái gì?
+
+339
+00:32:30,700 --> 00:32:31,868
+Chào. Phòng an ninh ạ?
+
+340
+00:32:32,118 --> 00:32:33,620
+Tôi là Mindy Park ở phòng SatCon.
+
+341
+00:32:33,786 --> 00:32:36,247
+Tôi cần liên hệ khẩn cấp
+với Vincent Kapoor.
+
+342
+00:32:37,081 --> 00:32:38,291
+Phải, là ông ấy.
+
+343
+00:32:39,000 --> 00:32:40,668
+Phải, trường hợp khẩn cấp!
+
+344
+00:32:41,628 --> 00:32:44,672
+02:30 SÁNG
+
+345
+00:32:45,923 --> 00:32:46,924
+Chắc chắn cỡ nào?
+
+346
+00:32:47,467 --> 00:32:48,509
+100%.
+
+347
+00:32:49,135 --> 00:32:50,720
+Anh giỡn chơi với tôi rồi.
+
+348
+00:32:50,887 --> 00:32:51,929
+ANNIE MONTROSE - GIÁM ĐỐC
+QUAN HỆ TRUYỀN THÔNG, NASA
+
+349
+00:32:52,013 --> 00:32:53,598
+Chứng minh đi.
+
+350
+00:32:55,224 --> 00:32:56,601
+Đầu tiên...
+
+351
+00:32:57,894 --> 00:32:59,687
+các tấm bảng năng lượng mặt trời
+đã được quét sạch.
+
+352
+00:33:00,396 --> 00:33:01,773
+Có thể là gió đã thổi sạch cát.
+
+353
+00:33:01,939 --> 00:33:04,025
+Quay lại.
+Nhìn chiếc Rover 2 đi.
+
+354
+00:33:04,484 --> 00:33:06,569
+Theo nhật ký, Chỉ huy Lewis
+đã lấy xe ra vào ngày Sol 17...
+
+355
+00:33:06,736 --> 00:33:08,821
+kết nối với Túp Lều để sạc điện.
+
+356
+00:33:09,322 --> 00:33:10,657
+Chiếc xe đã di chuyển.
+
+357
+00:33:10,823 --> 00:33:12,575
+Có thể cô ấy đã di chuyển
+nhưng quên ghi vào nhật ký.
+
+358
+00:33:12,825 --> 00:33:14,035
+Không, không có khả năng.
+
+359
+00:33:14,202 --> 00:33:15,328
+Tại sao không hỏi Lewis cho xong?
+
+360
+00:33:15,495 --> 00:33:17,330
+Hãy đến phòng liên lạc CAPCOM
+và trực tiếp hỏi cô ấy.
+
+361
+00:33:17,580 --> 00:33:18,247
+Không, không.
+
+362
+00:33:18,414 --> 00:33:21,250
+Nếu Watney thật sự còn sống,
+chúng ta không được cho đội Ares 3 biết.
+
+363
+00:33:21,918 --> 00:33:23,252
+Làm sao mà không cho họ biết được?
+
+364
+00:33:23,419 --> 00:33:25,463
+Chuyến về của họ còn đến
+mười tháng nữa.
+
+365
+00:33:25,630 --> 00:33:28,424
+Du hành không gian rất nguy hiểm.
+Họ cần phải tỉnh táo và tập trung.
+
+366
+00:33:28,591 --> 00:33:29,801
+Nhưng họ cũng biết
+là anh ta đã chết rồi mà.
+
+367
+00:33:29,967 --> 00:33:32,887
+Và họ sẽ tuyệt vọng nếu biết
+họ đã bỏ anh ta còn sống trên đó.
+
+368
+00:33:33,096 --> 00:33:35,390
+Tôi xin lỗi,
+nhưng hai anh chưa suy nghĩ kỹ càng.
+
+369
+00:33:35,556 --> 00:33:38,518
+Chúng ta sẽ phải nói gì đây?
+"Hỡi nước Mỹ..."
+
+370
+00:33:38,726 --> 00:33:41,896
+"còn nhớ phi hành gia mà chúng tôi đã
+giết và tổ chức một đám tang rình rang?"
+
+371
+00:33:42,063 --> 00:33:44,565
+"Hóa ra anh ấy còn sống và chúng tôi
+đã bỏ anh ấy lại Sao Hỏa. Xin lỗi."
+
+372
+00:33:44,941 --> 00:33:46,401
+"Chân thành, NASA."
+
+373
+00:33:46,567 --> 00:33:48,986
+Hai anh có nhìn thấy đống gạch đá
+mà chúng ta sắp phải hứng không?
+
+374
+00:33:49,153 --> 00:33:50,655
+Chúng ta sẽ đối mặt với công chúng
+như thế nào?
+
+375
+00:33:51,906 --> 00:33:54,534
+Theo luật pháp, chúng ta có 24 giờ
+để công bố những bức ảnh này.
+
+376
+00:33:54,701 --> 00:33:55,868
+Chúng ta sẽ gởi kèm với thông báo.
+
+377
+00:33:56,035 --> 00:33:57,787
+Chúng ta không muốn người dân
+tự mò ra chuyện này đâu.
+
+378
+00:33:58,621 --> 00:33:59,706
+Vâng, thưa ngài.
+
+379
+00:34:00,164 --> 00:34:03,543
+Nhưng nếu tính toán của tôi đúng,
+anh ta sẽ chết trước khi chúng ta kịp giúp.
+
+380
+00:34:06,546 --> 00:34:08,881
+Mọi người có hình dung được những gì
+anh ta phải trải qua ở trên đó không?
+
+381
+00:34:09,048 --> 00:34:12,260
+Anh ta ở xa quê hương 50 triệu dặm.
+Anh ta nghĩ mình hoàn toàn đơn độc.
+
+382
+00:34:12,427 --> 00:34:13,886
+Anh ta nghĩ
+chúng ta đã bỏ mặc anh ta.
+
+383
+00:34:14,762 --> 00:34:17,390
+Những chuyện đó sẽ ảnh hưởng thế nào
+tới một con người, về mặt tâm lý?
+
+384
+00:34:18,850 --> 00:34:20,893
+Trong đầu anh ta
+đang nghĩ chuyện quái gì vậy nhỉ?
+
+385
+00:34:21,269 --> 00:34:23,771
+NGÀY THỰC HIỆN NHIỆM VỤ
+SOL 54
+
+386
+00:34:24,856 --> 00:34:27,400
+<i>Tôi chắc chắn sẽ chết trên này...</i>
+
+387
+00:34:27,859 --> 00:34:32,029
+<i>nếu phải nghe thêm một bản disco</i>
+<i>gớm ghiếc nữa.</i>
+
+388
+00:34:32,363 --> 00:34:35,825
+Chúa ơi, Chỉ huy Lewis, cô không thể
+mang lên thứ gì của thế kỷ này hả?
+
+389
+00:34:35,992 --> 00:34:38,536
+<i>Hãy đổi nhịp đi nào</i>
+
+390
+00:34:38,703 --> 00:34:42,331
+Không, tôi không "đổi nhịp" đâu.
+Tôi không muốn.
+
+391
+00:34:43,124 --> 00:34:44,709
+Ông Sanders? Ông Sanders?
+
+392
+00:34:46,878 --> 00:34:49,130
+Đã có những nỗ lực gì trong việc
+liên lạc với Mark Watney?
+
+393
+00:34:49,964 --> 00:34:51,340
+Chúng tôi đang tìm cách.
+
+394
+00:34:52,008 --> 00:34:53,551
+Anh ấy có đủ nhu yếu phẩm
+để tồn tại không?
+
+395
+00:34:53,718 --> 00:34:55,303
+Chúng tôi sẽ kiểm tra chuyện này.
+
+396
+00:34:55,470 --> 00:34:58,097
+Cơ quan đã có phản ứng gì?
+Ông sẽ từ chức chứ?
+
+397
+00:34:58,264 --> 00:34:59,140
+Không.
+
+398
+00:34:59,307 --> 00:35:00,558
+Giám đốc Sanders!
+
+399
+00:35:01,517 --> 00:35:03,811
+NGÀY SOL 70
+
+400
+00:35:04,937 --> 00:35:07,398
+<i>Đã đến lúc tính chuyện lâu dài.</i>
+
+401
+00:35:07,899 --> 00:35:09,650
+<i>Nhiệm vụ tiếp theo của NASA là Ares 4...</i>
+
+402
+00:35:10,193 --> 00:35:12,945
+<i>dự kiến</i>
+<i>sẽ hạ cánh xuống hố Schiaparelli...</i>
+
+403
+00:35:13,112 --> 00:35:15,156
+<i>cách chỗ tôi 3200 ki-lô-mét.</i>
+
+404
+00:35:15,573 --> 00:35:19,285
+3200 ki-lô-mét.
+
+405
+00:35:19,869 --> 00:35:23,831
+<i>Trong bốn năm, khi phi hành đoàn</i>
+<i>Ares tiếp theo đến, tôi phải có mặt ở đó.</i>
+
+406
+00:35:24,874 --> 00:35:26,751
+<i>Nghĩa là tôi phải đến được cái hố.</i>
+
+407
+00:35:29,253 --> 00:35:31,047
+<i>Được rồi, cái khó là đây.</i>
+
+408
+00:35:31,130 --> 00:35:33,216
+<i>Tôi có một chiếc Rover còn hoạt động</i>
+
+409
+00:35:33,299 --> 00:35:36,469
+<i>được chế tạo để di chuyển quãng đường</i>
+<i>tối đa là 35 ki-lô-mét...</i>
+
+410
+00:35:36,636 --> 00:35:39,514
+<i>rồi phải quay về Túp Lều để sạc điện.</i>
+
+411
+00:35:40,306 --> 00:35:41,641
+<i>Đó là Vấn đề A.</i>
+
+412
+00:35:42,183 --> 00:35:49,023
+<i>Vấn đề B là hành trình này sẽ mất</i>
+<i>khoảng 50 ngày để hoàn thành.</i>
+
+413
+00:35:49,190 --> 00:35:51,275
+<i>Vậy là tôi phải sống 50 ngày...</i>
+
+414
+00:35:51,567 --> 00:35:55,029
+<i>trong một chiếc Rover kích thước</i>
+<i>cỡ xe tải nhỏ có thiết bị trợ sinh hạn chế.</i>
+
+415
+00:35:57,907 --> 00:36:01,702
+<i>Cho nên, đối mặt với rủi ro quá cao,</i>
+<i>tôi chỉ còn một lựa chọn duy nhất.</i>
+
+416
+00:36:02,245 --> 00:36:05,456
+<i>Tôi sẽ phải dùng khoa học</i>
+<i>để giải quyết ca khó này.</i>
+
+417
+00:36:08,417 --> 00:36:10,795
+ROVER 2
+CAMERA HÀNH TRÌNH
+
+418
+00:36:32,275 --> 00:36:34,819
+Được rồi, vậy là thành công rồi.
+
+419
+00:36:39,657 --> 00:36:43,703
+Tôi đã nhân đôi lượng pin bằng cách
+tận dụng chiếc Rover 1.
+
+420
+00:36:44,912 --> 00:36:47,707
+Nhưng nếu tôi dùng máy sưởi...
+
+421
+00:36:49,083 --> 00:36:53,462
+tôi sẽ tiêu tốn hết một nửa lượng pin
+mỗi ngày.
+
+422
+00:36:55,172 --> 00:36:58,801
+Nếu tôi không sử dụng máy sưởi,
+tôi sẽ...
+
+423
+00:37:00,094 --> 00:37:03,306
+chết dần do các định luật
+của nhiệt động lực học.
+
+424
+00:37:03,472 --> 00:37:08,728
+Tôi rất muốn giải quyết vấn đề này
+ngay bây giờ nhưng thật không may...
+
+425
+00:37:08,895 --> 00:37:11,230
+<i>tôi đóng băng rồi.</i>
+
+426
+00:37:13,232 --> 00:37:15,067
+Tôi không thể.
+Tôi hủy đây. Tôi hủy đây.
+
+427
+00:37:27,580 --> 00:37:31,042
+<i>Tin tốt, có lẽ tôi có giải pháp</i>
+<i>giải quyết vấn đề về nhiệt của tôi.</i>
+
+428
+00:37:31,208 --> 00:37:35,922
+<i>Tin xấu, tôi phải đào</i>
+<i>Máy Phát nhiệt Phóng xạ (RTG) lên.</i>
+
+429
+00:37:36,422 --> 00:37:37,757
+<i>Bây giờ, nếu tôi nhớ chính xác</i>
+
+430
+00:37:37,840 --> 00:37:40,468
+<i>quá trình tập huấn,</i>
+<i>thì một trong những bài học có tên là...</i>
+
+431
+00:37:40,635 --> 00:37:43,846
+<i>"Đừng Có Đào Cái Hộp</i>
+<i>Chứa Plutonium Lên, Mark."</i>
+
+432
+00:37:44,013 --> 00:37:48,017
+<i>Tôi hiểu. RTG hữu ích cho phi thuyền,</i>
+<i>nhưng nếu nó nứt vỡ gần con người...</i>
+
+433
+00:37:48,184 --> 00:37:49,101
+<i>thì chẳng còn con người nữa.</i>
+
+434
+00:37:49,268 --> 00:37:51,020
+<i>Chính là lý do chúng tôi chôn nó</i>
+<i>ngay khi vừa hạ cánh.</i>
+
+435
+00:37:51,729 --> 00:37:53,022
+<i>Và chôn cây cờ đó...</i>
+
+436
+00:37:53,189 --> 00:37:56,817
+<i>để chúng tôi không bao giờ ngu tới mức</i>
+<i>vô tình lại gần nó một lần nữa.</i>
+
+437
+00:37:57,610 --> 00:37:59,487
+<i>Nhưng miễn là tôi</i>
+<i>không đập bể nó...</i>
+
+438
+00:38:00,071 --> 00:38:02,865
+<i>Tôi suýt nữa thì hét lên,</i>
+<i>"Mọi chuyện sẽ ổn cả thôi".</i>
+
+439
+00:38:03,366 --> 00:38:05,284
+Bây giờ, quan trọng là,
+tôi không còn thấy lạnh nữa.
+
+440
+00:38:05,451 --> 00:38:08,371
+Và chắc rồi, tôi có thể nghĩ tới
+một sự thật là tôi được giữ ấm...
+
+441
+00:38:08,537 --> 00:38:12,166
+là nhờ tôi đang chở sau lưng một chất
+đồng vị phóng xạ đang phân rã...
+
+442
+00:38:12,333 --> 00:38:15,002
+nhưng lúc này, tôi còn nhiều vấn đề
+lớn hơn cần giải quyết.
+
+443
+00:38:15,169 --> 00:38:19,715
+<i>Tôi đã đọc qua từng tập tin một</i>
+<i>trong ổ cứng cá nhân của Chỉ huy Lewis.</i>
+
+444
+00:38:19,882 --> 00:38:24,095
+<i>Đây chính thức là bài hát</i>
+<i>ít "disco" nhất mà cô ấy có.</i>
+
+445
+00:38:58,963 --> 00:39:00,548
+- Vâng.
+- Cho hỏi Watney đang đi đâu?
+
+446
+00:39:00,715 --> 00:39:02,967
+Chúng tôi tin rằng anh ấy
+đang chuẩn bị cho một hành trình.
+
+447
+00:39:03,134 --> 00:39:05,219
+Anh ấy đang thực hiện
+các thử nghiệm tăng dần...
+
+448
+00:39:05,386 --> 00:39:08,472
+đưa chiếc Rover 2 đi càng xa
+càng tốt cho mỗi chuyến đi.
+
+449
+00:39:10,766 --> 00:39:13,269
+Để làm gì? Tại sao anh ấy lại rời bỏ
+sự an toàn của Túp Lều?
+
+450
+00:39:13,644 --> 00:39:16,480
+Chúng tôi nghĩ rằng anh ấy dự định
+đi đến khu vực phóng của Ares 4...
+
+451
+00:39:16,647 --> 00:39:19,734
+để có thể liên lạc được với chúng tôi,
+nhưng đó sẽ là một ván bài nguy hiểm.
+
+452
+00:39:19,900 --> 00:39:22,570
+<i>Nhưng nếu có thể nói chuyện với anh ấy,</i>
+<i>chúng tôi sẽ bảo anh ấy ở yên...</i>
+
+453
+00:39:22,737 --> 00:39:24,989
+<i>và tin rằng chúng tôi đang làm hết sức</i>
+
+454
+00:39:25,072 --> 00:39:27,366
+<i>có thể trong quyền hạn</i>
+<i>để đưa anh ấy lành lặn trở về.</i>
+
+455
+00:39:27,533 --> 00:39:29,201
+Cám ơn các bạn rất nhiều.
+
+456
+00:39:31,787 --> 00:39:33,622
+Đừng nói "Đưa anh ấy
+lành lặn trở về" chứ, Vincent.
+
+457
+00:39:33,956 --> 00:39:36,125
+Anh biết gì không? Mấy cuộc phỏng vấn
+như thế này không dễ.
+
+458
+00:39:36,292 --> 00:39:39,587
+Cầu Chúa cho tôi đừng nói lời nào
+chủ động và tích cực.
+
+459
+00:39:39,754 --> 00:39:40,671
+Annie.
+
+460
+00:39:40,838 --> 00:39:43,049
+Đừng cho Vincent lên TV nữa.
+Nghe rõ.
+
+461
+00:39:43,424 --> 00:39:46,427
+76 ki-lô-mét.
+Tôi có đọc đúng không vậy?
+
+462
+00:39:46,844 --> 00:39:48,345
+Ông đang hỏi tôi ạ?
+
+463
+00:39:48,512 --> 00:39:49,305
+Đúng vậy.
+
+464
+00:39:49,472 --> 00:39:50,556
+Vâng, thưa ngài.
+
+465
+00:39:50,723 --> 00:39:53,726
+Mark đã chạy xa khỏi Túp Lều
+suốt hai giờ...
+
+466
+00:39:53,893 --> 00:39:55,770
+rời khỏi xe một lúc
+và sau đó đi thêm hai giờ nữa.
+
+467
+00:39:55,936 --> 00:39:58,647
+Chúng tôi nghĩ anh ấy rời khỏi xe
+để thay pin.
+
+468
+00:39:58,814 --> 00:40:01,358
+Anh ta không mang theo máy tạo oxy
+và máy thu hồi nước sao?
+
+469
+00:40:01,734 --> 00:40:04,403
+Cứ mỗi 41 giờ,
+có khoảng 17 phút mất tín hiệu.
+
+470
+00:40:04,570 --> 00:40:06,489
+Quỹ đạo vốn hoạt động như vậy...
+
+471
+00:40:06,655 --> 00:40:09,533
+cho nên khả năng chúng ta đã lỡ mất
+gì đó là có thể.
+
+472
+00:40:09,700 --> 00:40:11,368
+Tôi muốn giảm thời gian mất tín hiệu
+xuống còn bốn phút.
+
+473
+00:40:11,535 --> 00:40:15,539
+Tôi cho cô toàn quyền điều chỉnh
+đường đi và quỹ đạo của vệ tinh.
+
+474
+00:40:15,706 --> 00:40:16,707
+Làm cho xong đi.
+
+475
+00:40:17,166 --> 00:40:18,084
+Vâng ạ.
+
+476
+00:40:18,876 --> 00:40:20,961
+Cứ cho là cô Park
+không bỏ lỡ gì cả.
+
+477
+00:40:21,128 --> 00:40:24,548
+Thì Mark cũng không đến được Ares 4.
+Chưa đến được.
+
+478
+00:40:24,715 --> 00:40:28,052
+Nhưng anh ta đủ thông minh để biết
+đó là cơ hội duy nhất.
+
+479
+00:40:28,219 --> 00:40:30,679
+Bruce, sớm nhất thì bao lâu chúng ta
+có thể đưa hàng tiếp tế lên lại?
+
+480
+00:40:31,138 --> 00:40:34,058
+<i>Với vị trí của Trái Đất và Sao Hỏa,</i>
+<i>phải mất bốn tháng.</i>
+
+481
+00:40:34,225 --> 00:40:36,310
+BRUCE NG - GIÁM ĐỐC PHÒNG
+THÍ NGHIỆM SỨC ĐẨY PHẢN LỰC (JPL)
+
+482
+00:40:36,477 --> 00:40:38,646
+<i>Trước tiên cũng phải mất sáu tháng</i>
+<i>để chế tạo tàu.</i>
+
+483
+00:40:38,813 --> 00:40:39,855
+Ba tháng.
+
+484
+00:40:40,648 --> 00:40:41,315
+Ba?
+
+485
+00:40:41,482 --> 00:40:44,193
+<i>Anh sẽ nói là không thể</i>
+<i>và rồi tôi sẽ tổ chức họp báo...</i>
+
+486
+00:40:44,360 --> 00:40:46,695
+<i>về năng lực chói lóa</i>
+<i>của đội ngũ JPL...</i>
+
+487
+00:40:46,862 --> 00:40:49,031
+<i>và rồi anh sẽ phải làm phép tính</i>
+<i>trong đầu và nói những câu như...</i>
+
+488
+00:40:49,198 --> 00:40:51,117
+"Riêng việc làm quá giờ thôi
+đã là ác mộng rồi."
+
+489
+00:40:51,283 --> 00:40:53,327
+<i>Riêng việc làm quá giờ thôi</i>
+<i>đã là ác mộng rồi.</i>
+
+490
+00:40:53,494 --> 00:40:54,411
+Bắt tay vào làm đi.
+
+491
+00:40:54,578 --> 00:40:55,955
+Tôi sẽ kiếm tiền cho các anh.
+
+492
+00:40:57,164 --> 00:40:58,040
+Chúng ta cần phải cho
+phi hành đoàn biết.
+
+493
+00:40:58,124 --> 00:40:58,958
+MITCH HENDERSON - GIÁM ĐỐC
+HÀNH TRÌNH CỦA HERMES, NASA
+
+494
+00:40:59,041 --> 00:41:00,042
+Mitch, chúng ta đã bàn chuyện này rồi.
+
+495
+00:41:00,209 --> 00:41:01,460
+Không, anh đã bàn chuyện này rồi.
+
+496
+00:41:01,877 --> 00:41:05,005
+Tôi là người quyết định điều gì
+là tốt nhất cho phi hành đoàn.
+
+497
+00:41:06,423 --> 00:41:07,675
+Họ xứng đáng được biết.
+
+498
+00:41:09,260 --> 00:41:11,095
+Khi nào có kế hoạch giải cứu cụ thể,
+chúng ta sẽ cho họ biết.
+
+499
+00:41:11,262 --> 00:41:12,596
+Còn không, thì còn phải bàn lại.
+
+500
+00:41:13,055 --> 00:41:15,474
+Bruce có ba tháng
+để chuẩn bị xong tàu tiếp tế.
+
+501
+00:41:15,641 --> 00:41:17,434
+Đó là vấn đề quan trọng nhất lúc này.
+
+502
+00:41:17,601 --> 00:41:18,602
+<i>Chúng tôi sẽ cố hết sức.</i>
+
+503
+00:41:19,311 --> 00:41:21,605
+Mark sẽ chết nếu anh không cố.
+
+504
+00:41:21,939 --> 00:41:23,190
+NGÀY SOL 79
+
+505
+00:41:23,315 --> 00:41:26,861
+<i>Đã 48 ngày Sol</i>
+<i>kể từ khi tôi trồng khoai tây.</i>
+
+506
+00:41:27,027 --> 00:41:29,071
+<i>Đã đến lúc để thu hoạch</i>
+<i>và gieo trồng tiếp.</i>
+
+507
+00:41:29,238 --> 00:41:31,740
+<i>Chúng mọc còn tốt hơn tôi mong đợi.</i>
+
+508
+00:41:31,907 --> 00:41:34,743
+<i>Tôi bây giờ</i>
+<i>có 400 cây khoai tây khỏe mạnh.</i>
+
+509
+00:41:34,994 --> 00:41:38,205
+<i>Tôi đào chúng lên,</i>
+<i>thật cẩn thận để cây vẫn còn sống.</i>
+
+510
+00:41:38,372 --> 00:41:42,084
+<i>Những củ nhỏ tôi sẽ trồng lại,</i>
+<i>những củ lớn là nguồn lương thực của tôi.</i>
+
+511
+00:41:42,251 --> 00:41:46,088
+<i>Toàn bộ đều là khoai tây tự nhiên,</i>
+<i>hữu cơ, được trồng trên Sao Hỏa.</i>
+
+512
+00:41:46,255 --> 00:41:48,507
+<i>Đâu phải ngày nào các bạn cũng được</i>
+<i>nghe nói chuyện này, đúng không?</i>
+
+513
+00:41:49,175 --> 00:41:50,885
+<i>Và nhân tiện, mấy chuyện này</i>
+<i>chẳng quan trọng gì nữa...</i>
+
+514
+00:41:51,051 --> 00:41:54,180
+<i>nếu như tôi không tìm ra cách</i>
+<i>liên lạc với NASA.</i>
+
+515
+00:41:59,101 --> 00:42:00,394
+TEMPLE TERRA
+VÙNG CHRYSE PLANITIA
+
+516
+00:42:15,701 --> 00:42:17,119
+<i>Tôi biết mình phải làm gì.</i>
+
+517
+00:42:45,814 --> 00:42:46,982
+Anh ấy lại di chuyển.
+
+518
+00:42:47,149 --> 00:42:49,485
+Anh ta đi đâu vậy nhỉ?
+
+519
+00:42:49,652 --> 00:42:51,820
+Đã 13 ngày rồi
+anh ta không thay đổi lộ trình.
+
+520
+00:42:51,987 --> 00:42:53,989
+Anh ta còn chẳng đến gần Ares 4.
+
+521
+00:42:54,490 --> 00:42:56,283
+Trừ khi anh ấy không đi đường thẳng.
+
+522
+00:42:56,450 --> 00:43:00,496
+Có lẽ anh ấy muốn tránh
+các chướng ngại.
+
+523
+00:43:00,663 --> 00:43:01,830
+Chướng ngại nào?
+
+524
+00:43:02,331 --> 00:43:05,501
+Đó là bình nguyên Acidalia Planitia.
+Chẳng có gì ở đó ngoại trừ...
+
+525
+00:43:08,128 --> 00:43:09,255
+Cái gì?
+
+526
+00:43:12,675 --> 00:43:14,593
+Tôi cần bản đồ.
+
+527
+00:43:21,016 --> 00:43:22,017
+Đây.
+
+528
+00:43:22,685 --> 00:43:23,978
+Này, thôi nào.
+Anh làm gì vậy?
+
+529
+00:43:24,144 --> 00:43:25,521
+Không sao đâu. Không sao đâu.
+Tôi mượn một lát được không?
+
+530
+00:43:26,689 --> 00:43:28,190
+Được rồi, vậy vị trí
+của Túp Lều ở đâu?
+
+531
+00:43:28,857 --> 00:43:31,527
+31,2 độ Bắc,
+28,5 độ Tây.
+
+532
+00:43:31,694 --> 00:43:32,361
+Được rồi.
+
+533
+00:43:32,861 --> 00:43:33,862
+Watney ở đâu?
+
+534
+00:43:35,030 --> 00:43:35,864
+Đây.
+
+535
+00:43:36,031 --> 00:43:37,116
+Được rồi.
+
+536
+00:43:43,372 --> 00:43:45,874
+Được rồi.
+Tôi đã biết anh ta đang đi đâu.
+
+537
+00:43:46,542 --> 00:43:48,043
+Tôi cần phải bắt máy bay.
+
+538
+00:44:18,365 --> 00:44:20,576
+PHÒNG THÍ NGHIỆM JPL
+PASADENA, BANG CALIFORNIA
+
+539
+00:44:20,743 --> 00:44:23,203
+- Vincent, anh khỏe không?
+- Rất vui được gặp anh.
+
+540
+00:44:23,370 --> 00:44:24,747
+Chuyến bay ổn chứ?
+
+541
+00:44:24,913 --> 00:44:25,914
+Vâng.
+
+542
+00:44:26,749 --> 00:44:29,251
+Con tàu được cất giữ ngay bên kia.
+
+543
+00:45:03,577 --> 00:45:04,953
+Chào, Vincent, rất vui được gặp lại anh.
+
+544
+00:45:05,120 --> 00:45:05,954
+Rất vui được gặp anh.
+
+545
+00:45:06,121 --> 00:45:08,457
+Khả năng Mark làm cho tàu hoạt động
+trở lại là bao nhiêu?
+
+546
+00:45:08,624 --> 00:45:12,127
+Khó mà nói được.
+Chúng tôi đã mất liên lạc từ năm 97.
+
+547
+00:45:12,294 --> 00:45:14,463
+Chúng tôi nghĩ là do pin hỏng.
+
+548
+00:45:14,630 --> 00:45:18,425
+Nhưng tôi muốn nhấn mạnh là nó
+đã chạy lâu hơn ba lần so với mong đợi...
+
+549
+00:45:18,592 --> 00:45:19,927
+Chẳng ai chỉ trích
+thành quả của JPL cả, Bruce.
+
+550
+00:45:20,094 --> 00:45:21,887
+Tôi chỉ cần nói chuyện với tất cả
+những người từng làm ở đây năm 97.
+
+551
+00:45:22,054 --> 00:45:23,806
+Họ đã đến đủ.
+Mọi người.
+
+552
+00:45:23,972 --> 00:45:25,307
+Tôi xin giới thiệu Vincent Kapoor.
+
+553
+00:45:25,474 --> 00:45:27,309
+Giám đốc các Nhiệm vụ Sao Hỏa
+của NASA.
+
+554
+00:45:27,476 --> 00:45:28,477
+Đây là đội ngũ hiện tại
+của chúng tôi...
+
+555
+00:45:29,228 --> 00:45:31,480
+và đây là các thành viên
+thuộc dự án đầu tiên.
+
+556
+00:45:47,329 --> 00:45:49,123
+- Đây là bản sao à?
+- Đúng vậy.
+
+557
+00:45:49,289 --> 00:45:50,999
+Được rồi. Cùng xem nào.
+
+558
+00:45:51,667 --> 00:45:53,085
+<i>Pathfinder.</i>
+
+559
+00:45:58,632 --> 00:46:00,092
+<i>Pathfinder.</i>
+
+560
+00:46:20,821 --> 00:46:22,865
+NGÀY SOL 109
+
+561
+00:47:10,913 --> 00:47:12,873
+Cố lên. Cố lên.
+
+562
+00:47:33,435 --> 00:47:35,437
+Tía ơi. Được rồi.
+
+563
+00:47:36,230 --> 00:47:37,481
+"Tình trạng phát sóng."
+
+564
+00:47:37,648 --> 00:47:38,982
+"Đang lắng nghe tín hiệu viễn trắc."
+
+565
+00:47:41,068 --> 00:47:43,278
+Được rồi. Đã thu được tín hiệu.
+
+566
+00:47:44,446 --> 00:47:45,614
+- Tốt lắm.
+- Rồi.
+
+567
+00:47:45,781 --> 00:47:46,823
+Camera.
+
+568
+00:48:36,331 --> 00:48:38,041
+Đang nhận hình ảnh.
+
+569
+00:48:40,294 --> 00:48:42,963
+"Mọi người có nhận được
+tín hiệu của tôi không?"
+
+570
+00:48:44,006 --> 00:48:46,133
+"Có. Không."
+
+571
+00:48:47,801 --> 00:48:49,803
+Được rồi, xoay camera về chữ "có".
+
+572
+00:48:50,387 --> 00:48:52,806
+Tốn 32 phút để tín hiệu
+đi hết một vòng.
+
+573
+00:48:52,973 --> 00:48:54,349
+Mà anh ta chỉ biết hỏi những câu hỏi
+có hoặc không...
+
+574
+00:48:54,516 --> 00:48:56,393
+và chúng ta chỉ biết xoay camera.
+
+575
+00:48:56,560 --> 00:48:59,146
+Đây chẳng phải là Hội nghị Bàn tròn
+thích đối đáp ở Algonquin.
+
+576
+00:48:59,313 --> 00:49:00,981
+- Cậu đang đùa tôi sao?
+- Tim, Tim.
+
+577
+00:49:01,148 --> 00:49:02,691
+- Cứ xoay camera đi.
+- Rõ.
+
+578
+00:49:03,358 --> 00:49:05,694
+Đang xoay camera.
+
+579
+00:49:20,334 --> 00:49:21,335
+Tuyệt vời!
+
+580
+00:49:22,878 --> 00:49:23,879
+Tuyệt vời!
+
+581
+00:49:25,339 --> 00:49:27,007
+<i>Cái khó là đây.</i>
+
+582
+00:49:27,674 --> 00:49:30,010
+<i>Bằng cách nào đó chúng tôi phải trao đổi</i>
+
+583
+00:49:30,093 --> 00:49:32,512
+<i>thông tin phức tạp</i>
+<i>cỡ kỹ sư vật lý thiên văn...</i>
+
+584
+00:49:33,013 --> 00:49:36,058
+<i>chẳng dùng gì ngoài một cái máy</i>
+<i>camera chụp hình tĩnh</i>
+
+585
+00:49:37,017 --> 00:49:38,727
+<i>từ năm 1996.</i>
+
+586
+00:49:41,897 --> 00:49:43,273
+<i>May mắn là...</i>
+
+587
+00:49:45,067 --> 00:49:46,943
+<i>cái camera xoay được.</i>
+
+588
+00:49:47,444 --> 00:49:49,237
+Vì thế tôi phải làm một bảng chữ cái.
+
+589
+00:49:49,780 --> 00:49:51,448
+Không thể là bảng chữ cái thông thường.
+
+590
+00:49:51,615 --> 00:49:56,578
+26 ký tự cộng với một bảng dấu hỏi
+đặt quanh 360 độ thì mỗi cung là 13 độ.
+
+591
+00:49:56,745 --> 00:50:00,874
+Như thế thì quá hẹp. Tôi sẽ không bao giờ
+nhìn ra camera đang chỉ vào đâu.
+
+592
+00:50:13,303 --> 00:50:14,471
+Hệ số thập lục phân.
+
+593
+00:50:18,975 --> 00:50:20,560
+Hệ số thập lục phân
+ra tay cứu nguy.
+
+594
+00:50:20,977 --> 00:50:24,481
+<i>Tôi đoán một trong số các bạn</i>
+<i>có giữ một bảng ASCII đâu đó.</i>
+
+595
+00:50:24,648 --> 00:50:25,774
+<i>Và tôi đã đoán đúng.</i>
+
+596
+00:50:25,941 --> 00:50:30,070
+<i>Quý vị và các bạn, tôi xin giới thiệu</i>
+<i>siêu mọt sách Beth Johanssen.</i>
+
+597
+00:50:30,612 --> 00:50:33,490
+<i>Cũng là người đã cài Zork II...</i>
+
+598
+00:50:33,657 --> 00:50:36,660
+<i>và Lether Goddesses of Phobos</i>
+<i>trên laptop cá nhân của cô ấy.</i>
+
+599
+00:50:37,828 --> 00:50:39,246
+<i>Thật đấy, Johanssen...</i>
+
+600
+00:50:39,413 --> 00:50:42,082
+cái máy của cô giống như viện
+bảo tàng cô đơn vậy.
+
+601
+00:50:42,332 --> 00:50:43,458
+<i>Không phải tôi than phiền gì đâu.</i>
+
+602
+00:50:43,625 --> 00:50:44,167
+Đúng vậy!
+
+603
+00:50:44,334 --> 00:50:46,420
+<i>Tôi là ai mà dám nói về</i>
+<i>sự cô đơn chứ?</i>
+
+604
+00:51:06,523 --> 00:51:08,817
+Tôi biết anh ấy đang định làm gì.
+
+605
+00:51:56,907 --> 00:51:58,325
+"F, O."
+
+606
+00:51:59,201 --> 00:52:00,827
+"7, W."
+
+607
+00:52:08,752 --> 00:52:15,008
+SỐNG THẾ NÀO?
+
+608
+00:52:18,887 --> 00:52:19,596
+Vincent.
+
+609
+00:52:19,763 --> 00:52:21,848
+Vincent, tỉnh dậy.
+
+610
+00:52:26,394 --> 00:52:27,395
+TÔI KHÔNG SAO
+
+611
+00:52:27,562 --> 00:52:29,731
+BỊ ĂNG-TEN ĐÂM XUYÊN
+MÁY THEO DÕI SINH HỌC BỊ HƯ
+
+612
+00:52:29,898 --> 00:52:32,943
+PHI HÀNH ĐOÀN CÓ LÝ DO ĐỂ NGHĨ
+TÔI ĐÃ CHẾT, HỌ KHÔNG CÓ LỖl.
+
+613
+00:52:33,777 --> 00:52:36,613
+<i>Giờ thì chúng tôi đã có được</i>
+<i>những cuộc trò chuyện phức tạp hơn...</i>
+
+614
+00:52:36,780 --> 00:52:40,534
+<i>những con người thông minh ở NASA</i>
+<i>đã hướng dẫn tôi cách hack chiếc Rover</i>
+
+615
+00:52:40,700 --> 00:52:42,953
+<i>để nó có thể nói chuyện với Pathfinder.</i>
+
+616
+00:52:43,119 --> 00:52:44,871
+<i>Nếu tôi thêm một đoạn mã nhỏ xíu...</i>
+
+617
+00:52:45,038 --> 00:52:47,916
+<i>khoảng 20 dòng lệnh vào hệ điều hành</i>
+<i>của chiếc Rover...</i>
+
+618
+00:52:48,458 --> 00:52:51,419
+<i>NASA có thể kết nối chiếc Rover đến</i>
+<i>tần số phát sóng của Pathfinder...</i>
+
+619
+00:52:52,254 --> 00:52:54,589
+<i>và chúng tôi có thể làm ăn.</i>
+
+620
+00:53:07,936 --> 00:53:08,895
+"Mark..."
+
+621
+00:53:09,312 --> 00:53:11,606
+"tôi là Vincent Kapoor."
+
+622
+00:53:11,940 --> 00:53:15,110
+"Chúng tôi đã quan sát anh từ Sol 54."
+
+623
+00:53:16,111 --> 00:53:18,572
+<i>"Cả thế giới đang cổ vũ cho anh."</i>
+
+624
+00:53:19,573 --> 00:53:22,909
+<i>"Anh rất giỏi khi tìm được Pathfinder."</i>
+
+625
+00:53:23,076 --> 00:53:25,161
+<i>"Chúng tôi đang lên kế hoạch giải cứu."</i>
+
+626
+00:53:25,495 --> 00:53:28,582
+<i>"Trong lúc đó, chúng tôi đang chuẩn bị</i>
+<i>một nhiệm vụ đưa hàng tiếp tế..."</i>
+
+627
+00:53:28,748 --> 00:53:33,420
+"để giúp anh có đủ lương thực
+cho đến khi Ares 4 đến."
+
+628
+00:53:38,800 --> 00:53:41,928
+Mark, tôi là Vincent Kapoor.
+Chúng tôi đã quan sát anh từ SOL 54.
+
+629
+00:53:45,515 --> 00:53:48,310
+Anh rất giỏi khi tìm được Pathfinder.
+Chúng tôi đang lên kế hoạch giải cứu.
+
+630
+00:53:50,353 --> 00:53:51,479
+Tốt rồi.
+
+631
+00:53:52,772 --> 00:53:56,192
+Rất mừng khi nhận được tin.
+
+632
+00:54:01,364 --> 00:54:02,365
+Được rồi.
+
+633
+00:54:03,283 --> 00:54:05,660
+"Rất mừng khi nhận được tin.
+Thật sự rất mong là không phải chết."
+
+634
+00:54:14,002 --> 00:54:17,672
+Phi hành đoàn thế nào?
+
+635
+00:54:17,964 --> 00:54:19,382
+"Phi hành đoàn thế nào?"
+
+636
+00:54:19,549 --> 00:54:22,218
+"Họ đã nói gì khi biết
+tôi vẫn còn sống?"
+
+637
+00:54:38,234 --> 00:54:42,030
+Có nhận được không? Mark.
+
+638
+00:54:43,239 --> 00:54:45,325
+Mọi người, có thể cho chúng tôi xin
+một chút không gian không?
+
+639
+00:54:46,034 --> 00:54:46,868
+Tôi hả?
+
+640
+00:54:47,035 --> 00:54:48,203
+Phải, cậu.
+
+641
+00:54:48,370 --> 00:54:49,579
+Một lát thôi.
+
+642
+00:54:56,044 --> 00:54:57,545
+Cứ nói với anh ấy.
+
+643
+00:55:06,262 --> 00:55:12,227
+"Chúng tôi vẫn chưa báo cho
+phi hành đoàn biết."
+
+644
+00:55:13,937 --> 00:55:18,233
+"Chúng ta cần họ tập trung
+cho nhiệm vụ quay về."
+
+645
+00:55:28,410 --> 00:55:29,411
+Chúng tôi vẫn chưa báo
+cho phi hành đoàn biết.
+
+646
+00:55:29,536 --> 00:55:30,453
+Chúng ta cần họ tập trung
+cho nhiệm vụ quay về.
+
+647
+00:55:42,424 --> 00:55:45,135
+Được rồi, anh ấy nói,
+"Họ không biết tôi còn sống?"
+
+648
+00:55:45,301 --> 00:55:47,053
+"Cái... quái gì vậy?"
+
+649
+00:55:47,220 --> 00:55:50,098
+Chữ "quái" là tôi nói tránh. "Các người bị",
+cái quái một lần nữa, "gì vậy?"
+
+650
+00:55:52,726 --> 00:55:56,271
+"Mark, làm ơn dùng từ cẩn thận."
+
+651
+00:55:56,438 --> 00:56:02,569
+"Những gì anh gõ đang được phát sóng
+trực tiếp trên toàn thế giới."
+
+652
+00:56:05,280 --> 00:56:06,281
+Vậy sao?
+
+653
+00:56:14,581 --> 00:56:15,582
+<i>Ôi lạy Chúa.</i>
+
+654
+00:56:18,626 --> 00:56:21,588
+Vâng, thưa ngài.
+Anh ta đang chịu căng thẳng rất lớn.
+
+655
+00:56:23,006 --> 00:56:24,299
+Tôi hiểu.
+Chúng tôi đang lo chuyện đó.
+
+656
+00:56:24,924 --> 00:56:26,760
+Tôi chắc chắn anh ấy
+không cố ý nói như thế.
+
+657
+00:56:26,926 --> 00:56:28,470
+Cám ơn, thưa Tổng thống.
+
+658
+00:56:30,305 --> 00:56:31,514
+Vấn đề là, Mark nói đúng.
+
+659
+00:56:31,681 --> 00:56:33,975
+Chúng ta càng đợi lâu,
+tình hình càng tồi tệ.
+
+660
+00:56:34,142 --> 00:56:35,351
+Chúng ta cần phải báo
+cho phi hành đoàn.
+
+661
+00:56:35,518 --> 00:56:38,104
+Anh lôi chuyện này ra nói
+trong khi Vincent đang ở Pasadena...
+
+662
+00:56:38,271 --> 00:56:39,773
+để anh ta không thể phản biện lại.
+
+663
+00:56:39,939 --> 00:56:41,524
+Lẽ ra tôi không nên nghe theo Vincent.
+
+664
+00:56:41,691 --> 00:56:43,318
+Hay bất kỳ ai.
+
+665
+00:56:45,445 --> 00:56:47,030
+Đến lúc rồi, Teddy.
+
+666
+00:56:49,991 --> 00:56:54,662
+TÀU HERMES - BỐN THÁNG
+SAU KHI KHỞI HÀNH TỪ SAO HỎA
+
+667
+00:57:10,970 --> 00:57:12,472
+<i>Chỉ huy Lewis?</i>
+
+668
+00:57:12,639 --> 00:57:13,681
+Nói đi.
+
+669
+00:57:14,516 --> 00:57:16,226
+<i>Sắp hoàn tất chuyển dữ liệu.</i>
+
+670
+00:57:17,519 --> 00:57:19,354
+Nghe rõ. Tôi đến đây.
+
+671
+00:57:32,367 --> 00:57:33,576
+Anh có vẻ gấp.
+
+672
+00:57:33,743 --> 00:57:34,911
+Phải.
+
+673
+00:57:35,078 --> 00:57:37,038
+Hôm qua là sinh nhật ba tuổi
+của con trai tôi.
+
+674
+00:57:37,205 --> 00:57:39,040
+Chắc sẽ có hình chụp buổi tiệc.
+
+675
+00:57:49,509 --> 00:57:53,680
+Có một nhóm email cá nhân.
+Đang chuyển về laptop của mọi người.
+
+676
+00:57:54,848 --> 00:57:58,059
+Tôi không cần đọc các email gợi dục
+bằng tiếng Đức của Vogel đâu.
+
+677
+00:57:58,226 --> 00:57:59,894
+Chúng được cập nhật
+bằng sóng viễn trắc đó.
+
+678
+00:58:00,228 --> 00:58:01,437
+Này, anh thấy vui là tốt rồi.
+
+679
+00:58:02,021 --> 00:58:02,897
+TẬP TIN VIDEO: ĐÃ NHẬN
+
+680
+00:58:03,064 --> 00:58:04,190
+Có một tin nhắn video.
+
+681
+00:58:04,357 --> 00:58:06,025
+Gởi cho toàn bộ phi hành đoàn.
+
+682
+00:58:06,734 --> 00:58:08,778
+Mở đi. Đến đây nào mọi người.
+
+683
+00:58:09,237 --> 00:58:11,072
+Tôi rất muốn được tham gia vào
+trò vui bằng sóng viễn trắc này.
+
+684
+00:58:14,951 --> 00:58:17,745
+<i>Là Mitch đây. Mitch Henderson.</i>
+
+685
+00:58:18,246 --> 00:58:20,081
+<i>Tôi có tin tức.</i>
+
+686
+00:58:20,248 --> 00:58:22,917
+<i>Không có cách nào để nói tế nhị hơn.</i>
+
+687
+00:58:23,626 --> 00:58:25,545
+<i>Mark Watney vẫn còn sống.</i>
+
+688
+00:58:25,712 --> 00:58:27,088
+Ôi lạy Chúa.
+
+689
+00:58:27,755 --> 00:58:31,384
+<i>Tôi biết tin rất bất ngờ và tôi biết</i>
+<i>các bạn sẽ có rất nhiều câu hỏi.</i>
+
+690
+00:58:31,551 --> 00:58:34,262
+<i>Nhưng cơ bản là như thế này.</i>
+
+691
+00:58:34,429 --> 00:58:36,931
+<i>Anh ấy còn sống và khỏe mạnh.</i>
+
+692
+00:58:38,433 --> 00:58:42,228
+<i>Chúng tôi biết được từ hai tháng trước</i>
+<i>và quyết định không cho các bạn biết.</i>
+
+693
+00:58:42,604 --> 00:58:43,771
+- Hai tháng?
+- Ôi Chúa ơi.
+
+694
+00:58:43,938 --> 00:58:46,065
+<i>Tôi đã kịch liệt phản đối quyết định đó.</i>
+
+695
+00:58:46,733 --> 00:58:49,485
+<i>Đến bây giờ chúng tôi mới báo</i>
+<i>cho các bạn biết bởi vì...</i>
+
+696
+00:58:49,652 --> 00:58:51,988
+<i>cuối cùng chúng tôi</i>
+<i>cũng liên lạc được với anh ấy</i>
+
+697
+00:58:52,488 --> 00:58:54,949
+<i>và có một kế hoạch giải cứu</i>
+<i>có thể thực hiện được.</i>
+
+698
+00:58:55,408 --> 00:58:59,120
+<i>Chúng tôi sẽ cập nhật cho các bạn những</i>
+<i>gì đã xảy ra, một báo cáo đầy đủ chi tiết.</i>
+
+699
+00:58:59,287 --> 00:59:00,788
+<i>Nhưng đó không phải là lỗi</i>
+<i>của các bạn.</i>
+
+700
+00:59:00,955 --> 00:59:03,583
+<i>Mark nhấn mạnh điều đó</i>
+<i>mỗi khi nhắc đến.</i>
+
+701
+00:59:04,626 --> 00:59:07,128
+<i>Cho nên... Vâng...</i>
+
+702
+00:59:09,088 --> 00:59:11,090
+<i>Hãy bình tĩnh tiếp nhận tin tức này.</i>
+
+703
+00:59:11,633 --> 00:59:15,845
+<i>Và gởi bất kỳ câu hỏi nào các bạn</i>
+<i>muốn hỏi. Chúng tôi sẽ trả lời.</i>
+
+704
+00:59:17,180 --> 00:59:18,806
+<i>Được rồi. Henderson ngưng.</i>
+
+705
+00:59:19,182 --> 00:59:20,975
+Ôi trời ơi, anh ấy còn sống.
+
+706
+00:59:21,976 --> 00:59:23,102
+Tôi đã bỏ anh ấy lại.
+
+707
+00:59:23,269 --> 00:59:24,312
+- Không.
+- Không.
+
+708
+00:59:24,437 --> 00:59:26,022
+Tất cả chúng ta
+đã cùng nhau bỏ đi.
+
+709
+00:59:26,189 --> 00:59:27,941
+Mọi người chỉ làm theo lệnh mà thôi.
+
+710
+00:59:31,611 --> 00:59:33,613
+Tôi đã bỏ anh ấy lại.
+
+711
+00:59:41,829 --> 00:59:43,122
+NGÀY SOL 128
+
+712
+00:59:43,289 --> 00:59:45,500
+<i>Giờ khi NASA có thể nói chuyện</i>
+<i>với tôi, họ cứ nói mãi không ngừng.</i>
+
+713
+00:59:46,042 --> 00:59:48,836
+<i>Họ muốn cập nhật liên tục</i>
+<i>trên mọi hệ thống của Túp Lều...</i>
+
+714
+00:59:49,003 --> 00:59:52,674
+<i>và họ có một căn phòng chật kín người</i>
+<i>cố gắng quản lý vi mô cánh đồng của tôi.</i>
+
+715
+00:59:52,840 --> 00:59:54,300
+<i>Thật là hết sảy.</i>
+
+716
+00:59:55,176 --> 00:59:57,178
+<i>Nghe đây, tôi không có ý</i>
+<i>kiêu căng hay ngạo mạn gì...</i>
+
+717
+00:59:57,345 --> 01:00:02,058
+<i>nhưng tôi là nhà thực vật học</i>
+<i>vĩ đại nhất trên hành tinh này, nên...</i>
+
+718
+01:00:03,559 --> 01:00:06,688
+<i>Một điểm cộng lớn cho việc liên lạc</i>
+<i>trở lại với NASA...</i>
+
+719
+01:00:06,854 --> 01:00:08,231
+<i>là email.</i>
+<i>Tôi có thể gởi nhận trở lại.</i>
+
+720
+01:00:08,398 --> 01:00:10,733
+<i>Các gói dữ liệu lớn</i>
+<i>như khi tôi còn trên tàu</i> Hermes.
+
+721
+01:00:10,900 --> 01:00:12,360
+<i>Tôi còn nhận được email của Tổng thống.</i>
+
+722
+01:00:12,902 --> 01:00:15,488
+<i>Tuy nhiên,</i>
+<i>email hay nhất mà tôi nhận được...</i>
+
+723
+01:00:15,655 --> 01:00:18,408
+<i>là từ Đại học Chicago,</i>
+<i>trường cũ của tôi.</i>
+
+724
+01:00:18,574 --> 01:00:21,077
+Họ nói là một khi
+bạn trồng trọt ở đâu đó...
+
+725
+01:00:21,244 --> 01:00:23,204
+thì bạn chính thức
+chiếm nơi đó làm thuộc địa.
+
+726
+01:00:24,080 --> 01:00:26,332
+<i>Vì thế, dựa theo sự thật,</i>
+
+727
+01:00:27,375 --> 01:00:28,751
+<i>tôi đã chiếm Sao Hỏa làm thuộc địa.</i>
+
+728
+01:00:33,673 --> 01:00:35,717
+Thắng ông rồi nhé, Neil Armstrong.
+
+729
+01:00:36,551 --> 01:00:38,344
+Trong một tin tức khác,
+có một yêu cầu...
+
+730
+01:00:38,511 --> 01:00:42,348
+bảo tôi tạo dáng cho một tấm ảnh
+trong lần phát sóng tiếp theo.
+
+731
+01:00:43,224 --> 01:00:47,353
+Tôi đang không biết nên chọn
+dáng "học sinh trung học năm cuối"...
+
+732
+01:00:47,520 --> 01:00:50,523
+hay dáng "thiếu nữ quyến rũ."
+
+733
+01:00:52,608 --> 01:00:55,403
+Nhưng tôi không chắc khi mặc đồ du
+hành vào thì tôi trông như thế nào nữa.
+
+734
+01:01:25,266 --> 01:01:26,768
+Anh ta làm gì vậy?
+
+735
+01:01:26,934 --> 01:01:28,978
+Tôi hỏi xin một tấm hình, rồi sao,
+anh ta giơ ngón cái?
+
+736
+01:01:29,145 --> 01:01:30,813
+<i>Có là mừng rồi, Annie.</i>
+
+737
+01:01:30,980 --> 01:01:32,940
+Tôi không dùng hình này được, Vincent,
+anh biết lý do mà.
+
+738
+01:01:33,107 --> 01:01:34,442
+Tôi cần một tấm hình
+có mặt của anh ta.
+
+739
+01:01:34,609 --> 01:01:36,110
+<i>Tôi có thể bảo anh ấy</i>
+<i>tháo nón bảo hộ ra...</i>
+
+740
+01:01:36,277 --> 01:01:37,987
+nhưng anh ấy sẽ chết, cho nên...
+
+741
+01:01:39,489 --> 01:01:41,949
+<i>Chúng ta sẽ công bố bức hình</i>
+<i>cùng với chi tiết chiến dịch giải cứu.</i>
+
+742
+01:01:42,116 --> 01:01:44,994
+Tôi muốn tuyên bố sang năm
+chúng ta sẽ gởi hàng tiếp tế cho anh ấy...
+
+743
+01:01:45,161 --> 01:01:46,662
+trong Giai đoạn Chuyển tiếp Hohmann.
+
+744
+01:01:47,288 --> 01:01:49,499
+Bruce, đội của anh
+vẫn theo kịp tiến độ chứ?
+
+745
+01:01:49,665 --> 01:01:51,626
+<i>Kế hoạch rất gấp,</i>
+<i>nhưng chúng tôi sẽ làm được.</i>
+
+746
+01:01:51,793 --> 01:01:55,838
+Chín tháng du hành vũ trụ. Con tàu
+sẽ đến Sao Hỏa vào ngày Sol 868.
+
+747
+01:01:56,005 --> 01:01:57,757
+Chúng ta nhận được phân tích
+của đội thực vật học chưa?
+
+748
+01:01:57,924 --> 01:02:01,260
+<i>Rồi, họ dự đoán cánh đồng của Mark</i>
+<i>sẽ tồn tại cho đến ngày Sol 912.</i>
+
+749
+01:02:01,427 --> 01:02:04,180
+<i>Họ miễn cưỡng thừa nhận</i>
+<i>là anh ấy đang làm rất tốt.</i>
+
+750
+01:02:04,347 --> 01:02:05,181
+Miễn cưỡng?
+
+751
+01:02:05,348 --> 01:02:07,308
+<i>Phải. Mark có xu hướng bảo họ</i>
+<i>đi tự sướng...</i>
+
+752
+01:02:07,475 --> 01:02:09,310
+<i>mỗi khi họ chất vấn</i>
+<i>các quyết định của anh ấy.</i>
+
+753
+01:02:09,644 --> 01:02:12,855
+Bảo anh ta hợp tác đi, Vincent. Chúng ta
+không được để thông tin sai lệch.
+
+754
+01:02:13,022 --> 01:02:14,273
+Tôi ghét chỗ lương thực
+dự phòng ít ỏi này.
+
+755
+01:02:14,399 --> 01:02:18,069
+Lương thực đủ cho 912 ngày Sol.
+Chúng ta đến đó vào ngày 868.
+
+756
+01:02:18,820 --> 01:02:21,239
+Và đó là trong trường hợp
+không có gì xấu xảy ra.
+
+757
+01:02:30,373 --> 01:02:31,958
+NGUY HIỂM
+ĐIỆN CAO THẾ
+
+758
+01:02:43,428 --> 01:02:44,887
+TÚP LỀU
+NÚT KHÔNG KHÍ
+
+759
+01:02:45,054 --> 01:02:45,847
+CÓ TRỤC TRẶC
+
+760
+01:03:06,534 --> 01:03:09,162
+<i>Phát hiện lỗ hổng trên đồ du hành.</i>
+
+761
+01:03:16,919 --> 01:03:19,422
+<i>Oxy ở mức cực thấp.</i>
+
+762
+01:03:19,964 --> 01:03:21,424
+NHIỆT ĐỘ 6,4
+OXY 13,5
+
+763
+01:03:32,935 --> 01:03:35,730
+Mức oxy, 10%.
+
+764
+01:03:50,369 --> 01:03:52,914
+Mức oxy, 5%.
+
+765
+01:04:02,423 --> 01:04:04,258
+<i>Áp suất của đồ du hành, ổn định.</i>
+
+766
+01:06:00,291 --> 01:06:02,209
+<i>Áp suất ổn định.</i>
+
+767
+01:06:35,743 --> 01:06:38,746
+Trời ơi! Trời ơi! Trời ơi!
+
+768
+01:06:57,682 --> 01:06:59,433
+Cánh đồng đã chết.
+
+769
+01:06:59,600 --> 01:07:01,936
+Áp suất tan biến cũng kéo theo
+hầu hết lượng nước.
+
+770
+01:07:02,103 --> 01:07:05,022
+Bất cứ vi khuẩn nào còn sống,
+cũng đã chết trong nhiệt độ âm...
+
+771
+01:07:05,189 --> 01:07:07,108
+khi tiếp xúc với khí quyển
+của Sao Hỏa.
+
+772
+01:07:07,274 --> 01:07:08,734
+Anh ấy còn bao lâu?
+
+773
+01:07:10,236 --> 01:07:13,781
+Anh ấy vẫn có thể ăn số khoai tây
+còn lại, chỉ là không trồng được...
+
+774
+01:07:14,407 --> 01:07:16,951
+nên anh ấy còn 200 ngày Sol.
+
+775
+01:07:17,201 --> 01:07:20,287
+Ăn tiết kiệm thì anh ấy sống đến
+ngày nào? Sol 409?
+
+776
+01:07:20,913 --> 01:07:23,082
+Với khoai tây thì ngày 609.
+
+777
+01:07:23,249 --> 01:07:25,876
+Vậy là đến ngày 868, anh ấy đã chết khô.
+
+778
+01:07:26,043 --> 01:07:27,920
+Chúng ta sẽ phải phóng
+ngay khi có thể...
+
+779
+01:07:28,087 --> 01:07:29,422
+thời gian du hành vì vậy
+cũng bị thay đổi.
+
+780
+01:07:30,923 --> 01:07:32,383
+Phải, chúng tôi đang xử lý chuyện đó.
+
+781
+01:07:33,426 --> 01:07:37,430
+Dự tính sơ bộ thì chuyến đi
+mất khoảng 414 ngày.
+
+782
+01:07:38,055 --> 01:07:40,141
+Hôm nay là ngày Sol 135.
+
+783
+01:07:40,307 --> 01:07:43,644
+Chúng ta cần 13 ngày để lắp
+động cơ đẩy, tiến hành kiểm tra...
+
+784
+01:07:43,811 --> 01:07:46,439
+tổng cộng Bruce và đội của anh ta...
+
+785
+01:07:47,314 --> 01:07:49,567
+có 47 ngày để chế tạo chiếc tàu này.
+
+786
+01:07:50,901 --> 01:07:54,113
+Tôi sẽ để cho anh gọi Bruce,
+báo tin cho anh ta.
+
+787
+01:07:57,158 --> 01:07:58,451
+Được rồi.
+
+788
+01:08:01,662 --> 01:08:04,331
+Tôi sẽ cần phải thay quần áo.
+
+789
+01:08:07,501 --> 01:08:10,629
+NGÀY SOL 136
+
+790
+01:08:12,757 --> 01:08:14,467
+<i>"Gởi Mark..."</i>
+
+791
+01:08:15,009 --> 01:08:19,638
+<i>"Rõ ràng là bây giờ NASA</i>
+<i>đã cho chúng tôi nói chuyện với anh."</i>
+
+792
+01:08:20,973 --> 01:08:24,435
+"Và tôi đã rút trúng lá thăm xui nhất."
+
+793
+01:08:28,272 --> 01:08:31,859
+<i>"Xin lỗi vì đã bỏ anh lại Sao Hỏa."</i>
+
+794
+01:08:32,026 --> 01:08:34,487
+"Nhưng chỉ tại
+chúng tôi không thích anh thôi."
+
+795
+01:08:36,989 --> 01:08:42,203
+"Ngoài ra, thiếu anh
+thì trên tàu <i>Hermes</i> rộng rãi hơn."
+
+796
+01:08:42,870 --> 01:08:46,207
+<i>"Chúng tôi phải thay phiên</i>
+<i>làm công việc của anh."</i>
+
+797
+01:08:46,832 --> 01:08:50,169
+"Nhưng, ý tôi muốn nói,
+chỉ là thực vật học thôi mà."
+
+798
+01:08:51,712 --> 01:08:52,963
+"Cũng chẳng phải khoa học gì."
+
+799
+01:08:53,130 --> 01:08:54,173
+Ôi lạy Chúa.
+
+800
+01:08:55,966 --> 01:08:56,842
+<i>"Sao Hỏa thế nào rồi?"</i>
+
+801
+01:08:57,134 --> 01:08:58,886
+Sao Hỏa thế nào rồi?
+
+802
+01:09:01,847 --> 01:09:04,892
+<i>"Gởi Martinez, Sao Hỏa vẫn ổn."</i>
+
+803
+01:09:06,519 --> 01:09:08,813
+<i>"Tôi đã vô tình</i>
+<i>làm nổ tung Túp Lều..."</i>
+
+804
+01:09:09,480 --> 01:09:16,028
+<i>"nhưng thật không may, tất cả những</i>
+<i>bản disco của Chỉ huy Lewis vẫn tồn tại."</i>
+
+805
+01:09:16,737 --> 01:09:20,658
+"Nhưng thật không may, tất cả những
+bản disco của Chỉ huy Lewis vẫn tồn tại."
+
+806
+01:09:21,534 --> 01:09:26,372
+<i>"Mỗi ngày, tôi ra ngoài và ngắm nhìn</i>
+<i>đường chân trời mênh mông."</i>
+
+807
+01:09:26,747 --> 01:09:30,709
+"Mỗi ngày, tôi ra ngoài và ngắm nhìn
+đường chân trời mênh mông."
+
+808
+01:09:30,876 --> 01:09:32,211
+<i>"Đơn giản vì tôi có thể."</i>
+
+809
+01:09:32,586 --> 01:09:34,588
+"Đơn giản vì tôi có thể."
+
+810
+01:09:35,422 --> 01:09:38,259
+"Bảo mọi người
+là tôi gởi lời chào."
+
+811
+01:09:40,928 --> 01:09:42,346
+"Nhớ rồi, anh bạn."
+
+812
+01:10:57,254 --> 01:10:59,590
+KHỞI ĐỘNG LẠI
+
+813
+01:11:12,311 --> 01:11:14,021
+<i>Áp suất ổn định.</i>
+
+814
+01:11:53,894 --> 01:11:55,980
+5, 10...
+
+815
+01:11:56,689 --> 01:11:59,525
+15, 20, 30, 35...
+
+816
+01:12:00,985 --> 01:12:02,236
+40.
+
+817
+01:12:02,903 --> 01:12:03,904
+52.
+
+818
+01:12:21,088 --> 01:12:25,050
+PHÒNG THÍ NGHIỆM JPL
+PASADENA, BANG CALIFORNIA
+
+819
+01:12:32,891 --> 01:12:34,059
+Rich.
+
+820
+01:12:35,227 --> 01:12:36,228
+Rich.
+
+821
+01:12:36,395 --> 01:12:37,438
+Dậy đi.
+
+822
+01:12:37,604 --> 01:12:40,107
+RICH PURNELL
+ĐỘNG LỰC HỌC THIÊN THỂ
+
+823
+01:12:40,274 --> 01:12:42,443
+Xin lỗi, nhưng họ hỏi
+về lộ trình của tàu.
+
+824
+01:12:42,609 --> 01:12:44,111
+Mấy giờ rồi?
+
+825
+01:12:44,278 --> 01:12:46,113
+Là 3:42.
+
+826
+01:12:51,535 --> 01:12:53,954
+Tôi biết chúng ta
+đang đi ngược trình tự...
+
+827
+01:12:54,121 --> 01:12:55,539
+nhưng không thể xác định ngày phóng
+
+828
+01:12:55,622 --> 01:12:57,374
+chính xác với nhiều thông tin
+chưa rõ như thế này.
+
+829
+01:12:58,417 --> 01:12:59,626
+Không sao đâu.
+
+830
+01:13:00,294 --> 01:13:03,088
+Tất cả 25 ý tưởng đều mất 414 ngày
+mới đến được Sao Hỏa.
+
+831
+01:13:03,255 --> 01:13:04,798
+Chúng chỉ hơi khác nhau
+ở khoảng thời gian đẩy...
+
+832
+01:13:04,965 --> 01:13:06,759
+và yêu cầu về nhiên liệu
+thì gần như tương tự.
+
+833
+01:13:08,135 --> 01:13:09,970
+Không phải thời điểm hợp lý
+để phóng, đúng không?
+
+834
+01:13:10,137 --> 01:13:12,973
+Vâng, Trái Đất và Sao Hỏa
+thật sự đang ở vị trí rất xấu.
+
+835
+01:13:13,140 --> 01:13:15,142
+Chết tiệt, suýt nữa thì
+đã dễ dàng hơn nếu...
+
+836
+01:13:17,978 --> 01:13:19,146
+Suýt nữa thì dễ hơn cái gì?
+
+837
+01:13:20,397 --> 01:13:21,774
+Tôi cần thêm cà phê.
+
+838
+01:13:23,817 --> 01:13:24,818
+Cậu có sao không?
+
+839
+01:13:24,985 --> 01:13:25,986
+Không sao.
+
+840
+01:13:30,324 --> 01:13:32,117
+Suýt nữa thì dễ hơn cái gì?
+
+841
+01:13:43,629 --> 01:13:45,672
+Cậu hiểu tôi vẫn còn là sếp cậu,
+đúng không?
+
+842
+01:13:51,470 --> 01:13:55,015
+Được rồi, hãy hỏi một câu hỏi
+thật, thật đắt vào.
+
+843
+01:13:55,766 --> 01:13:57,351
+Con tàu có sẵn sàng
+để kịp phóng hay không?
+
+844
+01:13:57,518 --> 01:13:59,353
+<i>- Chúng ta đang trễ tiến độ.</i>
+- Hãy cho tôi một con số.
+
+845
+01:13:59,520 --> 01:14:02,606
+<i>15 ngày.</i>
+<i>15 ngày và tôi có thể làm xong.</i>
+
+846
+01:14:02,981 --> 01:14:05,859
+Được rồi, vậy thì tìm 15 ngày.
+Lắp tàu mất 13 ngày.
+
+847
+01:14:06,026 --> 01:14:07,194
+Có thể giảm không?
+
+848
+01:14:07,361 --> 01:14:09,613
+Thật ra chỉ tốn có ba ngày
+để lắp tàu.
+
+849
+01:14:09,780 --> 01:14:11,532
+Và chúng ta có thể cắt giảm
+xuống còn hai, đúng không?
+
+850
+01:14:11,698 --> 01:14:13,033
+<i>Tôi có thể giảm còn hai.</i>
+
+851
+01:14:13,283 --> 01:14:14,868
+Mười ngày để xem xét và kiểm tra.
+
+852
+01:14:15,035 --> 01:14:17,538
+Những lần kiểm tra này
+có thường phát hiện ra sai sót không?
+
+853
+01:14:18,872 --> 01:14:20,457
+Anh đang đề xuất
+bỏ qua bước kiểm tra sao?
+
+854
+01:14:20,624 --> 01:14:22,876
+Lúc này tôi đang hỏi có thường
+phát hiện ra sai sót hay không.
+
+855
+01:14:23,043 --> 01:14:24,044
+Một trên hai mươi.
+
+856
+01:14:24,211 --> 01:14:25,796
+Nhưng tỷ lệ đó đã đủ
+để hoãn phóng rồi.
+
+857
+01:14:25,963 --> 01:14:27,047
+Chúng ta không thể liều lĩnh được.
+
+858
+01:14:27,214 --> 01:14:29,550
+Có ai biết cách nào an toàn hơn
+để tìm thêm thời gian không?
+
+859
+01:14:33,971 --> 01:14:36,306
+Tiến sĩ Keller, kéo dài khẩu phần ăn
+của Watney thêm bốn ngày nữa.
+
+860
+01:14:36,473 --> 01:14:38,225
+Ông sẽ không thích, nhưng như thế
+giúp chúng ta có được 15 ngày.
+
+861
+01:14:38,559 --> 01:14:40,394
+- Và chúng ta sẽ hủy bước kiểm tra.
+- Teddy.
+
+862
+01:14:40,561 --> 01:14:42,312
+- Thưa ngài, nếu chuyện đó lộ ra...
+- Tôi chịu trách nhiệm.
+
+863
+01:14:42,646 --> 01:14:43,814
+Anh đã có thêm hai tuần.
+
+864
+01:14:43,981 --> 01:14:45,190
+Hoàn tất đi.
+
+865
+01:14:46,191 --> 01:14:48,986
+Vậy, bây giờ tôi phải cầm cự
+chờ tàu đến để có thêm lương thực.
+
+866
+01:14:49,069 --> 01:14:50,070
+NGÀY SOL 154
+
+867
+01:14:50,404 --> 01:14:53,198
+Các bạn muốn biết phần ăn có mức
+calo tối thiểu trông như thế nào?
+
+868
+01:14:53,365 --> 01:14:54,908
+Khẩu phần ăn tiêu chuẩn.
+
+869
+01:14:55,075 --> 01:14:58,704
+Nhưng thay vì mỗi ngày
+ăn ba phần như thế này...
+
+870
+01:14:59,163 --> 01:15:02,749
+thì lâu nay cứ ba ngày
+tôi mới dám ăn một phần.
+
+871
+01:15:04,418 --> 01:15:06,211
+Và giờ, họ yêu cầu tôi...
+
+872
+01:15:07,212 --> 01:15:08,422
+làm như thế.
+
+873
+01:15:13,218 --> 01:15:14,428
+Vấn đề ở chỗ...
+
+874
+01:15:15,888 --> 01:15:18,891
+<i>"kéo dài khẩu phần ăn</i>
+<i>thêm bốn ngày nữa..."</i>
+
+875
+01:15:19,933 --> 01:15:21,768
+<i>thật sự rất khổ sở.</i>
+
+876
+01:15:25,522 --> 01:15:28,525
+<i>Tôi sẽ chấm củ khoai này với một chút</i>
+<i>thuốc giảm đau Vicodin nghiền.</i>
+
+877
+01:15:30,527 --> 01:15:32,279
+Và chẳng ai có thể cản được tôi.
+
+878
+01:15:42,456 --> 01:15:45,751
+<i>Đã bảy ngày rồi kể từ khi</i>
+<i>tôi hết tương ớt.</i>
+
+879
+01:15:48,754 --> 01:15:52,132
+PHÒNG THÍ NGHIỆM SỨC ĐẨY
+PHẢN LỰC - TÀU THĂM DÒ IRIS
+
+880
+01:15:52,633 --> 01:15:54,551
+4 TUẦN SAU
+
+881
+01:15:57,721 --> 01:15:59,973
+Lên, lên, lên.
+Đúng vậy.
+
+882
+01:16:00,432 --> 01:16:02,142
+Lên trên đó đi.
+
+883
+01:16:02,309 --> 01:16:03,310
+Nhãn quay lên trên.
+
+884
+01:16:03,477 --> 01:16:07,731
+MŨI CANAVERAL
+BUỔI PHÓNG TÀU IRIS
+
+885
+01:16:08,982 --> 01:16:10,108
+Đây là giám đốc hành trình.
+
+886
+01:16:10,275 --> 01:16:11,902
+Bắt đầu kiểm tra tình trạng phóng.
+
+887
+01:16:12,069 --> 01:16:14,655
+Nghe rõ, Hành Trình.
+Bắt đầu kiểm tra tình trạng phóng.
+
+888
+01:16:14,821 --> 01:16:16,782
+Anh có tin vào Chúa không, Vincent?
+
+889
+01:16:18,116 --> 01:16:19,117
+Có.
+
+890
+01:16:20,118 --> 01:16:24,248
+Có, cha tôi theo đạo Hindu,
+mẹ tôi theo dòng Baptist, cho nên...
+
+891
+01:16:24,414 --> 01:16:25,999
+tôi tin nhiều thứ lắm.
+
+892
+01:16:28,669 --> 01:16:30,504
+Chúng ta sẽ nhận mọi sự giúp đỡ
+có thể tìm được.
+
+893
+01:16:30,671 --> 01:16:32,339
+<i>Hoàn tất kiểm tra tình trạng phóng.</i>
+
+894
+01:16:32,673 --> 01:16:34,007
+Đây là Hành Trình.
+
+895
+01:16:34,174 --> 01:16:35,634
+Chúng ta đã sẵn sàng phóng.
+
+896
+01:16:35,842 --> 01:16:36,843
+<i>Bắt đầu đếm.</i>
+
+897
+01:16:37,010 --> 01:16:38,512
+<i>10... 9...</i>
+
+898
+01:16:38,679 --> 01:16:39,805
+<i>8...</i>
+
+899
+01:16:39,972 --> 01:16:41,181
+<i>7... 6...</i>
+
+900
+01:16:41,348 --> 01:16:42,849
+<i>Động cơ chính khởi động.</i>
+
+901
+01:16:43,016 --> 01:16:44,309
+<i>4... 3...</i>
+
+902
+01:16:44,977 --> 01:16:45,811
+<i>2...</i>
+
+903
+01:16:45,978 --> 01:16:46,979
+<i>1...</i>
+
+904
+01:16:48,272 --> 01:16:49,940
+<i>Cất cánh.</i>
+
+905
+01:16:51,942 --> 01:16:53,318
+<i>Đẩy tốt lắm.</i>
+
+906
+01:16:57,322 --> 01:16:58,699
+<i>Vận hành bình thường.</i>
+
+907
+01:17:12,504 --> 01:17:14,673
+<i>Đuôi tên lửa đang gởi về dữ liệu tốt.</i>
+
+908
+01:17:16,174 --> 01:17:18,885
+<i>Đến lúc này tên lửa rất ổn định.</i>
+<i>Bộ điều khiển hướng đẩy vẫn ổn.</i>
+
+909
+01:17:30,480 --> 01:17:31,898
+Chúng ta đang bị rung nhẹ,
+thưa Hành Trình.
+
+910
+01:17:32,983 --> 01:17:34,234
+Nhắc lại xem?
+
+911
+01:17:34,693 --> 01:17:36,737
+Chúng ta đang chịu
+hiện tượng tiến động rất lớn.
+
+912
+01:17:37,195 --> 01:17:38,155
+Chúng ta ổn chứ?
+
+913
+01:17:39,489 --> 01:17:40,866
+<i>Hành Trình, tên lửa đang đến cực hạn.</i>
+
+914
+01:17:41,033 --> 01:17:43,535
+Con tàu xoay tròn
+quanh trục dài khoảng 17 độ tiến động.
+
+915
+01:17:45,078 --> 01:17:46,580
+Kiểm soát, có chuyện gì vậy?
+
+916
+01:17:46,747 --> 01:17:48,415
+Lực tác động lên Iris là 7 G.
+
+917
+01:17:48,915 --> 01:17:50,417
+Chúng tôi không đọc được chỉ số
+của con tàu nữa rồi, Hành Trình.
+
+918
+01:17:54,254 --> 01:17:57,090
+Ôi, Chúa ơi.
+
+919
+01:18:00,510 --> 01:18:01,762
+Chúng ta đã mất liên lạc,
+thưa Hành Trình.
+
+920
+01:18:05,724 --> 01:18:06,683
+Phòng liên lạc SatCon?
+
+921
+01:18:06,850 --> 01:18:09,102
+<i>Không vệ tinh nào thu được tín hiệu.</i>
+
+922
+01:18:11,938 --> 01:18:12,606
+Mất Tín Hiệu.
+
+923
+01:18:12,689 --> 01:18:13,398
+<i>Mất Tín Hiệu.</i>
+
+924
+01:18:13,565 --> 01:18:14,608
+Ở đây cũng mất tín hiệu.
+
+925
+01:18:15,108 --> 01:18:18,403
+<i>Tàu U. S. Destroyer Stockton báo cáo</i>
+<i>nhìn thấy các mảnh vỡ rơi xuống.</i>
+
+926
+01:18:18,528 --> 01:18:21,198
+<i>Tất cả nhân viên ở LCC,</i>
+<i>vui lòng ở yên vị trí.</i>
+
+927
+01:18:21,365 --> 01:18:23,450
+Kiểm soát mặt đất, khóa cửa lại.
+
+928
+01:18:26,286 --> 01:18:30,749
+BUỔI PHÓNG NHƯ THẾ NÀO RỒI?
+WATNEY
+
+929
+01:18:39,424 --> 01:18:42,594
+NGÀY SOL 186
+
+930
+01:18:51,978 --> 01:18:53,772
+<i>"Chỉ huy Lewis..."</i>
+
+931
+01:18:53,939 --> 01:18:57,567
+<i>"Có lẽ tôi sẽ cần cô làm giúp tôi</i>
+<i>một chuyện."</i>
+
+932
+01:18:59,152 --> 01:19:03,990
+<i>"Nếu tôi chết, tôi cần cô</i>
+<i>đến thăm bố mẹ tôi."</i>
+
+933
+01:19:05,158 --> 01:19:08,578
+<i>"Họ sẽ muốn biết về toàn bộ</i>
+<i>thời gian chúng ta ở Sao Hỏa."</i>
+
+934
+01:19:10,122 --> 01:19:12,124
+<i>"Tôi biết chuyện đó chán lắm."</i>
+
+935
+01:19:12,290 --> 01:19:15,502
+<i>"Và sẽ rất khó để nói chuyện</i>
+<i>với hai ông bà..."</i>
+
+936
+01:19:16,420 --> 01:19:18,797
+<i>"về đứa con trai đã chết của họ."</i>
+
+937
+01:19:19,840 --> 01:19:21,591
+"Nhờ vả như thế là rất nhiều."
+
+938
+01:19:24,010 --> 01:19:26,179
+"Chính vì vậy tôi mới nhờ cô."
+
+939
+01:19:27,264 --> 01:19:29,182
+<i>"Không phải tôi bỏ cuộc đâu."</i>
+
+940
+01:19:29,349 --> 01:19:34,354
+<i>"Chỉ là chúng ta cần phải chuẩn bị</i>
+<i>cho mọi kết quả."</i>
+
+941
+01:19:36,022 --> 01:19:37,983
+"Làm ơn nói với họ..."
+
+942
+01:19:40,026 --> 01:19:41,862
+"Nói với họ là tôi yêu
+công việc tôi làm..."
+
+943
+01:19:46,283 --> 01:19:47,617
+"và tôi làm rất giỏi."
+
+944
+01:19:50,287 --> 01:19:53,331
+<i>"Và tôi đang chết..."</i>
+
+945
+01:19:54,624 --> 01:19:57,127
+"cho một điều lớn lao hơn"
+
+946
+01:19:58,670 --> 01:20:00,714
+"và đẹp hơn"
+
+947
+01:20:04,676 --> 01:20:06,720
+"và vĩ đại hơn tôi."
+
+948
+01:20:08,555 --> 01:20:11,183
+<i>"Nói với họ là tôi chấp nhận như thế."</i>
+
+949
+01:20:12,225 --> 01:20:13,894
+<i>"Và nói với họ..."</i>
+
+950
+01:20:15,061 --> 01:20:18,690
+<i>"cám ơn vì đã làm bố mẹ của con."</i>
+
+951
+01:20:19,983 --> 01:20:22,152
+C.N.S.A - CỤC HÀNG KHÔNG
+QUỐC GIA TRUNG QUỐC - BẮC KINH
+
+952
+01:20:22,319 --> 01:20:24,488
+<i>Chúng tôi đã dùng các khối protein</i>
+<i>thay cho khẩu phần ăn tiêu chuẩn.</i>
+
+953
+01:20:24,654 --> 01:20:28,200
+<i>Lực đẩy từ cú phóng kết hợp với</i>
+<i>lực rung ngang đồng thời...</i>
+
+954
+01:20:28,366 --> 01:20:31,036
+<i>đã hóa lỏng các khối protein</i>
+<i>và tạo ra tải trọng mất cân bằng.</i>
+
+955
+01:20:31,203 --> 01:20:33,079
+PHIÊN HỌP NASA VỀ THẤT BẠI
+CỦA BUỔI PHÓNG TÀU CỨU HỘ
+
+956
+01:20:33,246 --> 01:20:36,249
+<i>Vincent, tại sao không ai xử lý</i>
+<i>vấn đề này trong giai đoạn kiểm tra?</i>
+
+957
+01:20:36,416 --> 01:20:40,003
+<i>Nhằm đáp ứng kịp tiến độ phóng,</i>
+<i>chúng tôi buộc phải đẩy nhanh lịch.</i>
+
+958
+01:20:41,922 --> 01:20:44,007
+Phi hành gia của họ sẽ chết.
+
+959
+01:20:44,090 --> 01:20:45,717
+QUÁCH MINH
+CỤC TRƯỞNG CNSA
+
+960
+01:20:45,884 --> 01:20:47,802
+Dĩ nhiên là vẫn còn cách khác...
+
+961
+01:20:47,928 --> 01:20:49,888
+CHU LIỄU
+PHÓ CỤC TRƯỞNG CNSA
+
+962
+01:20:50,055 --> 01:20:52,766
+động cơ đẩy của Thái Dương Thần,
+các kỹ sư của chúng ta đã tính toán
+
+963
+01:20:53,016 --> 01:20:55,769
+và nó có đủ nhiên liệu
+để tiến vào quỹ đạo Sao Hỏa.
+
+964
+01:20:56,937 --> 01:20:58,271
+Tại sao NASA vẫn chưa
+tìm đến chúng ta?
+
+965
+01:20:58,730 --> 01:20:59,814
+Họ không biết.
+
+966
+01:21:00,357 --> 01:21:02,734
+Công nghệ động cơ đẩy của chúng ta
+là tuyệt mật.
+
+967
+01:21:05,403 --> 01:21:08,281
+Vậy nếu chúng ta
+khoanh tay đứng nhìn...
+
+968
+01:21:08,907 --> 01:21:12,953
+Thì thế giới sẽ không bao giờ biết
+chúng ta có thể giúp được.
+
+969
+01:21:14,079 --> 01:21:18,875
+Vậy, chỉ để thảo luận,
+nếu giả sử chúng ta quyết định giúp họ.
+
+970
+01:21:19,543 --> 01:21:23,421
+Coi như chúng ta cho không một động cơ
+và hủy bỏ nhiệm vụ của Thái Dương Thần.
+
+971
+01:21:24,548 --> 01:21:27,050
+Chúng ta chỉ cho các nhà khoa học
+biết chuyện này,
+
+972
+01:21:27,133 --> 01:21:29,594
+một chiến dịch hợp tác
+giữa hai cơ quan vũ trụ.
+
+973
+01:21:32,472 --> 01:21:33,473
+Vâng.
+
+974
+01:21:34,975 --> 01:21:36,726
+Vâng, tôi hiểu.
+
+975
+01:21:39,896 --> 01:21:41,106
+Cám ơn.
+
+976
+01:21:44,734 --> 01:21:45,819
+Tuyệt!
+
+977
+01:21:47,153 --> 01:21:48,113
+<i>Được rồi.</i>
+
+978
+01:21:48,280 --> 01:21:51,825
+Nhờ ông chú Tommy của tôi ở Trung Quốc,
+chúng ta có thêm một cơ hội khác.
+
+979
+01:21:51,992 --> 01:21:55,078
+Nào, chúng ta đã hoàn thành
+tàu <i>Iris</i> trong 62 ngày.
+
+980
+01:21:55,245 --> 01:21:58,623
+Bây giờ chúng ta sẽ thử hoàn thành
+trong 28 ngày.
+
+981
+01:22:00,000 --> 01:22:04,629
+PLEIADES
+SIÊU MÁY TÍNH TIÊN TIẾN CỦA NASA
+
+982
+01:22:11,344 --> 01:22:13,471
+TÍNH TOÁN CHÍNH XÁC
+
+983
+01:22:24,316 --> 01:22:25,775
+Có thể bỏ qua bất cứ
+hệ thống hạ cánh nào.
+
+984
+01:22:25,859 --> 01:22:27,110
+Chúng ta chỉ gởi lương thực đi mà thôi.
+
+985
+01:22:27,277 --> 01:22:28,945
+Chúng ta có thể đâm tàu
+xuống Sao Hỏa.
+
+986
+01:22:30,322 --> 01:22:31,656
+Anh nên cúp máy đi.
+
+987
+01:22:31,990 --> 01:22:33,950
+- Xin lỗi, cậu là ai?
+- Tên tôi là Rich Purnell.
+
+988
+01:22:34,117 --> 01:22:36,369
+Tôi làm ở bộ phận Động lực học Thiên thể,
+và anh nên cúp máy ngay đi.
+
+989
+01:22:38,622 --> 01:22:39,664
+Được rồi, được rồi.
+
+990
+01:22:40,457 --> 01:22:41,833
+Tôi sẽ gọi lại cho anh.
+
+991
+01:22:43,168 --> 01:22:44,628
+Tôi biết cách cứu Mark Watney.
+
+992
+01:22:45,879 --> 01:22:48,214
+Kế hoạch gởi tàu của anh sẽ không
+thành công. Quá nhiều rủi ro.
+
+993
+01:22:48,548 --> 01:22:49,549
+Tôi có một cách hay hơn.
+
+994
+01:22:49,716 --> 01:22:50,800
+Động lực học Thiên thể?
+
+995
+01:22:50,967 --> 01:22:52,302
+Vâng.
+
+996
+01:22:52,677 --> 01:22:55,221
+"Dự án Elrond" là cái quái gì?
+
+997
+01:22:55,639 --> 01:22:56,640
+Tôi phải bịa ra gì đó.
+
+998
+01:22:56,806 --> 01:22:58,224
+Nhưng mà "Elrond"?
+
+999
+01:22:58,725 --> 01:23:00,727
+Bởi vì đó là một buổi họp bí mật.
+
+1000
+01:23:00,894 --> 01:23:03,396
+Sao anh biết? Tại sao "Elrond"
+lại có nghĩa là "buổi họp bí mật"?
+
+1001
+01:23:03,563 --> 01:23:06,149
+<i>Hội đồng Elrond. Trong phim</i>
+Chúa Tể Của Những Chiếc Nhẫn.
+
+1002
+01:23:06,316 --> 01:23:07,567
+<i>Chúa Tể Của Những Chiếc Nhẫn.</i>
+
+1003
+01:23:07,734 --> 01:23:09,569
+Đó là buổi họp mà họ quyết định
+thiêu hủy chiếc Nhẫn Chúa.
+
+1004
+01:23:09,736 --> 01:23:11,404
+<i>Nếu như chúng ta gọi đây</i>
+<i>là "Dự án Elrond"...</i>
+
+1005
+01:23:11,571 --> 01:23:13,740
+tôi sẽ muốn lấy tên mã là "Glorfindel".
+
+1006
+01:23:13,907 --> 01:23:15,909
+Được rồi, tôi ghét tất cả các anh.
+
+1007
+01:23:16,076 --> 01:23:18,453
+Cái gì, cả Teddy cũng chưa biết gì
+về chuyện này sao?
+
+1008
+01:23:18,620 --> 01:23:19,746
+Tôi xin lỗi, cậu là ai?
+
+1009
+01:23:19,913 --> 01:23:21,623
+Đây là Rich Purnell,
+phòng Động lực học Thiên thể.
+
+1010
+01:23:22,749 --> 01:23:24,250
+Kể cho họ nghe
+chuyện cậu mới kể cho tôi đi.
+
+1011
+01:23:24,501 --> 01:23:27,504
+Tôi có thể đưa tàu <i>Hermes</i>
+quay trở lại Sao Hỏa vào ngày Sol 561.
+
+1012
+01:23:29,297 --> 01:23:30,256
+Bằng cách nào?
+
+1013
+01:23:34,427 --> 01:23:37,097
+Cô có thể đứng đó giúp tôi
+được không, làm ơn?
+
+1014
+01:23:38,807 --> 01:23:39,766
+Cám ơn.
+
+1015
+01:23:39,933 --> 01:23:41,017
+Ngay đó. Tuyệt.
+
+1016
+01:23:41,184 --> 01:23:45,355
+Và ông có thể đứng ngay đó không?
+Ngay đó.
+
+1017
+01:23:50,110 --> 01:23:53,863
+Được rồi, hãy xem đồ bấm kim này
+như tàu <i>Hermes...</i>
+
+1018
+01:23:54,030 --> 01:23:56,282
+và ông là...
+
+1019
+01:23:56,449 --> 01:23:57,617
+Tôi xin lỗi, cho hỏi lại
+tên ông là gì vậy?
+
+1020
+01:23:57,826 --> 01:24:01,204
+Teddy.
+Tôi là giám đốc của NASA.
+
+1021
+01:24:01,538 --> 01:24:03,498
+Hay đó.
+Teddy, ông là Trái Đất.
+
+1022
+01:24:03,832 --> 01:24:06,126
+Và lúc này, tàu <i>Hermes</i>
+đang tiến về phía ông...
+
+1023
+01:24:06,292 --> 01:24:08,712
+bắt đầu quy trình giảm tốc độ
+kéo dài hàng tháng trời để vào quỹ đạo.
+
+1024
+01:24:08,878 --> 01:24:11,381
+Nhưng thay vì vậy,
+điều mà tôi đang đề xuất...
+
+1025
+01:24:15,468 --> 01:24:19,472
+là chúng ta ngay lập tức tăng tốc để bảo
+trì tốc độ và thậm chí là nhanh hơn.
+
+1026
+01:24:19,639 --> 01:24:20,724
+Chúng ta cũng không tiến vào
+quỹ đạo Trái Đất...
+
+1027
+01:24:20,890 --> 01:24:24,477
+mà chúng ta tiến đến đủ gần để
+mượn lực hấp dẫn và điều chỉnh lộ trình.
+
+1028
+01:24:24,644 --> 01:24:26,479
+Trong khi đang làm như thế...
+
+1029
+01:24:28,648 --> 01:24:30,316
+chúng ta nhận tiếp viện
+từ con tàu không người lái...
+
+1030
+01:24:30,483 --> 01:24:31,484
+Tàu <i>Thái Dương Thần.</i>
+
+1031
+01:24:31,651 --> 01:24:33,194
+nhặt lấy bất cứ nhu yếu phẩm nào
+chúng ta cần
+
+1032
+01:24:33,361 --> 01:24:35,530
+và bây giờ chúng ta
+tăng tốc tiến đến Sao Hỏa.
+
+1033
+01:24:38,158 --> 01:24:39,492
+Cô là Sao Hỏa.
+
+1034
+01:24:39,659 --> 01:24:42,579
+Tại thời điểm này, chúng ta đang đi
+quá nhanh để có thể tiến vào quỹ đạo...
+
+1035
+01:24:42,746 --> 01:24:44,080
+nhưng chúng ta có thể bay qua.
+
+1036
+01:24:44,247 --> 01:24:46,708
+<i>Bay qua để làm gì nếu chúng ta</i>
+<i>không thể đón Watney đi?</i>
+
+1037
+01:24:47,333 --> 01:24:50,670
+Watney sẽ đón đường
+bằng cách sử dụng chiếc MAV.
+
+1038
+01:24:54,924 --> 01:24:57,218
+Và sau đó chúng ta
+tiến thẳng về nhà.
+
+1039
+01:25:01,347 --> 01:25:03,683
+Tôi đã chạy tính toán rồi.
+Hoàn toàn khả thi.
+
+1040
+01:25:05,435 --> 01:25:06,936
+<i>- Rich.</i>
+<i>- Vâng, thưa ngài.</i>
+
+1041
+01:25:07,103 --> 01:25:07,937
+Ra ngoài.
+
+1042
+01:25:08,104 --> 01:25:09,105
+Vâng.
+
+1043
+01:25:15,528 --> 01:25:17,238
+- Cậu ta có đúng không?
+- Có.
+
+1044
+01:25:17,572 --> 01:25:19,532
+Bruce, anh nghĩ gì?
+
+1045
+01:25:20,116 --> 01:25:21,618
+<i>Nếu Vincent nói vậy</i>
+<i>thì cứ cho là vậy.</i>
+
+1046
+01:25:23,036 --> 01:25:25,246
+Chúng ta cần sử dụng tàu
+<i>Thái Dương Thần?</i>
+
+1047
+01:25:26,581 --> 01:25:28,541
+Tôi bị sót chỗ nào à?
+Tại sao chuyện đó lại quan trọng?
+
+1048
+01:25:28,708 --> 01:25:29,959
+Bởi vì chúng ta chỉ có thể
+làm được một lần.
+
+1049
+01:25:30,126 --> 01:25:32,295
+Gởi đủ lương thực để Watney
+sống sót đến Ares 4...
+
+1050
+01:25:32,462 --> 01:25:34,380
+hoặc là gởi <i>Hermes</i> quay ngược lại
+để đón anh ấy.
+
+1051
+01:25:35,048 --> 01:25:38,218
+Cả hai kế hoạch đều cần <i>Thái DươngThần</i>,
+cho nên chúng ta phải chọn.
+
+1052
+01:25:38,551 --> 01:25:40,094
+Còn phi hành đoàn <i>Hermes</i> thì sao?
+
+1053
+01:25:40,261 --> 01:25:45,058
+Chúng ta đang yêu cầu họ thực hiện
+thêm 533 ngày nhiệm vụ.
+
+1054
+01:25:45,391 --> 01:25:47,101
+Phải. Họ sẽ không do dự,
+dù là một giây.
+
+1055
+01:25:48,228 --> 01:25:51,272
+<i>Hermes</i> có thể hoạt động thêm 533 ngày
+so với lịch của nhiệm vụ hiện tại không?
+
+1056
+01:25:51,439 --> 01:25:52,398
+Có thể.
+
+1057
+01:25:52,565 --> 01:25:54,400
+Được chế tạo để đi hết toàn bộ
+nhiệm vụ Ares...
+
+1058
+01:25:54,567 --> 01:25:56,653
+nên về kỹ thuật, nó chỉ mới
+đi hết một nửa cuộc đời.
+
+1059
+01:25:57,403 --> 01:25:58,571
+Nhưng nếu có chuyện xấu xảy ra...
+
+1060
+01:25:58,738 --> 01:26:00,114
+Thì chúng ta mất cả phi hành đoàn.
+
+1061
+01:26:00,406 --> 01:26:03,952
+<i>Vậy thì sao? Chúng ta hoặc là</i>
+<i>gặp may chỉ giết chết một người...</i>
+
+1062
+01:26:04,118 --> 01:26:06,579
+<i>hoặc là xui xẻo giết chết cả sáu người.</i>
+
+1063
+01:26:06,746 --> 01:26:08,081
+<i>Chúng ta phải lựa chọn</i>
+<i>như thế nào đây?</i>
+
+1064
+01:26:08,248 --> 01:26:10,083
+Chúng ta không cần chọn, Bruce.
+
+1065
+01:26:10,250 --> 01:26:11,167
+Ông ấy mới phải chọn.
+
+1066
+01:26:11,584 --> 01:26:12,627
+Phải, vớ vẩn.
+
+1067
+01:26:13,127 --> 01:26:15,004
+Đó phải là quyết định
+của Chỉ huy Lewis.
+
+1068
+01:26:15,171 --> 01:26:18,424
+Chúng ta vẫn còn một cơ hội
+đưa năm phi hành gia về nhà an toàn.
+
+1069
+01:26:18,591 --> 01:26:20,176
+Tôi sẽ không đánh cược
+mạng sống của họ.
+
+1070
+01:26:21,302 --> 01:26:22,971
+Hãy để họ quyết định.
+
+1071
+01:26:23,680 --> 01:26:26,349
+Mitch, chúng ta sẽ tiếp tục
+với lựa chọn một.
+
+1072
+01:26:28,268 --> 01:26:30,270
+Ông là đồ hèn nhát khốn kiếp.
+
+1073
+01:26:48,496 --> 01:26:50,456
+<i>- Johanssen?</i>
+<i>- Vâng.</i>
+
+1074
+01:26:51,165 --> 01:26:53,668
+Tôi biết đang là giờ nghỉ của cô.
+Tôi có thể phiền cô một chút không?
+
+1075
+01:26:53,835 --> 01:26:54,794
+<i>Được, cứ tự nhiên.</i>
+
+1076
+01:26:54,961 --> 01:26:56,963
+<i>- Cô đang ở đâu vậy?</i>
+- Phòng tập.
+
+1077
+01:27:18,818 --> 01:27:20,028
+Có chuyện gì vậy?
+
+1078
+01:27:20,194 --> 01:27:24,407
+Tôi vừa nhận được email của vợ tôi
+và tiêu đề ghi là, "Con chúng ta."
+
+1079
+01:27:24,574 --> 01:27:26,576
+Máy tính của tôi không mở được
+tệp đính kèm.
+
+1080
+01:27:27,994 --> 01:27:29,203
+Được rồi.
+
+1081
+01:27:29,370 --> 01:27:30,496
+Nhìn xem.
+
+1082
+01:27:37,003 --> 01:27:38,004
+Để xem nào.
+
+1083
+01:27:38,171 --> 01:27:40,173
+TRÌNH HIỂN THỊ THẬP LỤC PHÂN
+XEM DƯỚI DẠNG VĂN BẢN
+
+1084
+01:27:40,340 --> 01:27:42,342
+Đây không phải
+là tệp hình ảnh JPEG.
+
+1085
+01:27:42,717 --> 01:27:45,178
+Chỉ là tập tin văn bản ASCII.
+
+1086
+01:27:48,014 --> 01:27:49,265
+Tôi thật sự không biết
+chúng ta đang đọc cái gì nữa.
+
+1087
+01:27:49,432 --> 01:27:50,850
+RICH PURNELL
+HƯỚNG DẪN ĐIỀU KHIỂN
+
+1088
+01:27:51,017 --> 01:27:54,187
+Anh có hiểu chút nào không?
+
+1089
+01:27:54,687 --> 01:27:56,856
+"Hướng dẫn Rich Purnell."
+
+1090
+01:27:57,023 --> 01:27:59,859
+Đây là hướng dẫn điều khiển
+lộ trình bay cho tàu <i>Hermes.</i>
+
+1091
+01:28:02,028 --> 01:28:03,863
+NGÀY VÒNG QUA SAO HỎA
+SOL 561
+
+1092
+01:28:03,947 --> 01:28:05,198
+VỀ TRÁI ĐẤT - SOL 772
+
+1093
+01:28:05,365 --> 01:28:06,699
+NHIỆM VỤ KÉO DÀI THÊM
+19 THÁNG
+
+1094
+01:28:06,866 --> 01:28:09,035
+Và nhiệm vụ kết thúc khi về đến Trái Đất,
+211 ngày sau đó.
+
+1095
+01:28:10,578 --> 01:28:11,955
+Liệu có được không?
+
+1096
+01:28:12,205 --> 01:28:14,207
+Chúng tôi đã kiểm tra số liệu.
+Hoàn toàn khả thi.
+
+1097
+01:28:14,374 --> 01:28:15,792
+Một lộ trình thông minh.
+
+1098
+01:28:15,917 --> 01:28:18,753
+Vậy tại sao
+cứ phải giấu giấu giếm giếm?
+
+1099
+01:28:18,920 --> 01:28:20,713
+Bởi vì nó đi ngược hoàn toàn
+với quyết định của NASA.
+
+1100
+01:28:20,880 --> 01:28:22,674
+Phải. Nếu chúng ta thực hiện,
+
+1101
+01:28:22,757 --> 01:28:25,051
+họ sẽ phải gởi tàu tiếp tế
+nếu không thì chúng ta chết.
+
+1102
+01:28:25,218 --> 01:28:28,429
+Chúng ta có cơ hội
+thúc ép họ phải làm theo.
+
+1103
+01:28:29,597 --> 01:28:31,933
+Vậy, chúng ta có làm không?
+
+1104
+01:28:33,267 --> 01:28:35,228
+Nếu như tôi là người quyết định,
+chúng ta đã lên đường từ lâu rồi.
+
+1105
+01:28:35,395 --> 01:28:37,480
+Nhưng đúng là vậy mà, phải không?
+Theo quyết định của cô.
+
+1106
+01:28:38,064 --> 01:28:39,148
+Lần này thì không.
+
+1107
+01:28:39,315 --> 01:28:42,276
+Đây là điều mà NASA
+kịch liệt phản đối.
+
+1108
+01:28:43,111 --> 01:28:46,406
+Chúng ta đang nhắc đến chuyện nổi loạn,
+đó không phải là chuyện tôi xem nhẹ.
+
+1109
+01:28:46,572 --> 01:28:49,117
+Nên hoặc là chúng ta cùng nhau làm
+còn không thì thôi.
+
+1110
+01:28:49,283 --> 01:28:52,245
+Và trước khi mọi người trả lời,
+hãy cân nhắc hậu quả.
+
+1111
+01:28:52,412 --> 01:28:55,456
+Nếu như để vuột mất điểm hẹn
+tiếp tế, chúng ta chết.
+
+1112
+01:28:55,623 --> 01:28:58,418
+Nếu như để vuột mất cơ hội mượn lực
+hấp dẫn của Trái Đất, chúng ta chết.
+
+1113
+01:28:58,584 --> 01:29:01,629
+Nếu chúng ta thực hiện hoàn hảo
+tất cả mọi thứ...
+
+1114
+01:29:01,796 --> 01:29:04,924
+chúng ta thêm vào nhiệm vụ
+533 ngày.
+
+1115
+01:29:05,091 --> 01:29:08,970
+Thêm 533 ngày trước khi gặp lại
+gia đình của chúng ta.
+
+1116
+01:29:09,137 --> 01:29:13,641
+533 ngày du hành không gian
+ngoài kế hoạch...
+
+1117
+01:29:13,808 --> 01:29:15,351
+khi mà bất cứ
+chuyện xấu nào cũng có thể xảy ra.
+
+1118
+01:29:15,518 --> 01:29:18,938
+Nếu bất kỳ hệ thống nào hỏng,
+chúng ta chết.
+
+1119
+01:29:19,772 --> 01:29:20,815
+Cho tôi tham gia.
+
+1120
+01:29:20,982 --> 01:29:22,442
+Được rồi, anh cao bồi,
+từ từ đi.
+
+1121
+01:29:22,608 --> 01:29:24,277
+Anh và tôi,
+chúng ta là quân nhân.
+
+1122
+01:29:24,444 --> 01:29:26,279
+Khả năng là, khi về nhà,
+họ sẽ đưa chúng ta ra tòa án binh.
+
+1123
+01:29:26,446 --> 01:29:28,281
+- Phải, chuyện đó nữa.
+- Và với những người còn lại...
+
+1124
+01:29:28,448 --> 01:29:31,325
+tôi đảm bảo là họ sẽ không bao giờ
+đưa mọi người lên trên này một lần nữa.
+
+1125
+01:29:31,492 --> 01:29:35,955
+Tốt. Vậy nếu như chúng ta làm,
+thì kế hoạch như thế nào?
+
+1126
+01:29:36,122 --> 01:29:37,665
+Tôi lên lộ trình và thực hiện.
+
+1127
+01:29:37,832 --> 01:29:39,125
+Chiếm quyền kiểm soát từ xa.
+
+1128
+01:29:39,292 --> 01:29:41,794
+Họ có thể chiếm lấy tàu <i>Hermes</i>
+từ phòng Kiểm soát Nhiệm vụ.
+
+1129
+01:29:43,004 --> 01:29:44,964
+Cô có vô hiệu hóa nó được không?
+
+1130
+01:29:45,131 --> 01:29:47,216
+Tàu <i>Hermes</i> có bốn máy tính dự phòng
+xử lý hành trình bay...
+
+1131
+01:29:47,383 --> 01:29:49,677
+mỗi máy kết nối với ba hệ thống
+liên lạc dự phòng.
+
+1132
+01:29:49,844 --> 01:29:52,680
+Không thể tắt hệ thống liên lạc vì hệ thống
+viễn trắc và dẫn đường cũng sẽ tắt.
+
+1133
+01:29:52,847 --> 01:29:56,142
+Và không thể tắt máy tính
+vì chúng ta cần phải lái tàu.
+
+1134
+01:29:56,309 --> 01:29:59,645
+Tôi phải vô hiệu hóa chức năng
+chiếm quyền trên mỗi hệ thống.
+
+1135
+01:29:59,812 --> 01:30:01,731
+Nó là một phần của hệ điều hành,
+tôi sẽ phải can thiệp vào mã nguồn.
+
+1136
+01:30:01,898 --> 01:30:04,525
+Được, nhưng theo ngôn ngữ loài người,
+như thế nghĩa là sao?
+
+1137
+01:30:06,569 --> 01:30:07,820
+Là tôi có thể làm được.
+
+1138
+01:30:08,821 --> 01:30:09,864
+Tuyệt vời.
+
+1139
+01:30:11,532 --> 01:30:13,034
+Vậy, chúng ta cần phải nhất trí.
+
+1140
+01:30:13,826 --> 01:30:18,498
+Nếu chúng ta thực hiện,
+nghĩa là hơn 900 ngày du hành.
+
+1141
+01:30:20,833 --> 01:30:24,253
+Du hành như thế
+là đủ cho một đời rồi...
+
+1142
+01:30:25,088 --> 01:30:26,339
+cho nên, tôi đồng ý.
+
+1143
+01:30:26,839 --> 01:30:28,216
+Tôi bỏ phiếu thuận.
+
+1144
+01:30:30,510 --> 01:30:32,053
+Đi đón anh ấy thôi.
+
+1145
+01:30:34,931 --> 01:30:35,890
+Johanssen?
+
+1146
+01:30:36,766 --> 01:30:37,600
+Đồng ý.
+
+1147
+01:30:41,771 --> 01:30:44,357
+Đã nhận một cập nhật về lịch trình bay
+ngoài kế hoạch của <i>Hermes.</i>
+
+1148
+01:30:44,524 --> 01:30:45,525
+Rõ. Đọc đi.
+
+1149
+01:30:45,691 --> 01:30:48,361
+Tin nhắn ghi là,
+"Houston, vui lòng chú ý."
+
+1150
+01:30:48,528 --> 01:30:50,363
+"Rich Purnell là một
+chuyên gia tên lửa xuất sắc."
+
+1151
+01:30:50,530 --> 01:30:51,405
+Cái gì?
+
+1152
+01:30:51,531 --> 01:30:52,949
+Hành Trình, Dẫn Đường đây.
+
+1153
+01:30:53,116 --> 01:30:54,909
+<i>Hermes</i> đang ra khỏi lộ trình.
+
+1154
+01:30:55,076 --> 01:30:58,037
+Liên Lạc, báo với <i>Hermes</i> là họ đang
+trôi dạt. Dẫn Đường, chuẩn bị lộ trình mới.
+
+1155
+01:30:58,204 --> 01:31:00,873
+Không có, Hành Trình, họ không trôi dạt.
+Họ đã điều chỉnh lộ trình.
+
+1156
+01:31:01,040 --> 01:31:02,208
+Cái quái gì vậy?
+
+1157
+01:31:02,375 --> 01:31:05,586
+Viễn Trắc, có khi nào
+là do thiết bị hư hỏng không?
+
+1158
+01:31:05,753 --> 01:31:07,255
+Không có, Hành Trình.
+
+1159
+01:31:07,421 --> 01:31:08,756
+Dẫn Đường, hãy tính xem
+họ có thể ra khỏi
+
+1160
+01:31:08,881 --> 01:31:10,133
+lộ trình bao lâu
+trước khi không thể quay lại.
+
+1161
+01:31:10,299 --> 01:31:11,884
+Đang tính toán, thưa Hành Trình.
+
+1162
+01:31:12,051 --> 01:31:13,427
+Này. Ai là Rich Purnell?
+
+1163
+01:31:14,262 --> 01:31:15,263
+Tôi không biết.
+
+1164
+01:31:15,930 --> 01:31:17,890
+Ai đó tìm xem Rich Purnell
+là ai được không?
+
+1165
+01:31:18,599 --> 01:31:20,560
+Sáng nay
+Annie sẽ gặp gỡ truyền thông...
+
+1166
+01:31:20,726 --> 01:31:24,564
+và báo cho họ biết về quyết định đổi
+lộ trình tàu <i>Hermes</i> đến Sao Hỏa của NASA.
+
+1167
+01:31:25,398 --> 01:31:27,066
+Nghe như một nước cờ hay.
+
+1168
+01:31:28,067 --> 01:31:30,153
+Theo tình huống hiện tại.
+
+1169
+01:31:30,903 --> 01:31:35,491
+Bất cứ ai đã gởi bài diễn tập cho họ
+chỉ là chuyển tiếp thông tin.
+
+1170
+01:31:35,658 --> 01:31:37,451
+Phi hành đoàn
+tự đưa ra quyết định của họ.
+
+1171
+01:31:39,245 --> 01:31:41,080
+Anh có thể sẽ giết họ đấy, Mitch.
+
+1172
+01:31:43,249 --> 01:31:44,959
+Chúng ta đang cùng chung chiến tuyến.
+
+1173
+01:31:45,126 --> 01:31:48,254
+Mỗi khi có chuyện xấu xảy ra,
+thế giới sẽ quên vì sao chúng ta bay.
+
+1174
+01:31:48,421 --> 01:31:50,006
+Tôi đang cố bảo vệ
+các nhiệm vụ của chúng ta.
+
+1175
+01:31:50,173 --> 01:31:52,091
+Điều đó quan trọng hơn một cá nhân.
+
+1176
+01:31:54,135 --> 01:31:55,303
+Không.
+
+1177
+01:31:55,761 --> 01:31:56,679
+Không hề.
+
+1178
+01:31:58,097 --> 01:32:01,642
+Khi nào chuyện này kết thúc,
+tôi chờ nhận đơn xin nghỉ của anh.
+
+1179
+01:32:05,104 --> 01:32:06,272
+Tôi hiểu.
+
+1180
+01:32:06,606 --> 01:32:08,941
+Đưa các phi hành gia của chúng ta
+về nhà đi.
+
+1181
+01:32:10,526 --> 01:32:11,986
+NGÀY SOL 219
+
+1182
+01:32:12,153 --> 01:32:14,864
+Mỗi nhiệm vụ Ares yêu cầu
+ba năm tiếp tế.
+
+1183
+01:32:15,031 --> 01:32:17,617
+Vì vậy từ lâu NASA đã quyết định
+gởi hàng đi trước...
+
+1184
+01:32:17,783 --> 01:32:20,369
+dễ hơn nhiều
+so với việc mang đi cùng chúng tôi.
+
+1185
+01:32:20,536 --> 01:32:24,207
+Cho nên, kết quả là,
+chiếc MAV của Ares 4...
+
+1186
+01:32:24,373 --> 01:32:27,168
+đã có mặt sẵn ở hố Schiaparelli,
+chờ đợi.
+
+1187
+01:32:27,501 --> 01:32:31,339
+Vì thế kế hoạch là để tôi sử dụng
+chiếc tàu đó để lên quỹ đạo...
+
+1188
+01:32:31,505 --> 01:32:34,467
+ngay lúc tàu <i>Hermes</i> bay qua...
+
+1189
+01:32:34,634 --> 01:32:37,803
+và tôi đoán
+là họ sẽ đón tôi?
+
+1190
+01:32:38,846 --> 01:32:40,514
+Giữa không gian.
+
+1191
+01:32:43,684 --> 01:32:45,978
+Vậy, tôi còn 200 ngày Sol
+để tính ra...
+
+1192
+01:32:46,145 --> 01:32:48,814
+làm cách nào để đưa tất cả những thứ
+cần để giữ tôi còn sống ở đây...
+
+1193
+01:32:48,981 --> 01:32:52,235
+máy tạo oxy, máy thu hồi nước,
+máy điều tiết khí quyển...
+
+1194
+01:32:52,818 --> 01:32:54,654
+<i>tất cả những thứ đó theo tôi.</i>
+
+1195
+01:32:54,820 --> 01:32:58,491
+<i>Và may mắn là, tôi có những bộ óc</i>
+<i>vĩ đại nhất ở hành tinh Trái Đất...</i>
+
+1196
+01:32:58,658 --> 01:33:01,702
+<i>thật đó, tất cả trí tuệ</i>
+<i>của toàn bộ hành tinh...</i>
+
+1197
+01:33:01,869 --> 01:33:03,663
+<i>đang giúp tôi</i>
+<i>với lần thử sức cuối cùng này.</i>
+
+1198
+01:33:03,829 --> 01:33:05,373
+<i>Và lúc này họ chỉ mới nghĩ ra được...</i>
+
+1199
+01:33:05,539 --> 01:33:08,000
+<i>"Này, sao anh không khoan lỗ</i>
+<i>trên trần xe Rover..."</i>
+
+1200
+01:33:08,167 --> 01:33:09,919
+<i>"rồi lấy đá</i>
+<i>và nện thật mạnh vào nó?"</i>
+
+1201
+01:33:11,420 --> 01:33:13,381
+Chúng tôi sẽ đến được đó.
+
+1202
+01:33:51,043 --> 01:33:52,420
+THU HOẠCH 2
+
+1203
+01:34:01,721 --> 01:34:08,728
+Tạm biệt
+SAO HỎA
+
+1204
+01:34:12,940 --> 01:34:15,234
+<i>Kéo dài thêm 533 ngày?</i>
+
+1205
+01:34:15,401 --> 01:34:17,236
+<i>Và anh đồng ý?</i>
+
+1206
+01:34:17,403 --> 01:34:19,280
+Anh ấy cũng sẽ làm như vậy với anh.
+Em biết mà.
+
+1207
+01:34:25,828 --> 01:34:27,455
+Cười lên.
+"Cười lên" được không?
+
+1208
+01:34:27,621 --> 01:34:28,456
+Cười lên.
+
+1209
+01:34:28,622 --> 01:34:29,915
+TUẦN BÁO TIME
+BẠN CHIẾN ĐẤU
+
+1210
+01:34:30,416 --> 01:34:31,417
+Cậu ta không chịu "cười lên."
+
+1211
+01:34:31,584 --> 01:34:32,793
+Cậu ta có cười không?
+
+1212
+01:34:40,926 --> 01:34:42,094
+<i>Chào em yêu.</i>
+
+1213
+01:34:42,261 --> 01:34:43,095
+Chào anh.
+
+1214
+01:34:43,262 --> 01:34:44,930
+<i>Anh có quà cho em này.</i>
+
+1215
+01:34:45,097 --> 01:34:46,515
+<i>Mua được ở chợ trời đó.</i>
+
+1216
+01:34:46,682 --> 01:34:48,100
+<i>Bản gốc đó.</i>
+
+1217
+01:34:48,267 --> 01:34:49,101
+ABBA
+NHỮNG CA KHÚC HAY NHẤT
+
+1218
+01:34:49,268 --> 01:34:50,102
+Không!
+
+1219
+01:34:51,604 --> 01:34:52,688
+<i>Không một vết xước.</i>
+
+1220
+01:34:52,855 --> 01:34:54,106
+Em thích lắm.
+
+1221
+01:34:54,273 --> 01:34:57,443
+Với tất cả sự kính trọng
+với quy trình của CNSA các vị...
+
+1222
+01:34:57,610 --> 01:34:59,945
+nhưng chúng tôi
+đã không còn làm theo cách đó...
+
+1223
+01:35:00,112 --> 01:35:01,864
+kể từ <i>Apollo 9.</i>
+
+1224
+01:35:03,616 --> 01:35:04,450
+Cậu ta hiểu không?
+
+1225
+01:37:32,806 --> 01:37:36,101
+7 THÁNG SAU
+
+1226
+01:37:40,022 --> 01:37:43,192
+NGÀY SOL 461
+
+1227
+01:38:14,807 --> 01:38:17,476
+<i>Tôi đang suy nghĩ</i>
+<i>về luật pháp trên Sao Hỏa.</i>
+
+1228
+01:38:18,143 --> 01:38:20,646
+<i>Một hiệp ước quốc tế tuyên bố</i>
+<i>không quốc gia nào có thể chiếm hữu...</i>
+
+1229
+01:38:20,813 --> 01:38:22,189
+<i>bất cứ thứ gì không phải trên Trái Đất.</i>
+
+1230
+01:38:22,356 --> 01:38:23,357
+<i>Và trong một hiệp ước khác,</i>
+
+1231
+01:38:23,482 --> 01:38:25,484
+<i>nếu bạn không ở trong lãnh thổ</i>
+<i>của bất kỳ quốc gia nào...</i>
+
+1232
+01:38:25,651 --> 01:38:26,819
+<i>luật hàng hải sẽ được áp dụng.</i>
+
+1233
+01:38:26,986 --> 01:38:29,863
+<i>Vậy Sao Hỏa là vùng lãnh hải quốc tế.</i>
+
+1234
+01:38:30,656 --> 01:38:33,993
+<i>Và bây giờ, NASA là một tổ chức</i>
+<i>phi quân sự của người Mỹ.</i>
+
+1235
+01:38:34,159 --> 01:38:35,160
+<i>Họ sở hữu Túp Lều.</i>
+
+1236
+01:38:35,327 --> 01:38:37,997
+<i>Nhưng ngay khi tôi bước ra ngoài,</i>
+<i>tôi đã vào vùng lãnh hải quốc tế.</i>
+
+1237
+01:38:38,163 --> 01:38:39,498
+<i>Và cái hay là ở đoạn này.</i>
+
+1238
+01:38:39,665 --> 01:38:41,208
+<i>Tôi sắp đi đến hố Schiaparelli...</i>
+
+1239
+01:38:41,375 --> 01:38:43,252
+nơi tôi sẽ chiếm lấy khu vực hạ cánh
+của tàu Ares 4.
+
+1240
+01:38:43,419 --> 01:38:46,422
+Rõ ràng không ai cho phép tôi
+làm chuyện này...
+
+1241
+01:38:46,589 --> 01:38:48,591
+<i>và họ không thể</i>
+<i>cho đến khi tôi lên tàu Ares 4.</i>
+
+1242
+01:38:49,008 --> 01:38:51,343
+<i>Như vậy có nghĩa là tôi sẽ</i>
+<i>chiếm lấy một tàu không gian...</i>
+
+1243
+01:38:51,510 --> 01:38:53,721
+<i>trong vùng lãnh hải quốc tế</i>
+<i>mà không được cho phép.</i>
+
+1244
+01:38:53,887 --> 01:38:57,683
+<i>Tức là, theo định nghĩa,</i>
+<i>tôi sẽ trở thành hải tặc.</i>
+
+1245
+01:38:58,684 --> 01:39:02,438
+<i>Mark Watney, Hải tặc Không gian.</i>
+
+1246
+01:39:04,023 --> 01:39:07,067
+đang tắt hệ thống
+
+1247
+01:39:07,234 --> 01:39:08,694
+NASA
+hoàn tất tắt hệ thống
+
+1248
+01:39:31,925 --> 01:39:33,594
+Hải tặc Không gian.
+
+1249
+01:40:34,446 --> 01:40:38,158
+<i>Bất cứ nơi nào tôi đến,</i>
+<i>tôi cũng là người đầu tiên.</i>
+
+1250
+01:40:38,826 --> 01:40:40,619
+<i>Một cảm giác thật lạ.</i>
+
+1251
+01:40:41,286 --> 01:40:42,830
+<i>Bước chân ra khỏi chiếc Rover...</i>
+
+1252
+01:40:42,996 --> 01:40:45,124
+<i>là người đầu tiên.</i>
+
+1253
+01:40:45,290 --> 01:40:48,460
+<i>Leo lên ngọn đồi kia,</i>
+<i>là người đầu tiên.</i>
+
+1254
+01:40:49,461 --> 01:40:51,338
+<i>Bốn tỉ rưỡi năm...</i>
+
+1255
+01:40:51,505 --> 01:40:53,173
+<i>không có ai ở đây.</i>
+
+1256
+01:40:53,716 --> 01:40:56,468
+<i>Và bây giờ là tôi.</i>
+
+1257
+01:40:57,803 --> 01:41:01,306
+<i>Tôi là người đầu tiên ở một mình</i>
+<i>trên cả một hành tinh.</i>
+
+1258
+01:41:16,488 --> 01:41:17,823
+Anh ấy sao rồi?
+
+1259
+01:41:19,491 --> 01:41:21,201
+Đến giờ vẫn ổn.
+
+1260
+01:41:21,368 --> 01:41:23,537
+Anh ấy vẫn theo kịp tiến độ.
+
+1261
+01:41:23,704 --> 01:41:26,165
+Chạy bốn tiếng trước giờ trưa...
+
+1262
+01:41:26,832 --> 01:41:29,918
+đặt các tấm năng lượng mặt trời
+xuống, đợi 13 tiếng để sạc pin
+
+1263
+01:41:30,085 --> 01:41:34,423
+và ngủ đâu đó trong lúc đợi
+và sau đó làm lại.
+
+1264
+01:41:36,675 --> 01:41:37,676
+Anh ấy sao rồi?
+
+1265
+01:41:39,887 --> 01:41:42,723
+Anh ấy yêu cầu chúng tôi gọi anh ấy
+là thuyền trưởng Râu Vàng.
+
+1266
+01:41:44,725 --> 01:41:46,560
+Trên lý thuyết,
+Sao Hỏa áp dụng luật hàng hải...
+
+1267
+01:41:46,727 --> 01:41:48,187
+Vâng, tôi biết.
+Anh ấy đã giải thích cho chúng tôi.
+
+1268
+01:41:50,272 --> 01:41:51,273
+Anh ấy ở đâu?
+
+1269
+01:41:52,566 --> 01:41:53,859
+- Đây.
+- Được.
+
+1270
+01:41:54,193 --> 01:41:55,110
+Đây.
+
+1271
+01:41:55,694 --> 01:41:56,612
+Thấy rồi.
+
+1272
+01:42:02,075 --> 01:42:05,704
+NGÀY SOL 494
+
+1273
+01:43:36,128 --> 01:43:40,173
+NGÀY SOL 517
+
+1274
+01:43:41,258 --> 01:43:44,887
+<i>Được rồi, tôi sẽ bắt đầu bằng việc</i>
+<i>tuyên bố là anh sẽ không thích chuyện này.</i>
+
+1275
+01:43:45,220 --> 01:43:46,305
+Vậy sao?
+
+1276
+01:43:47,055 --> 01:43:49,600
+Phải, vấn đề là ở gia tốc cắt ngang.
+
+1277
+01:43:49,766 --> 01:43:54,354
+Tàu <i>Hermes...</i>
+không thể tiến vào quỹ đạo Sao Hỏa.
+
+1278
+01:43:54,521 --> 01:43:57,816
+Nếu không, họ sẽ không có đủ nhiên liệu
+để quay về nhà.
+
+1279
+01:43:57,983 --> 01:44:02,487
+Chiếc MAV chỉ được thiết kế
+để bay lên quỹ đạo thấp của Sao Hỏa.
+
+1280
+01:44:02,654 --> 01:44:06,658
+Vậy để Mark hoàn toàn thoát được
+trọng lực của Sao Hỏa...
+
+1281
+01:44:06,825 --> 01:44:08,201
+và cắt ngang tàu <i>Hermes...</i>
+
+1282
+01:44:08,368 --> 01:44:10,120
+- Anh ấy sẽ phải bay nhanh.
+- Chính xác.
+
+1283
+01:44:10,287 --> 01:44:12,539
+<i>Tức là chúng ta cần phải làm cho</i>
+<i>chiếc MAV nhẹ hơn.</i>
+
+1284
+01:44:12,706 --> 01:44:15,208
+<i>Nhẹ hơn rất nhiều.</i>
+<i>Nhẹ hơn năm tấn.</i>
+
+1285
+01:44:15,500 --> 01:44:16,585
+Anh có thể làm được mà, đúng không?
+
+1286
+01:44:16,752 --> 01:44:18,545
+<i>Có mấy thứ có thể cắt giảm</i>
+<i>ngay lập tức.</i>
+
+1287
+01:44:18,712 --> 01:44:21,632
+<i>Tàu được thiết kế để chở 500 ký</i>
+<i>đất và mẫu vật Sao Hỏa.</i>
+
+1288
+01:44:22,007 --> 01:44:23,425
+Rõ ràng, chúng ta sẽ không chở gì cả.
+
+1289
+01:44:23,717 --> 01:44:27,346
+Và chỉ có một hành khách
+thay vì sáu.
+
+1290
+01:44:27,512 --> 01:44:30,182
+Với đồ du hành và dụng cụ,
+là thêm 500 ký nữa?
+
+1291
+01:44:30,349 --> 01:44:32,225
+Vứt cả máy trợ sinh, chẳng cần.
+
+1292
+01:44:32,392 --> 01:44:34,186
+Và chúng ta sẽ bắt Mark mặc bộ EVA
+suốt cả chặng đường.
+
+1293
+01:44:34,353 --> 01:44:37,397
+Khoan đã. Nếu anh ấy mặc bộ EVA,
+làm sao anh ấy điều khiển?
+
+1294
+01:44:37,564 --> 01:44:39,733
+Thì... khỏi.
+
+1295
+01:44:39,900 --> 01:44:43,528
+Martinez sẽ điều khiển chiếc MAV
+từ trên tàu <i>Hermes.</i>
+
+1296
+01:44:43,695 --> 01:44:46,281
+Chúng ta chưa bao giờ điều khiển
+một con tàu nào từ xa.
+
+1297
+01:44:48,951 --> 01:44:52,245
+Nhưng tôi rất hào hứng với cơ hội đó.
+
+1298
+01:44:52,412 --> 01:44:56,708
+Nếu như vậy, chúng ta có thể bỏ bảng
+điều khiển, hệ thống liên lạc thứ hai và ba.
+
+1299
+01:44:56,875 --> 01:44:57,834
+<i>Khoan đã.</i>
+
+1300
+01:44:58,001 --> 01:45:01,922
+<i>Anh muốn điều khiển việc cất cánh từ xa</i>
+<i>mà không có hệ thống liên lạc dự phòng?</i>
+
+1301
+01:45:04,049 --> 01:45:06,677
+Anh ta còn chưa bỏ mấy món
+ghê gớm khác, Vincent.
+
+1302
+01:45:06,843 --> 01:45:08,178
+Vậy thì kể mấy món ghê gớm đi!
+
+1303
+01:45:08,553 --> 01:45:13,266
+Chúng ta cần tháo nút không khí trên nóc,
+cửa sổ, và Panel 19 trên thân tàu.
+
+1304
+01:45:14,893 --> 01:45:16,186
+Anh muốn dỡ bỏ
+cả phần thân tàu?
+
+1305
+01:45:16,353 --> 01:45:17,479
+<i>Đúng vậy.</i>
+
+1306
+01:45:17,646 --> 01:45:20,023
+<i>Riêng nút không khí trên nóc</i>
+<i>đã nặng 400 ký.</i>
+
+1307
+01:45:20,649 --> 01:45:22,985
+Anh muốn đưa một người lên vũ trụ
+mà không có phần thân tàu?
+
+1308
+01:45:23,151 --> 01:45:24,319
+<i>Không phải.</i>
+
+1309
+01:45:25,320 --> 01:45:28,490
+<i>Chúng ta sẽ nói anh ấy</i>
+<i>dùng tấm bạt của Túp Lều che nó lại.</i>
+
+1310
+01:45:29,324 --> 01:45:32,953
+<i>Nghe này, thân tàu thật ra có mặt</i>
+<i>là để giữ không khí bên trong.</i>
+
+1311
+01:45:33,120 --> 01:45:36,081
+Khí quyển của Sao Hỏa rất mỏng,
+các anh không cần phải có dáng thuôn.
+
+1312
+01:45:36,248 --> 01:45:39,584
+Đến lúc con tàu đi đủ nhanh
+để gặp vấn đề về lực cản không khí...
+
+1313
+01:45:39,751 --> 01:45:42,212
+thì nó cũng đã lên đủ cao
+để đến nơi không có không khí.
+
+1314
+01:45:42,379 --> 01:45:44,923
+Anh muốn đưa anh ấy lên vũ trụ
+trong một tấm bạt bằng nhựa?
+
+1315
+01:45:45,090 --> 01:45:46,425
+<i>Đúng vậy.</i>
+
+1316
+01:45:47,259 --> 01:45:48,969
+<i>Tôi nói tiếp được không?</i>
+
+1317
+01:45:49,136 --> 01:45:50,220
+Không.
+
+1318
+01:45:51,596 --> 01:45:54,016
+Giỡn chơi hay sao?
+
+1319
+01:45:56,601 --> 01:45:59,021
+Cô nghĩ ý anh ấy là...
+
+1320
+01:45:59,187 --> 01:46:00,814
+"Giỡn chơi hay sao?"
+
+1321
+01:46:01,231 --> 01:46:02,274
+Cô hiểu không?
+
+1322
+01:46:02,607 --> 01:46:05,736
+Hay là, "Giỡn chơi hay sao?"
+
+1323
+01:46:06,486 --> 01:46:08,238
+Tôi nghĩ có lẽ là cái thứ hai.
+
+1324
+01:46:08,405 --> 01:46:09,156
+Thật à?
+
+1325
+01:46:10,032 --> 01:46:11,450
+Có thể là cái đầu tiên.
+
+1326
+01:46:12,325 --> 01:46:13,493
+"Giỡn chơi hay sao?"
+
+1327
+01:46:14,453 --> 01:46:16,121
+Vâng, có thể là cái đầu tiên.
+
+1328
+01:46:23,837 --> 01:46:27,215
+NGÀY SOL 538
+
+1329
+01:46:29,051 --> 01:46:33,847
+HỐ SCHIAPARELLI
+KHU VỰC ĐÁP CỦA ARES 4
+
+1330
+01:46:40,353 --> 01:46:42,814
+<i>Tôi biết họ đang làm gì.</i>
+
+1331
+01:46:43,607 --> 01:46:45,650
+Tôi biết chính xác
+họ đang làm gì.
+
+1332
+01:46:46,318 --> 01:46:48,028
+Họ cứ nhai đi nhai lại...
+
+1333
+01:46:48,195 --> 01:46:51,198
+"Đi nhanh hơn bất kỳ người nào
+trong lịch sử du hành vũ trụ."
+
+1334
+01:46:51,490 --> 01:46:52,532
+<i>Làm như điều đó là tốt vậy.</i>
+
+1335
+01:46:52,699 --> 01:46:54,993
+<i>Cứ như điều đó sẽ làm tôi không thấy</i>
+<i>kế hoạch này điên cỡ nào.</i>
+
+1336
+01:46:56,453 --> 01:46:59,998
+Phải, tôi sẽ đi nhanh hơn bất kỳ người nào
+trong lịch sử du hành vũ trụ...
+
+1337
+01:47:00,165 --> 01:47:03,043
+bởi vì các người phóng tôi
+trong một chiếc xe mui trần.
+
+1338
+01:47:03,210 --> 01:47:06,755
+Thật ra là tệ hơn bởi vì tôi
+còn không điều khiển được con tàu.
+
+1339
+01:47:06,963 --> 01:47:12,511
+<i>Và nhân tiện, các nhà vật lý học,</i>
+<i>khi mô tả những thứ như gia tốc...</i>
+
+1340
+01:47:12,677 --> 01:47:14,721
+<i>xin đừng dùng từ "nhanh".</i>
+
+1341
+01:47:15,597 --> 01:47:19,976
+Và họ chỉ nói như thế với hy vọng
+là tôi sẽ không đưa ý kiến phản đối...
+
+1342
+01:47:20,977 --> 01:47:23,063
+kế hoạch điên rồ này.
+
+1343
+01:47:23,897 --> 01:47:28,443
+<i>Bởi vì tôi thích cái danh hiệu</i>
+<i>"người nhanh nhất trong lịch sử du hành vũ trụ."</i>
+
+1344
+01:47:30,237 --> 01:47:32,280
+<i>Tôi thật sự thích danh hiệu đó.</i>
+
+1345
+01:47:33,406 --> 01:47:35,283
+<i>Ý tôi là, tôi thích lắm.</i>
+
+1346
+01:47:37,744 --> 01:47:39,871
+<i>Tôi sẽ không cho họ biết đâu.</i>
+
+1347
+01:47:45,961 --> 01:47:47,003
+<i>Được rồi.</i>
+
+1348
+01:47:48,630 --> 01:47:50,382
+<i>Làm thôi.</i>
+
+1349
+01:48:25,584 --> 01:48:26,710
+Thôi mà.
+
+1350
+01:48:55,030 --> 01:48:56,114
+M.A.V. KHỞI ĐỘNG
+
+1351
+01:48:57,157 --> 01:48:58,825
+TÁCH RỜI
+CỬA KHOANG 01
+
+1352
+01:49:03,121 --> 01:49:05,165
+TÁCH RỜI
+CỬA KHOANG 02
+
+1353
+01:50:21,533 --> 01:50:24,619
+<i>Beck, Vogel, tôi muốn hai người mở cửa</i>
+<i>ngoài của Nút Không Khí 2 và đợi ở đó...</i>
+
+1354
+01:50:24,703 --> 01:50:25,620
+NGÀY SOL 560
+
+1355
+01:50:25,704 --> 01:50:26,705
+<i>- trước khi chiếc MAV phóng.</i>
+<i>- Vâng.</i>
+
+1356
+01:50:26,871 --> 01:50:30,750
+<i>Martinez lái chiếc MAV,</i>
+<i>Johanssen xử lý việc cất cánh.</i>
+
+1357
+01:50:30,917 --> 01:50:34,713
+<i>Một khi chúng ta cắt ngang,</i>
+<i>Beck sẽ đón Watney.</i>
+
+1358
+01:50:34,879 --> 01:50:35,797
+Chúng tôi sẵn sàng.
+
+1359
+01:50:35,964 --> 01:50:37,132
+Kế hoạch cắt ngang là gì?
+
+1360
+01:50:38,091 --> 01:50:40,385
+Chúng tôi đã nối được các dây buộc
+thành một sợi dài.
+
+1361
+01:50:40,552 --> 01:50:42,554
+Dài 214 mét.
+
+1362
+01:50:42,721 --> 01:50:45,056
+Và tôi sẽ đeo ba-lô đẩy MMU,
+dễ dàng di chuyển qua lại.
+
+1363
+01:50:45,432 --> 01:50:47,350
+Tốc độ tương đối mà anh có thể xử lý
+là bao nhiêu?
+
+1364
+01:50:48,435 --> 01:50:50,937
+Tôi có thể tóm chiếc MAV
+với vận tốc 5 m/s.
+
+1365
+01:50:51,104 --> 01:50:53,189
+10 thì sẽ giống như
+nhảy lên tàu lửa đang chạy.
+
+1366
+01:50:53,356 --> 01:50:55,233
+Cho nên nhanh hơn một chút thôi
+thì tôi có thể trượt.
+
+1367
+01:50:55,483 --> 01:50:57,319
+Vậy, chúng ta sẽ phải trôi một lúc.
+
+1368
+01:50:58,945 --> 01:51:00,655
+Cú phóng mất 12 phút.
+
+1369
+01:51:00,905 --> 01:51:04,034
+Và đó sẽ là 52 phút
+trước khi cắt ngang.
+
+1370
+01:51:04,326 --> 01:51:06,619
+Một khi động cơ của Mark tắt...
+
+1371
+01:51:06,786 --> 01:51:09,205
+chúng ta sẽ biết điểm và vận tốc
+cắt ngang của chúng ta.
+
+1372
+01:51:09,372 --> 01:51:10,874
+Vogel, anh hỗ trợ cho Beck.
+
+1373
+01:51:11,041 --> 01:51:13,710
+Nếu mọi thứ ổn thỏa,
+anh nắm dây kéo họ lên tàu.
+
+1374
+01:51:13,877 --> 01:51:16,629
+Nếu có chuyện không hay,
+anh nhảy ra theo anh ấy.
+
+1375
+01:51:16,796 --> 01:51:17,881
+Vâng.
+
+1376
+01:51:18,048 --> 01:51:18,882
+Được rồi.
+
+1377
+01:51:21,301 --> 01:51:23,511
+Đi đón chàng trai
+của chúng ta thôi.
+
+1378
+01:51:25,472 --> 01:51:30,894
+NGÀY SOL 561
+
+1379
+01:51:47,160 --> 01:51:51,873
+Tạm biệt
+SAO HỎA
+
+1380
+01:51:58,213 --> 01:52:00,673
+Gởi những ai quan tâm,
+hãy chăm sóc chiếc xe này.
+
+1381
+01:52:00,757 --> 01:52:02,592
+Nó đã cứu mạng tôi. Watney.
+
+1382
+01:52:24,656 --> 01:52:28,201
+Tình hình đang rất căng thẳng ở đây,
+bên ngoài Trung tâm Vũ trụ Johnson.
+
+1383
+01:52:28,368 --> 01:52:31,746
+Như các bạn có thể thấy,
+nhiều người đã tập trung ở đây...
+
+1384
+01:52:31,913 --> 01:52:36,000
+để xem liệu nhiệm vụ cứu Mark Watney
+có thành công hay không.
+
+1385
+01:52:36,334 --> 01:52:38,586
+<i>Hãy nhớ, họ đã liên lạc với anh ấy</i>
+<i>nhưng không nhiều lắm.</i>
+
+1386
+01:52:38,753 --> 01:52:40,088
+QUẢNG TRƯỜNG THỜI ĐẠI
+NEW YORK
+
+1387
+01:52:40,255 --> 01:52:43,341
+<i>Họ đang xem trực tiếp sự kiện này.</i>
+
+1388
+01:52:43,508 --> 01:52:47,262
+<i>Vì thế chúng tôi sẽ cố gắng cập nhật</i>
+<i>ngay tức thì những gì đang xảy ra.</i>
+
+1389
+01:52:47,429 --> 01:52:51,099
+<i>Hãy theo dõi NASA</i>
+<i>liên lạc với Mark Watney.</i>
+
+1390
+01:52:51,266 --> 01:52:52,475
+<i>Hãy lắng nghe.</i>
+
+1391
+01:52:59,149 --> 01:53:01,443
+Nếu có chuyện không hay xảy ra,
+phòng Điều hành Nhiệm vụ có thể làm gì?
+
+1392
+01:53:01,901 --> 01:53:03,987
+Chẳng làm được gì cả.
+
+1393
+01:53:04,529 --> 01:53:06,322
+Tất cả sự kiện đều đang xảy ra
+cách 12 phút ánh sáng...
+
+1394
+01:53:06,489 --> 01:53:10,201
+nghĩa là mất 24 phút để họ có được
+câu trả lời cho bất kỳ câu hỏi nào.
+
+1395
+01:53:11,327 --> 01:53:13,371
+Toàn bộ cú phóng là 12 phút...
+
+1396
+01:53:15,081 --> 01:53:16,708
+cho nên họ phải
+tự lực cánh sinh thôi.
+
+1397
+01:54:08,176 --> 01:54:11,888
+CƠ QUAN CNSA
+BẮC KINH
+
+1398
+01:54:20,522 --> 01:54:21,773
+QUẢNG TRƯỜNG TRAFALGAR
+LONDON
+
+1399
+01:54:21,940 --> 01:54:23,691
+<i>...Mark hoàn toàn cô độc</i>
+<i>trên Sao Hỏa rất lâu rồi.</i>
+
+1400
+01:54:23,858 --> 01:54:27,153
+<i>Một lát nữa chúng ta sẽ nói chuyện</i>
+<i>với một nhà tâm lý để thảo luận xem...</i>
+
+1401
+01:54:49,926 --> 01:54:51,511
+<i>Áp suất nhiên liệu, an toàn.</i>
+
+1402
+01:54:51,886 --> 01:54:54,055
+Động cơ đồng tâm, hoàn hảo.
+
+1403
+01:54:54,222 --> 01:54:55,473
+<i>Liên lạc, năm trên năm.</i>
+
+1404
+01:54:57,225 --> 01:55:00,019
+<i>Chúng tôi đã sẵn sàng cho bảng kiểm tra</i>
+<i>trước khi bay, Chỉ huy.</i>
+
+1405
+01:55:00,186 --> 01:55:04,857
+<i>Phòng Điều hành Nhiệm vụ,</i>
+<i>đây là</i> Hermes.
+
+1406
+01:55:05,024 --> 01:55:08,528
+<i>Chúng tôi còn hai phút, mười giây</i>
+<i>trước khi phóng, sau tiếng bíp.</i>
+
+1407
+01:55:09,779 --> 01:55:10,780
+Còn khoảng hai phút, Watney.
+
+1408
+01:55:10,947 --> 01:55:12,031
+<i>Ở dưới đó anh vẫn ổn chứ?</i>
+
+1409
+01:55:12,198 --> 01:55:13,408
+Tôi khỏe.
+
+1410
+01:55:14,242 --> 01:55:16,035
+Tôi khát khao được lên gặp cô.
+
+1411
+01:55:16,578 --> 01:55:17,912
+Cám ơn đã trở lại vì tôi.
+
+1412
+01:55:18,079 --> 01:55:18,997
+<i>Chúng tôi đang làm đây.</i>
+
+1413
+01:55:19,163 --> 01:55:22,625
+<i>Nhớ là anh sẽ chịu trọng lực rất lớn,</i>
+<i>cho nên có ngất cũng chẳng sao.</i>
+
+1414
+01:55:22,792 --> 01:55:24,752
+Giờ anh đang nằm trong tay
+của Martinez.
+
+1415
+01:55:25,461 --> 01:55:27,505
+Nói tên khốn đó
+là không có chơi lộn nhào đâu đấy.
+
+1416
+01:55:28,965 --> 01:55:30,258
+Nghe rõ, MAV.
+
+1417
+01:55:30,717 --> 01:55:31,676
+<i>Liên lạc.</i>
+
+1418
+01:55:31,843 --> 01:55:32,719
+<i>Sẵn sàng.</i>
+
+1419
+01:55:32,885 --> 01:55:33,928
+<i>Điều khiển từ xa.</i>
+
+1420
+01:55:34,095 --> 01:55:34,929
+<i>Sẵn sàng.</i>
+
+1421
+01:55:35,096 --> 01:55:35,930
+<i>Cứu hộ.</i>
+
+1422
+01:55:36,097 --> 01:55:36,764
+<i>Sẵn sàng.</i>
+
+1423
+01:55:37,098 --> 01:55:38,558
+<i>Cứu hộ dự bị.</i>
+
+1424
+01:55:38,725 --> 01:55:39,642
+<i>Sẵn sàng.</i>
+
+1425
+01:55:39,892 --> 01:55:40,768
+Phi công.
+
+1426
+01:55:42,270 --> 01:55:43,146
+Sẵn sàng.
+
+1427
+01:55:43,313 --> 01:55:44,522
+<i>Phi công.</i>
+
+1428
+01:55:44,689 --> 01:55:45,815
+<i>Tiến hành.</i>
+
+1429
+01:55:45,982 --> 01:55:46,983
+<i>Rõ. Chúng tôi tiến hành.</i>
+
+1430
+01:55:48,151 --> 01:55:50,528
+<i>Điều hành Nhiệm vụ,</i>
+<i>chúng tôi bắt đầu phóng.</i>
+
+1431
+01:55:51,362 --> 01:55:52,572
+Đếm ngược mười...
+
+1432
+01:55:52,739 --> 01:55:54,741
+- chín...
+- Động cơ chính khởi động.
+
+1433
+01:55:54,907 --> 01:55:56,034
+<i>tám...</i>
+
+1434
+01:55:56,534 --> 01:55:57,410
+<i>bảy...</i>
+
+1435
+01:55:57,577 --> 01:55:59,203
+<i>Kẹp neo đã mở.</i>
+
+1436
+01:55:59,370 --> 01:56:00,955
+Khoảng năm giây nữa, Watney.
+Gắng lên.
+
+1437
+01:56:01,122 --> 01:56:02,790
+Gặp lại sau vài phút nữa, Chỉ huy.
+
+1438
+01:56:03,082 --> 01:56:04,417
+<i>bốn...</i>
+
+1439
+01:56:04,792 --> 01:56:06,085
+<i>ba...</i>
+
+1440
+01:56:06,377 --> 01:56:07,545
+<i>hai...</i>
+
+1441
+01:56:08,046 --> 01:56:09,005
+<i>một.</i>
+
+1442
+01:56:45,291 --> 01:56:47,669
+Vận tốc, 741 m/s.
+
+1443
+01:56:47,835 --> 01:56:49,796
+Độ cao, 1350 mét.
+
+1444
+01:56:49,962 --> 01:56:51,130
+Quá thấp.
+
+1445
+01:56:51,297 --> 01:56:52,423
+Điều khiển rất khó khăn.
+
+1446
+01:56:56,302 --> 01:56:59,514
+<i>Watney, anh có nghe không?</i>
+
+1447
+01:57:05,520 --> 01:57:06,813
+<i>Hoàn tất tách rời động cơ.</i>
+
+1448
+01:57:06,979 --> 01:57:09,982
+Vận tốc, 850.
+Độ cao, 1843.
+
+1449
+01:57:10,191 --> 01:57:11,401
+Anh ấy còn cách xa độ cao cần thiết.
+
+1450
+01:57:11,567 --> 01:57:12,819
+Còn xa bao nhiêu?
+
+1451
+01:57:13,319 --> 01:57:14,404
+Đang kiểm tra.
+
+1452
+01:57:14,987 --> 01:57:16,197
+Watney.
+
+1453
+01:57:16,906 --> 01:57:17,824
+Anh có nghe thấy không?
+
+1454
+01:57:18,116 --> 01:57:19,325
+<i>Có lẽ anh ấy ngất rồi.</i>
+
+1455
+01:57:19,492 --> 01:57:21,994
+<i>Anh ấy chịu lực kéo 12 G khi cất cánh.</i>
+<i>Cho anh ấy vài phút đi.</i>
+
+1456
+01:57:22,161 --> 01:57:23,329
+<i>Rõ.</i>
+
+1457
+01:57:25,665 --> 01:57:26,999
+<i>Động cơ chính tắt trong ba...</i>
+
+1458
+01:57:27,667 --> 01:57:29,252
+<i>hai, một...</i>
+
+1459
+01:57:29,961 --> 01:57:31,045
+<i>đã tắt.</i>
+
+1460
+01:57:32,588 --> 01:57:34,090
+<i>Trở lại với hệ thống dẫn đường tự động.</i>
+
+1461
+01:57:35,049 --> 01:57:36,384
+<i>Xác nhận đã tắt.</i>
+
+1462
+01:57:38,886 --> 01:57:40,638
+<i>Đã rút hết nhiên liệu dự phòng.</i>
+
+1463
+01:57:42,557 --> 01:57:43,725
+<i>Watney?</i>
+
+1464
+01:57:44,308 --> 01:57:45,518
+<i>Anh có nghe thấy không?</i>
+
+1465
+01:57:46,519 --> 01:57:49,147
+<i>Có vẻ như liên lạc đang gặp trục trặc.</i>
+
+1466
+01:57:56,362 --> 01:57:57,905
+<i>Tôi nhận được tiếng ping ngắt quãng.</i>
+
+1467
+01:57:58,072 --> 01:58:00,116
+Vận tốc cắt ngang sẽ khoảng 11 m/s.
+
+1468
+01:58:00,283 --> 01:58:02,034
+Tôi có thể bắt được.
+
+1469
+01:58:02,660 --> 01:58:04,996
+Khoảng cách với điểm cắt ngang sẽ là...
+
+1470
+01:58:05,455 --> 01:58:07,123
+Chúng ta sẽ cách xa 68 ki-lô-mét.
+
+1471
+01:58:07,582 --> 01:58:09,375
+<i>68 ki-lô-mét?</i>
+
+1472
+01:58:09,584 --> 01:58:12,044
+<i>Cô ấy vừa nói 68 ki-lô-mét sao?</i>
+
+1473
+01:58:12,795 --> 01:58:14,797
+Coi nào, mọi người, tập trung đi.
+Giải quyết vấn đề.
+
+1474
+01:58:15,590 --> 01:58:17,216
+Johanssen, thời gian cắt ngang?
+
+1475
+01:58:17,884 --> 01:58:19,886
+<i>39 phút 12 giây.</i>
+
+1476
+01:58:20,553 --> 01:58:23,264
+Martinez, nếu như chúng ta chỉnh
+động cơ đẩy về cùng hướng thì sao?
+
+1477
+01:58:23,723 --> 01:58:26,684
+Vậy thì còn tùy cô muốn tiết kiệm
+bao nhiêu nhiên liệu...
+
+1478
+01:58:26,851 --> 01:58:28,186
+cho việc điều chỉnh độ cao
+cho hành trình quay về.
+
+1479
+01:58:28,352 --> 01:58:29,437
+Anh cần bao nhiêu?
+
+1480
+01:58:29,604 --> 01:58:33,900
+Tôi có thể xử lý với 20%
+lượng nhiên liệu đang có.
+
+1481
+01:58:34,942 --> 01:58:38,196
+Nếu chúng ta sử dụng 75,5%
+lượng nhiên liệu để điều chỉnh độ cao còn lại...
+
+1482
+01:58:38,362 --> 01:58:40,239
+thì khoảng cách tới điểm cắt ngang
+sẽ còn 0.
+
+1483
+01:58:40,406 --> 01:58:41,240
+Làm đi.
+
+1484
+01:58:42,283 --> 01:58:45,411
+Khoan đã.
+Khoảng cách thì giảm còn 0...
+
+1485
+01:58:45,578 --> 01:58:48,289
+nhưng vận tốc cắt ngang sẽ là 42 m/s.
+
+1486
+01:58:48,456 --> 01:58:50,082
+<i>Và như thế thì quá nhanh.</i>
+
+1487
+01:58:50,500 --> 01:58:54,128
+Vậy thì chúng ta có 39 phút
+để tìm ra cách giảm tốc độ.
+
+1488
+01:58:57,215 --> 01:58:58,966
+Martinez, nhấn ga đi.
+
+1489
+01:58:59,133 --> 01:59:00,510
+Rõ.
+
+1490
+01:59:22,949 --> 01:59:24,992
+MAV gọi <i>Hermes.</i>
+
+1491
+01:59:25,159 --> 01:59:26,035
+<i>Watney?</i>
+
+1492
+01:59:26,202 --> 01:59:27,203
+<i>Xác nhận.</i>
+
+1493
+01:59:31,249 --> 01:59:32,667
+<i>Tình trạng của anh thế nào?</i>
+
+1494
+01:59:33,042 --> 01:59:34,544
+<i>Ngực tôi đau quá.</i>
+
+1495
+01:59:35,086 --> 01:59:36,462
+<i>Tôi bị gãy xương sườn rồi.</i>
+
+1496
+01:59:37,296 --> 01:59:38,381
+<i>Cô khỏe không?</i>
+
+1497
+01:59:38,548 --> 01:59:41,217
+<i>Chúng tôi đang tìm cách đến chỗ anh.</i>
+<i>Có rắc rối xảy ra trong quá trình phóng.</i>
+
+1498
+01:59:41,384 --> 01:59:42,760
+Rõ.
+
+1499
+01:59:43,302 --> 01:59:44,762
+Tệ đến mức nào?
+
+1500
+01:59:44,929 --> 01:59:46,389
+<i>Chúng tôi đã giảm được khoảng cách</i>
+<i>cắt ngang,</i>
+
+1501
+01:59:46,472 --> 01:59:48,516
+<i>nhưng lại gặp vấn đề với vận tốc.</i>
+
+1502
+01:59:48,683 --> 01:59:49,976
+<i>Vấn đề lớn như thế nào?</i>
+
+1503
+01:59:50,142 --> 01:59:51,644
+42 m/s.
+
+1504
+01:59:52,019 --> 01:59:53,020
+À...
+
+1505
+01:59:54,313 --> 01:59:55,773
+chết tiệt.
+
+1506
+02:00:00,695 --> 02:00:02,488
+<i>Chỉ huy, tôi có ý này.</i>
+
+1507
+02:00:02,655 --> 02:00:04,073
+<i>Nói đi, Mark.</i>
+
+1508
+02:00:04,240 --> 02:00:07,410
+Nếu tôi có thể tìm được
+một vật nhọn trong này...
+
+1509
+02:00:07,577 --> 02:00:10,413
+và đâm thủng găng tay
+trên bộ đồ EVA của tôi
+
+1510
+02:00:10,580 --> 02:00:13,040
+tôi có thể dùng dòng không khí
+thoát ra làm lực đẩy...
+
+1511
+02:00:13,207 --> 02:00:14,584
+<i>và bay đến chỗ cô.</i>
+
+1512
+02:00:14,750 --> 02:00:17,795
+<i>Sẽ rất dễ điều khiển</i>
+<i>bởi vì ở ngay trên tay tôi mà.</i>
+
+1513
+02:00:18,087 --> 02:00:19,922
+Tôi không thấy làm vậy
+thì anh có thể điều khiển được.
+
+1514
+02:00:20,089 --> 02:00:21,757
+Anh sẽ phải quan sát pha cắt ngang
+
+1515
+02:00:21,841 --> 02:00:24,260
+bằng mắt thường sử dụng
+lực đẩy mà anh khó có thể kiểm soát.
+
+1516
+02:00:24,468 --> 02:00:27,638
+Phải, tất cả những lý lẽ đó
+đều rất chắc chắn.
+
+1517
+02:00:28,431 --> 02:00:31,183
+Nhưng hãy cân nhắc thử điều này.
+
+1518
+02:00:33,227 --> 02:00:35,897
+Tôi sẽ bay lòng vòng
+giống như Iron Man.
+
+1519
+02:00:37,189 --> 02:00:38,774
+<i>Chỉ huy...</i>
+
+1520
+02:00:38,941 --> 02:00:40,610
+<i>làm Iron Man đi.</i>
+
+1521
+02:00:43,696 --> 02:00:44,947
+<i>Đây là tình trạng mất tín hiệu bất ngờ.</i>
+
+1522
+02:00:45,197 --> 02:00:47,074
+<i>Mất liên lạc. Đang đợi.</i>
+
+1523
+02:00:48,117 --> 02:00:50,745
+Có lẽ ý kiến đó không phải là tệ nhất.
+
+1524
+02:00:50,912 --> 02:00:52,747
+Không, đó là ý kiến tệ nhất.
+Ý kiến tệ nhất trên đời.
+
+1525
+02:00:52,914 --> 02:00:54,040
+Những gì anh ấy nói thì không.
+
+1526
+02:00:54,206 --> 02:00:56,334
+Sử dụng không khí làm lực đẩy.
+
+1527
+02:00:58,502 --> 02:01:00,421
+Nếu chúng ta cho nổ nút VAL thì sao?
+
+1528
+02:01:00,713 --> 02:01:02,506
+Khoan, cô muốn mở toang
+nút không khí dành cho xe cộ (VAL)?
+
+1529
+02:01:02,757 --> 02:01:03,841
+Như thế sẽ cho chúng ta
+một cú đẩy tốt.
+
+1530
+02:01:04,008 --> 02:01:05,760
+Nhưng đồng thời cũng thổi tung
+nóc con tàu.
+
+1531
+02:01:05,927 --> 02:01:08,721
+Và tất cả không khí sẽ thoát đi
+và chúng ta sẽ không còn gì để thở.
+
+1532
+02:01:08,888 --> 02:01:11,140
+Chúng ta sẽ đóng khoang điều khiển
+và phòng chứa lò phản ứng.
+
+1533
+02:01:11,307 --> 02:01:12,558
+Tất cả những nơi khác sẽ bị hút hết.
+
+1534
+02:01:13,434 --> 02:01:14,101
+Vogel.
+
+1535
+02:01:14,268 --> 02:01:15,561
+<i>Nói đi, Chỉ huy.</i>
+
+1536
+02:01:15,978 --> 02:01:18,606
+Tôi cần anh vào trong
+và chế một quả... bom.
+
+1537
+02:01:19,357 --> 02:01:20,358
+Nói lại xem nào, Chỉ huy?
+
+1538
+02:01:20,524 --> 02:01:23,319
+<i>Anh là nhà hóa học. Anh có thể chế bom</i>
+<i>với những thứ trên tàu không?</i>
+
+1539
+02:01:24,987 --> 02:01:26,280
+Chắc là được.
+
+1540
+02:01:27,365 --> 02:01:30,534
+Nhưng tôi thấy cần phải nhắc là
+kích hoạt một thiết bị nổ...
+
+1541
+02:01:30,701 --> 02:01:33,454
+<i>trong tàu vũ trụ</i>
+<i>là một ý tưởng rất, rất kinh khủng.</i>
+
+1542
+02:01:33,788 --> 02:01:36,666
+Đợi đã.
+Mọi người chế bom mà không rủ tôi sao?
+
+1543
+02:01:36,832 --> 02:01:38,834
+<i>Rõ. Anh có thể làm được không?</i>
+
+1544
+02:01:41,253 --> 02:01:42,296
+Vâng.
+
+1545
+02:01:45,174 --> 02:01:46,759
+<i>Houston, xin chú ý.</i>
+
+1546
+02:01:46,926 --> 02:01:49,971
+<i>Chúng tôi sẽ cho nổ có tính toán nút VAL</i>
+<i>để tạo ra lực đẩy ngược.</i>
+
+1547
+02:01:51,222 --> 02:01:53,641
+Beck, cứ mặc đồ du hành.
+Gặp Johanssen ở Nút Không Khí Số 1.
+
+1548
+02:01:53,808 --> 02:01:54,850
+Chúng tôi sẽ mở cửa ngoài.
+
+1549
+02:01:55,017 --> 02:01:56,686
+<i>Tôi cần anh đặt kíp nổ</i>
+<i>lên cửa trong.</i>
+
+1550
+02:01:57,144 --> 02:01:59,271
+<i>Quay trở lại Nút Không Khí Số2</i>
+<i>dọc thân tàu.</i>
+
+1551
+02:01:59,438 --> 02:02:01,273
+Rõ. Tôi đang đến đây.
+
+1552
+02:02:08,531 --> 02:02:09,991
+Tôi vào trong rồi, Chỉ huy.
+
+1553
+02:02:10,157 --> 02:02:11,200
+<i>Rõ.</i>
+
+1554
+02:02:20,376 --> 02:02:21,961
+Vogel, anh ở đâu?
+
+1555
+02:02:22,128 --> 02:02:23,170
+<i>Tôi đang ở trong bếp.</i>
+
+1556
+02:02:23,337 --> 02:02:24,338
+Được rồi.
+
+1557
+02:02:28,342 --> 02:02:29,343
+<i>Chỉ huy...</i>
+
+1558
+02:02:29,510 --> 02:02:31,387
+Tôi không thể để cô
+thực hiện chuyện này.
+
+1559
+02:02:31,554 --> 02:02:33,139
+Tôi đã chuẩn bị cắt áo.
+
+1560
+02:02:33,431 --> 02:02:34,473
+Tuyệt đối không.
+
+1561
+02:02:34,640 --> 02:02:37,059
+<i>Nghe này, vấn đề ở chỗ,</i>
+<i>tôi là người ích kỷ.</i>
+
+1562
+02:02:37,268 --> 02:02:40,146
+Tôi muốn tất cả những ký ức ở quê nhà
+đều là về tôi.
+
+1563
+02:02:40,312 --> 02:02:41,188
+<i>Chỉ tôi mà thôi.</i>
+
+1564
+02:02:41,355 --> 02:02:43,649
+Tôi nên bỏ mặc anh chàng này
+trên Sao Hỏa mới đúng.
+
+1565
+02:02:43,941 --> 02:02:44,984
+Này.
+
+1566
+02:02:47,862 --> 02:02:49,864
+- Đường ăn sao?
+- Phải.
+
+1567
+02:02:54,076 --> 02:02:55,494
+Giữ giúp tôi được không?
+
+1568
+02:02:56,078 --> 02:02:57,788
+Oxy lỏng...
+
+1569
+02:02:57,955 --> 02:03:01,459
+và một ít thuốc tẩy quần áo
+có chứa ammonia.
+
+1570
+02:03:04,962 --> 02:03:09,675
+Thứ này mạnh hơn một thỏi thuốc nổ
+đến năm lần.
+
+1571
+02:03:09,842 --> 02:03:11,093
+Làm sao để kích nổ?
+
+1572
+02:03:11,260 --> 02:03:14,013
+Cô có thể kết nối nó vào một
+trong các bảng đèn không?
+
+1573
+02:03:17,558 --> 02:03:18,851
+Cẩn thận.
+
+1574
+02:03:25,399 --> 02:03:26,901
+Mở Nút Số 1.
+
+1575
+02:03:32,740 --> 02:03:33,949
+Tôi đang trên đường đến chỗ Beck.
+
+1576
+02:03:38,204 --> 02:03:40,081
+Hãy cứ hy vọng
+đây là một ý tưởng hay, mọi người.
+
+1577
+02:03:40,247 --> 02:03:41,123
+Rõ là vậy mà.
+
+1578
+02:03:41,290 --> 02:03:42,500
+<i>Mở cửa A1.</i>
+
+1579
+02:03:47,838 --> 02:03:48,839
+- Chào.
+- Chào.
+
+1580
+02:03:52,510 --> 02:03:53,677
+Được chưa?
+
+1581
+02:03:59,683 --> 02:04:02,311
+Đảm bảo là anh không ở trong này
+khi quả bom phát nổ.
+
+1582
+02:04:04,105 --> 02:04:05,314
+Này.
+
+1583
+02:04:05,481 --> 02:04:07,316
+Cẩn thận ngoài kia nhé.
+
+1584
+02:04:07,483 --> 02:04:08,651
+Ngoài không gian.
+
+1585
+02:04:12,738 --> 02:04:15,116
+Đừng có nói với ai đấy.
+
+1586
+02:04:25,000 --> 02:04:26,043
+Đã gắn bom.
+
+1587
+02:04:34,802 --> 02:04:37,179
+Đang rời khỏi Nút Số 1.
+
+1588
+02:04:42,101 --> 02:04:44,478
+Mọi người, tôi đã tính toán,
+và thậm chí với vụ nổ VAL tốt nhất...
+
+1589
+02:04:44,770 --> 02:04:46,313
+chúng ta cũng sẽ bị chệch hướng.
+
+1590
+02:04:46,647 --> 02:04:49,316
+Khoảng cách cắt ngang là bao nhiêu?
+Johanssen?
+
+1591
+02:04:49,483 --> 02:04:51,819
+260 mét, xấp xỉ.
+
+1592
+02:04:51,986 --> 02:04:53,279
+Vẫn quá xa.
+
+1593
+02:05:02,329 --> 02:05:03,581
+Chỉ huy?
+
+1594
+02:05:03,747 --> 02:05:05,624
+Martinez, đóng cửa đi.
+
+1595
+02:05:09,128 --> 02:05:10,421
+Mở D3.
+
+1596
+02:05:10,963 --> 02:05:12,798
+Và cứ để mở như thế.
+
+1597
+02:05:41,493 --> 02:05:43,162
+<i>Mở B2.</i>
+
+1598
+02:05:47,374 --> 02:05:48,584
+Johanssen...
+
+1599
+02:05:48,751 --> 02:05:51,086
+<i>thời gian để VAL nổ</i>
+<i>sau khi kích hoạt?</i>
+
+1600
+02:05:51,253 --> 02:05:52,421
+15 giây.
+
+1601
+02:05:52,671 --> 02:05:54,715
+Chúng ta đúng là biết cách
+cắt giảm thời gian mà.
+
+1602
+02:05:55,758 --> 02:05:56,592
+Chỉ huy.
+
+1603
+02:05:56,759 --> 02:05:58,719
+Khoảng cách quá xa.
+Tôi sẽ ra ngoài.
+
+1604
+02:05:59,303 --> 02:06:00,304
+Tôi có thể làm được.
+
+1605
+02:06:00,471 --> 02:06:01,388
+Không phải bàn cãi.
+
+1606
+02:06:01,555 --> 02:06:03,098
+Tôi không đánh liều
+thêm một thành viên nào nữa.
+
+1607
+02:06:03,515 --> 02:06:05,017
+Beck đã trở lại.
+
+1608
+02:06:05,184 --> 02:06:06,977
+Johanssen, khởi động quả bom.
+
+1609
+02:06:07,311 --> 02:06:08,437
+Mười giây.
+
+1610
+02:06:08,646 --> 02:06:09,647
+Dây vào vị trí.
+
+1611
+02:06:10,314 --> 02:06:12,524
+<i>Năm, bốn...</i>
+
+1612
+02:06:13,359 --> 02:06:14,068
+ba...
+
+1613
+02:06:14,235 --> 02:06:15,945
+- Giữ vững khi giảm tốc.
+<i>- hai...</i>
+
+1614
+02:06:16,612 --> 02:06:17,446
+một.
+
+1615
+02:06:17,613 --> 02:06:18,948
+Kích hoạt Panel 41.
+
+1616
+02:06:40,970 --> 02:06:42,179
+Nắp khoang điều khiển
+vẫn giữ vững.
+
+1617
+02:06:42,346 --> 02:06:43,389
+Hư hại ra sao?
+
+1618
+02:06:43,555 --> 02:06:44,723
+<i>Chuyện đó để sau hãy lo.</i>
+
+1619
+02:06:44,890 --> 02:06:46,433
+<i>Vận tốc tương đối là bao nhiêu?</i>
+
+1620
+02:06:46,600 --> 02:06:47,685
+12 m/s.
+
+1621
+02:06:48,102 --> 02:06:49,103
+<i>Rõ.</i>
+
+1622
+02:06:51,730 --> 02:06:52,606
+Móc tôi vào.
+
+1623
+02:06:54,441 --> 02:06:55,651
+Xong.
+
+1624
+02:07:05,577 --> 02:07:07,329
+Tôi đã nhìn thấy chiếc MAV.
+
+1625
+02:07:08,706 --> 02:07:10,332
+<i>Tầm cắt ngang là bao nhiêu?</i>
+
+1626
+02:07:10,624 --> 02:07:11,875
+Tôi đang kiểm tra.
+
+1627
+02:07:12,835 --> 02:07:14,295
+312 mét.
+
+1628
+02:07:14,461 --> 02:07:16,797
+Cô vừa nói 312 mét sao?
+
+1629
+02:07:16,964 --> 02:07:19,466
+Tuyệt. Tôi sẽ vẫy chào mọi người
+khi bay ngang qua.
+
+1630
+02:07:28,600 --> 02:07:30,686
+Tôi không thể đến được chỗ anh, Mark.
+Anh ở quá xa.
+
+1631
+02:07:30,853 --> 02:07:31,812
+<i>Tôi sẽ không đến được.</i>
+
+1632
+02:07:31,979 --> 02:07:32,855
+Tôi biết.
+
+1633
+02:07:32,980 --> 02:07:34,440
+<i>Beck, tháo dây cho tôi.</i>
+<i>Tôi sẽ đến chỗ anh ấy.</i>
+
+1634
+02:07:34,982 --> 02:07:37,484
+Chỉ huy, để tôi lo.
+
+1635
+02:07:51,415 --> 02:07:52,916
+<i>Mark, báo cáo.</i>
+
+1636
+02:07:53,167 --> 02:07:54,752
+Đang trên đường đến, Chỉ huy.
+
+1637
+02:07:55,169 --> 02:07:56,253
+Chết tiệt.
+
+1638
+02:08:06,096 --> 02:08:08,349
+Johanssen, vận tốc tương đối
+của tôi với Mark là bao nhiêu?
+
+1639
+02:08:08,599 --> 02:08:10,392
+5,2 m/s.
+
+1640
+02:08:10,642 --> 02:08:12,186
+Rõ. Đang điều chỉnh đường bay.
+
+1641
+02:08:17,941 --> 02:08:19,693
+<i>3,1 m/s.</i>
+
+1642
+02:08:22,363 --> 02:08:24,448
+<i>Khoảng cách đến mục tiêu, 24 mét.</i>
+
+1643
+02:08:26,325 --> 02:08:28,160
+11 mét đến mục tiêu.
+
+1644
+02:08:31,121 --> 02:08:31,955
+<i>Sáu mét đến mục tiêu.</i>
+
+1645
+02:08:43,342 --> 02:08:44,593
+Cố lên, Mark.
+
+1646
+02:09:12,579 --> 02:09:13,580
+Tôi bắt được anh ấy rồi.
+
+1647
+02:09:16,500 --> 02:09:17,751
+<i>Tôi bắt được anh ấy rồi.</i>
+
+1648
+02:09:18,669 --> 02:09:19,711
+<i>Tôi bắt được anh ấy rồi.</i>
+
+1649
+02:09:20,087 --> 02:09:21,672
+Làm tốt lắm, Iron Man.
+
+1650
+02:09:24,842 --> 02:09:26,051
+Beck, kéo chúng tôi vào.
+
+1651
+02:09:29,221 --> 02:09:30,764
+Rất vui được gặp lại cô.
+
+1652
+02:09:32,641 --> 02:09:33,684
+Cô...
+
+1653
+02:09:35,477 --> 02:09:38,772
+có gu nghe nhạc rất kinh khủng.
+
+1654
+02:09:48,532 --> 02:09:50,534
+<i>Houston, đây là Hermes.</i>
+
+1655
+02:09:50,701 --> 02:09:51,660
+<i>Chúng tôi đã cứu được anh ấy.</i>
+
+1656
+02:09:53,704 --> 02:09:55,080
+<i>Watney đã an toàn.</i>
+
+1657
+02:10:00,377 --> 02:10:02,463
+Liên lạc ngoài vũ trụ với Mark Watney.
+
+1658
+02:10:02,629 --> 02:10:06,800
+<i>Sau một thời gian rất dài, họ đã làm được</i>
+<i>điều mà rất nhiều người nghĩ là không thể.</i>
+
+1659
+02:10:06,967 --> 02:10:10,637
+<i>Xác nhận nhiệm vụ: Mark Watney</i>
+<i>đã được giải cứu thành công.</i>
+
+1660
+02:10:14,558 --> 02:10:16,226
+Bắt lấy anh ấy.
+
+1661
+02:10:18,228 --> 02:10:19,438
+Chào, anh đẹp trai!
+
+1662
+02:10:19,605 --> 02:10:21,231
+Beck, đóng nắp tàu lại.
+
+1663
+02:10:24,443 --> 02:10:25,777
+Chào mọi người.
+
+1664
+02:10:30,491 --> 02:10:32,618
+<i>Houston, cả sáu phi hành gia</i>
+<i>đều lên tàu an toàn.</i>
+
+1665
+02:10:37,039 --> 02:10:40,125
+<i>Đây là một khoảnh khắc to lớn</i>
+<i>với quốc gia này, với thế giới này...</i>
+
+1666
+02:10:40,292 --> 02:10:43,420
+<i>và dĩ nhiên, là với ngành du hành</i>
+<i>vũ trụ quốc tế.</i>
+
+1667
+02:10:43,754 --> 02:10:45,756
+Tôi không thể tin là kế hoạch của anh
+lại thành công.
+
+1668
+02:10:49,801 --> 02:10:50,719
+Ôi trời.
+
+1669
+02:10:50,886 --> 02:10:52,471
+Thật không thể tin được.
+
+1670
+02:10:53,680 --> 02:10:55,182
+Anh có mùi đặc trưng lắm đó,
+anh bạn.
+
+1671
+02:10:55,349 --> 02:10:58,727
+Tôi biết. Tôi đã không được tắm
+một năm rưỡi rồi.
+
+1672
+02:10:59,102 --> 02:11:01,480
+Đừng làm tôi cười,
+xương sườn tôi bị gãy.
+
+1673
+02:11:35,556 --> 02:11:36,723
+Chào anh bạn.
+
+1674
+02:11:45,274 --> 02:11:47,234
+- Chào buổi sáng, thưa ngài.
+- Chào buổi sáng.
+
+1675
+02:11:47,401 --> 02:11:48,402
+Thưa ngài.
+
+1676
+02:11:49,152 --> 02:11:50,821
+- Thưa ngài.
+- Thưa ngài.
+
+1677
+02:11:51,071 --> 02:11:52,197
+Chào buổi sáng, thưa ngài.
+
+1678
+02:12:01,873 --> 02:12:04,668
+NGÀY 1
+
+1679
+02:12:14,177 --> 02:12:16,179
+<i>Chào mừng đến Chương trình</i>
+<i>Ứng cử viên Phi hành gia.</i>
+
+1680
+02:12:16,972 --> 02:12:20,434
+Giờ thì hãy chú ý, bởi vì bài học này
+có thể cứu mạng các bạn.
+
+1681
+02:12:21,018 --> 02:12:22,686
+Tin tôi đi, tôi biết mình đang nói gì.
+
+1682
+02:12:23,770 --> 02:12:25,939
+Hãy để tôi nói nhanh
+một vài điều trước tiên.
+
+1683
+02:12:26,106 --> 02:12:29,526
+Phải, tôi đúng là đã tồn tại
+trên một hành tinh khô cằn
+
+1684
+02:12:29,610 --> 02:12:31,862
+bằng cách trồng trọt từ phân của mình.
+
+1685
+02:12:33,030 --> 02:12:37,326
+Phải, sự thật còn tệ hơn như thế.
+Cho nên, đừng nhắc đến chuyện này nữa.
+
+1686
+02:12:38,702 --> 02:12:41,663
+Các câu hỏi tôi thường
+nhận được là...
+
+1687
+02:12:41,830 --> 02:12:44,249
+"Khi tôi ở trên đó, cô độc một mình..."
+
+1688
+02:12:44,541 --> 02:12:46,877
+"tôi có nghĩ là mình sẽ chết hay không?"
+
+1689
+02:12:47,419 --> 02:12:48,920
+Có, dĩ nhiên rồi.
+
+1690
+02:12:50,088 --> 02:12:53,133
+Và đó là điều các bạn cần phải biết
+vì điều đó cũng sẽ xảy ra với bạn.
+
+1691
+02:12:53,550 --> 02:12:56,928
+Đây là vũ trụ.
+Nó không biết nhân nhượng.
+
+1692
+02:12:57,262 --> 02:13:00,015
+Tại một thời điểm nào đó,
+mọi thứ sẽ trở nên tồi tệ.
+
+1693
+02:13:00,182 --> 02:13:02,893
+Mọi thứ trở nên tồi tệ và các bạn sẽ nói,
+"Thế là hết."
+
+1694
+02:13:03,185 --> 02:13:04,853
+"Đời tôi kết thúc như thế này đây."
+
+1695
+02:13:06,229 --> 02:13:07,773
+Bây giờ,
+hoặc là các bạn chấp nhận điều đó...
+
+1696
+02:13:08,315 --> 02:13:10,317
+hoặc là các bạn bắt tay vào làm việc.
+
+1697
+02:13:11,360 --> 02:13:13,070
+Tất cả là như vậy đấy.
+
+1698
+02:13:13,236 --> 02:13:15,072
+Các bạn cứ thế mà bắt đầu.
+
+1699
+02:13:15,906 --> 02:13:18,909
+Các bạn tính toán.
+Các bạn giải quyết một vấn đề...
+
+1700
+02:13:19,076 --> 02:13:20,619
+và rồi các bạn giải quyết
+vấn đề tiếp theo.
+
+1701
+02:13:20,952 --> 02:13:21,787
+Và rồi tiếp theo nữa.
+
+1702
+02:13:21,953 --> 02:13:24,790
+Các bạn giải quyết đủ vấn đề
+và các bạn về nhà.
+
+1703
+02:13:25,540 --> 02:13:27,584
+Được rồi, có câu hỏi gì không?
+
+1704
+02:13:32,673 --> 02:13:35,217
+<i>Một khi phòng Điều hành Nhiệm vụ</i>
+<i>hoàn tất khâu kiểm tra trước khi bay...</i>
+
+1705
+02:13:35,342 --> 02:13:37,177
+<i>chúng tôi sẽ bắt đầu quy trình phóng.</i>
+
+1706
+02:13:37,427 --> 02:13:39,888
+<i>Đội Ares 5 sẽ đến điểm hẹn</i>
+<i>với tàu Hermes...</i>
+
+1707
+02:13:40,055 --> 02:13:42,683
+khoảng 48 phút sau khi phóng.
+
+1708
+02:13:43,308 --> 02:13:47,104
+Kể từ đây, họ sẽ có 414 ngày
+du hành vũ trụ trước mắt.
+
+1709
+02:13:47,270 --> 02:13:49,981
+<i>Liệu mục tiêu có thay đổi</i>
+<i>từ nhiệm vụ trước đây...</i>
+
+1710
+02:13:50,148 --> 02:13:51,400
+<i>cho đến chương trình Ares 5?</i>
+
+1711
+02:13:51,566 --> 02:13:53,402
+<i>Và lần này ông hy vọng</i>
+<i>đạt được những gì?</i>
+
+1712
+02:13:53,568 --> 02:13:56,905
+À, không. Mục tiêu vẫn chỉ là một
+trong chương trình Ares.
+
+1713
+02:13:57,823 --> 02:14:00,951
+Lần này, dĩ nhiên, chúng tôi hy vọng
+đưa toàn bộ phi hành gia trở về cùng lúc.
+
+1714
+02:14:01,785 --> 02:14:03,787
+- Hành Trình, hoàn tất kiểm tra đường bay.
+- Rõ, Dẫn Đường.
+
+1715
+02:14:05,288 --> 02:14:06,665
+Đây là Giám đốc Hành trình.
+
+1716
+02:14:06,832 --> 02:14:08,375
+Chúng ta sẵn sàng phóng, theo lịch trình.
+
+1717
+02:14:19,553 --> 02:14:21,847
+<i>Các bước kiểm tra lần cuối đã hoàn tất...</i>
+
+1718
+02:14:22,013 --> 02:14:24,975
+<i>và buổi phóng tàu Ares 5</i>
+<i>vẫn tiến hành như dự kiến.</i>
+
+1719
+02:14:25,684 --> 02:14:26,935
+<i>20 giây.</i>
+
+1720
+02:14:28,311 --> 02:14:29,730
+<i>Bắt đầu đếm.</i>
+
+1721
+02:14:30,147 --> 02:14:32,441
+<i>Đếm ngược mười...</i>
+<i>chín...</i>
+
+1722
+02:14:32,774 --> 02:14:34,025
+<i>Động cơ chính khởi động.</i>
+
+1723
+02:14:34,192 --> 02:14:37,571
+<i>bảy... sáu... năm... bốn...</i>
+
+1724
+02:14:38,155 --> 02:14:41,491
+<i>ba... hai... một.</i>
+
+1725
+02:14:41,658 --> 02:14:45,328
+<i>Và cất cánh.</i>
+<i>Vậy là phi hành đoàn của Ares 5...</i>
+
+1726
+02:14:45,495 --> 02:14:49,166
+<i>bắt đầu chương tiếp theo trong hành trình</i>
+<i>khám phá không gian của người Mỹ.</i>
+
+1727
+02:14:49,374 --> 02:14:50,751
+<i>Áp suất ổn.</i>
+
+1728
+02:15:09,227 --> 02:15:10,812
+Đánh hay đấy.
+
+1729
+02:15:10,979 --> 02:15:14,566
+<i>Như các bạn mong muốn. Năm năm sau</i>
+<i>cuộc giải cứu phi hành gia Mark Watney...</i>
+
+1730
+02:15:14,733 --> 02:15:17,819
+<i>đoàn thám hiểm Ares 5</i>
+<i>đang trên đường đến Sao Hỏa.</i>
+
+1731
+02:16:32,060 --> 02:16:38,775
+Để biết thêm về câu chuyện của Ares III,
+hãy ghé thăm AresLive.com
+
+1732
+02:21:22,475 --> 02:21:24,477
+Dịch bởi: Yên Thu
+

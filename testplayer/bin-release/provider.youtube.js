@@ -215,7 +215,10 @@ webpackJsonpjwplayer([1],{
 	                    rel: 0,
 	                    modestbranding: 0,
 	                    playsinline: 1,
-	                    origin: location.protocol + '//' + location.hostname
+	                    origin: location.protocol + '//' + location.hostname,
+	                    fs :0,
+	                    iv_load_policy :3,
+	                    cc_load_policy : 0
 	                }, playerVars),
 	                events: {
 	                    onReady: _onYoutubePlayerReady,
@@ -649,4 +652,4 @@ webpackJsonpjwplayer([1],{
 /***/ }
 
 });
-//# sourceMappingURL=provider.youtube.4ce133e80922d87fe280.map
+//# sourceMappingURL=provider.youtube.80e161d9982c41e6b122.map

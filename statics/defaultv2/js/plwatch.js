@@ -416,7 +416,7 @@ jQuery(document).ready(function(t) {
         var newWidth = 1028;
         var largeSize = {
             'width': newWidth,
-            'height': Math.ceil(newWidth / 16 * 9 - docHeight)
+            'height': '100%',
         };
         var sidebarTopMargin = jQuery('.block.servers').offset().top;
         jQuery('.sidebar.col-lg-4.col-md-4').animate({

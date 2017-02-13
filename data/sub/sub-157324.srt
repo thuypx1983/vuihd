@@ -1,0 +1,3258 @@
+﻿1
+00:00:01,367 --> 00:00:03,184
+Tên tôi là Oliver Queen.
+
+2
+00:00:04,057 --> 00:00:07,058
+Sau 5 năm
+trên hòn đảo địa ngục,
+
+3
+00:00:07,409 --> 00:00:09,793
+Tôi đã trở về
+với một mục đích duy nhất...
+
+4
+00:00:10,261 --> 00:00:12,895
+cứu lấy thành phố của mình.
+
+5
+00:00:12,897 --> 00:00:17,133
+Nhưng để làm điều đó, Tôi không thể
+trở thành kẻ giết người như tôi đã từng.
+
+6
+00:00:17,135 --> 00:00:19,936
+Để vinh danh những ký ức
+về người bạn của mình,
+
+7
+00:00:19,938 --> 00:00:22,905
+Tôi phải trở thành một ai khác,
+
+8
+00:00:22,907 --> 00:00:26,492
+Tôi phải trở thành....
+một cái gì khác.
+
+9
+00:00:27,796 --> 00:00:30,547
+Tóm tắt tập trước...
+
+10
+00:00:32,050 --> 00:00:36,420
+Cô đến từ
+chỗ quái nào vậy ?
+
+11
+00:00:36,422 --> 00:00:39,590
+Anh nghĩ anh
+đang làm gì vậy, Sĩ Quan Lance?
+
+12
+00:00:39,592 --> 00:00:42,092
+Đây là con gái tôi.
+Nó suýt nữa thì đã bị giết tối nay đó.
+
+13
+00:00:42,094 --> 00:00:43,514
+Được rồi, nếu với tư cách là
+phụ huynh,anh được phép ở lại.
+
+14
+00:00:43,515 --> 00:00:45,815
+Nhưng nếu với tư cách là
+cảnh sát thì tốt nhất anh nên đi ra.
+
+15
+00:00:45,817 --> 00:00:49,235
+Hãy để tôi giúp anh.
+Ok, cậu có thể giúp tôi.
+
+16
+00:00:49,237 --> 00:00:50,987
+Làm những gì tôi bảo.
+
+17
+00:00:50,989 --> 00:00:53,189
+Cậu có thể trở thành
+tai mắt của tôi ở khu Glades,
+
+18
+00:00:53,191 --> 00:00:55,908
+Đó là cách cậu có thể
+cứu lấy thành phố này.
+
+19
+00:00:55,910 --> 00:00:57,694
+Làm thế nào để tôi
+liên lạc với anh
+
+20
+00:00:57,696 --> 00:00:59,028
+Để lại cái này
+trong hẻm tường,
+
+21
+00:00:59,030 --> 00:01:01,581
+Sau đó tôi sẽ biết
+để liên lạc với cậu
+
+22
+00:01:01,583 --> 00:01:03,366
+Tôi đã bảo anh
+tránh xa tôi ra.
+
+23
+00:01:03,368 --> 00:01:04,917
+Những tên bắt chước vẫn còn sống.
+
+24
+00:01:04,919 --> 00:01:06,619
+Tommy Merlyn thì không.
+
+25
+00:01:06,621 --> 00:01:08,187
+Tôi cũng đã mất người bạn
+của mình vào hôm đó.
+
+26
+00:01:08,189 --> 00:01:11,924
+Và tôi thà đưa mạng sống
+của mình cho cậu ấy còn hơn.
+
+27
+00:01:11,926 --> 00:01:13,993
+Được rồi, đừng lo.
+Cuộc sống của anh đến đây là kết thúc.
+
+28
+00:01:13,995 --> 00:01:16,012
+Cuộc sống như một kẻ tự do.
+
+29
+00:01:24,221 --> 00:01:25,555
+-Hạ vũ khí xuống.
+
+30
+00:01:25,557 --> 00:01:29,175
+-Tôi không phải kẻ thù của cô.
+
+31
+00:01:29,177 --> 00:01:32,895
+-Vậy thì...
+hạ vũ khí xuống.
+
+32
+00:02:02,309 --> 00:02:04,927
+-Mặt nạ đẹp đấy.
+
+33
+00:02:04,929 --> 00:02:07,230
+-Tại sao cô lại giúp tôi?
+
+34
+00:02:15,070 --> 00:02:19,070
+<font Color=#00FF00>♪ Arrow 2x03 ♪ </ font>
+<font color=#00FFFF>}Broken Dolls</ font>
+
+35
+00:02:19,075 --> 00:02:24,075
+Phụ đề dịch bởi  <font color=#00FF00>ArrowFanpage </ font>
+<font color=#00FFFF>Fb.com/ArrowFanpage </ font>
+
+36
+00:02:24,078 --> 00:02:25,130
+-Cảm ơn Chúa.
+
+37
+00:02:25,131 --> 00:02:27,214
+-Máy quét của cảnh sát đã
+được tắt cả tiếng rồi.
+
+38
+00:02:27,216 --> 00:02:29,600
+mà Laurel lại gọi được một nửa l
+ực lượng với cái báo động im lặng đó.
+
+39
+00:02:29,602 --> 00:02:31,969
+-Nhưng mà đuổi theo "kẻ xấu"
+chỉ là năm ngoái thôi mà.
+
+40
+00:02:31,971 --> 00:02:34,588
+-Đối với cô ấy, tôi là kẻ xấu.
+-Từ khi nào vậy?
+
+41
+00:02:34,590 --> 00:02:37,725
+-Từ khi
+tôi không cứu kịp Tommy,
+
+42
+00:02:37,727 --> 00:02:39,643
+-Làm thế nào mà anh
+ra khỏi đó được vậy
+
+43
+00:02:39,645 --> 00:02:42,780
+-Tôi được sự giúp đỡ từ một cô gái
+đeo mặt nạ tóc vàng trong bộ đồ đen.
+
+44
+00:02:42,782 --> 00:02:44,865
+-Một bản sao nữa của Quái Hiệp à?
+
+45
+00:02:44,867 --> 00:02:46,366
+-Không, Cô ấy thì khác.
+
+46
+00:02:46,368 --> 00:02:49,903
+-Đã được rèn luyện, và cô ấy
+sử dụng thứ gì đó bằng ...sóng siêu âm.
+
+47
+00:02:49,905 --> 00:02:51,989
+-Chờ đã, sóng siêu âm?
+Anh nói cụ thể ra được không?
+
+48
+00:02:51,991 --> 00:02:53,791
+-Cô ây bật nó lên và
+toàn bộ kính vỡ toang.
+
+49
+00:02:53,793 --> 00:02:55,442
+-Được rồi, vậy thì cô ta là ai và
+tại sao cô ta lại giúp cậu?
+
+50
+00:02:55,444 --> 00:02:56,910
+-Và tại sao cô ta
+biết để giúp anh?
+
+51
+00:02:56,912 --> 00:02:58,712
+-Mấy câu hỏi chính xác đấy.
+
+52
+00:02:58,714 --> 00:02:59,797
+ -Tôi không thích ý tưởng có một
+người "hành hiệp" nữa trong thành phố lắm.
+
+53
+00:02:59,799 --> 00:03:01,465
+-Tôi sẽ tìm thử
+xem có tìm được gì không.
+
+54
+00:03:01,467 --> 00:03:03,300
+-Oliver, cái tôi
+thực sự muốn biêt là
+
+55
+00:03:03,302 --> 00:03:04,551
+Cậu đang làm gì tại
+văn phòng của Laurel
+
+56
+00:03:04,553 --> 00:03:05,952
+-Khi mà cô ấy đã coi
+cậu là kẻ thù số một
+
+57
+00:03:05,954 --> 00:03:07,788
+và cậu nghĩ rằng
+đấy là thời điểm tốt để nói chuyện sao?
+
+58
+00:03:07,790 --> 00:03:09,790
+-Bởi vì tôi nghĩ
+là tôi có thể nói chuyện với cô ấy,
+
+59
+00:03:09,792 --> 00:03:12,092
+và làm cho cô ấy hiểu rằng
+Tôi đang làm những điều khác trong thời gian này,
+
+60
+00:03:12,094 --> 00:03:14,144
+rằng tôi không phải là người xấu.
+
+61
+00:03:14,146 --> 00:03:16,180
+-Tôi đã lầm.
+
+62
+00:03:16,182 --> 00:03:18,482
+-Tuyệt vời.
+
+63
+00:03:18,484 --> 00:03:21,301
+-Bây giờ chúng ta có một cái xác lính
+Nhật trong nhà của chúng ta.
+
+64
+00:03:21,303 --> 00:03:24,021
+-Những kẻ trên hòn đảo này
+đang tìm kiếm mấy cái xác này.
+
+65
+00:03:24,023 --> 00:03:25,823
+-Anh không quan tâm chút vào
+đến lý do tại sao à?
+
+66
+00:03:25,825 --> 00:03:27,858
+-Tôi quan tâm đến việc
+bọn chúng còn bao nhiêu nữa,
+
+67
+00:03:27,860 --> 00:03:29,860
+và chúng đang hoạt động ở đâu hơn.
+
+68
+00:03:29,862 --> 00:03:31,862
+-Chúng sẽ đến tìm thứ đó,
+có nghĩa là chúng sẽ đến tìm chúng ta.
+
+69
+00:03:31,864 --> 00:03:34,865
+-Và như chúng ta đã thấy,
+chúng không hề thân thiện đâu.
+
+70
+00:03:34,867 --> 00:03:36,867
+-Vậy,...
+
+71
+00:03:36,869 --> 00:03:39,670
+-Có vẻ như em đã
+từng làm việc này rồi.
+
+72
+00:03:39,672 --> 00:03:42,172
+-Ngày trước ở Xingjian,
+em từng là bác sĩ.
+
+73
+00:03:42,174 --> 00:03:44,341
+-Cô ấy là một người phụ nữ
+có rất nhiều tài năng.
+
+74
+00:03:44,343 --> 00:03:47,127
+-Đi thôi.
+
+75
+00:03:47,129 --> 00:03:49,346
+-Đi đâu cơ?
+
+76
+00:03:49,348 --> 00:03:51,832
+-Đến chỗ cao hơn.Chúng ta
+cần phải có một điểm nhìn thuận lợi.
+
+77
+00:03:51,834 --> 00:03:54,301
+nơi chúng ta có thể thấy được
+vị trí của đối phương.
+
+78
+00:03:54,303 --> 00:03:57,471
+-Còn Shado thì sao?
+
+79
+00:03:57,473 --> 00:04:00,340
+-Em sẽ không sao đâu.
+
+80
+00:04:00,342 --> 00:04:02,109
+-Chúng ta không nên
+chia ra như thế.
+
+81
+00:04:02,111 --> 00:04:04,278
+-Cứ để cô ấy
+chơi với cái xác đó.
+
+82
+00:04:04,280 --> 00:04:05,896
+Chúng ta sẽ trở lại
+trước khi cô ấy biết.
+
+83
+00:04:13,905 --> 00:04:15,989
+-Của anh đây, anh bạn.
+
+84
+00:04:15,991 --> 00:04:17,574
+-Người nhà cả mà, anh Lance.
+
+85
+00:04:17,576 --> 00:04:19,960
+-Này, không, không, không, của anh đây,
+với cái bánh ngon thế này thì
+
+86
+00:04:19,962 --> 00:04:22,028
+tôi sẽ trở thành kẻ cướp mất.
+-Cầm lấy đi.
+
+87
+00:04:22,030 --> 00:04:25,365
+-Được rồi.
+-Bảo trọng nhé.
+
+88
+00:04:25,367 --> 00:04:27,801
+Tất cả các đơn vị,
+1078  đương hai và Fletcher.
+
+89
+00:04:27,803 --> 00:04:29,586
+Xin trả lời.
+
+90
+00:04:29,588 --> 00:04:32,556
+-Lance, tuần tra tại Delta Charlie 52,
+10-60, trả lời.
+
+91
+00:04:32,558 --> 00:04:34,875
+-Hết.
+Bác bỏ, DC-52.
+
+92
+00:04:34,877 --> 00:04:37,811
+Bỏ qua 10-78
+và tiếp tục tuần tra.
+
+93
+00:04:37,813 --> 00:04:39,980
+-Theo lệnh của ai vậy?
+
+94
+00:04:39,982 --> 00:04:42,516
+Trung úy Pike.
+
+95
+00:04:48,690 --> 00:04:51,825
+-Xin lỗi.
+
+96
+00:04:51,827 --> 00:04:54,060
+-Bill,
+chuyện gì đang xảy ra ở đây, huh?
+
+97
+00:04:54,062 --> 00:04:56,029
+-Đây là nhiệm vụ của tôi.
+-Tại sao Pike loại tôi ra khỏi chuyện này?
+
+98
+00:04:56,031 --> 00:04:57,564
+-Quentin,
+đây đang trong tầm kiểm soát rồi.
+
+99
+00:04:57,566 --> 00:05:00,033
+-Xin lỗi,
+tầm kiểm soát nào cơ?
+
+100
+00:05:02,287 --> 00:05:05,122
+-Đó là Barton Mathis.
+
+101
+00:05:05,124 --> 00:05:07,958
+-Cái này đúng như
+những gì M.O. đã cho biết.
+
+102
+00:05:07,960 --> 00:05:10,761
+-Hắn phải đang tiếp tục án tù
+chung thân trong nhà tù Iron Heights chứ.
+
+103
+00:05:10,763 --> 00:05:12,412
+-Không còn nữa.
+
+104
+00:05:12,414 --> 00:05:14,047
+-Trận động đất đã làm hở ra
+một phần của nhà tù Iron Heights .
+
+105
+00:05:14,049 --> 00:05:15,864
+-Mathis là một trong
+những tên tù đã vượt ngục.
+
+106
+00:05:15,865 --> 00:05:19,200
+-Họ muốn tránh làm hoảng loạn,
+vì vậy họ đã giữ im lặng.
+
+107
+00:05:19,202 --> 00:05:20,770
+-Họ có cần phải giữ
+im lặng với cả tôi không?
+
+108
+00:05:20,771 --> 00:05:21,937
+-Thôi nào, anh bạn. -Pike biết
+
+109
+00:05:21,962 --> 00:05:23,618
+những gì xảy ra với anh lần trước.
+-Kẻ đã chiếm lấy tâm trí của cậu.
+
+110
+00:05:23,619 --> 00:05:26,587
+-Phải, và tôi bắt hắn ta.
+Và không ai hiểu rõ Mathis hơn tôi.
+
+111
+00:05:26,589 --> 00:05:29,623
+-Và tôi đã lấy tất cả các ghi chú
+cùng các tập tin của anh. -Theo lệnh Pike.
+
+112
+00:05:29,625 --> 00:05:31,635
+Nếu anh tiếp tục lại gần vụ này,
+
+113
+00:05:31,660 --> 00:05:33,545
+ông ta sẽ ra lệnh bắt cậu
+vì gây cản trở.
+
+114
+00:05:49,594 --> 00:05:51,595
+-Tôi tìm thấy một
+số báo cáo cảnh sát
+
+115
+00:05:51,597 --> 00:05:53,763
+từ vài tháng trước có thể liên quan
+đến cô gái bí ẩn của chúng tai.
+
+116
+00:05:53,765 --> 00:05:58,068
+-Họ mô tả là một người phụ nữ đeo mặt nạ
+mặc đồ đen và tấn công những kẻ xấu.
+
+117
+00:05:58,070 --> 00:06:00,203
+-Cô ta đã làm năm kẻ hiếp dâm
+vào bệnh viện cho đến nay.
+
+118
+00:06:00,205 --> 00:06:01,788
+-Cô có chắc chắn
+đấy là cô ta không?
+
+119
+00:06:01,790 --> 00:06:03,707
+-Chân tay bị hỏng, hỏng màng nhĩ...
+Cái thứ sóng siêu âm của anh nữa.
+
+120
+00:06:03,709 --> 00:06:06,126
+-Đúng là cô ta rồi.
+Cô ta nhắm mục tiêu vào bọn tội phạm.
+
+121
+00:06:06,128 --> 00:06:08,128
+-Bọn tội phạm không ưa phụ nữ.
+
+122
+00:06:08,130 --> 00:06:10,447
+-Đầu tiên Mũ Trùm, bây giờ cô ta.
+-Hình như cậu bắt đầu một phong trào rồi đấy.
+
+123
+00:06:10,449 --> 00:06:13,150
+-Tôi không muốn bắt đầu một phong trào,
+vì vậy chúng tôi sẽ bắt cô ta.
+
+124
+00:06:13,152 --> 00:06:15,335
+-Tôi không thể để thành phố
+tràn ngập các Quái Hiệp được.
+
+125
+00:06:18,390 --> 00:06:20,757
+-Chào ngài Thanh Tra.
+
+126
+00:06:33,438 --> 00:06:35,722
+-Vậy là,...
+
+127
+00:06:35,724 --> 00:06:39,242
+Cô Smoak đã chỉ cho ông
+một cách để gọi tôi từ bây giờ.
+
+128
+00:06:40,828 --> 00:06:43,113
+-Cô ấy bảo đảm cho cậu.
+
+129
+00:06:43,115 --> 00:06:45,732
+-Và cậu đã nói với tôi rằng cậu đang cố gắng
+để giúp thành phố này mà không có thêm cái xác nào nữa.
+
+130
+00:06:45,734 --> 00:06:48,101
+-Điều đó có đúng không?
+
+131
+00:06:48,103 --> 00:06:51,038
+-Theo ông thì sao?
+
+132
+00:06:51,040 --> 00:06:54,875
+-Chỉ có thể nói rằng
+-Tôi sẵn sàng để được thuyết phục.
+
+133
+00:06:54,877 --> 00:06:58,545
+-Thành phố này
+đang bị tổn thương.
+
+134
+00:06:58,547 --> 00:07:00,263
+-Còn cảnh sát thì?
+
+135
+00:07:02,501 --> 00:07:04,217
+-Tôi luôn luôn nghĩ rằng
+chúng tôi không cần phải
+
+136
+00:07:04,219 --> 00:07:06,353
+vượt qua pháp luật
+để đem đến công lý.
+
+137
+00:07:06,355 --> 00:07:08,972
+-Nhưng trong tình cảnh
+của những vụ việc gần đây,
+
+138
+00:07:08,974 --> 00:07:11,892
+-Tôi không còn chắc chắn như vậy nữa.
+
+139
+00:07:13,861 --> 00:07:16,513
+-Barton Mathis.
+
+140
+00:07:16,515 --> 00:07:20,150
+-Các phương tiện truyền thông gọi hắn là
+"The Doll Maker".
+
+141
+00:07:20,152 --> 00:07:24,204
+-Bởi vì hắn làm ngạt thở nạn nhân
+bằng cách cho một loại polymer lỏng.
+
+142
+00:07:24,206 --> 00:07:27,958
+đổ xuống cổ họng và  sau đó mặc đồ
+cho nạn nhân như những con búp bê.
+
+143
+00:07:27,960 --> 00:07:29,660
+-Tôi đã bắt hắn.
+
+144
+00:07:29,662 --> 00:07:31,878
+-Nhưng do trận động đất...
+
+145
+00:07:31,880 --> 00:07:35,582
+-Hắn đã thoát ra ngoài và
+lại tiếp tục giết người nữa.
+
+146
+00:07:35,584 --> 00:07:38,719
+-Đây là những thứ từ
+sáu năm trước.
+
+147
+00:07:38,721 --> 00:07:40,721
+-Đó là dữ liệu cá nhân của tôi.
+
+148
+00:07:40,723 --> 00:07:44,708
+-Có vẻ như không chỉ những
+dữ liệu này là chuyện cá nhân.
+
+149
+00:07:44,710 --> 00:07:47,761
+-Mathis giết chết tám cô gái
+trước khi tôi có thể bắt hắn.
+
+150
+00:07:47,763 --> 00:07:49,930
+-Tôi không muốn bất kỳ ai phải chịu
+nỗi đau như của tôi nữa.
+
+151
+00:07:52,266 --> 00:07:55,819
+-Vậy, tại sao ông không để cho
+cảnh sát làm công việc của họ?
+
+152
+00:07:55,821 --> 00:07:58,939
+-Tôi có thể nói
+điều tương tự với cậu.
+
+153
+00:08:00,491 --> 00:08:02,826
+-Họ đưa ra thông tin quá ít,
+thậm chí không dám mạo hiểm
+
+154
+00:08:02,828 --> 00:08:05,228
+để cho công chúng biết rằng
+Mathis thoát ngoài.
+
+155
+00:08:05,230 --> 00:08:07,748
+-Cậu nói bạn đang
+cố gắng theo cách khác?
+
+156
+00:08:07,750 --> 00:08:10,701
+-Có lẽ tôi cũng vậy.
+
+157
+00:08:38,363 --> 00:08:41,348
+-Cô có làn da đẹp thật là đẹp.
+
+158
+00:08:55,896 --> 00:08:58,231
+-Dữ liệu của ông Lance
+cung cấp cho chúng ta điều gì không?
+
+159
+00:08:58,233 --> 00:09:00,784
+-Trong thời gian Doll Maker
+hoạt động mạnh trong Starling City,
+
+160
+00:09:00,786 --> 00:09:03,069
+-3 ngày hắn giết một người.
+
+161
+00:09:03,071 --> 00:09:04,904
+-Điều đó cho chúng ta
+cách để bắt hắn ta.
+
+162
+00:09:04,906 --> 00:09:06,936
+-Chúng ta có thể kết nối
+các nạn nhân lại không?
+
+163
+00:09:06,937 --> 00:09:09,070
+-Còn trẻ. Xinh đẹp.
+
+164
+00:09:09,072 --> 00:09:10,387
+-Dựa theo dữ liệu của ông Lance,
+
+165
+00:09:10,412 --> 00:09:12,013
+-Ông ấy không thể tìm được cách
+hắn đã chọn nạn nhân thế nào.
+
+166
+00:09:12,559 --> 00:09:15,160
+cũng như không biết búp bê sứ
+đủ đáng sợ thế nào
+
+167
+00:09:15,162 --> 00:09:16,945
+khi chúng đứng một mình.
+
+168
+00:09:16,947 --> 00:09:19,114
+-Barton Mathis không có bất kỳ người thân
+trong gia đình hoặc những người quen biết.
+
+169
+00:09:19,116 --> 00:09:22,367
+-Một con sói cô độc thì
+càng khó để bắt hơn.
+
+170
+00:09:22,369 --> 00:09:25,203
+-Nhưng ai cũng có
+quyền có luật sư cả.
+
+171
+00:09:25,205 --> 00:09:27,339
+-Gọi cho ông Lance.
+
+172
+00:09:27,341 --> 00:09:28,757
+-Hãy cho ông ấy để thiết lập
+một cuộc gặp mặt tối nay.
+
+173
+00:09:28,759 --> 00:09:30,208
+-Ở đâu cơ?
+-Tại văn phòng
+
+174
+00:09:30,210 --> 00:09:32,577
+-Của bất cứ ai đã đại diện
+Barton Mathis.
+
+175
+00:09:32,579 --> 00:09:34,746
+-Vậy thì, tôi giả sử như thế
+thì họ sẽ ưu tiên
+
+176
+00:09:34,748 --> 00:09:37,465
+trên hết để tìm ra danh tính
+bí mật của anh đó.
+
+177
+00:09:37,467 --> 00:09:40,769
+-Tôi có cách che đậy rồi.
+
+178
+00:09:47,109 --> 00:09:49,144
+-Hey.
+
+179
+00:09:49,146 --> 00:09:51,446
+-Tôi đang tự hỏi khi nào tôi sẽ
+gặp anh một lần nữa.
+
+180
+00:09:51,448 --> 00:09:54,115
+-Có ai đó mới đến trong
+thị trấn - một người phụ nữ.
+
+181
+00:09:54,117 --> 00:09:56,534
+-Cô nhắm mục tiêu là những kẻ
+tấn công phụ nữ.
+
+182
+00:09:56,536 --> 00:09:59,654
+Tôi biết.
+Tôi đã nhìn thấy cô ấy.
+
+183
+00:09:59,656 --> 00:10:02,624
+-Tìm cô ta,
+nhưng đừng có tham gia.
+
+184
+00:10:02,626 --> 00:10:05,243
+-Để đó cho tôi.
+
+185
+00:10:07,463 --> 00:10:09,947
+-Tên cung thủ đó làm ở đây
+thành một mớ hỗn độn.
+
+186
+00:10:09,949 --> 00:10:12,500
+-Tôi sẽ thêm điều này
+vào cáo trạng.
+
+187
+00:10:12,502 --> 00:10:14,803
+-Cô đã nói đúng.
+-Hắn đã xuất hiện.
+
+188
+00:10:14,805 --> 00:10:18,390
+-Tôi biết hắn ta khá rõ.
+Ít nhất là hơn so với những người khác.
+
+189
+00:10:18,392 --> 00:10:19,841
+-Nơi này đúng là một mớ hỗn độn.
+
+190
+00:10:19,843 --> 00:10:21,643
+-Hai lần trong ba tuần,
+con đang tập né đạn hả.
+
+191
+00:10:21,645 --> 00:10:23,061
+-Con ổn mà.
+-Nhìn con không ổn chút nào.
+
+192
+00:10:23,063 --> 00:10:24,629
+-Trông con mệt mỏi lắm rồi.
+
+193
+00:10:24,631 --> 00:10:27,649
+-Tôi nghĩ rằng tôi sẽ để
+cho hai người một chút thời gian.
+
+194
+00:10:27,651 --> 00:10:31,236
+-Cha đến đây chỉ để nói cho con
+là trông con mệt mỏi thế nào à?
+
+195
+00:10:31,238 --> 00:10:33,238
+-Không, ta đến đây
+để tìm con
+
+196
+00:10:33,240 --> 00:10:36,024
+và kiểm tra về một số
+hồ sơ của tòa án.
+
+197
+00:10:36,026 --> 00:10:40,361
+-Barton Mathis thoát ngoài.
+-Ta đang tìm luật sư của hắn.
+
+198
+00:10:40,363 --> 00:10:42,647
+-Tại sao?
+-Cha không còn là thanh tra nữa mà.
+
+199
+00:10:42,649 --> 00:10:45,283
+-Ừ, ta chỉ đang tìm hiểu
+sâu hơn về vụ này.
+
+200
+00:10:45,285 --> 00:10:47,836
+-Cha à, vụ này...
+
+201
+00:10:47,838 --> 00:10:50,488
+-Đã từng khiến cha mệt mỏi một thời gian.
+
+202
+00:10:50,490 --> 00:10:55,510
+-Ừ, ta nghĩ rằng cả hai chúng ta
+đều biết chính Mathis đã làm điều đó.
+
+203
+00:10:55,512 --> 00:10:58,680
+-Nghe này, không ai hiểu rõ
+hắn hơn so với ta,
+
+204
+00:10:58,682 --> 00:11:00,849
+có nghĩa là không ai có cơ hội tốt hơn
+để ngăn chặn hắn ta, ok?
+
+205
+00:11:00,851 --> 00:11:03,802
+và điều đó có nghĩa là mỗi các cô gái mà hắn giết
+cũng giống như nỗi đau trong lương tâm của ta.
+
+206
+00:11:03,804 --> 00:11:05,603
+-Không.
+
+207
+00:11:05,605 --> 00:11:08,523
+-Không phải, cha à.
+
+208
+00:11:08,525 --> 00:11:11,843
+-Dù tội lỗi cha đang
+cảm thấy thế nào...
+
+209
+00:11:11,845 --> 00:11:15,447
+cha chỉ sử dụng nó để biện minh
+cho mối thù của mình.
+
+210
+00:11:15,449 --> 00:11:18,066
+-Phải, có lẽ ta không
+phải là người duy nhất.
+
+211
+00:11:29,378 --> 00:11:31,746
+-Mẹ ổn chứ?
+
+212
+00:11:31,748 --> 00:11:34,382
+-Thea, con phải dừng lại việc hỏi mẹ
+thế mỗi khi con đến thăm.
+
+213
+00:11:34,384 --> 00:11:36,084
+-Ah, con chưa tính đến chuyện đó.
+
+214
+00:11:36,086 --> 00:11:38,035
+-Phải, sau đó, mẹ sợ rằng
+con sẽ hỏi mẹ thế
+
+215
+00:11:38,037 --> 00:11:40,054
+cho tới 25 năm tiếp theo.
+
+216
+00:11:40,056 --> 00:11:42,173
+-Xin mẹ đừng nói như thế.
+
+217
+00:11:42,175 --> 00:11:45,226
+-Thea, không có nhiều giá trị gì
+của việc suy nghĩ tích cực
+
+218
+00:11:45,228 --> 00:11:47,712
+trong khi mình đang chuẩn bị
+xét xử về tội giết người hàng loạt.
+
+219
+00:11:47,714 --> 00:11:52,400
+-Thế thì chỉ cần cố gắng
+từng bước một, được chứ ?
+
+220
+00:11:52,402 --> 00:11:54,819
+-Mẹ sẽ phải hỏi
+luật sư của mình,
+
+221
+00:11:54,821 --> 00:11:56,571
+vì mẹ không nghĩ rằng việc này
+
+222
+00:11:56,573 --> 00:11:58,356
+là được pháp luật cho phép.
+
+223
+00:11:58,358 --> 00:12:00,441
+-Phải, con đã nói chuyện với cô ấy,
+
+224
+00:12:00,443 --> 00:12:01,266
+và cô ấy nói rằng mẹ có thể
+
+225
+00:12:01,291 --> 00:12:03,321
+mặc quần áo bình thường trong
+buổi điều trần trước khi xét xử của mẹ.
+
+226
+00:12:03,997 --> 00:12:06,247
+-Vì vậy, con đã chọn bộ này.
+
+227
+00:12:06,249 --> 00:12:08,333
+Hmm.
+
+228
+00:12:08,335 --> 00:12:12,504
+-Mẹ ước rằng thời trang cảnh sát là
+tất cả những gì mẹ phải lo lắng.
+
+229
+00:12:12,506 --> 00:12:15,623
+-Mẹ đừng đùa thế.
+-Thea, nghe mẹ này.
+
+230
+00:12:15,625 --> 00:12:19,210
+mẹ cần con hiểu
+những gì đang diễn ra ở đây.
+
+231
+00:12:19,212 --> 00:12:21,180
+-503 người đã chết
+
+232
+00:12:21,205 --> 00:12:23,518
+và chỉ có một giải pháp cho
+những tội lỗi mà mẹ đã làm
+
+233
+00:12:25,252 --> 00:12:27,719
+-Mẹ đã sẵn sàng để chấp nhận
+hình phạt của mình.
+
+234
+00:12:28,221 --> 00:12:31,639
+-Ngay cả khi đó có nghĩa là dành
+phần đời còn lại của mẹ tại đây?
+
+235
+00:12:33,359 --> 00:12:35,527
+-Phải.
+
+236
+00:12:45,988 --> 00:12:48,323
+-Tony Daniel?
+
+237
+00:12:48,325 --> 00:12:50,542
+-Cần tôi giúp gì đó à, anh sĩ quan?
+
+238
+00:12:50,544 --> 00:12:53,411
+-Barton Mathis.
+-Theo văn phòng của DA,
+
+239
+00:12:53,413 --> 00:12:56,130
+anh đã giúp hắn trong phiên tòa phúc thẩm,
+tôi muốn biết hắn ta ở đâu.
+
+240
+00:12:56,132 --> 00:12:59,100
+-Để anh có thể cho anh ta
+một vé đậu xe hoặc một cái gì khác?
+
+241
+00:12:59,102 --> 00:13:02,804
+-Nếu anh muốn nói chuyện với tôi
+về một trong những khách hàng của tôi,
+
+242
+00:13:02,806 --> 00:13:05,757
+trở lại với tư cách
+là thanh tra,
+
+243
+00:13:05,759 --> 00:13:07,759
+hoặc lệnh của tòa án.
+
+244
+00:13:07,761 --> 00:13:10,395
+-Gì, có gì đáng buồn cười?
+
+245
+00:13:10,397 --> 00:13:13,147
+-Phải, có một chút.
+
+246
+00:13:16,569 --> 00:13:18,486
+-Bọn tôi có thể
+tìm thấy hắn ở đâu?
+
+247
+00:13:18,488 --> 00:13:20,054
+-Nhà tù Iron Heights.
+
+248
+00:13:20,056 --> 00:13:22,156
+-Hắn đã vượt ngục.
+-Cái Gì?
+
+249
+00:13:22,158 --> 00:13:23,408
+-Làm thế nào chứ?
+
+250
+00:13:23,410 --> 00:13:25,109
+-Anh đã dành nhiều giờ
+với hắn ta!
+
+251
+00:13:25,111 --> 00:13:27,579
+-Hắn sẽ chạy đến đâu?
+-Ở Đâu?
+
+252
+00:13:27,581 --> 00:13:29,364
+-Tôi không biết, tôi - tôi thề!
+
+253
+00:13:33,318 --> 00:13:35,503
+-Cậu đang làm cái quái gì vậy?
+Tôi tưởng rằng cậu đã thôi giết người rồi!
+
+254
+00:13:35,505 --> 00:13:37,005
+-Anh ta vẫn còn sống đó thôi.
+
+255
+00:13:37,007 --> 00:13:38,673
+-Phải, nhưng anh ta sẽ báo cáo tôi
+cho trung úy của tôi!
+
+256
+00:13:38,675 --> 00:13:40,258
+-Anh ta sẽ không nói chuyện này
+cho bất cứ ai.
+
+257
+00:13:40,260 --> 00:13:41,426
+-Điều gì làm cho cậu
+nghĩ chắc chắn như vậy?
+
+258
+00:13:41,428 --> 00:13:43,211
+-Bởi vì anh ta
+vẫn còn cái vai nữa.
+
+259
+00:13:43,213 --> 00:13:46,047
+-Aah! Oh, ok, ok, ok!
+
+260
+00:13:48,385 --> 00:13:51,135
+-Có - có một nơi khác.
+
+261
+00:13:51,137 --> 00:13:53,054
+-Hắn luôn luôn vẽ nó.
+
+262
+00:13:53,056 --> 00:13:54,389
+-Phác thảo.
+
+263
+00:13:54,391 --> 00:13:56,140
+-Phòng giam của hắn đã được bao phủ
+với hình của nơi đó.
+
+264
+00:13:56,142 --> 00:13:58,142
+-Được rồi, nơi đó là ở đâu?
+Có phải tại Starling City không?
+
+265
+00:13:58,144 --> 00:13:59,527
+-Vâng.
+
+266
+00:13:59,529 --> 00:14:01,863
+-Bảo tàng Bisque.
+
+267
+00:14:01,865 --> 00:14:04,399
+-Hắn bảo tòa nhà đó
+làm hắn nhớ đến nướci Đức.
+
+268
+00:14:04,401 --> 00:14:06,985
+-Nơi mà  búp bê sứ
+đã được phát minh.
+
+269
+00:14:09,489 --> 00:14:14,042
+-Tôi xin lỗi. Tôi đoán anh ta
+đôi khi nhiệt tình quá.
+
+270
+00:14:20,365 --> 00:14:24,552
+-Người phụ nữ tại bàn làm việc đã cho biết
+người phù hợp với mô tả của Mathis
+
+271
+00:14:24,554 --> 00:14:27,005
+nhập phòng vào tuần trước,
+phòng 52.
+
+272
+00:14:27,007 --> 00:14:29,474
+-Và hắn trả bằng tiền mặt.
+
+273
+00:14:31,143 --> 00:14:33,227
+-Bây giờ nghe này,
+để cho chúng ta rõ ràng,
+
+274
+00:14:33,229 --> 00:14:35,046
+-Khi chúng ta đi qua cánh cửa đó,
+chúng ta chỉ tới đây để bắt Mathis, ok,
+
+275
+00:14:35,048 --> 00:14:37,598
+không tra tấn hắn.
+-Ông đã yêu cầu sự giúp đỡ của tôi.
+
+276
+00:14:37,600 --> 00:14:39,550
+-ừ, và đó không phải tôi
+hỗ trợ hay tiếp tay cho cậu,
+
+277
+00:14:39,552 --> 00:14:41,903
+-Và tôi vẫn còn là
+một sĩ quan cảnh sát đó.
+
+278
+00:14:41,905 --> 00:14:44,105
+-Ông có muốn
+để bắt hắn hay không?
+
+279
+00:14:45,775 --> 00:14:48,276
+-Vào thôi.
+
+280
+00:15:07,212 --> 00:15:09,597
+-Ngài thanh tra.
+
+281
+00:15:09,599 --> 00:15:11,516
+-Quả là lâu thật đấy.
+
+282
+00:15:11,518 --> 00:15:13,634
+-Felicity,
+Tôi cần lần theo dấu cuộc gọi này.
+
+283
+00:15:13,636 --> 00:15:15,803
+-Đang bắt đầu đây.
+
+284
+00:15:15,805 --> 00:15:18,056
+-Mày là tên khốn kiếp bệnh hoạn.
+
+285
+00:15:18,058 --> 00:15:20,441
+-Bệnh?
+-Tao chưa bao giờ cảm thấy tốt hơn.
+
+286
+00:15:20,443 --> 00:15:22,360
+-Không khí trong lành
+đồng thuận với tao.
+
+287
+00:15:22,362 --> 00:15:24,395
+-Ừ, tốt thôi,
+đừng quá quen với nó vội.
+
+288
+00:15:24,397 --> 00:15:25,245
+-Tao đã từng bắt người trước đó.
+
+289
+00:15:25,270 --> 00:15:27,512
+-Giờ chỉ là vấn đề thời gian trước khi
+tao làm điều đó một lần nữa.
+
+290
+00:15:28,034 --> 00:15:30,451
+-Được thôi.
+-Tuy nhiên,
+
+291
+00:15:30,453 --> 00:15:33,121
+tao có một người muốn
+nói lời chào hỏi ông.
+
+292
+00:15:33,123 --> 00:15:34,939
+-Nói xin chào đi, em yêu.
+
+293
+00:15:39,745 --> 00:15:42,046
+-Cô ấy không nói được rõ ràng cho lắm.
+
+294
+00:15:42,048 --> 00:15:43,965
+-Cô ấy không làm gì ngươi cả.
+
+295
+00:15:43,967 --> 00:15:46,050
+-Làm ơn, Đừng làm tổn thương cô ấy.
+-Hãy để cô ấy đi.
+
+296
+00:15:46,052 --> 00:15:47,668
+-Và để cho cô ta héo mòn
+
+297
+00:15:47,670 --> 00:15:49,721
+trong một cuộc sống
+tầm thường và đi vào quên lãng ư?
+
+298
+00:15:49,723 --> 00:15:51,973
+-Không, không, không, không, không, không.
+
+299
+00:15:51,975 --> 00:15:55,292
+-Cô ấy xứng đáng điều tốt hơn rất nhiều.
+
+300
+00:15:55,294 --> 00:15:58,980
+-Cô ấy xứng đáng để được xem
+vẻ đẹp của cô ấy bảo quản.
+
+301
+00:15:58,982 --> 00:16:01,849
+-Nguyên vẹn.
+
+302
+00:16:01,851 --> 00:16:03,935
+-Mãi mãi.
+
+303
+00:16:03,937 --> 00:16:05,469
+-Đừng lo lắng.
+
+304
+00:16:05,471 --> 00:16:08,689
+-Tao sẽ biến cô thành
+một cái gì đó đặc biệt.
+
+305
+00:16:08,691 --> 00:16:10,825
+-Chú ý này,
+Ngài thanh tra.
+
+306
+00:16:10,827 --> 00:16:13,945
+-Những gì tiếp theo
+tiếp theo thực sự là khá tinh tế.
+
+307
+00:16:13,947 --> 00:16:17,999
+-Âm thanh của một
+thực quản từ từ cứng lại.
+
+308
+00:16:20,620 --> 00:16:22,620
+-Giống như một bản giao hưởng.
+
+309
+00:16:23,923 --> 00:16:25,506
+-Felicity...
+
+310
+00:16:25,508 --> 00:16:27,341
+-Bọn tôi đã cố gắng, nhưng hắn ta
+chặn các dấu vết để có thể lần ra rồi.
+
+311
+00:16:27,343 --> 00:16:29,326
+-Barton, đừng  làm điều đó.
+Tao xin mày đấy, được chứ?
+
+312
+00:16:29,328 --> 00:16:31,846
+-Đó là những gì ông muốn?
+Tao xin mày. Làm ơn, hãy dừng lại!
+
+313
+00:16:33,348 --> 00:16:36,434
+-Cái này là để cho
+thế giới cùng thưởng thức.
+
+314
+00:16:36,436 --> 00:16:39,020
+-Sau cùng thì...
+
+315
+00:16:40,272 --> 00:16:43,608
+mọi người đều yêu
+một con búp bê xinh đẹp.
+
+316
+00:17:07,909 --> 00:17:12,246
+-Cảnh sát tìm thấy thi thể
+của cô ấy một giờ trước đây.
+
+317
+00:17:12,248 --> 00:17:14,465
+-Liệu nạn nhân mới cung cấp cho chúng ta
+bất kỳ pháp ý nào chúng ta có thể sử dụng không?
+
+318
+00:17:14,467 --> 00:17:16,366
+-CSI đã hoàn thành việc
+thực hiện thủ tục pháp y
+
+319
+00:17:16,368 --> 00:17:18,802
+nhưng họ đã gửi tất cả mọi thứ
+đến một phòng thí nghiệm bí mật.
+
+320
+00:17:18,804 --> 00:17:20,587
+-Cô có thể truy cập
+được vào trong không?
+
+321
+00:17:20,589 --> 00:17:23,173
+-Không. Họ đã để hệ thống
+của họ ẩn đi mất rồi.
+
+322
+00:17:23,175 --> 00:17:24,691
+-Nó có vẻ như ai đó đã hack
+
+323
+00:17:24,716 --> 00:17:26,812
+vào rất nhiều hệ thống
+liên quan đến cảnh sát năm ngoái.
+
+324
+00:17:27,313 --> 00:17:30,681
+-Vậy thì, chúng ta sẽ làm như chúng ta
+đã từng làm với công việc của Merlyn
+
+325
+00:17:38,389 --> 00:17:41,659
+-Rất vui vì cậu đã mời tôi
+để đi cùng.
+
+326
+00:17:43,161 --> 00:17:46,263
+-Phi tiêu gây mê. Anh ta sẽ
+dậy trong 36 phút nữa.
+
+327
+00:17:46,265 --> 00:17:48,666
+-Được, tôi nhớ rồi.
+
+328
+00:17:50,001 --> 00:17:52,252
+-Cô vào được rồi đó, Felicity.
+
+329
+00:17:52,254 --> 00:17:54,254
+-Vậy là, đây là một đêm điển hình
+của cậu, phải không?
+
+330
+00:17:54,256 --> 00:17:56,123
+-Chỉ một chút phá vỡ
+và đi vào.
+
+331
+00:17:56,125 --> 00:17:59,793
+-Được rồi, tôi đã tìm thấy
+chất độc đầu tiên.
+
+332
+00:18:01,763 --> 00:18:03,430
+-Đó là những gì?
+
+333
+00:18:03,432 --> 00:18:05,849
+Hóa chất thành phần của tất cả các đồ
+make-up được tìm thấy trên các nạn nhân -
+
+334
+00:18:05,851 --> 00:18:07,634
+kem dưỡng da,
+sơn móng tay, son môi.
+
+335
+00:18:07,636 --> 00:18:10,020
+-Chờ, chờ đợi, chờ đợi,
+dừng lại.
+
+336
+00:18:10,022 --> 00:18:11,922
+-Quay trở lại.
+-Quay trở lại.
+
+337
+00:18:11,924 --> 00:18:16,143
+-Cái này. Ethyl paraben.
+Sodium Laureth sulfat.
+
+338
+00:18:16,145 --> 00:18:18,729
+-Tôi đã thấy điều này trước đây.
+
+339
+00:18:18,731 --> 00:18:20,447
+-Đây là kem dưỡng da.
+
+340
+00:18:20,449 --> 00:18:22,282
+-Pháp ý tìm thấy dấu vết
+của nó trên ngón tay.
+
+341
+00:18:22,284 --> 00:18:24,318
+-Có lẽ một cái gì đócô ta đã sử dụng
+trước khi hắn bắt lấy cô ta.
+
+342
+00:18:24,320 --> 00:18:25,986
+-Kem dưỡng da.
+
+343
+00:18:25,988 --> 00:18:28,072
+-Mermaid hay một cái gì đó.
+-Từ một trong những nạn nhân cuối cùng của hắn,
+
+344
+00:18:28,074 --> 00:18:29,957
+cô ta có thứ này trong ví và
+tôi đã phân tích nó,
+
+345
+00:18:29,959 --> 00:18:32,543
+và nó là cùng một công thức.
+
+346
+00:18:32,545 --> 00:18:34,578
+-Felicity...
+-Tôi tìm thấy rồi đây.
+
+347
+00:18:37,465 --> 00:18:39,833
+-Làm thế quái nào mà
+cô ta có thể làm được điều đó?
+
+348
+00:18:39,835 --> 00:18:42,720
+-Ethyl paraben
+và sodium laureth sulfat
+
+349
+00:18:42,722 --> 00:18:44,972
+là công thức độc quyền của Mermaiden.
+
+350
+00:18:44,974 --> 00:18:46,890
+-Hai nạn nhân với
+hương vị tương tự trong kem dưỡng da.
+
+351
+00:18:46,892 --> 00:18:48,675
+-Đó không thể là một trùng hợp ngẫu nhiên.
+
+352
+00:18:48,677 --> 00:18:51,345
+-Tôi không bao giờ có thể tìm ra cách
+hắn chọn nạn nhân cho mình.
+
+353
+00:18:51,347 --> 00:18:53,397
+-Tôi nghĩ rằng ông vừa tìm ra đó.
+
+354
+00:18:55,483 --> 00:18:58,235
+-Chúng tôi không nên
+để Shado ở lại.
+
+355
+00:18:58,237 --> 00:19:02,322
+-Chà, đó là cuộc sống của cô ta.
+-Nó là sự lựa chọn của cô ta.
+
+356
+00:19:02,324 --> 00:19:04,158
+-Cậu nên nghe lời khuyên của tôi.
+
+357
+00:19:04,160 --> 00:19:06,577
+-Lời khuyên gì cơ?
+-Để tránh quan tâm đến người khác đi.
+
+358
+00:19:06,579 --> 00:19:08,829
+-Vâng. Đó quả là lời khuyên tệ hại.
+
+359
+00:19:08,831 --> 00:19:10,330
+-Nhưng nó sẽ
+giữ lấy mạng sống của cậu.
+
+360
+00:19:10,332 --> 00:19:12,533
+-Có lẽ tôi không muốn
+sống trong những điều khoản đó.
+
+361
+00:19:12,535 --> 00:19:14,201
+-Ừ, có lẽ
+do cậu là một thằng ngốc.
+
+362
+00:19:14,203 --> 00:19:16,987
+-Này, Anh nghĩ rằng việc quan tâm
+đến người khác sẽ làm anh bị giết
+
+363
+00:19:16,989 --> 00:19:19,256
+-Tôi thì nghĩ rằng đó là cách
+ để mọi người còn sống.
+
+364
+00:19:19,258 --> 00:19:22,209
+-Tôi đã lầm về cậu.
+
+365
+00:19:22,211 --> 00:19:25,095
+-Cậu thực sự là một thằng ngốc.
+
+366
+00:19:25,097 --> 00:19:27,681
+-Vậy đó, đó mới chính là tôi.
+
+367
+00:19:27,683 --> 00:19:30,801
+-Tôi không hề thay đổi.
+Ohh!
+
+368
+00:19:39,677 --> 00:19:43,730
+-Anh nên cảm thấy vui vì
+tôi đã không cô gắng mặc kệ anh.
+
+369
+00:19:49,120 --> 00:19:51,405
+-Harper.
+
+370
+00:19:51,407 --> 00:19:53,574
+-Lâu lắm rồi đó, Hoss.
+
+371
+00:19:53,576 --> 00:19:54,992
+-Tôi đang rất bận.
+
+372
+00:19:54,994 --> 00:19:56,743
+-Tôi có thể thấy điều đó.
+
+373
+00:19:56,745 --> 00:19:58,078
+-Tôi sẽ trả cho cậu một trăm.
+
+374
+00:19:58,080 --> 00:20:00,964
+-Bốn.
+-Hai lăm.
+
+375
+00:20:00,966 --> 00:20:02,966
+-Xong.
+
+376
+00:20:02,968 --> 00:20:05,335
+-Nếu ông cho tôi thêm
+một số thông tin.
+
+377
+00:20:07,056 --> 00:20:09,006
+-Thôi nào, mọi thứ đều trong
+tầm tay của ông mà.
+
+378
+00:20:09,008 --> 00:20:10,257
+-Tôi đang tìm kiếm một người.
+
+379
+00:20:10,259 --> 00:20:12,392
+-Một cô gái tóc vàng, mặc đồ da màu đen.
+
+380
+00:20:12,394 --> 00:20:13,977
+-Nghe có vẻ giống tuýp của cậu.
+
+381
+00:20:13,979 --> 00:20:16,263
+-Và đập mấy tên khốn
+bằng một chiếc gậy.
+
+382
+00:20:16,265 --> 00:20:18,065
+-Nghe vẫn giống tuýp người của cậu đó.
+
+383
+00:20:18,067 --> 00:20:20,484
+-Nhưng tôi muốn gặp cô ấy.
+-Ông biết những gì?
+
+384
+00:20:20,486 --> 00:20:22,236
+-Không nhiều lắm.
+
+385
+00:20:22,238 --> 00:20:23,437
+-Cậu biết Cindy không?
+
+386
+00:20:23,439 --> 00:20:25,656
+-Folks gọi cô ta  là "Sin."
+
+387
+00:20:25,658 --> 00:20:27,908
+-Cô ấy có tóc ngắn,dựng.
+
+388
+00:20:27,910 --> 00:20:29,610
+-Phải, tôi đã thấy
+cô ta một vài lần
+
+389
+00:20:29,612 --> 00:20:32,446
+đi cùng vớii cô bạn gái
+mặc đồ đen của cậu đó.
+
+390
+00:20:32,448 --> 00:20:33,947
+-Vậy thì tôi có thể tìm thấy "Sin" ở đâu?
+
+391
+00:20:33,949 --> 00:20:36,900
+-Chà, cô ta thường đi ở chỗ
+đường 5 và Boyton.
+
+392
+00:20:36,902 --> 00:20:40,587
+-Và đó là những gì tôi biết.
+
+393
+00:20:44,375 --> 00:20:47,044
+-Vậy là nó đây hả.
+
+394
+00:20:47,046 --> 00:20:48,879
+-Kem dưỡng da, đó là đầu mối của chúng ta?
+
+395
+00:20:48,881 --> 00:20:50,664
+-Nó là một cái gì đó nữa.
+
+396
+00:20:50,666 --> 00:20:52,749
+-Chúng ta biết gì
+về sản phẩm đó?
+
+397
+00:20:52,751 --> 00:20:55,469
+-Nó được nghiền từ ngọc trai
+và là đồ siêu cao cấp.
+
+398
+00:20:55,471 --> 00:20:57,554
+Chỉ thực hiện trong một số ít các cửa hàng
+
+399
+00:20:57,556 --> 00:21:00,023
+-Và nó được bán trên thị trường dành
+cho phụ nữ với làn da cực kỳ tinh tế.
+
+400
+00:21:00,025 --> 00:21:02,359
+-Hắn chọn nạn nhân
+theo làn da của họ.
+
+401
+00:21:02,361 --> 00:21:04,862
+-Loại kem đó chính là
+cách hắn tìm đến họ.
+
+402
+00:21:04,864 --> 00:21:06,513
+-Chỉ có bốn cửa hàng
+trong thành phố thực hiện nó
+
+403
+00:21:06,515 --> 00:21:08,782
+và ba trong số đó có hệ thống giám sát.
+
+404
+00:21:08,784 --> 00:21:10,400
+-Tôi đã xem tất cả các
+bản ghi để tìm Mathis,
+
+405
+00:21:10,402 --> 00:21:12,035
+nhưng đều không có gì.
+
+406
+00:21:12,037 --> 00:21:13,704
+-Hắn có lẽ phải theo dõi
+họ trong cửa hàng từ bên ngoài.
+
+407
+00:21:13,706 --> 00:21:15,155
+-Được rồi. Vậy thì chúng ta
+cũng sẽ làm như vậy.
+
+408
+00:21:15,157 --> 00:21:17,507
+-Điều này có thể phải nhiều ngày
+nếu chúng ta không làm.
+
+409
+00:21:17,509 --> 00:21:19,326
+-Hắn có lẽ giờ đang ở ngoài
+để tìm một cô gái khác
+
+410
+00:21:19,328 --> 00:21:20,961
+-Và đó là những gì
+chúng ta sẽ cho hắn.
+
+411
+00:21:20,963 --> 00:21:23,714
+Tôi sẽ đi đến các cửa hàng
+Mermaiden,
+
+412
+00:21:23,716 --> 00:21:25,465
+-Và mua mỗi loại một cái để dụ hắn.
+
+413
+00:21:25,467 --> 00:21:27,117
+-Việc này là quá nguy hiểm.
+
+414
+00:21:27,119 --> 00:21:29,753
+-Có nguy hiểm hơn việc làm
+gián điệp ngầm trong casino tội phạm,
+
+415
+00:21:29,755 --> 00:21:31,922
+hoặc nhảy ra khỏi máy bay?
+
+416
+00:21:31,924 --> 00:21:33,590
+-Đó là cuộc sống của tôi.
+
+417
+00:21:33,592 --> 00:21:35,642
+-Là lựa chọn của tôi.
+
+418
+00:21:37,979 --> 00:21:40,764
+-Chỉ có hai cách
+vào hòn đảo này -
+
+419
+00:21:40,766 --> 00:21:43,684
+bằng đường biển, và đường hàng không.
+
+420
+00:21:43,686 --> 00:21:46,240
+-Vậy là, anh sẽ
+
+421
+00:21:46,265 --> 00:21:48,225
+để ăn cắp bất cứ thứ gì chúng
+sử dụng để lên được đảo?
+
+422
+00:21:48,524 --> 00:21:52,693
+-Ừ, tôi mệt mỏi của cuộc sống ở đây rồi,
+cậu có thế không?
+
+423
+00:21:58,616 --> 00:22:01,335
+-Ôi, Chúa ơi.
+
+424
+00:22:01,337 --> 00:22:04,254
+-Nó dường như là đã xuất hiện ở đây
+hai hoặc ba lần ngoài kia rồi.
+
+425
+00:22:05,925 --> 00:22:07,841
+-Cái quái gì vậy?
+
+426
+00:22:11,830 --> 00:22:14,131
+-Nó được bắn ra
+từ vị trí của con tàu đó.
+
+427
+00:22:14,133 --> 00:22:15,999
+-Chiếc máy bay!
+
+428
+00:22:16,001 --> 00:22:18,268
+-Hẳn là chúng đã tìm thấy nó
+-Shado!
+
+429
+00:22:18,270 --> 00:22:21,021
+-Này nhóc!
+
+430
+00:22:24,275 --> 00:22:26,509
+-Rời khỏi cửa hàng rồi đây.
+
+431
+00:22:26,511 --> 00:22:28,895
+-Anh sẽ trả cho tôi phải không?
+
+432
+00:22:28,897 --> 00:22:30,948
+-Tôi lưu biên lai của tôi đấy.
+
+433
+00:22:30,950 --> 00:22:34,901
+-Tới điểm hẹn đi.
+
+434
+00:22:34,903 --> 00:22:37,571
+-Cố gắng ở nơi công cộng.
+
+435
+00:22:40,241 --> 00:22:42,993
+-Như những gì ghi lại,
+thì tôi không phải là fan
+
+436
+00:22:42,995 --> 00:22:46,079
+của việc để một cô gái yếu ớt như vậy
+làm mồi nhử trước một tên tâm thần.
+
+437
+00:22:46,081 --> 00:22:47,798
+-Cô ấy tình nguyện làm việc đó.
+
+438
+00:22:47,800 --> 00:22:50,000
+-Phải, cô ấy phải thực sự
+tin tưởng cậu.
+
+439
+00:22:50,002 --> 00:22:52,502
+-Cũng như con gái của ông vậy.
+
+440
+00:22:54,723 --> 00:22:57,424
+-Nó đã phải trải qua nỗi mất mát.
+
+441
+00:22:57,426 --> 00:23:00,543
+-Nỗi đau buồn làị một cách để thay đổi
+niềm tin của một người.
+
+442
+00:23:00,545 --> 00:23:02,846
+-Nhưng cậu cũng hiêu mọi chuyện mà.
+
+443
+00:23:02,848 --> 00:23:04,982
+-Cậu cũng đã từng
+mất người thân phải không?
+
+444
+00:23:04,984 --> 00:23:07,901
+-Tại sao ông lại hỏi thế?
+
+445
+00:23:07,903 --> 00:23:10,604
+-Tại vì ai mà cậu lại làm những việc này?
+
+446
+00:23:10,606 --> 00:23:13,740
+-Con gái út của tôi, nó đã mất.
+
+447
+00:23:13,742 --> 00:23:16,460
+-Tôi rất tiếc.
+
+448
+00:23:16,462 --> 00:23:19,062
+Chưa đầy một tháng sau khi
+chuyện đó đã xảy ra,
+
+449
+00:23:19,064 --> 00:23:23,750
+tôi - tôi đã kết thúc bắt
+trường hợp Doll Maker.
+
+450
+00:23:23,752 --> 00:23:25,585
+Ném mình vào vụ đó.
+
+451
+00:23:25,587 --> 00:23:30,173
+Tôi nghĩ rằng ở một mức độ nào đó,
+với mỗi cô gái tôi đã cố gắng để cứu đều là...
+
+452
+00:23:30,175 --> 00:23:32,409
+-Sara.
+
+453
+00:23:32,411 --> 00:23:34,795
+-Và cũng giống như với Sara,
+-Tôi không thể.
+
+454
+00:23:39,083 --> 00:23:42,352
+-Hắn giết chết tám cô gái cùng
+tuổi Sara trước khi tôi bắt hắn.
+
+455
+00:23:43,888 --> 00:23:46,056
+-Có người đến.
+
+456
+00:23:48,559 --> 00:23:50,593
+-Tôi nhìn thấy hắn rồi.
+
+457
+00:23:50,595 --> 00:23:56,283
+-Ok, tôi phải thừa nhận là
+tôi đang lo sợ phát khiếp đây.
+
+458
+00:23:56,285 --> 00:23:59,986
+-Báo động sai, nhưng lần tới tôi yêu cầu làm mồi
+cho kẻ giết người hàng loạt của anh,
+
+459
+00:23:59,988 --> 00:24:02,372
+thì làm ơn gạt tôi ra.
+
+460
+00:24:05,461 --> 00:24:08,879
+-Delta Charlie 52
+gọi đến trung tâm.
+
+461
+00:24:08,881 --> 00:24:11,081
+-Mã số 99, có thể 207 đang diễn ra
+
+462
+00:24:11,083 --> 00:24:14,334
+-Yêu cầu hỗ trợ ngay lập tức.
+
+463
+00:24:22,009 --> 00:24:25,479
+-Cô ổn chứ, cô ổn chứ.
+-Đừng di chuyển.
+
+464
+00:24:26,848 --> 00:24:28,482
+-Cô ấy bị đập đầu vào đó.
+
+465
+00:24:28,484 --> 00:24:29,900
+Đi, đi, đi.
+
+466
+00:24:45,166 --> 00:24:48,502
+-Tao nghĩ rằng khoảnh khắc này
+ phải tưng bừng lắm mới phải.
+
+467
+00:24:48,504 --> 00:24:51,037
+-Thành thực mà nói
+thì tao hơi thất vọng.
+
+468
+00:24:56,427 --> 00:24:58,712
+-Ra khỏi đây ngay đi!
+
+469
+00:25:02,601 --> 00:25:04,167
+-Cảnh sát Lance, SCPD.
+
+470
+00:25:04,169 --> 00:25:06,052
+-Là Mathis.
+-Tôi gần như đã bắt được hắn.
+
+471
+00:25:06,054 --> 00:25:08,522
+-Tìm kiếm trong khu vực này.
+-Cả tòa nhà này.
+
+472
+00:25:08,524 --> 00:25:10,673
+-Xin lỗi.
+-Về việc gì?
+
+473
+00:25:10,675 --> 00:25:13,193
+-Lênh của Pike.
+-Ông ấy muốn bắt anh vì cản trở trái phép.
+
+474
+00:25:13,195 --> 00:25:15,395
+Gì, ông ta...
+
+475
+00:25:15,397 --> 00:25:19,699
+-Quentin Larry Lance,
+Anh có quyền giữ im lặng.
+
+476
+00:25:19,701 --> 00:25:22,769
+Nếu anh từ chối quyền giữ im lặng,
+những lời nói của anh có thể...
+
+477
+00:25:28,675 --> 00:25:30,715
+-Họ đang bắt giam ông Lance
+vì cản trở trái phép.
+
+478
+00:25:30,756 --> 00:25:32,990
+-Ông ấy thì đang bị giam giữ.
+Còn Mathis thì không.
+
+479
+00:25:32,992 --> 00:25:34,675
+-Hắn sẽ tìm kiếm
+một mục tiêu khác.
+
+480
+00:25:34,677 --> 00:25:36,377
+-Tôi đã đột nhập vào Mermaiden
+và gửi đi một email
+
+481
+00:25:36,379 --> 00:25:38,762
+từ máy chủ của họ
+nói rằng sản phẩm có khiếm khuyết.
+
+482
+00:25:38,764 --> 00:25:41,015
+-Điều đó sẽ hoãn họ lại.
+-Thông minh đấy.
+
+483
+00:25:41,017 --> 00:25:42,433
+-Còn ông Lance thì sao?
+
+484
+00:25:42,435 --> 00:25:44,435
+-Một vấn đề hợp pháp
+tại thời điểm.
+
+485
+00:25:49,841 --> 00:25:53,010
+-Bản tuyên án 4587,
+của Bang với Queen.
+
+486
+00:25:53,012 --> 00:25:57,648
+-Được rồi, tôi sẽ nghe biện hộ từ các bạn,
+phụ nữ trước.
+
+487
+00:25:57,650 --> 00:26:00,034
+-Thưa quý tòa,chúng tôi muốn nghe lại
+một lần nữa
+
+488
+00:26:00,036 --> 00:26:01,568
+về vấn đề bảo lãnh.
+
+489
+00:26:01,570 --> 00:26:04,088
+-Bà Queen đã quá tàn tạ
+trong nhà tù Iron Heights
+
+490
+00:26:04,090 --> 00:26:05,689
+trong 5 tháng.
+-Và trong 5 tháng đó,
+
+491
+00:26:05,691 --> 00:26:08,575
+503 người
+mà bà ấy đã bị buộc tội giết
+
+492
+00:26:08,577 --> 00:26:10,360
+có thể trở về từ cõi chết
+một cách kì diệu không?
+
+493
+00:26:10,362 --> 00:26:11,662
+-Nếu không, Thì tôi không được rõ ràng lắm
+
+494
+00:26:11,664 --> 00:26:13,180
+trong khoảng thời gian
+liên quan đó.
+
+495
+00:26:13,182 --> 00:26:15,049
+-Tôi có nên nhắc quý Tòa
+rằng bị cáo
+
+496
+00:26:15,051 --> 00:26:16,650
+được tuyên bố vô tội chăng?
+
+497
+00:26:16,652 --> 00:26:18,519
+Không cần.
+tôi muốn trường Luật.
+
+498
+00:26:18,521 --> 00:26:19,887
+-Nơi tôi học
+được rằng quyền bảo lãnh,
+
+499
+00:26:19,889 --> 00:26:22,089
+một khi bị từ chối thì có khi được coi là
+
+500
+00:26:22,091 --> 00:26:24,374
+thay đổi tình huống được không.
+Ông Donner,
+
+501
+00:26:24,376 --> 00:26:26,060
+-Ông có ý kiến gì không?
+
+502
+00:26:26,062 --> 00:26:28,712
+-Thưa quý tòa, hiện tại Bang
+không có điều lệ
+
+503
+00:26:28,714 --> 00:26:30,681
+về việc tạm giam tại thời điểm này.
+
+504
+00:26:30,683 --> 00:26:33,600
+-Nhưng chúng tôi muốn
+bị cáo chú ý đến điều
+
+505
+00:26:33,602 --> 00:26:36,854
+điều thứ 15 của luật Hình sự.
+
+506
+00:26:36,856 --> 00:26:39,773
+-Thưa quý tòa, tôi muốn
+thảo luận với luật sư quận.
+
+507
+00:26:39,775 --> 00:26:42,443
+-Không cần thiết,
+cũng không có nghĩa vụ.
+
+508
+00:26:42,445 --> 00:26:44,278
+-Thế còn vê chuyện
+giữa các luật sư với nhau thì sao?
+
+509
+00:26:44,280 --> 00:26:45,729
+-Tôi muốn
+trao đổi với anh vài việc
+
+510
+00:26:45,731 --> 00:26:48,231
+trước khi chúng ta đi đến
+phán xét cuối cùng.
+
+511
+00:26:52,921 --> 00:26:57,240
+-Bị cáo đã giúp đỡ và tiếp tay
+một tội ác giết người hàng loạt.
+
+512
+00:26:57,242 --> 00:27:00,077
+-503 cuộc thảo luận
+cũng sẽ không thuyết phục được tôi
+
+513
+00:27:00,079 --> 00:27:03,931
+rằng Moira Queen
+sẽ không phải là người thứ 504 đâu.
+
+514
+00:27:03,933 --> 00:27:06,383
+-Mẹ, chúng ta sẽ
+theo tới cùng.
+
+515
+00:27:06,385 --> 00:27:09,687
+-Không ai có thể
+làm mẹ xa chúng con được đâu.
+
+516
+00:27:09,689 --> 00:27:12,439
+-Chúng con sẽ không để điều đó xảy ra.
+
+517
+00:27:12,441 --> 00:27:15,776
+-Oliver!
+
+518
+00:27:25,937 --> 00:27:28,605
+Oliver!
+
+519
+00:27:29,792 --> 00:27:31,458
+Shado!
+
+520
+00:28:03,743 --> 00:28:06,827
+-Con đã phải nhờ vả
+nhiều lắm mới có được đấy.
+
+521
+00:28:06,829 --> 00:28:08,996
+Vấn đề duy nhất của con ở\Nsở D.A.
+
+522
+00:28:08,998 --> 00:28:12,983
+gần một tháng, không một ai
+nợ con ân huệ nào cả
+
+523
+00:28:12,985 --> 00:28:15,502
+-Vậy làm sao con
+cho qua được vụ  này?
+
+524
+00:28:15,504 --> 00:28:17,238
+-Ông Pike bạn của cha và con
+làm việc chung
+
+525
+00:28:17,263 --> 00:28:18,322
+trong chuyên án Mũ Trùm Đầu.
+
+526
+00:28:18,323 --> 00:28:19,873
+-Cha nhớ không?
+
+527
+00:28:19,875 --> 00:28:21,675
+Ừm. Năm ngoái thì con làm việc
+với Arrow.
+
+528
+00:28:21,677 --> 00:28:23,343
+Điều gì làm nên sự khác biết
+sau vài tháng vậy.
+
+529
+00:28:23,345 --> 00:28:24,678
+-"The Arrow"?
+
+530
+00:28:24,680 --> 00:28:27,264
+-Yeah. Nghe nó hợp hơn
+với tên Mũ Trùm Đầu.
+
+531
+00:28:27,266 --> 00:28:29,016
+Và giờ cha đang cộng tác với hắn.
+
+532
+00:28:29,018 --> 00:28:31,602
+-Đoán rằng con không phải là người duy nhất
+trong nhà Lance thay đổi 180 độ.
+
+533
+00:28:31,604 --> 00:28:33,670
+-Thành phố này cần sự giúp đỡ.
+mà ta thì lại vừa bị cách chức
+
+534
+00:28:33,672 --> 00:28:36,356
+từ cái nơi mà
+mới nhốt mình.
+
+535
+00:28:36,358 --> 00:28:38,358
+-Con bào chữa về điều gì?
+
+536
+00:28:38,360 --> 00:28:40,060
+-Vẫn là Tommy?
+
+537
+00:28:40,062 --> 00:28:43,614
+-Cha nói sao nếu
+con nói đúng là như vậy?
+
+538
+00:28:45,517 --> 00:28:47,651
+-1 chàng trai với cung và tên
+không cứu nối 1 chàng trai
+
+539
+00:28:47,653 --> 00:28:50,187
+bị cả tòa nhà đè lên người.
+
+540
+00:28:51,790 --> 00:28:54,458
+-Chuyện gì xảy ra với con vậy
+nó không phải là về Arrow.
+
+541
+00:28:54,460 --> 00:28:58,128
+-Vậy thì nó là gì vậy cha?
+-hmm?
+
+542
+00:28:58,130 --> 00:29:00,347
+-Ý con muốn nói là,
+sao cha không nói cho con?
+
+543
+00:29:00,349 --> 00:29:02,382
+-Dường như cha đã
+có tất cả trả lời rồi.
+
+544
+00:29:02,384 --> 00:29:04,802
+-Ba làm con cảm thấy
+có lỗi về điều gì đó.
+
+545
+00:29:04,804 --> 00:29:07,504
+-Cái chết của Tommy.
+
+546
+00:29:07,506 --> 00:29:10,557
+-Tại sao con phải cảm thấy
+tội lỗi về điều đó?
+
+547
+00:29:10,559 --> 00:29:12,092
+-Ta không biết.
+Và ba ước gì ta biết điều đó.
+
+548
+00:29:12,094 --> 00:29:13,877
+-Vì nó đang làm day dứt
+tâm hồn con.
+
+549
+00:29:13,879 --> 00:29:15,562
+-Những phân tích tâm lý của cha
+
+550
+00:29:15,564 --> 00:29:17,181
+sẽ đáng thuyết phục hơn đấy
+
+551
+00:29:17,183 --> 00:29:20,100
+nếu như điều đó không phải được nói
+ bởi viên cảnh sát vừa bị bắt giam
+
+552
+00:29:21,236 --> 00:29:23,854
+-Laurel, ta lo lắng
+cho con lăm đấy
+
+553
+00:29:23,856 --> 00:29:25,155
+-Con sẽ tránh xa Pike
+nếu con là cha đó,
+
+554
+00:29:25,157 --> 00:29:26,940
+và cả vụ Doll Maker.
+
+555
+00:29:44,242 --> 00:29:45,792
+-Xin lỗi.
+
+556
+00:29:45,794 --> 00:29:49,263
+-Tránh ra,
+Abercrombie.
+
+557
+00:29:49,265 --> 00:29:51,849
+-Cindy?
+
+558
+00:29:51,851 --> 00:29:53,267
+-Sin?
+
+559
+00:29:53,269 --> 00:29:56,386
+-Anh muốn gì?
+Không thấy tôi đang bận à?
+
+560
+00:29:56,388 --> 00:29:58,588
+-Tôi đang tìm kiếm
+1 người bạn của cô.
+
+561
+00:29:58,590 --> 00:30:01,591
+-Tóc vàng.
+-Mang đồ da, từ đầu tới chân.
+
+562
+00:30:04,762 --> 00:30:07,281
+Vậy tôi đoán đúng rồi hả.
+
+563
+00:31:11,130 --> 00:31:14,464
+-Hắn nói hắn sẽ
+vào bên trong...
+
+564
+00:31:14,466 --> 00:31:18,168
+-Đó là những giừ hắn nói.
+-Hắn nói sẽ vào bên trong.
+
+565
+00:31:18,170 --> 00:31:20,003
+-Ổn chứ anh bạn?
+
+566
+00:31:20,005 --> 00:31:23,941
+-Cần bác sỹ hay gì không?
+
+567
+00:31:23,943 --> 00:31:25,692
+-Không.
+
+568
+00:31:25,694 --> 00:31:27,894
+-Tao ổn, cám ơn.
+
+569
+00:31:43,739 --> 00:31:45,630
+-Tôi đã kiểm tra đơn hàng
+và anh đã rút ngắn đơn hàng
+
+570
+00:31:45,631 --> 00:31:47,414
+-1 nữa số sâm panh.
+
+571
+00:31:47,416 --> 00:31:50,551
+-Tôi không trả tiền
+cho những thứ tôi không nhận được.
+
+572
+00:31:57,475 --> 00:32:00,227
+Làm vậy không giúp được gì đâu.
+
+573
+00:32:00,229 --> 00:32:04,264
+-Um, em biết rằng có la người cung cấp
+hàng cũng chẳng được gì nhưng...
+
+574
+00:32:04,266 --> 00:32:06,149
+-Em muốn hét
+một ai đó ngay lúc này
+
+575
+00:32:06,151 --> 00:32:07,818
+-Mẹ sẽ ổn thôi em.
+
+576
+00:32:07,820 --> 00:32:10,888
+-Vì chúng ta sẽ
+giúp mẹ tới cùng mà
+
+577
+00:32:10,890 --> 00:32:12,356
+-Là 1 gia đình
+
+578
+00:32:12,358 --> 00:32:14,408
+-Họ muốn giết mẹ.
+
+579
+00:32:14,410 --> 00:32:16,643
+-Anh sẽ không để chuyện đó xảy ra.
+
+580
+00:32:19,831 --> 00:32:23,650
+-Thea, bật qua
+kênh 52 giúp anh đi?
+
+581
+00:32:25,253 --> 00:32:28,505
+Phát thanh viên: Cảnh sát Quentin Lance
+và con gái Laurel
+
+582
+00:32:28,507 --> 00:32:30,541
+đã bị bắt cóc tối nay.
+
+583
+00:32:30,543 --> 00:32:32,793
+Không có yêu cầu chuộc nào được đưa ra.
+
+584
+00:32:32,795 --> 00:32:36,530
+SCPD yêu cầu nếu ai có
+thông tin gì về bọn băt cóc...
+
+585
+00:32:36,532 --> 00:32:38,048
+-Làm thế nào mà
+hắn bắt được họ vậy?
+
+586
+00:32:38,050 --> 00:32:39,967
+-Tôi không rõ\Nvề Laurel.
+
+587
+00:32:39,969 --> 00:32:41,768
+-Thanh tra Lance bị
+bắt cóc ở bãi đỗ xe.
+
+588
+00:32:41,770 --> 00:32:43,537
+-Mathis bắn 1 người bảo vệ trên đường ra,
+đã gây nên báo động.
+
+589
+00:32:43,539 --> 00:32:46,006
+-Tôi đã theo dõi
+camera của tòa nhà
+
+590
+00:32:46,008 --> 00:32:48,174
+và có 1 chiếc xe của
+Metamorpho Chemical lọt vào mắt.
+
+591
+00:32:48,176 --> 00:32:50,193
+-Metamorpho bị chỉ trích
+sau trận động đất.
+
+592
+00:32:50,195 --> 00:32:52,045
+-Nơi trú ẩn tuyêt vời
+để tạo hình búp bê.
+
+593
+00:32:52,047 --> 00:32:53,530
+-Không phải tối nay.
+
+594
+00:32:53,532 --> 00:32:54,898
+-Cảnh sát sẽ theo dõi,
+giống như cách chúng ta làm Ollie.
+
+595
+00:32:54,900 --> 00:32:56,683
+Họ sẽ không đến kip đâu.
+
+596
+00:32:58,736 --> 00:33:00,320
+Hey.
+
+597
+00:33:00,322 --> 00:33:03,707
+-Dậy đi, Abercrombie.
+-Gì?
+
+598
+00:33:09,964 --> 00:33:12,532
+-Là họ cử anh tới phải không?
+
+599
+00:33:12,534 --> 00:33:14,751
+-Ai cử cái gì?
+
+600
+00:33:20,541 --> 00:33:23,043
+-Không phải mặt của tôi chứ!
+
+601
+00:33:23,045 --> 00:33:26,930
+-Tôi có một cô bạn gái
+phiền phức rồi.
+
+602
+00:33:26,932 --> 00:33:28,649
+-Ngươi là một trong số họ đúng không?
+
+603
+00:33:28,651 --> 00:33:30,567
+-Một trong những ai cơ?
+
+604
+00:33:33,221 --> 00:33:35,772
+-Của tôi mà.
+
+605
+00:33:37,575 --> 00:33:39,743
+-Để hắn đi.
+
+606
+00:33:53,240 --> 00:33:55,792
+-Tuyệt chứ hả?
+
+607
+00:33:55,794 --> 00:33:57,794
+-Chúng ta đều ở đây.
+
+608
+00:33:57,796 --> 00:33:59,379
+-Nó cũng giống như Lễ Tạ Ơn vậy.
+
+609
+00:33:59,381 --> 00:34:02,082
+-Laurel, bình tĩnh con.
+-Bình tĩnh.
+
+610
+00:34:02,084 --> 00:34:04,968
+-Barton, Tao xin lỗi.
+-Tao biết mày ghét tao
+
+611
+00:34:04,970 --> 00:34:06,887
+-Tao biết mày ghét tao được chứ,
+và tao hiểu điều đó
+
+612
+00:34:06,889 --> 00:34:11,108
+-Nhưng mày chỉ ghét tao thôi.
+-Làm ơn hãy thả con gái tao ra.
+
+613
+00:34:11,110 --> 00:34:14,444
+-Sao tao phải làm vậy?
+
+614
+00:34:14,446 --> 00:34:16,429
+-Nhìn cô ta xem.
+
+615
+00:34:16,431 --> 00:34:18,782
+-Cô ta thật đáng yêu.
+
+616
+00:34:20,618 --> 00:34:24,371
+-Dù có hơi nhiều sắc tố
+dưới da 1 xíu,
+
+617
+00:34:24,373 --> 00:34:28,108
+-Nhưng nó không đáng để
+ảnh hưởng tới việc tạo ra 1 kiệt tác đâu
+
+618
+00:34:28,110 --> 00:34:31,328
+-Tao là người đã tống mày vào tù.
+-Con tao không làm gì cả!
+
+619
+00:34:31,330 --> 00:34:33,613
+-Cô ta làm tất cả những điều đó ấy chứ!
+
+620
+00:34:33,615 --> 00:34:35,132
+-Cô ta là thế giới của mày,
+là tâm hồn của mày.
+
+621
+00:34:35,134 --> 00:34:36,950
+-Mày biết không,
+tao có thể giết mày,
+
+622
+00:34:36,952 --> 00:34:39,920
+Tao có thể băm mày, chặt mày ra
+hàng ngàn mảnh,
+
+623
+00:34:39,922 --> 00:34:41,454
+nhưng nếu tâm hồn mày
+vẫn không bị sao,
+
+624
+00:34:41,456 --> 00:34:44,624
+thì tao có thể làm gì?
+Huh?
+
+625
+00:34:44,626 --> 00:34:46,292
+-Không gì cả.
+
+626
+00:34:46,294 --> 00:34:48,795
+-Tao sẽ giết mày, Thằng chó!
+tao sẽ giết mày!
+
+627
+00:34:48,797 --> 00:34:50,964
+-Thằng khốn nạn!
+
+628
+00:34:57,655 --> 00:34:59,823
+-Laurel...Con yêu...
+
+629
+00:34:59,825 --> 00:35:01,975
+-Nhắm mắt lại.
+
+630
+00:35:01,977 --> 00:35:04,695
+-Ta ở đây.
+
+631
+00:35:04,697 --> 00:35:07,614
+-Ta ở đây, con yêu.
+
+632
+00:35:07,616 --> 00:35:11,001
+-Nếu nó cưỡng lại,
+thì sẽ được lâu hơn đấy.
+
+633
+00:35:20,461 --> 00:35:24,497
+-Làm những gì anh cần,
+chỉ cần bắt hắn, bắt hắn
+
+634
+00:35:55,663 --> 00:35:58,026
+-Nhìn mặt xem ai nào.
+
+635
+00:35:58,609 --> 00:36:00,214
+-Cô em có làn da đẹp đấy.
+
+636
+00:36:04,889 --> 00:36:07,257
+-Mày sẽ vào tù trở lại.
+
+637
+00:36:08,726 --> 00:36:12,429
+-Không có chuyện đó đâu.
+
+638
+00:36:13,481 --> 00:36:15,599
+-Ổn rồi con yêu,
+
+639
+00:36:15,601 --> 00:36:17,984
+-Ổn rồi,
+anh ta đã cứu chúng ta
+
+640
+00:36:17,986 --> 00:36:19,936
+-Con biết.
+
+641
+00:36:19,938 --> 00:36:23,223
+-Con biết anh ta làm,
+và sau khi con truy đuổi anh ấy.
+
+642
+00:36:23,225 --> 00:36:24,991
+-Được rồi, ổn rồi.
+
+643
+00:36:24,993 --> 00:36:26,893
+-Không. Anh ấy đã đến.
+
+644
+00:36:26,895 --> 00:36:29,112
+-Anh ấy đến để cứu con.
+
+645
+00:36:29,114 --> 00:36:30,947
+-Uh, ta biết,
+cậu ấy đã cứu hai chúng ta.
+
+646
+00:36:30,949 --> 00:36:32,732
+-Không.
+
+647
+00:36:32,734 --> 00:36:35,085
+-Không phải anh ấy.
+
+648
+00:36:35,087 --> 00:36:37,737
+-Không phải Arrow.
+
+649
+00:36:37,739 --> 00:36:39,840
+-Tommy.
+
+650
+00:36:39,842 --> 00:36:41,091
+-Gì?
+
+651
+00:36:41,093 --> 00:36:42,592
+-Oliver, anh ấy...
+
+652
+00:36:42,594 --> 00:36:44,544
+đã bảo con tránh
+xa khu Glades ra
+
+653
+00:36:44,546 --> 00:36:47,881
+và anh ấy..anh ấy đã bảo con
+rời khỏi CNRI,
+
+654
+00:36:47,883 --> 00:36:51,918
+nhưng con không nghe.
+-Chỉ có Tommy đến đó
+
+655
+00:36:51,920 --> 00:36:53,603
+bởi vì con quá bướng bỉnh!
+
+656
+00:36:53,605 --> 00:36:56,306
+-Ngoan cố không chịu ra ngoài
+khi con có cơ hội.
+
+657
+00:36:56,308 --> 00:36:58,475
+-Cha đã đúng.
+
+658
+00:36:58,477 --> 00:37:01,361
+-Con đang trách Arrow bởi vì....
+
+659
+00:37:01,363 --> 00:37:03,930
+-Ôi, Chúa ơi.
+
+660
+00:37:03,932 --> 00:37:06,766
+-Lỗi của con, cha à.
+
+661
+00:37:06,768 --> 00:37:10,954
+-Lỗi của con
+mà Tommy chết
+
+662
+00:37:14,709 --> 00:37:18,495
+-Được rồi con yêu
+
+663
+00:37:53,865 --> 00:37:55,684
+-Cô ấy thế nào?
+
+664
+00:37:55,685 --> 00:37:57,685
+-Nó sẽ ổn thôi.
+
+665
+00:37:57,687 --> 00:37:59,553
+Trong thời gian qua,
+
+666
+00:37:59,555 --> 00:38:02,106
+tôi có thể không hoàn toàn
+đồng ý cách làm của anh
+
+667
+00:38:02,108 --> 00:38:04,742
+nhưng tôi không thể chối bỏ rằng.
+
+668
+00:38:04,744 --> 00:38:07,912
+-Anh đã cứu con tôi.
+
+669
+00:38:07,914 --> 00:38:10,097
+-Một lần nữa.
+
+670
+00:38:10,099 --> 00:38:12,767
+-Cố ây cần được giúp mà.
+
+671
+00:38:14,403 --> 00:38:17,371
+-Và nó sẽ không phải là duy nhất.
+
+672
+00:38:20,276 --> 00:38:22,326
+Cảm ơn.
+
+673
+00:38:26,616 --> 00:38:29,566
+Moira.
+
+674
+00:38:29,568 --> 00:38:32,342
+-Tôi biết những chuỗi ngày này
+khó khăn thế nào đối với cô.
+
+675
+00:38:32,343 --> 00:38:33,256
+Vâng.
+
+676
+00:38:33,257 --> 00:38:34,723
+-Và tin hay không,
+
+677
+00:38:34,725 --> 00:38:36,725
+-Tôi thật sự đã trải qua
+tình trạng tồi tệ hơn nhiều.
+
+678
+00:38:36,727 --> 00:38:40,362
+-Nghe này. Donner biết rằng
+lập luận của chúng ta ổn tới mức nào.
+
+679
+00:38:40,364 --> 00:38:43,432
+-Đừng để anh ta dọa cô như thế.
+
+680
+00:38:43,434 --> 00:38:45,434
+-Oh, tôi không sợ chết, Jean.
+
+681
+00:38:45,436 --> 00:38:49,405
+-Tôi đã hòa nhập với
+thế giới này lâu lắm rồi.
+
+682
+00:38:49,407 --> 00:38:51,290
+Sau khi thắng vụ kiện
+trong phòng xử án
+
+683
+00:38:51,292 --> 00:38:53,392
+-Nó sẽ chứng tỏ mọi thứ
+rằng cô chỉ là người thực thi
+
+684
+00:38:53,394 --> 00:38:55,794
+mệnh lệnh của Malcolm Merlyn mà thôi.
+-Nó sẽ giải quyết mọi chuyện.
+
+685
+00:38:55,796 --> 00:38:57,163
+Vâng.
+
+686
+00:38:57,165 --> 00:39:01,500
+-Và đó là điều tôi lo sợ.
+
+687
+00:39:01,502 --> 00:39:04,637
+-Moira, có điều gì tôi không biết?
+
+688
+00:39:04,639 --> 00:39:06,338
+-Bà có làm nó không.
+
+689
+00:39:06,340 --> 00:39:08,007
+-Bà cần nói với tôi.
+-Tôi là luật sư của bà mà,
+
+690
+00:39:08,009 --> 00:39:10,059
+và cũng là bạn của bà nữa.
+
+691
+00:39:10,061 --> 00:39:11,627
+Thea và Oliver.
+
+692
+00:39:11,629 --> 00:39:14,463
+-Cuối cùng tôi cũng có chỗ đứng
+trong lòng bọn trẻ, Jean à.
+
+693
+00:39:14,465 --> 00:39:18,651
+-Tôi đã có lại được gia đình.
+
+694
+00:39:18,653 --> 00:39:22,955
+-Nhưng có những thứ...
+
+695
+00:39:24,140 --> 00:39:27,645
+sẽ không bao giờ nói ra được.
+
+696
+00:39:48,247 --> 00:39:50,332
+-Anh không nên đến đây.
+
+697
+00:39:51,784 --> 00:39:54,119
+-Tôi không có sự lựa chọn nào.
+
+698
+00:39:54,121 --> 00:39:57,639
+-Ra's Al ghul,
+yêu cầu cô quay về.
+
+699
+00:40:03,479 --> 00:40:06,148
+-Tôi không về.
+-Tôi không thể.
+
+700
+00:40:06,815 --> 00:40:10,149
+-Đó không phải là quyết định của cô.
+
+701
+00:40:10,151 --> 00:40:13,986
+-Nói với họ rằng
+anh không tìm thấy tôi.
+
+702
+00:40:13,988 --> 00:40:16,572
+-Nói rằng tôi đã bỏ chạy.
+
+703
+00:40:19,243 --> 00:40:22,362
+-Tôi sẽ ko dối họ cho cô đâu.
+
+704
+00:40:22,364 --> 00:40:24,914
+-Được.
+
+705
+00:40:27,000 --> 00:40:30,203
+-Vậy đừng nói với họ gì cả.
+
+706
+00:40:34,125 --> 00:40:35,658
+-Có gì đó đang xảy ra
+với người phụ nữ này.
+
+707
+00:40:35,660 --> 00:40:37,660
+-Cô ấy theo sát cậu, giúp cậu.
+
+708
+00:40:37,662 --> 00:40:39,212
+-Chúng ta phải tìm ra cô ta.
+-Để dừng cô ta lại,
+
+709
+00:40:39,214 --> 00:40:40,680
+hay gửi lời cảm ơn tới cô ấy?
+
+710
+00:40:40,682 --> 00:40:42,682
+-Cái đó còn phụ thuộc.
+-Phụ thuộc vào cái gì?
+
+711
+00:40:42,684 --> 00:40:45,352
+-Cô ấy theo phe nào.
+
+712
+00:40:45,377 --> 00:40:50,377
+Phụ đề bời <font color=#00FF00> ArrowFanpage </ font>
+<font color=#00FFFF> Fb.com/ArrowFanpage </ font>

@@ -125,7 +125,7 @@ $film_countryz_title = "";
                                 <div class="col-sm-3 visible-sm-block col-xs-1 visible-xs-block"></div>
                                 <div class="col1 col-md-3 col-sm-8 col-xs-10">
                                     <div class="poster"> <span class="status"><?=$filmQUALITY;?></span> <img src="<?=thumbimg($row['film_img'],200);?>" alt="<?=$filmNAMEVN;?>">
-<div class="movie-watch-link-box"><a class="movie-watch-link" href="<?=$filmURL;?>download.html" title="Trailer <?=$filmNAMEVN;?> - <?=$filmNAMEEN;?>">Download</a></div>
+
 									<div class="tools-box" style="display:block;"><div class="tools-box-bookmark normal" style="display: block;"><span class="bookmark-status"><i class="fa fa-gittip"></i></span><span class="bookmark-action"></span></div></div> 
 									
 									</div>

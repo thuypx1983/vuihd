@@ -1,0 +1,4454 @@
+﻿1
+00:00:20,312 --> 00:00:22,812
+VUIHD.COM HÂN HẠNH GIỚI THIỆU<BR>
+<font color="#ffff00">Trong nhiều thế kỷ sự kỳ diệu thiêng liêng
+của Divine Crystal ...</font>
+
+2
+00:00:22,982 --> 00:00:25,232
+<font color="#ffff00">... ban phước cho thế giới của chúng tôi.</font>
+
+3
+00:00:31,112 --> 00:00:35,242
+<font color="#ffff00">Nhưng khi thời điểm đến, lời hứa với sức mạnh của nó
+Mang chiến tranh đến vùng đất của chúng tôi</font>
+
+4
+00:00:41,202 --> 00:00:46,662
+<font color="#ffff00">Lucis, một vương quốc hòa bình của ma thuật vĩ đại
+Được bảo vệ bời sức mạnh của Crystal.</font>
+
+5
+00:00:48,712 --> 00:00:52,222
+<font color="#ffff00">Và Niflhem,
+Một đế chế quân sự của những cỗ máy khổng lồ...</font>
+
+6
+00:00:52,382 --> 00:00:55,012
+<font color="#ffff00">...lấy sức mạnh từ Magitek của nó.</font>
+
+7
+00:00:55,512 --> 00:00:58,312
+<font color="#ffff00">Chiến tranh bùng nổ kéo dài giữa 2 quốc gia</font>
+
+8
+00:01:01,722 --> 00:01:05,102
+<font color="#ffff00">Nhiều năm trôi qua,
+Niflheim thâu tóm các quốc gia láng giềng...</font>
+
+9
+00:01:05,312 --> 00:01:07,362
+<font color="#ffff00">...được thúc đẩy bời công nghệ vượt trội của họ</font>
+
+10
+00:01:10,152 --> 00:01:14,032
+<font color="#ffff00">Để bảo vệ chính mình,
+Lucis đã tạo lên bức tường ma thuật</font>
+
+11
+00:01:14,282 --> 00:01:17,282
+<font color="#ffff00">...sức mạnh được tạo ra bởi Crystal</font>
+
+12
+00:01:19,162 --> 00:01:23,082
+<font color="#ffff00">Bị cô lập, thành phố của vị vua
+Và pháo đài phòng thủ cuối cùng của người Lucian..</font>
+
+13
+00:01:23,292 --> 00:01:26,172
+<font color="#ffff00">...vẫn nằm ngoài tầm với của Niflhem
+trong nhiều năm</font>
+
+14
+00:01:29,962 --> 00:01:31,672
+<font color="#ffff00">Giữa những cuộc giao tranh ngày một leo thang..</font>
+
+15
+00:01:31,842 --> 00:01:34,302
+<font color="#ffff00">...Hoàng tử của Lucis vẫn tìm đến Tenebrae...</font>
+
+16
+00:01:34,462 --> 00:01:36,792
+<font color="#ffff00">...để tìm phương pháp chữa lành những chấn thương.</font>
+
+17
+00:01:37,222 --> 00:01:41,392
+<font color="#ffff00">Cậu ấy có một cuộc hành trình dài
+Cùng với cha của mình, Vua Regis.</font>
+
+18
+00:01:42,512 --> 00:01:45,302
+<font color="#ffff00">Mẹ tôi, em trai tôi và tôi,
+Người thuộc hoàng tộc Tenabrae...</font>
+
+19
+00:01:45,472 --> 00:01:47,472
+<font color="#ffff00">...tất cả mọi người đều chào đón họ.</font>
+
+20
+00:02:02,372 --> 00:02:06,042
+<font color="#ffff00">Đó là lúc mà ngọn lửa lan đến mọi nơi</font>
+
+21
+00:02:08,212 --> 00:02:12,552
+<font color="#ffff00">Chỉ trong chốc lát,
+Toàn bộ Tenebrae chìm trong biển lửa.</font>
+
+22
+00:02:14,172 --> 00:02:16,052
+<font color="#ffff00">Ravus!</font>
+
+23
+00:02:24,602 --> 00:02:26,442
+<font color="#ffff00">Mẹ ơi!</font>
+
+24
+00:02:35,902 --> 00:02:37,702
+<font color="#ffff00">Đại tướng Glauca.</font>
+
+25
+00:02:44,242 --> 00:02:48,452
+<font color="#ffff00">Cuộc tấn công của Niflhem nhằm vào cuộc viếng thăm
+Của hoàng tộc Lucian</font>
+
+26
+00:02:54,092 --> 00:02:55,972
+<font color="#ffff00">Noctis!</font>
+
+27
+00:03:00,632 --> 00:03:02,592
+<font color="#ffff00">Xin hãy giúp chúng tôi!</font>
+
+28
+00:03:02,762 --> 00:03:04,212
+<font color="#ffff00">Vua Regis!</font>
+
+29
+00:03:18,482 --> 00:03:19,942
+<font color="#ffff00">Lunafreya....</font>
+
+30
+00:03:25,202 --> 00:03:27,042
+<font color="#ffff00">Luna!</font>
+
+31
+00:03:28,292 --> 00:03:30,172
+<font color="#ffff00">Từ đó cho đến nay...</font>
+
+32
+00:03:30,832 --> 00:03:33,752
+<font color="#ffff00">...Tenebrae bị kìm kẹp bởi bàn tay của Niflheim...</font>
+
+33
+00:03:34,542 --> 00:03:36,962
+<font color="#ffff00">...kẻ thủ không đội trời chung của Lucis.</font>
+
+34
+00:03:41,762 --> 00:03:46,062
+<font color="#ffff00">Vua Regis tập hợp một lực lượng chiến binh
+hùng mạnh để chống lại các mối đe dọa của đế quốc Neflhem</font>
+
+35
+00:03:46,472 --> 00:03:50,642
+<font color="#ffff00">Được mạnh danh là đoản kiếm của vua,
+Họ không ngừng chiến đấu chống lại Niflheim...</font>
+
+36
+00:03:50,812 --> 00:03:52,902
+<font color="#ffff00">...bằng sức mạnh ma thuật tối thượng của họ.</font>
+
+37
+00:04:07,122 --> 00:04:08,912
+<font color="#ffff00">Tất cả các đơn vị,
+Di chuyển đến bảo vệ Bức Tường</font>
+
+38
+00:04:09,082 --> 00:04:10,712
+<font color="#ffff00">Nếu chúng vượt qua, tất cả chúng ta sẽ xong phim.</font>
+
+39
+00:04:39,732 --> 00:04:41,272
+<font color="#ffff00">Cái gì đang giữ chân cậu thế, Crowe?</font>
+
+40
+00:04:41,782 --> 00:04:43,782
+<font color="#ffff00">Crowe! Tình hình thế nào?</font>
+
+41
+00:04:44,152 --> 00:04:45,152
+<font color="#ffff00">Sắp xong rồi .</font>
+
+42
+00:04:48,242 --> 00:04:49,242
+<font color="#ffff00">Không !</font>
+
+43
+00:04:53,912 --> 00:04:57,492
+<font color="#ffff00">Tôi cần trợ giúp . Tường phía đông đang sụp đổ.
+Pelna, cậu đến đây được không?</font>
+
+44
+00:04:58,922 --> 00:05:01,182
+<font color="#ffff00">Lucis không trả công thỏa đáng...</font>
+
+45
+00:05:02,212 --> 00:05:03,292
+<font color="#ffff00">...cho điều này.</font>
+
+46
+00:05:19,402 --> 00:05:20,402
+<font color="#ffff00">Không công bằng chút nào ?</font>
+
+47
+00:05:27,282 --> 00:05:28,912
+<font color="#ffff00">Nyx, tôi nợ cậu 1 chầu.</font>
+
+48
+00:05:29,122 --> 00:05:30,162
+<font color="#ffff00">Cậu và những người khác.</font>
+
+49
+00:05:30,322 --> 00:05:32,822
+<font color="#ffff00">Chúng tôi cần hỗ trợ ở sườn phía đông.
+Nyx, cậu đang ở đâu đấy?</font>
+
+50
+00:05:32,992 --> 00:05:34,072
+<font color="#ffff00">Tôi đang đến đây.</font>
+
+51
+00:05:34,252 --> 00:05:36,542
+<font color="#ffff00">Pelna, rút lui
+Và tập hợp với mọi người đi</font>
+
+52
+00:05:37,582 --> 00:05:38,912
+<font color="#ffff00">Dùng phép thuật mà tẩu đi các cậu</font>
+
+53
+00:05:39,082 --> 00:05:40,912
+<font color="#ffff00">Mọi người đang chờ cậu quay về đó.</font>
+
+54
+00:05:41,092 --> 00:05:42,382
+<font color="#ffff00">Tôi đáng đề chờ đợi đấy.</font>
+
+55
+00:05:44,882 --> 00:05:45,882
+<font color="#ffff00">Đồ khoe khoang.</font>
+
+56
+00:05:57,642 --> 00:06:00,562
+<font color="#ffff00">Cẩn thận sau lưng cậu , Libertus.
+Chúng đang đến ngày càng đông đấy.</font>
+
+57
+00:06:01,942 --> 00:06:03,742
+<font color="#ffff00">Chúng ta không thể cố thủ thêm nữa đâu.</font>
+
+58
+00:06:06,742 --> 00:06:08,162
+<font color="#ffff00">Crowe!</font>
+
+59
+00:06:10,282 --> 00:06:11,282
+<font color="#ffff00">Rồi !</font>
+
+60
+00:06:17,082 --> 00:06:20,752
+<font color="#ffff00">Tất cả Glaives (đoản kiếm của Vua) , rút lui.
+Tôi nhắc lại, tất cả Glaives rút lui.</font>
+
+61
+00:07:07,002 --> 00:07:08,582
+<font color="#ffff00">Thả con quỷ ra.</font>
+
+62
+00:08:31,262 --> 00:08:35,062
+<font color="#ffff00">Chúng ta không thể đánh bại con quỷ.
+Tôi yêu cầu tất cả rút lui.</font>
+
+63
+00:08:35,932 --> 00:08:38,522
+<font color="#ffff00">Còn sống mà trở lại nhé.
+Đó là lệnh.</font>
+
+64
+00:08:39,262 --> 00:08:40,342
+<font color="#ffff00">Vì gia đình của mình.</font>
+
+65
+00:08:55,572 --> 00:08:59,742
+<font color="#ffff00">Tất cả các đơn vị, rút lui đến điểm tập kết.
+Đội hỗ trợ không đến đâu.</font>
+
+66
+00:09:03,252 --> 00:09:05,502
+<font color="#ffff00">Nyx! Chúng ta phải ra khỏi đây.</font>
+
+67
+00:09:06,672 --> 00:09:10,262
+<font color="#ffff00">- Nyx! Chúng ta có lệnh !
+- tôi nghe thấy rồi .</font>
+
+68
+00:09:10,422 --> 00:09:11,432
+<font color="#ffff00">Giúp tôi với !</font>
+
+69
+00:09:11,592 --> 00:09:12,592
+<font color="#ffff00">Nyx!</font>
+
+70
+00:09:12,882 --> 00:09:14,172
+<font color="#ffff00">Thật ngu ngốc.</font>
+
+71
+00:09:20,562 --> 00:09:21,772
+<font color="#ffff00">Nyx!</font>
+
+72
+00:09:22,142 --> 00:09:23,902
+<font color="#ffff00">Crowe. Chúng ta phải đi.</font>
+
+73
+00:09:25,942 --> 00:09:27,072
+<font color="#ffff00">Cậu đùa tôi chắc.</font>
+
+74
+00:10:00,512 --> 00:10:02,682
+<font color="#ffff00">Cậu biết tôi không để bụng chuyện tào lao này chứ.</font>
+
+75
+00:10:04,812 --> 00:10:05,982
+<font color="#ffff00">Cậu đi được không ?</font>
+
+76
+00:10:06,142 --> 00:10:08,142
+<font color="#ffff00">Đến đây nào.
+Cũng giống như Galahad Canyon trở về nhà.</font>
+
+77
+00:10:21,532 --> 00:10:22,702
+<font color="#ffff00">Libertus!</font>
+
+78
+00:10:44,602 --> 00:10:46,652
+<font color="#ffff00">Luche, báo cáo đi.</font>
+
+79
+00:10:48,142 --> 00:10:51,602
+<font color="#ffff00">Trong như có vẻ bọn đế quốc đang rút lui thưa ngài</font>
+
+80
+00:11:10,292 --> 00:11:11,842
+<font color="#ffff00">Tôi đoán là tôi nợ cậu thêm lần nữa.</font>
+
+81
+00:11:12,582 --> 00:11:14,202
+<font color="#ffff00">Tôi sẽ ghi nó vào hóa đơn của cậu.</font>
+
+82
+00:11:14,542 --> 00:11:16,582
+<font color="#ffff00">Cậu chỉ cần cố gắng nghỉ ngơi và khỏe lại, được chứ?</font>
+
+83
+00:11:31,527 --> 00:11:33,777
+<font color="#ffff00">Cậu đã không tuân theo lệnh rút lui của tôi</font>
+
+83
+00:11:35,482 --> 00:11:37,102
+<font color="#ffff00">Vì gia đình và tổ quốc, phải không thưa ngài ?</font>
+
+84
+00:11:38,362 --> 00:11:42,992
+<font color="#ffff00">Khi nào tôi còn khỏe,
+Tôi sẽ còn theo mệnh lệnh đó</font>
+
+85
+00:11:43,742 --> 00:11:45,952
+<font color="#ffff00">Đừng tự lừa dối mình nữa, Nyx Ulric.</font>
+
+86
+00:11:46,372 --> 00:11:49,422
+<font color="#ffff00">Bất kể sức mạnh nào cậu có được
+Đều được ban phát với nhà vua thôi</font>
+
+87
+00:11:49,752 --> 00:11:51,422
+<font color="#ffff00">Cậu chẳng là gì cả nếu không có ngài ấy.</font>
+
+88
+00:11:53,212 --> 00:11:55,212
+<font color="#ffff00">Giờ thì đợi chỉ thị mới đi.</font>
+
+89
+00:13:03,402 --> 00:13:04,442
+<font color="#ffff00">Vâng thưa ngài</font>
+
+90
+00:13:04,652 --> 00:13:07,032
+<font color="#ffff00">họ đã cầm chắc phần thằng</font>
+
+91
+00:13:08,872 --> 00:13:12,042
+<font color="#ffff00">Rút lui đột ngột và không có lời giải thích sao.</font>
+
+92
+00:13:12,582 --> 00:13:14,792
+<font color="#ffff00">Chúng ta đang chơi trò may rủi thưa ngài</font>
+
+93
+00:13:15,412 --> 00:13:17,752
+<font color="#ffff00">Chúng ta không thể biết khi nào chúng sẽ tiếp tục tấn công</font>
+
+94
+00:13:18,212 --> 00:13:20,592
+<font color="#ffff00">Thưa ngài, tin báo từ cổng phía tây !</font>
+
+95
+00:13:20,802 --> 00:13:23,642
+<font color="#ffff00">Một người tự xưng là xứ giả của kẻ địch xin diện kiến</font>
+
+96
+00:13:27,762 --> 00:13:31,552
+<font color="#ffff00">Các đặc phái viên từ Niflhem đang đợi thưa ngài</font>
+
+97
+00:13:36,692 --> 00:13:37,902
+<font color="#ffff00">Xin chào mọi người.</font>
+
+98
+00:13:38,772 --> 00:13:40,182
+<font color="#ffff00">Xin chào!</font>
+
+99
+00:13:40,362 --> 00:13:41,612
+<font color="#ffff00">Chúc mọi người một ngày tốt lành...</font>
+
+100
+00:13:42,192 --> 00:13:43,192
+<font color="#ffff00">...và cả ngài nữa</font>
+
+101
+00:13:44,402 --> 00:13:46,362
+<font color="#ffff00">Rất vui khi được gặp những người Lucian thân yêu.</font>
+
+102
+00:13:46,572 --> 00:13:49,322
+<font color="#ffff00">Có phải Neiflhem đã phát triển quá phải không...</font>
+
+103
+00:13:49,532 --> 00:13:52,782
+<font color="#ffff00">...mà họ lại gửi thủ tướng của mình đi làm đặc phái viên ?</font>
+
+104
+00:13:53,162 --> 00:13:55,282
+<font color="#ffff00">Và không hề có vệ sỹ như thế này?</font>
+
+105
+00:13:55,452 --> 00:13:59,502
+<font color="#ffff00">Thật là vinh dự khi được vua Regis vĩ đại nhìn nhận như vậy</font>
+
+107
+00:13:58,466 --> 00:14:03,186
+<font color="#ffff00">Tuy nhiên theo nghi lễ thì cho tôi xin giới thiệu về mình đã nhỉ</font>
+
+106
+00:14:05,302 --> 00:14:09,472
+<font color="#ffff00">Ardyn Izunia, thủ tướng của Niflheim...</font>
+
+107
+00:14:10,892 --> 00:14:13,522
+<font color="#ffff00">...rất vui được phục vụ các ngài.</font>
+
+108
+00:14:13,892 --> 00:14:15,772
+<font color="#ffff00">Và tôi đến đây...</font>
+
+109
+00:14:15,982 --> 00:14:20,442
+<font color="#ffff00">...trong thời khắc tốt đẹp nhất của những ngày này
+Để đưa ra các điều khoản về hòa bình.</font>
+
+110
+00:14:21,312 --> 00:14:22,392
+<font color="#ffff00">Hòa bình sao?</font>
+
+111
+00:14:22,862 --> 00:14:25,032
+<font color="#ffff00">Có phải các vị đang ngồi đoán rằng..</font>
+
+112
+00:14:25,192 --> 00:14:29,652
+<font color="#ffff00">...những hoạt động gần đây của chúng tôi
+Không phải là rút lui chiến lược ?</font>
+
+113
+00:14:30,452 --> 00:14:32,042
+<font color="#ffff00">Hãy gọi đó là ...</font>
+
+114
+00:14:33,032 --> 00:14:35,992
+<font color="#ffff00">...một cử chỉ thân thiện của chúng tôi giành cho các vị.</font>
+
+115
+00:14:36,752 --> 00:14:38,962
+<font color="#ffff00">Giống như các vị, chúng tôi không mong ước gì hơn...</font>
+
+116
+00:14:39,122 --> 00:14:43,872
+<font color="#ffff00">...là kết thúc nhanh chóng cuộc chiến vô nghĩa này.</font>
+
+119
+00:14:43,386 --> 00:14:44,726
+<font color="#ffff00">Chỉ thế thôi sao?</font>
+
+117
+00:14:46,172 --> 00:14:47,172
+<font color="#ffff00">Đúng đó như ngài nghĩ đó</font>
+
+118
+00:14:47,342 --> 00:14:50,562
+<font color="#ffff00">Và chúng tôi yêu cầu một số sự tuân thủ</font>
+
+119
+00:14:50,892 --> 00:14:55,062
+<font color="#ffff00">Để cứu lấy những vị Insomnia đang ngồi ị ở đây</font>
+
+120
+00:14:55,262 --> 00:15:00,762
+<font color="#ffff00">Lucis phải đặt tất cả lãnh thổ dưới sự cai trị của Neiflhem</font>
+
+121
+00:15:04,192 --> 00:15:05,532
+<font color="#ffff00">Insomnia!</font>
+
+122
+00:15:05,692 --> 00:15:09,442
+<font color="#ffff00">Những viên đá quý trên vương miện của vương quốc Lucian</font>
+
+123
+00:15:10,662 --> 00:15:12,412
+<font color="#ffff00">Làm sao tôi có thể ngu ngốc đến mức quên được cơ chứ</font>
+
+124
+00:15:12,622 --> 00:15:15,792
+<font color="#ffff00">Còn một điều nhỏ nhặt nữa</font>
+
+125
+00:15:16,992 --> 00:15:18,322
+<font color="#ffff00">Liên quan đến con trai của ngài đó vua của Lucis</font>
+
+126
+00:15:20,622 --> 00:15:23,452
+<font color="#ffff00">Hoàn tử Noctis của Lucis...</font>
+
+127
+00:15:23,672 --> 00:15:27,342
+<font color="#ffff00">...và công chúa Lunafreya của Tenabrae</font>
+
+128
+00:15:28,842 --> 00:15:30,722
+<font color="#ffff00">Chúng sẽ cưới nhau.</font>
+
+129
+00:15:32,182 --> 00:15:34,392
+<font color="#ffff00">Sao nhìn ngài có vẻ bực mình thế, thưa vị vua đáng kính</font>
+
+130
+00:15:35,222 --> 00:15:40,892
+<font color="#ffff00">Tôi đảm bảo với ngài rằng, công chúa sẽ vẫn
+Để ngài nắm giữ những lĩnh vực cao nhất</font>
+
+131
+00:15:41,062 --> 00:15:44,432
+<font color="#ffff00">...như cô ấy đã từng làm 12 năm trước.</font>
+
+132
+00:16:01,412 --> 00:16:02,682
+<font color="#ffff00">Không biết có ai nói với cậu rằng...</font>
+
+133
+00:16:02,712 --> 00:16:05,462
+<font color="#ffff00">...chúng tôi sẽ chẳng tử tế với những hành vi
+Bất phục tùng ở đây đâu.</font>
+
+134
+00:16:09,012 --> 00:16:12,102
+<font color="#ffff00">Tự cho mình một đặc ân, nhìn xung quanh đi.</font>
+
+135
+00:16:12,632 --> 00:16:17,172
+<font color="#ffff00">Nhìn cứ như thời kì 100 năm hòa bình ấy nhỉ.</font>
+
+136
+00:16:19,892 --> 00:16:25,642
+<font color="#ffff00">Một nền hòa bình lâu dài được tạo dựng bởi Bức Tường (magic wall)</font>
+
+137
+00:16:27,982 --> 00:16:31,772
+<font color="#ffff00">Thấy không, chúng tôi chả cần những người như cậu,
+Những kẻ nhập cư...</font>
+
+138
+00:16:32,152 --> 00:16:36,402
+<font color="#ffff00">...nhảy nhót vòng quanh, chơi trò chiến tranh như những anh hùng</font>
+
+139
+00:17:09,692 --> 00:17:12,482
+<font color="#ffff00">Này !
+Một ngày canh cổng buồn chán, huh, Glaive?</font>
+
+140
+00:17:13,112 --> 00:17:15,522
+<font color="#ffff00">Đồ tồi,vì cậu mà anh ấy mới bị đẩy ra đó đấy.</font>
+
+141
+00:17:17,412 --> 00:17:21,622
+<font color="#ffff00">- không phải sự chào đón nồng nhiệt với một anh hùng vĩ đại nhỉ.
+- cũng chả phải một bộ trang phục phù hợp luôn</font>
+
+142
+00:17:21,792 --> 00:17:23,422
+<font color="#ffff00">Thực ra là do con mắt nhìn của tôi thôi</font>
+
+143
+00:17:26,962 --> 00:17:28,172
+<font color="#ffff00">Ông cho cái gì vào đây thế bếp trưởng ?</font>
+
+144
+00:17:28,332 --> 00:17:29,662
+<font color="#ffff00">Cứ như mùi vị của một con Chocobo ấy.</font>
+
+145
+00:17:29,842 --> 00:17:31,052
+<font color="#ffff00">Này, nín đê đồ gàn dở !</font>
+
+146
+00:17:31,592 --> 00:17:34,352
+<font color="#ffff00">Đây không phải là  Galahd nhé.
+Người ở đây đều thích thế.</font>
+
+147
+00:17:34,512 --> 00:17:39,352
+<font color="#ffff00">Oh, ổn nhỉ. Tôi rất vui khi thấy lão sẵn sàng
+Bán đi di sản của chúng ta để lấy vài đồng GIL lẻ đấy.</font>
+
+148
+00:17:39,932 --> 00:17:42,642
+<font color="#ffff00">Này, Libertus.
+Cậu đã cám ơn Nyx vì đã cứu cái mông béo của cậu chưa đấy ?</font>
+
+149
+00:17:42,812 --> 00:17:45,982
+<font color="#ffff00">Oh, thôi nào, Crowe.
+Nyx và tôi thân thiết quá rồi.</font>
+
+150
+00:17:46,142 --> 00:17:48,772
+<font color="#ffff00">Anh ấy giúp tôi nhiều lần, tôi giúp anh ấy một lần.
+Từ trước đến giờ vẫn vậy mà.</font>
+
+151
+00:17:48,942 --> 00:17:51,492
+<font color="#ffff00">Hình như cậu có một chút sự giúp đỡ từ cái gì đó khác nữa, huh ?</font>
+
+152
+00:17:51,652 --> 00:17:53,202
+<font color="#ffff00">Tôi cần tất cả những gì tôi có thể lấy</font>
+
+153
+00:17:54,402 --> 00:17:55,402
+<font color="#ffff00">Vì gia đình!</font>
+
+154
+00:17:56,742 --> 00:17:57,792
+<font color="#ffff00">- và tổ quốc.
+- và tổ quốc.</font>
+
+155
+00:18:00,282 --> 00:18:04,372
+<font color="#ffff00">vậy, Nyx người canh cổng
+công việc mới này đối đãi với cậu thế nào ?</font>
+
+156
+00:18:04,582 --> 00:18:06,592
+<font color="#ffff00">Oh, nó tuyệt lắm
+Các cậu cũng sẽ thích nó cho mà xem.</font>
+
+157
+00:18:06,832 --> 00:18:08,742
+<font color="#ffff00">Canh cổng mới đáng yêu làm sao.</font>
+
+158
+00:18:09,542 --> 00:18:10,662
+<font color="#ffff00">Ờ, phải rồi.</font>
+
+159
+00:18:10,842 --> 00:18:13,432
+<font color="#ffff00">Chúng ta đều biết rằng họ ghét những kẻ nhập cư
+Như chúng ta thế nào</font>
+
+160
+00:18:13,592 --> 00:18:15,762
+<font color="#ffff00">Vì thế thật buồn tẻ khi họ chả có gì khá hơn để làm.</font>
+
+161
+00:18:16,012 --> 00:18:17,472
+<font color="#ffff00">Không tệ đến mức đó đâu.</font>
+
+162
+00:18:17,632 --> 00:18:19,002
+<font color="#ffff00">Ý tôi là cái nền hòa bình này, ít nhất là vậy.</font>
+
+163
+00:18:19,262 --> 00:18:22,102
+<font color="#ffff00">Tôi đã tham gia hàng trăm trận chiến cho Galahdans để cảm thấy buồn chán.</font>
+
+164
+00:18:22,762 --> 00:18:23,972
+<font color="#ffff00">Chiến tất đê nếu cậu muốn</font>
+
+165
+00:18:24,142 --> 00:18:25,482
+<font color="#ffff00">Nhưng đừng có chết vội</font>
+
+166
+00:18:26,182 --> 00:18:27,262
+<font color="#ffff00">Tôi vẫn nợ cậu đấy</font>
+
+167
+00:18:27,852 --> 00:18:28,852
+<font color="#ffff00">Nhiều lắm</font>
+
+168
+00:18:29,062 --> 00:18:31,642
+<font color="#ffff00">Glaive sẽ ở đâu nếu không có những anh hùng?</font>
+
+169
+00:18:31,812 --> 00:18:34,562
+<font color="#ffff00">Cậu đừng nói thế khi chúng ta đang nhậu có được không?</font>
+
+170
+00:18:34,732 --> 00:18:37,902
+<font color="#ffff00">Chúng ta vừa làm cho lũ Niffs tháo chạy với
+Cái đuôi ở giữa 2 chân chúng, phải không?</font>
+
+171
+00:18:38,072 --> 00:18:40,822
+<font color="#ffff00">Chúng không bỏ chạy bởi chúng ta
+Mà chúng đang chơi đùa với ta đó</font>
+
+172
+00:18:42,742 --> 00:18:46,242
+<font color="#ffff00">Đừng ném đá hội nghị như thế, Luche.
+Chúng ta đều biết chuyện gì đã xảy ra.</font>
+
+173
+00:18:46,502 --> 00:18:49,172
+<font color="#ffff00">Cậu có biết là họ đã gửi một phái viên đến
+Citadel ngay sau đó không ?</font>
+
+174
+00:18:49,332 --> 00:18:51,832
+<font color="#ffff00">Để làm gì chứ ? để đề nghị chúng sẽ đầu hàng à?</font>
+
+175
+00:18:52,002 --> 00:18:53,332
+<font color="#ffff00">- chúng yêu cầu ta đầu hàng thì đúng hơn
+- cái quái gì cơ ?</font>
+
+176
+00:18:53,502 --> 00:18:55,502
+<font color="#ffff00">Yêu cầu á? Có cái đít ấy!</font>
+
+177
+00:18:55,922 --> 00:18:57,502
+<font color="#ffff00">Không ? hãy nghĩ về điều đó đi</font>
+
+178
+00:18:57,922 --> 00:18:59,842
+<font color="#ffff00">Đế chế đã đặt bước chân cuối cùng của nó đến Lucis</font>
+
+179
+00:19:00,012 --> 00:19:02,142
+<font color="#ffff00">Đó là thời điểm hoàn hảo để ra yêu sách.</font>
+
+180
+00:19:03,892 --> 00:19:06,852
+<font color="#ffff00">Chúng ta đã thua cuộc chiến này, thưa ngài.</font>
+
+181
+00:19:07,392 --> 00:19:10,432
+<font color="#ffff00">Lucis không thể dựa vào một mình KingsGlaive (đội đoản kiếm của vua)</font>
+
+182
+00:19:10,602 --> 00:19:13,732
+<font color="#ffff00">Chấp nhận các thỏa thuận ngừng bắn là điều tốt nhất chúng ta có thể làm.</font>
+
+183
+00:19:14,152 --> 00:19:16,452
+<font color="#ffff00">Ông đang nói về những vấn đề ở ngoài tầm của NEW WALL
+(tường ma thuật bảo vệ Lucis)</font>
+
+184
+00:19:16,782 --> 00:19:20,452
+<font color="#ffff00">Chúng ta không cần các thỏa thuận ngừng bắn
+Miễn sao bức tường còn đứng vững.</font>
+
+185
+00:19:20,862 --> 00:19:25,072
+<font color="#ffff00">Nếu vị trí của chúng ta trở nên tệ hơn,
+Vẫn còn OLD WALL</font>
+
+186
+00:19:25,282 --> 00:19:30,282
+<font color="#ffff00">Đúng thể nhưng thỏa thuận này sẽ kết thúc hoàn toàn chiến tranh</font>
+
+187
+00:19:31,422 --> 00:19:33,512
+<font color="#ffff00">Chỉ khi chúng ta có thể thỏa hiệp</font>
+
+188
+00:19:33,672 --> 00:19:35,592
+<font color="#ffff00">Thỏa hiệp là không khoan ngoan</font>
+
+189
+00:19:35,752 --> 00:19:38,582
+<font color="#ffff00">Chúng ta không biết gì về mục đích thực sự của Neiflhem</font>
+
+190
+00:19:39,302 --> 00:19:42,972
+<font color="#ffff00">Đừng tự lừa dối mình,
+Bức tường còn lâu mới bị xuyên thủng.</font>
+
+191
+00:19:43,392 --> 00:19:46,442
+<font color="#ffff00">Chúng ta có rất ít sự lựa chọn.</font>
+
+192
+00:19:47,392 --> 00:19:49,812
+<font color="#ffff00">Bước tường lấy sức mạnh từ ngai vàng.</font>
+
+193
+00:19:50,062 --> 00:19:54,862
+<font color="#ffff00">Tôi có thể duy trì nó trong vài năm nữa nếu
+Vương quốc cần.</font>
+
+194
+00:19:56,152 --> 00:20:01,122
+<font color="#ffff00">Nhưng tên thủ tướng nói đúng một điều,
+Duy nhất một điều.</font>
+
+195
+00:20:02,032 --> 00:20:05,252
+<font color="#ffff00">Đó là tôi đã già, và OLD WALL...</font>
+
+196
+00:20:06,742 --> 00:20:10,492
+<font color="#ffff00">Tôi không thể chỉ huy OLD WALL với một đôi tay yếu ớt</font>
+
+197
+00:20:10,912 --> 00:20:15,082
+<font color="#ffff00">...cũng chả có sức mạnh để tổ chức một cuộc tấn công
+Lật ngược thế cờ</font>
+
+198
+00:20:15,672 --> 00:20:18,012
+<font color="#ffff00">Vậy hãy đưa ra sự lựa chọn, thưa ngài !</font>
+
+199
+00:20:18,962 --> 00:20:21,042
+<font color="#ffff00">Chúng ta đang bảo vệ điều gì?</font>
+
+200
+00:20:44,202 --> 00:20:45,492
+<font color="#ffff00">Giúp với, mẹ ơi!</font>
+
+201
+00:21:04,382 --> 00:21:07,172
+<font color="#ffff00">Làm sao mà cậu không bao giờ bỏ lỡ bữa ăn trưa như thế?</font>
+
+202
+00:21:09,012 --> 00:21:10,052
+<font color="#ffff00">Đừng có thêm vào</font>
+
+203
+00:21:10,352 --> 00:21:13,522
+<font color="#ffff00">Đây là nghệ thuật cổ xưa đấy,
+Là bí mật của gia đình hoàng gia đó nha.</font>
+
+204
+00:21:14,062 --> 00:21:16,072
+<font color="#ffff00">Libertus! Nyx!</font>
+
+205
+00:21:16,942 --> 00:21:18,612
+<font color="#ffff00">Đến đây nhanh lên, guys, các anh phải xem cái này.</font>
+
+206
+00:21:19,822 --> 00:21:21,502
+<font color="#ffff00">Thủ đô ngày hôm nay đang rất hỗn loạn...</font>
+
+207
+00:21:21,532 --> 00:21:23,422
+<font color="#ffff00">...khi chính phủ Lucian chấp nhận hoàn toàn...</font>
+
+208
+00:21:23,442 --> 00:21:26,282
+<font color="#ffff00">...các điều khoản hòa bình đơn phương...</font>
+
+209
+00:21:26,452 --> 00:21:28,502
+<font color="#ffff00">...đưa ra bỏi thủ tướng Izunia của Neiflhem.</font>
+
+210
+00:21:28,702 --> 00:21:31,962
+<font color="#ffff00">Với việc kí kết thỏa thuận ngừng bắn, quyền cai trị
+Cả lãnh thổ</font>
+
+211
+00:21:32,122 --> 00:21:35,382
+<font color="#ffff00">...sẽ được năm giữ bởi đế quốc,
+Với ngoại lệ duy nhất của Insomnia.</font>
+
+212
+00:21:35,542 --> 00:21:39,922
+<font color="#ffff00">Đổi lại Neilfhem sẽ đảm bảo an toàn cho Insomnia
+Và người dân..</font>
+
+213
+00:21:40,132 --> 00:21:42,302
+<font color="#ffff00">...cũng như là một sự chấm dứt ...</font>
+
+214
+00:21:42,462 --> 00:21:45,382
+<font color="#ffff00">...cho cuộc chiến lâu dài và đau khổ này.</font>
+
+215
+00:21:48,262 --> 00:21:53,012
+<font color="#ffff00">Tất cả chúng ta đã chiến đấu vì điều gì ?
+Chả gì cả</font>
+
+216
+00:21:53,772 --> 00:21:57,152
+<font color="#ffff00">Glaives.
+Tập hợp trong phòng họp</font>
+
+217
+00:21:58,402 --> 00:21:59,572
+<font color="#ffff00">Làm ngay đi.</font>
+
+218
+00:22:06,282 --> 00:22:09,082
+<font color="#ffff00">Nhà vua đã nói và các cậu cũng nghe thấy rồi đó.</font>
+
+219
+00:22:09,622 --> 00:22:12,792
+<font color="#ffff00">Tất cả các vùng đất bên ngoài bức tường
+Sẽ được trả lại cho bọn đế quốc</font>
+
+220
+00:22:12,992 --> 00:22:14,872
+<font color="#ffff00">Không có nơi nào được bỏ qua sao ?</font>
+
+221
+00:22:15,502 --> 00:22:17,882
+<font color="#ffff00">- không .
+- nhưng nhà của các cậu cũng ở ngoài đó!</font>
+
+222
+00:22:18,252 --> 00:22:19,252
+<font color="#ffff00">Là thế đó.</font>
+
+223
+00:22:19,462 --> 00:22:21,092
+<font color="#ffff00">Tại sao nhà vua lại làm thế chứ ?</font>
+
+224
+00:22:21,462 --> 00:22:23,042
+<font color="#ffff00">Bởi vị nó sẽ kết thúc cuộc chiến chết tiệt này..</font>
+
+225
+00:22:25,302 --> 00:22:26,602
+<font color="#ffff00">- Crowe.
+- Thưa ngài !</font>
+
+226
+00:22:27,262 --> 00:22:30,932
+<font color="#ffff00">Chuẩn bị xuất phát đi.
+Cô được cử đến Tenebrae.</font>
+
+227
+00:22:31,512 --> 00:22:32,592
+<font color="#ffff00">Tenebrae sao, thưa ngài?</font>
+
+228
+00:22:33,352 --> 00:22:35,272
+<font color="#ffff00">Chi tiết của nhiệm vụ là tối mật.</font>
+
+229
+00:22:35,682 --> 00:22:38,012
+<font color="#ffff00">Báo cáo ở văn phòng của tôi trong 30 phút nữa.</font>
+
+230
+00:22:39,232 --> 00:22:40,612
+<font color="#ffff00">Còn cậu, Nyx....</font>
+
+231
+00:22:41,272 --> 00:22:42,562
+<font color="#ffff00">Cậu sẽ canh cổng phía tây</font>
+
+232
+00:22:42,902 --> 00:22:45,492
+<font color="#ffff00">Cậu được phân công canh lâu đài.</font>
+
+233
+00:22:46,492 --> 00:22:47,742
+<font color="#ffff00">Hết rồi đấy.</font>
+
+234
+00:22:54,742 --> 00:22:58,032
+<font color="#ffff00">Đó là những gì cậu đã nói đó hả , Luche?</font>
+
+235
+00:22:58,252 --> 00:22:59,292
+<font color="#ffff00">Cậu nghe đội trưởng nói rồi đó thôi.</font>
+
+236
+00:22:59,462 --> 00:23:02,632
+<font color="#ffff00">- chúng ta không có quyền lựa chọn
+- không ư ?</font>
+
+237
+00:23:02,842 --> 00:23:05,382
+<font color="#ffff00">Nhà của mọi người đều ở ngoài đó !
+Người dân của chúng ta!</font>
+
+238
+00:23:05,632 --> 00:23:08,012
+<font color="#ffff00">Cậu đi và bỏ rơi họ sao ?</font>
+
+239
+00:23:08,172 --> 00:23:09,712
+<font color="#ffff00">Nếu chúng ta không đi cùng họ...</font>
+
+240
+00:23:09,882 --> 00:23:12,132
+<font color="#ffff00">...bọn đế quốc sẽ đổ hết địa ngục lên Insomnia.</font>
+
+241
+00:23:12,302 --> 00:23:14,682
+<font color="#ffff00">- chúng ta sẽ hất ngược lại về phía chúng!
+- bình tĩnh nào các cậu.</font>
+
+242
+00:23:14,852 --> 00:23:16,062
+<font color="#ffff00">Cậu ấy đâu phải kẻ thù.</font>
+
+243
+00:23:16,272 --> 00:23:17,772
+<font color="#ffff00">Các cậu đã hiểu chưa?</font>
+
+244
+00:23:19,562 --> 00:23:21,182
+<font color="#ffff00">Chúng ta chả là gì với họ.</font>
+
+245
+00:23:21,402 --> 00:23:24,952
+<font color="#ffff00">Chỉ là lũ chuột, lẻn vào từ bên ngoài bức tường</font>
+
+249
+00:23:24,740 --> 00:23:26,570
+<font color="#ffff00">Một điều chắc chắn là họ đã lợi dụng ta...</font>
+
+246
+00:23:27,992 --> 00:23:30,162
+<font color="#ffff00">...khi họ nhận ra chúng ta có thể sử dụng ma thuật của họ.</font>
+
+247
+00:23:30,322 --> 00:23:33,072
+<font color="#ffff00">Vì thế họ đã lựa chọn chúng ta từ những con chuột khác...</font>
+
+248
+00:23:33,242 --> 00:23:38,032
+<font color="#ffff00">...và chỉ để chúng ta gặp nhấm cái ngai vàng uy nghi của mình.</font>
+
+249
+00:23:38,662 --> 00:23:40,782
+<font color="#ffff00">Nhưng sơm thôi cuộc chiến này sẽ kết thúc...</font>
+
+250
+00:23:41,122 --> 00:23:43,372
+<font color="#ffff00">Và tất cả chúng ta sẽ phải trở về những ống cống của mình.</font>
+
+251
+00:23:44,292 --> 00:23:47,462
+<font color="#ffff00">Nghĩa là cả cậu cũng vậy đó, người hùng à.</font>
+
+252
+00:23:47,672 --> 00:23:53,422
+<font color="#ffff00">Cậu nhớ nhà rất nhiều phải không, Libertus,
+Tại sao cậu và Nyx không quay về đi?</font>
+
+253
+00:23:53,592 --> 00:23:56,012
+<font color="#ffff00">Tôi chắc là Niflfhem sẽ mở rộng tay chào đón các cậu đấy.</font>
+
+254
+00:23:56,312 --> 00:23:58,232
+<font color="#ffff00">Nhà cậu cũng ở ngoài đó mà.</font>
+
+255
+00:24:01,442 --> 00:24:02,862
+<font color="#ffff00">Hay cậu quên rồi ?</font>
+
+256
+00:24:10,822 --> 00:24:12,122
+<font color="#ffff00">Khỉ thật !</font>
+
+257
+00:24:12,952 --> 00:24:14,872
+<font color="#ffff00">Tôi sẽ không cho nó kết thúc thế này đâu</font>
+
+258
+00:24:21,162 --> 00:24:24,242
+<font color="#ffff00">Họ nói hầu hết mọi người đều đồng thuận, thưa ngài.</font>
+
+259
+00:24:24,422 --> 00:24:26,672
+<font color="#ffff00">Mọi người đều chào đón nền hòa bình này.</font>
+
+260
+00:24:26,882 --> 00:24:28,562
+<font color="#ffff00">Nếu ông không thực sự nghe họ nói</font>
+
+261
+00:24:28,592 --> 00:24:30,972
+<font color="#ffff00">Làm sao ông biết họ cảm thấy thế nào ?</font>
+
+262
+00:24:31,762 --> 00:24:34,062
+<font color="#ffff00">Nhiệm vụ cho Tenebrae là gì, thưa ngài ?</font>
+
+263
+00:24:34,342 --> 00:24:36,512
+<font color="#ffff00">Hành động bí mật như vậy có khôn ngoan không ?</font>
+
+264
+00:24:36,802 --> 00:24:39,592
+<font color="#ffff00">Nếu bị phát hiện, bọn đế chế sẽ gọi đó là hành động khiêu khích</font>
+
+265
+00:24:39,772 --> 00:24:42,942
+<font color="#ffff00">Chúng vẫn là kẻ thù của ta cho đến khi hiệp ước được kí.</font>
+
+266
+00:24:43,192 --> 00:24:44,692
+<font color="#ffff00">Vì thế miễn là còn trong tình trạng chiến tranh..</font>
+
+267
+00:24:44,852 --> 00:24:47,892
+<font color="#ffff00">...nhà vua sẽ vẫn muốn đi trước chúng một bước.</font>
+
+268
+00:24:48,362 --> 00:24:49,492
+<font color="#ffff00">Tất nhiên rồi.</font>
+
+269
+00:25:00,662 --> 00:25:03,492
+<font color="#ffff00">Kẹp tóc á? Tôi không nghĩ cô cũng thích nó đấy</font>
+
+270
+00:25:03,712 --> 00:25:06,462
+<font color="#ffff00">Không phải cho tôi.
+Đó là quà cho công chúa đấy.</font>
+
+271
+00:25:06,712 --> 00:25:08,972
+<font color="#ffff00">Nhưng bí mật nhé, không ai nên biết về điều đó.</font>
+
+272
+00:25:11,962 --> 00:25:13,292
+<font color="#ffff00">Well, đến lượt tôi rồi.</font>
+
+273
+00:25:14,342 --> 00:25:15,712
+<font color="#ffff00">Cẩn thận khi ở ngoài đó nhé.</font>
+
+274
+00:25:16,432 --> 00:25:19,182
+<font color="#ffff00">Tôi biết cô sẽ phát ốm khi tôi nói điều này,
+Nhưng cô giống như</font>
+
+275
+00:25:19,352 --> 00:25:22,812
+<font color="#ffff00">Em gái bé nhỏ của anh.
+Uh đúng rồi đó, tôi phát ói khi anh nói thế.</font>
+
+276
+00:25:25,562 --> 00:25:28,142
+<font color="#ffff00">Đảm bảo là cô sẽ trờ lại lành lặn đó nhé, được không ?</font>
+
+277
+00:25:32,112 --> 00:25:33,412
+<font color="#ffff00">Mấy gã ở đây thì có 2 mảnh ^^</font>
+
+278
+00:25:56,182 --> 00:25:58,892
+<font color="#ffff00">Quý cô Lunafreya,
+Tôi đã để cửa mở cửa sau.</font>
+
+279
+00:25:59,052 --> 00:26:00,052
+<font color="#ffff00">Cảm ơn cô !</font>
+
+280
+00:26:03,142 --> 00:26:04,182
+<font color="#ffff00">Cô phải đi thật sao?</font>
+
+281
+00:26:04,352 --> 00:26:05,352
+<font color="#ffff00">Vâng.</font>
+
+282
+00:26:07,942 --> 00:26:09,532
+<font color="#ffff00">Thế thì đi nhanh đi.</font>
+
+283
+00:26:14,992 --> 00:26:18,292
+<font color="#ffff00">Ta không nhớ rằng ta đã cho em cái quyền rời
+Khỏi cái góc nhỏ của mình, LunaFreya.</font>
+
+284
+00:26:19,032 --> 00:26:20,282
+<font color="#ffff00">Ravus.</font>
+
+285
+00:26:24,792 --> 00:26:27,752
+<font color="#ffff00">Em sẽ không được đi đâu hết cho đến khi
+bắt đầu cuộc hành trình đến Lucis</font>
+
+286
+00:26:27,922 --> 00:26:29,592
+<font color="#ffff00">Điều đó tốt cho em thôi.</font>
+
+287
+00:26:30,632 --> 00:26:31,922
+<font color="#ffff00">Tốt cho em sao?</font>
+
+288
+00:26:34,512 --> 00:26:36,302
+<font color="#ffff00">Thực sự thì điều gì đang diễn ra ở đây thê ?</font>
+
+289
+00:26:37,632 --> 00:26:40,592
+<font color="#ffff00">Lý do gì mà đế chế muốn em cưới Noctis ?</font>
+
+290
+00:26:40,802 --> 00:26:44,132
+<font color="#ffff00">Họ đã yêu cầu hòa bình,
+Và đám cưới của em là một phần trong đó</font>
+
+291
+00:26:44,472 --> 00:26:46,222
+<font color="#ffff00">Anh đang thuyết phục em tin vào điều đó?</font>
+
+292
+00:26:46,602 --> 00:26:48,432
+<font color="#ffff00">Anh không quan tâm em tin vào điều gì.</font>
+
+293
+00:26:48,942 --> 00:26:51,072
+<font color="#ffff00">Điều mà anh quan tâm là em đang nẻn đi..</font>
+
+294
+00:26:51,232 --> 00:26:54,312
+<font color="#ffff00">Để nói với kẻ thù đã giết mẹ em về những điều mà em mơ ước</font>
+
+295
+00:26:54,612 --> 00:26:56,952
+<font color="#ffff00">Anh đã sai khi ghét vua Regis.</font>
+
+296
+00:26:57,702 --> 00:27:00,412
+<font color="#ffff00">Niflheim đã giết me, không phải ông ấy.</font>
+
+297
+00:27:01,662 --> 00:27:04,332
+<font color="#ffff00">Chúng đá sát hại mẹ và biến anh thành con chó của chúng.</font>
+
+298
+00:27:28,312 --> 00:27:29,612
+<font color="#ffff00">Xong rồi đấy.</font>
+
+299
+00:28:03,852 --> 00:28:08,402
+<font color="#ffff00">Một bầu không khí hân hoan đang bao trùm thành phố
+Với dự đoán của những hiệp ước đình chiến sắp tới.</font>
+
+300
+00:28:08,722 --> 00:28:13,062
+<font color="#ffff00">Chỉ còn 3 ngày cho đến khi hiệp ước hòa bình
+Chính thức có hiệu lực.</font>
+
+301
+00:28:13,272 --> 00:28:16,352
+<font color="#ffff00">người dân đã xuống đường để thể hiện thiện chí của họ....</font>
+
+302
+00:28:24,452 --> 00:28:26,912
+<font color="#ffff00">Lucis cần sức mạnh của bạn, những chiến binh trẻ tuổi.</font>
+
+303
+00:28:27,082 --> 00:28:28,482
+<font color="#ffff00">Chúng tôi không cần thêm những kẻ như cậu, bọn nhập cư.</font>
+
+304
+00:28:29,832 --> 00:28:32,712
+<font color="#ffff00">Cho dù bạn có được sức mạnh từ nhà vua.</font>
+
+305
+00:28:32,922 --> 00:28:36,222
+<font color="#ffff00">- cậu chả là gì nếu không có ông ấy.
+- Nyx, cứu mẹ đi.</font>
+
+306
+00:28:36,422 --> 00:28:38,512
+<font color="#ffff00">Selena, cúi xuống.</font>
+
+307
+00:28:38,672 --> 00:28:41,752
+<font color="#ffff00">Và các nhà ngoại giao của đế quốc bắt đầu vào thành phố.</font>
+
+308
+00:28:43,472 --> 00:28:47,102
+<font color="#ffff00">Công chúa ? ngươi chắc chứ?</font>
+
+309
+00:28:47,262 --> 00:28:48,972
+<font color="#ffff00">Vâng, thưa ngài.</font>
+
+310
+00:28:49,182 --> 00:28:53,432
+<font color="#ffff00">Cô ấy là một trong số những người cuối cùng vào thành phố</font>
+
+311
+00:29:16,382 --> 00:29:17,722
+<font color="#ffff00">Vào xe đi.</font>
+
+312
+00:29:19,462 --> 00:29:22,172
+<font color="#ffff00">Tôi sẽ báo cáo về vấn đề của tôi ngay tại đây sao thưa ngài ?</font>
+
+313
+00:29:22,422 --> 00:29:24,042
+<font color="#ffff00">Mệnh lệnh mới đây.</font>
+
+314
+00:29:24,222 --> 00:29:27,272
+<font color="#ffff00">Vào đi.
+Chúng ta phải đi đón công chúa.</font>
+
+315
+00:29:34,352 --> 00:29:36,022
+<font color="#ffff00">Xe ngon đó, thưa ngài.</font>
+
+316
+00:29:36,192 --> 00:29:38,402
+<font color="#ffff00">Nó là của công chúa đấy..</font>
+
+317
+00:29:38,562 --> 00:29:40,562
+<font color="#ffff00">Chúng ta sẽ lái nó ra ngoài thành phố.</font>
+
+318
+00:29:40,732 --> 00:29:43,982
+<font color="#ffff00">Ngài không phải lập kế hoạch cho đám cưới sao, thưa ngài ?</font>
+
+319
+00:29:44,822 --> 00:29:46,862
+<font color="#ffff00">Bỏ cái từ “thư ngài” ấy đi.</font>
+
+320
+00:29:47,112 --> 00:29:49,072
+<font color="#ffff00">Nhà vua có kế hoạch riêng của ông ấy.</font>
+
+321
+00:29:49,242 --> 00:29:52,702
+<font color="#ffff00">Hoàng tử Noctis và công chúa Lunafreya
+Sẽ gặp mặt tại một nơi cách xa Insomnia.</font>
+
+322
+00:29:53,332 --> 00:29:54,412
+<font color="#ffff00">Thế cô ấy còn làm gì ở đây ?</font>
+
+323
+00:29:55,542 --> 00:29:57,842
+<font color="#ffff00">Phức tạp lắm.</font>
+
+324
+00:29:58,332 --> 00:30:01,172
+<font color="#ffff00">Chúng tôi đã cử Crowe đi tìm công chúa và hộ tống cô ấy ra khỏi Tenebrae.</font>
+
+325
+00:30:04,422 --> 00:30:07,382
+<font color="#ffff00">Chúng tôi vẫn đang cố tìm hiểu xem đang có chuyện gì đã xảy ra.</font>
+
+326
+00:30:19,312 --> 00:30:25,152
+<font color="#ffff00">Tôi biết cậu nghĩ gì về cuộc chiến này nhưng cậu nghĩ sao về hòa bình ?</font>
+
+327
+00:30:27,612 --> 00:30:29,742
+<font color="#ffff00">Cậu có vui khi rời bỏ nhà của mình ?</font>
+
+328
+00:30:29,952 --> 00:30:32,752
+<font color="#ffff00">Đó là quyết định của nhà vua
+Tôi nợ ông ấy vì đã cho tôi gia nhập</font>
+
+329
+00:30:33,332 --> 00:30:36,132
+<font color="#ffff00">Tôi đã rất may mắn.
+Vẫn có những người ở Galahd, họ không may mắn như thế.</font>
+
+330
+00:30:37,082 --> 00:30:39,372
+<font color="#ffff00">Và họ cần tôi.</font>
+
+331
+00:30:39,582 --> 00:30:41,752
+<font color="#ffff00">Vậy là cậu sẽ trở lại?</font>
+
+332
+00:30:42,002 --> 00:30:44,542
+<font color="#ffff00">Cậu có thể làm được gì nếu không có pháp thuật của nhà vua?</font>
+
+333
+00:30:48,222 --> 00:30:50,722
+<font color="#ffff00">Phải rồi, cậu lúc nào cũng muốn cứu ai đó.</font>
+
+334
+00:30:50,892 --> 00:30:53,482
+<font color="#ffff00">Tôi hiểu, tin tôi đi.
+Nhưng nó sẽ không giúp cậu chiến thắng những cuộc chiến đâu.</font>
+
+335
+00:30:53,642 --> 00:30:56,022
+<font color="#ffff00">Không phải vấn đề là muốn</font>
+
+336
+00:30:56,312 --> 00:30:58,402
+<font color="#ffff00">Không phải chỉ ở tôi</font>
+
+337
+00:30:59,732 --> 00:31:01,782
+<font color="#ffff00">Libertus là một phần trong đó
+Anh nên lo lắng về điều đó.</font>
+
+338
+00:31:01,942 --> 00:31:04,532
+<font color="#ffff00">Cậu ấy sẽ quay lại nếu mọi thứ trở lên tệ hơn.</font>
+
+339
+00:31:06,902 --> 00:31:08,652
+<font color="#ffff00">Điều tệ hại đã đến rồi đó thôi</font>
+
+340
+00:31:29,592 --> 00:31:31,802
+<font color="#ffff00">Cậu có nghĩ gì không đấy, sao cậu dám chặn xe của tôi ?</font>
+
+341
+00:31:31,972 --> 00:31:35,482
+<font color="#ffff00">Mở cổng ngay hoặc có thể ngày mai cậu sẽ có việc mới đấy.</font>
+
+342
+00:31:36,022 --> 00:31:38,612
+<font color="#ffff00">- Lệnh của nhà vua
+- cậu chắc muốn mạo hiểm ...</font>
+
+343
+00:31:38,772 --> 00:31:41,532
+<font color="#ffff00">...một vấn đề về ngoại giao của mọi thời đại ?</font>
+
+344
+00:31:41,692 --> 00:31:45,952
+<font color="#ffff00">Tôi là người hộ tống của quý cô Lady Lunafreya Nox Fleuret...</font>
+
+345
+00:31:46,112 --> 00:31:48,572
+<font color="#ffff00">...công chúa của Tenebrae và ...</font>
+
+346
+00:31:48,742 --> 00:31:51,622
+<font color="#ffff00">Và cô dâu đáng mến của vương quốc tôi.</font>
+
+347
+00:31:51,782 --> 00:31:55,702
+<font color="#ffff00">Chào mừng nhưng chúng tôi sẽ tiếp nhận từ đây.</font>
+
+348
+00:31:55,872 --> 00:31:58,392
+<font color="#ffff00">- Tha lỗi cho tôi, đội trưởng Drautos.
+- Đưa cô ấy đến lâu đài.</font>
+
+349
+00:31:58,502 --> 00:32:01,592
+<font color="#ffff00">Tôi không có ý kiến nếu đó là ngài
+Tôi đã không thực sự nhận ra…</font>
+
+350
+00:32:01,872 --> 00:32:03,872
+<font color="#ffff00">- Xin lỗi. Cảm ơn đồng chí.
+- không, anh kia... tôi phải...</font>
+
+351
+00:32:04,092 --> 00:32:06,192
+<font color="#ffff00">Tôi phải... không , tôi phải làm rõ điều này với sếp của tôi đã.</font>
+
+352
+00:32:06,212 --> 00:32:07,752
+<font color="#ffff00">Thưa công chúa.</font>
+
+353
+00:32:17,392 --> 00:32:22,272
+<font color="#ffff00">Công chúa Lunafreya của Tenebrae.</font>
+
+354
+00:32:29,822 --> 00:32:32,742
+<font color="#ffff00">Đã lâu lắm rồi, thưa ngài.</font>
+
+355
+00:32:33,782 --> 00:32:35,442
+<font color="#ffff00">Phải.</font>
+
+356
+00:32:36,082 --> 00:32:38,122
+<font color="#ffff00">Quá lâu rồi.</font>
+
+357
+00:32:39,702 --> 00:32:42,582
+<font color="#ffff00">Hoàng tử Noctis không ở đây sao, thưa ngài ?</font>
+
+358
+00:32:43,212 --> 00:32:46,012
+<font color="#ffff00">Không, con gái ta. Nó không ở đây.</font>
+
+359
+00:32:49,052 --> 00:32:52,222
+<font color="#ffff00">Ta đã quá già để tham gia cuộc chiến này.</font>
+
+360
+00:32:52,382 --> 00:32:57,052
+<font color="#ffff00">Ta không có lựa chọn và phải chấp nhận hiệp ước của họ.</font>
+
+361
+00:32:57,972 --> 00:32:59,012
+<font color="#ffff00">Ngay cả như vậy...</font>
+
+362
+00:33:00,602 --> 00:33:04,192
+<font color="#ffff00">Ta đã hi vọng đám cưới sẽ được tổ chức ở nơi khác, nơi nào đó an toàn cho 2 con.</font>
+
+363
+00:33:04,352 --> 00:33:07,272
+<font color="#ffff00">Ta đã phái đi 1 Glaive để đón con ở đó, nhưng…</font>
+
+364
+00:33:10,232 --> 00:33:11,942
+<font color="#ffff00">Chưa quá muộn đâu..</font>
+
+369
+00:33:11,494 --> 00:33:12,954
+<font color="#ffff00">Ta đã chuẩn bị đội hộ tống khác cho con</font>
+
+365
+00:33:14,362 --> 00:33:16,742
+<font color="#ffff00">Xin hãy đến chỗ con trai ta</font>
+
+366
+00:33:18,872 --> 00:33:20,462
+<font color="#ffff00">Không.</font>
+
+367
+00:33:21,702 --> 00:33:25,042
+<font color="#ffff00">Bất cứ nơi nào con đi, bọn chúng sẽ theo sau.</font>
+
+368
+00:33:25,832 --> 00:33:29,542
+<font color="#ffff00">Điều đó sẽ chỉ gây nguy hiểm thêm cho hoàng tử mà thôi.</font>
+
+369
+00:33:30,422 --> 00:33:35,212
+<font color="#ffff00">Nhiệm vụ của con là bảo vệ hoàng tử và xem vận mệnh của anh ấy trở thành hiện thực</font>
+
+370
+00:33:35,382 --> 00:33:39,052
+<font color="#ffff00">12 năm không thể thay đổi điều đó.</font>
+
+371
+00:33:40,182 --> 00:33:42,182
+<font color="#ffff00">Thế còn vận mệnh của con thì sao ?</font>
+
+372
+00:33:42,932 --> 00:33:47,182
+<font color="#ffff00">Nhiệm vụ ấy chính là vận mệnh của con, thưa đức vua.</font>
+
+373
+00:33:47,772 --> 00:33:51,602
+<font color="#ffff00">Con đã sẵn sàng chấp nhận bất cứ điều gì xảy đến.</font>
+
+374
+00:34:01,292 --> 00:34:02,462
+<font color="#ffff00">Nè, cậu nghĩ sao ?</font>
+
+375
+00:34:02,952 --> 00:34:05,912
+<font color="#ffff00">Tất cả những vùng đất này sẽ thuộc về bọn chúng sớm thôi.</font>
+
+376
+00:34:06,082 --> 00:34:09,292
+<font color="#ffff00">Mọi thứ sẽ tốt hơn khi bọn Niffs bắt đầu quyết định quan trọng sao ?</font>
+
+377
+00:34:09,462 --> 00:34:11,122
+<font color="#ffff00">Không phải cái thứ chết tiệt này.</font>
+
+378
+00:34:11,302 --> 00:34:13,392
+<font color="#ffff00">Không quan trọng ai đưa ra quyết định.</font>
+
+379
+00:34:13,552 --> 00:34:15,592
+<font color="#ffff00">Chúng đều được đưa ra phía sau bức tường…
+Long as they're calling them
+from behind the Wall...</font>
+
+380
+00:34:15,632 --> 00:34:18,262
+<font color="#ffff00">...còn ở ngoài này chả có gì thay đổi đâu.</font>
+
+381
+00:34:19,182 --> 00:34:20,482
+<font color="#ffff00">Đến đây đi.</font>
+
+382
+00:34:20,642 --> 00:34:22,192
+<font color="#ffff00">All right.</font>
+
+383
+00:34:25,982 --> 00:34:27,612
+<font color="#ffff00">Vãi cái tay kìa!</font>
+
+384
+00:34:32,732 --> 00:34:34,732
+<font color="#ffff00">Tôi nghĩ sự tái hợp là sự hạnh phúc ?</font>
+
+385
+00:34:34,902 --> 00:34:37,442
+<font color="#ffff00">Có phải cô ấy là con tin của Niflhem suốt thời gian qua ?</font>
+
+386
+00:34:37,662 --> 00:34:39,752
+<font color="#ffff00">Cô ấy là biểu tượng của hòa bình.
+Đó là những gì tôi đã kể với cậu.</font>
+
+387
+00:34:39,912 --> 00:34:40,912
+<font color="#ffff00">Nhưng có vẻ không phải vậy.</font>
+
+388
+00:34:41,082 --> 00:34:43,182
+<font color="#ffff00">Có vẻ như cô ấy ở đây vì một cái gì đó lớn lao hơn.</font>
+
+389
+00:34:43,202 --> 00:34:45,322
+<font color="#ffff00">Nhiệm vụ của cậu là bảo vệ cô ấy.</font>
+
+390
+00:34:46,082 --> 00:34:48,662
+<font color="#ffff00">Không nhìn, không nghe và không nghĩ</font>
+
+391
+00:34:48,832 --> 00:34:50,502
+<font color="#ffff00">Hiểu chưa ?</font>
+
+392
+00:34:51,592 --> 00:34:52,762
+<font color="#ffff00">Drautos.</font>
+
+393
+00:34:52,922 --> 00:34:54,882
+<font color="#ffff00">Tôi đây, báo cáo đi.</font>
+
+394
+00:35:00,552 --> 00:35:03,632
+<font color="#ffff00">Tránh đường cho tôi.
+Đó là bạn của tôi, chó chết.</font>
+
+395
+00:35:03,852 --> 00:35:05,912
+<font color="#ffff00">Thưa ngài, ngài không thể đi cho đến khi kiểm tra xong.</font>
+
+396
+00:35:05,932 --> 00:35:07,932
+<font color="#ffff00">Kiểm tra cái gì?
+Cái quái gì đang diễn ra thế?</font>
+
+397
+00:35:08,102 --> 00:35:10,722
+<font color="#ffff00">Này, bình tĩnh nào anh bạn to xác.</font>
+
+398
+00:35:11,652 --> 00:35:14,912
+<font color="#ffff00">Lũ khốn đó vội mang Crowe vào trong</font>
+
+399
+00:35:15,072 --> 00:35:16,992
+<font color="#ffff00">Và giờ chúng không cho tôi vào để gặp cô ấy.</font>
+
+400
+00:35:20,202 --> 00:35:21,702
+<font color="#ffff00">Chờ đã .</font>
+
+401
+00:35:58,442 --> 00:36:00,822
+<font color="#ffff00">Đồ dùng cá nhân của Crowe.</font>
+
+402
+00:36:02,322 --> 00:36:04,152
+<font color="#ffff00">Hãy làm gì các cậu muốn.</font>
+
+403
+00:36:06,542 --> 00:36:09,792
+<font color="#ffff00">Vậy, nhiệm vụ mà anh thực sự giao cho cô ấy là gì ?</font>
+
+404
+00:36:10,752 --> 00:36:14,722
+<font color="#ffff00">Không Glaive nào kết thúc việc hộ tống bình thường bằng cái chết.</font>
+
+405
+00:36:15,962 --> 00:36:19,712
+<font color="#ffff00">Tôi thấy hiệp ước đình chiến sẽ không bị ảnh hưởng bơi một cuộc điều tra đâu.</font>
+
+406
+00:36:22,182 --> 00:36:24,482
+<font color="#ffff00">Cô ấy là một người lính giỏi.</font>
+
+407
+00:36:24,892 --> 00:36:27,392
+<font color="#ffff00">Cái chết của cô ấy sẽ phải có câu trả lời</font>
+
+408
+00:36:31,852 --> 00:36:33,892
+<font color="#ffff00">Cuộc sống là gì, huh?</font>
+
+409
+00:36:36,572 --> 00:36:38,992
+<font color="#ffff00">Cô ấy là một đứa trẻ mồ côi</font>
+
+410
+00:36:39,652 --> 00:36:41,692
+<font color="#ffff00">Chạy trốn hỏi khỏi ngôi làng của mình.</font>
+
+411
+00:36:45,952 --> 00:36:48,832
+<font color="#ffff00">Tôi vẫn nhớ lần đầu gặp cô ấy.</font>
+
+412
+00:36:49,082 --> 00:36:51,092
+<font color="#ffff00">Cô bé gầy gò...</font>
+
+413
+00:36:51,252 --> 00:36:53,382
+<font color="#ffff00">...toàn thân bẩn thỉu</font>
+
+414
+00:36:54,882 --> 00:36:57,092
+<font color="#ffff00">Không có người bạn này trên thế gian này.</font>
+
+415
+00:37:00,422 --> 00:37:02,342
+<font color="#ffff00">Nhưng đôi mắt ấy....</font>
+
+416
+00:37:02,552 --> 00:37:04,182
+<font color="#ffff00">Khốn kiếp.</font>
+
+417
+00:37:04,392 --> 00:37:07,392
+<font color="#ffff00">Có điều gì đó trong đôi mắt ấy.</font>
+
+418
+00:37:15,312 --> 00:37:17,432
+<font color="#ffff00">Cô ấy xứng đang được nhận những điều tốt hơn.</font>
+
+419
+00:37:18,572 --> 00:37:20,912
+<font color="#ffff00">Và tôi đã không làm gì để đem đến cho cô ấy những điều đó…</font>
+
+420
+00:37:36,132 --> 00:37:38,632
+<font color="#ffff00">Libertus, đợi đã.</font>
+
+421
+00:37:41,672 --> 00:37:43,002
+<font color="#ffff00">Crowe, cô ấy chết như một Glaive.</font>
+
+422
+00:37:43,222 --> 00:37:45,812
+<font color="#ffff00">Cậu vẫn có thể tôn vinh cô ấy bằng cách chiến đấu.</font>
+
+423
+00:37:47,472 --> 00:37:50,562
+<font color="#ffff00">Đôi lúc cậu khờ dại hơn tôi, cậu có biết không ?</font>
+
+424
+00:37:50,722 --> 00:37:52,642
+<font color="#ffff00">Cậu không hiểu sao ?</font>
+
+425
+00:37:52,932 --> 00:37:55,392
+<font color="#ffff00">Lucis đã giết Crowe.</font>
+
+426
+00:38:01,652 --> 00:38:03,692
+<font color="#ffff00">Trở lại lâu đài đi.</font>
+
+427
+00:38:03,862 --> 00:38:09,152
+<font color="#ffff00">Nói với nhà vua là chả có hòa bình khi mà ném con cừu non yếu ớt cho bầy soi đâu.</font>
+
+428
+00:38:09,832 --> 00:38:12,962
+<font color="#ffff00">Từ giờ, Tôi sẽ chiến đấu của chiến của tôi</font>
+
+429
+00:38:14,752 --> 00:38:18,302
+<font color="#ffff00">Gặp cậu sau, người hùng !</font>
+
+430
+00:38:47,362 --> 00:38:48,532
+<font color="#ffff00">Một cái kẹp tóc sao ?</font>
+
+431
+00:38:48,702 --> 00:38:50,582
+<font color="#ffff00">Tôi không nghĩ cô quan tâm đến mấy thứ đó đâu đấy.</font>
+
+432
+00:38:50,782 --> 00:38:53,032
+<font color="#ffff00">Không phải cho tôi.
+Món quà cho công chúa đấy.</font>
+
+433
+00:39:32,162 --> 00:39:35,462
+<font color="#ffff00">Đón tiếp long trọng quá , vua Regis.</font>
+
+434
+00:39:36,122 --> 00:39:38,122
+<font color="#ffff00">Anh nhận được sự tôn trọng bởi tất cả Niflheim.</font>
+
+435
+00:39:38,292 --> 00:39:42,212
+<font color="#ffff00">Oh, đó là vinh dự của chúng tôi chứ, Hoàng đế Aldercapt.</font>
+
+436
+00:39:42,422 --> 00:39:45,762
+<font color="#ffff00">Ngài đã rất ưu ái chúng tôi khi đi cả quãng đường xa như vậy để hiện diện ở đây hôm nay.</font>
+
+437
+00:39:46,592 --> 00:39:49,012
+<font color="#ffff00">Đó chỉ là điều nhỏ nhất tôi có thể làm thôi.</font>
+
+438
+00:39:50,802 --> 00:39:54,882
+<font color="#ffff00">Mai sẽ là một ngày lịch sử cho quốc gia của 2 ta.</font>
+
+439
+00:39:55,222 --> 00:39:59,352
+<font color="#ffff00">Và Insomnia thực sự là một điều kì diệu.</font>
+
+440
+00:40:00,392 --> 00:40:03,682
+<font color="#ffff00">Thành phố của tôi không được như thế này đâu.</font>
+
+441
+00:40:04,862 --> 00:40:08,872
+<font color="#ffff00">Tôi cầu nguyện là chúng tôi sẽ đạt được nhiều thứ từ chuyến đi này.</font>
+
+442
+00:40:15,992 --> 00:40:17,412
+<font color="#ffff00">Xin chào.</font>
+
+443
+00:40:19,622 --> 00:40:22,242
+<font color="#ffff00">Tôi è là ngày hôm qua chúng ta chưa thực sự giới thiệu về mình</font>
+
+444
+00:40:24,002 --> 00:40:27,502
+<font color="#ffff00">Tôi sợ là điều đó phải để sau, thưa công chúa.
+Tôi còn có nhiệm vụ vệ sĩ phải làm.</font>
+
+450
+00:40:26,721 --> 00:40:29,141
+<font color="#ffff00">Vậy là không có nơi nào an toàn cho tôi.</font>
+
+445
+00:40:32,802 --> 00:40:34,632
+<font color="#ffff00">Tôi có thể hỏi tên anh không ?</font>
+
+446
+00:40:36,392 --> 00:40:39,312
+<font color="#ffff00">Nyx. Nyx Ulric.</font>
+
+447
+00:40:40,482 --> 00:40:44,192
+<font color="#ffff00">Còn có điều gì đó nữa,
+Ta ước có thể hỏi anh, Nyx Ulric.</font>
+
+448
+00:40:45,192 --> 00:40:47,862
+<font color="#ffff00">Vua Regis nói ông ấy đã cử một người trong số các anh đến tìm ta</font>
+
+455
+00:40:48,326 --> 00:40:51,246
+<font color="#ffff00">Ta nên cảm ơn người đó</font>
+
+449
+00:40:52,862 --> 00:40:55,492
+<font color="#ffff00">Ta có thể tìm người lính đó ở đâu ?</font>
+
+450
+00:41:03,252 --> 00:41:04,882
+<font color="#ffff00">Oh, ta không có ý...</font>
+
+451
+00:41:05,082 --> 00:41:07,292
+<font color="#ffff00">- ta xin lỗi.
+- không cần thiết đâu thưa công chúa.</font>
+
+452
+00:41:10,722 --> 00:41:11,762
+<font color="#ffff00">Quà cho công chúa.</font>
+
+453
+00:41:14,142 --> 00:41:16,232
+<font color="#ffff00">Cô ấy đã giữ nó.</font>
+
+454
+00:41:17,182 --> 00:41:18,312
+<font color="#ffff00">Nó giành cho công chúa.</font>
+
+455
+00:41:20,352 --> 00:41:21,862
+<font color="#ffff00">Cho ta ư ?</font>
+
+456
+00:41:22,692 --> 00:41:23,982
+<font color="#ffff00">Hãy giữ nó.</font>
+
+457
+00:41:24,602 --> 00:41:26,772
+<font color="#ffff00">Cô ấy đã muốn tôi đưa cho công chúa.</font>
+
+458
+00:41:29,862 --> 00:41:32,372
+<font color="#ffff00">Ta sẽ luôn đem nó theo mình.</font>
+
+459
+00:41:32,652 --> 00:41:34,192
+<font color="#ffff00">Cảm ơn anh.</font>
+
+460
+00:42:03,812 --> 00:42:06,782
+<font color="#ffff00">Cậu nghĩ gì về cái nền hòa bình này ?</font>
+
+461
+00:42:07,062 --> 00:42:09,392
+<font color="#ffff00">Nó có nghĩa là nhà của chúng ta đã mất…</font>
+
+462
+00:42:09,572 --> 00:42:10,952
+<font color="#ffff00">...tất cả họ...</font>
+
+463
+00:42:11,112 --> 00:42:12,822
+<font color="#ffff00">...mãi mãi.</font>
+
+464
+00:42:17,372 --> 00:42:19,462
+<font color="#ffff00">Nghe nói là tôi có thể tìm những người phản đối hiệp ước ở đây.</font>
+
+465
+00:42:19,952 --> 00:42:22,112
+<font color="#ffff00">Tôi đến đúng nơi chứ?</font>
+
+466
+00:42:22,292 --> 00:42:24,002
+<font color="#ffff00">Anh có chắc không</font>
+
+467
+00:42:24,162 --> 00:42:26,452
+<font color="#ffff00">Mọi người chào hỏi người này đi, anh ta đã giành những ngày tháng của mình ….</font>
+
+468
+00:42:26,622 --> 00:42:28,702
+<font color="#ffff00">...để làm con chó trung thành của nhà vua.</font>
+
+469
+00:42:28,882 --> 00:42:30,722
+<font color="#ffff00">"GIÀNH."</font>
+
+470
+00:42:31,302 --> 00:42:33,302
+<font color="#ffff00">Những ngày đó qua rồi.</font>
+
+471
+00:42:34,052 --> 00:42:36,512
+<font color="#ffff00">Tôi đã nghe đủ những lời dối trá của lũ khốn đó rồi.</font>
+
+472
+00:42:36,682 --> 00:42:39,352
+<font color="#ffff00">Hắn có thể ngồi trên ngai vàng, nhưng hắn không phải là vua…</font>
+
+473
+00:42:39,512 --> 00:42:41,592
+<font color="#ffff00">...ít nhất là không phải của tôi.</font>
+
+474
+00:42:42,062 --> 00:42:43,732
+<font color="#ffff00">Tốt thôi,</font>
+
+475
+00:42:44,352 --> 00:42:47,012
+<font color="#ffff00">...chào mừng đến với đội kháng chiến, người anh em.</font>
+
+476
+00:42:47,772 --> 00:42:49,682
+<font color="#ffff00">Tôi hi vọng anh đến đây để nói chuyện.</font>
+
+477
+00:42:50,192 --> 00:42:51,612
+<font color="#ffff00">Anh muốn biết những gì?</font>
+
+478
+00:43:01,412 --> 00:43:02,922
+<font color="#ffff00">Cầu trời...</font>
+
+479
+00:43:03,082 --> 00:43:05,582
+<font color="#ffff00">…cho dù Noctis ở đâu, hãy giúp anh ấy an toàn.</font>
+
+480
+00:43:06,002 --> 00:43:07,712
+<font color="#ffff00">Đó là tất cả những gì con mong muốn</font>
+
+481
+00:43:07,872 --> 00:43:10,042
+<font color="#ffff00">Cô đang cầu vị thần nào thế ?</font>
+
+482
+00:43:10,252 --> 00:43:13,922
+<font color="#ffff00">Cô, nô lệ của số phận và định mệnh.</font>
+
+483
+00:43:15,462 --> 00:43:17,712
+<font color="#ffff00">Từ bỏ những lời cầu nguyện của mình đi.</font>
+
+484
+00:43:17,932 --> 00:43:19,642
+<font color="#ffff00">Họ chẳng nghe thấy đâu.</font>
+
+485
+00:43:19,802 --> 00:43:22,762
+<font color="#ffff00">Đại tướng Glauca. Sao ông lại ở đây?</font>
+
+486
+00:43:22,972 --> 00:43:26,892
+<font color="#ffff00">Cô quá thông minh để tin vào cái nền hòa bình này</font>
+
+487
+00:43:27,522 --> 00:43:31,152
+<font color="#ffff00">Thật đáng thương cô không thể gặp người cô yêu, Noctis.
+Cô có mục đich khác .</font>
+
+488
+00:43:31,312 --> 00:43:34,022
+<font color="#ffff00">- Ta không ở đây vì Niflhem
+- Không.</font>
+
+489
+00:43:34,192 --> 00:43:35,522
+<font color="#ffff00">Cô ở đây vì ta.</font>
+
+490
+00:43:35,862 --> 00:43:36,872
+<font color="#ffff00">Ông?</font>
+
+491
+00:43:37,032 --> 00:43:38,452
+<font color="#ffff00">Ta không hiểu ông nói gì.</font>
+
+492
+00:43:38,612 --> 00:43:41,282
+<font color="#ffff00">Chờ đến mai, cô sẽ hiểu.</font>
+
+493
+00:44:29,542 --> 00:44:31,552
+<font color="#ffff00">Đội ngũ Niflhem đã rời khách sạn.</font>
+
+494
+00:44:31,712 --> 00:44:33,882
+<font color="#ffff00">Chưa đầy ba giờ cho đến khi buổi lễ.</font>
+
+495
+00:44:34,132 --> 00:44:35,722
+<font color="#ffff00">Tăng cường bảo vệ Citadel.</font>
+
+496
+00:44:42,972 --> 00:44:44,732
+<font color="#ffff00">Nyx, công chúa có ở chỗ cậu không?</font>
+
+497
+00:44:44,932 --> 00:44:45,932
+<font color="#ffff00">không.</font>
+
+498
+00:44:46,102 --> 00:44:47,522
+<font color="#ffff00">Tôi có nhiệm vụ ở Citadel.</font>
+
+499
+00:44:47,972 --> 00:44:50,102
+<font color="#ffff00">Well, bọn Niffs vừa rời đi cho buổi lễ</font>
+
+500
+00:44:50,272 --> 00:44:52,322
+<font color="#ffff00">Cô ấy không đi cùng chúng.</font>
+
+501
+00:45:14,422 --> 00:45:16,762
+<font color="#ffff00">- một tín hiệu dẫn đường sao?
+- Phải, tôi sẽ gửi tọa độ bây giờ.</font>
+
+502
+00:45:16,922 --> 00:45:18,382
+<font color="#ffff00">Cậu có thể đánh dấu vị trí cho tôi không?</font>
+
+503
+00:45:18,552 --> 00:45:20,802
+<font color="#ffff00">Chắc chắn, nhưng có vẻ như đang đi đuổi vịt trời ấy.</font>
+
+504
+00:45:20,972 --> 00:45:22,852
+<font color="#ffff00">Tôi đoán là cậu đang rảnh hả ?</font>
+
+505
+00:45:22,882 --> 00:45:25,802
+<font color="#ffff00">Đoán vậy, có thể tốt hơn hoặc tệ hơn.</font>
+
+506
+00:45:49,202 --> 00:45:51,702
+<font color="#ffff00">Những tọa độ đó cách khoảng 20 dặm về phía nam Insomnia.</font>
+
+507
+00:45:52,082 --> 00:45:53,632
+<font color="#ffff00">Bên ngoài bức tường sao.</font>
+
+508
+00:45:53,832 --> 00:45:56,542
+<font color="#ffff00">Không biết Crowe làm cái quái gì ngoài đó nhỉ.</font>
+
+509
+00:45:56,832 --> 00:45:58,752
+<font color="#ffff00">Không, không. Họ đã bảo cô ấy đến đó…
+No, no. They sent her to...</font>
+
+510
+00:46:01,962 --> 00:46:03,292
+<font color="#ffff00">Cho tôi một ân huệ đi, Pelna.</font>
+
+511
+00:46:03,472 --> 00:46:05,532
+<font color="#ffff00">Đưa những tọa độ đó lên radar và cho tôi biết cậu tìm thấy gì.</font>
+
+512
+00:46:05,552 --> 00:46:08,302
+<font color="#ffff00">Được thôi. Cậu nghĩ ta có một thỏa thuận lớn chứ, hả ?</font>
+
+513
+00:46:08,512 --> 00:46:09,632
+<font color="#ffff00">Uh, đồng ý đó là một thỏa thuận lớn.</font>
+
+514
+00:46:12,772 --> 00:46:14,902
+<font color="#ffff00">- Xin lỗi, thưa ngài. Xin lỗi.
+- Này, này, này.</font>
+
+515
+00:46:15,062 --> 00:46:16,972
+<font color="#ffff00">- Whoa, chờ một chút nào.
+- đứng im đó.</font>
+
+516
+00:46:21,782 --> 00:46:24,662
+<font color="#ffff00">Nghe này. Đây không phải là canh cổng.</font>
+
+517
+00:46:24,822 --> 00:46:28,782
+<font color="#ffff00">Đây là trái tim của thành phố, nhà của vua.</font>
+
+518
+00:46:28,952 --> 00:46:31,622
+<font color="#ffff00">Buổi lễ không được phép bị quấy nhiễu.</font>
+
+519
+00:46:31,792 --> 00:46:35,132
+<font color="#ffff00">Giải quyết bất kì mối đe dọa nào nhanh gọn và yên lặng.</font>
+
+520
+00:46:35,542 --> 00:46:36,962
+<font color="#ffff00">Tất cả rõ chưa ?</font>
+
+521
+00:46:37,122 --> 00:46:38,912
+<font color="#ffff00">Vâng thưa sếp.</font>
+
+529
+00:47:23,387 --> 00:47:25,297
+<font color="#ffff00">Glaive nhận lệnh.
+Anh có ở đó không, đội trưởng?</font>
+
+522
+00:47:26,722 --> 00:47:28,182
+<font color="#ffff00">Khẩn cấp.</font>
+
+523
+00:47:29,222 --> 00:47:30,972
+<font color="#ffff00">Khốn kiếp, Drautos.</font>
+
+524
+00:47:31,972 --> 00:47:35,092
+<font color="#ffff00">Jackpot, Nyx. Có một đội tàu bay ở đó.</font>
+
+533
+00:47:34,023 --> 00:47:36,023
+<font color="#ffff00">- Niflheim.
+- Yup, có vẻ là chúng</font>
+
+525
+00:47:37,442 --> 00:47:38,982
+<font color="#ffff00">...tôi muốn nói là chúng đang muốn tạo ra chiến tranh</font>
+
+526
+00:47:39,192 --> 00:47:40,662
+<font color="#ffff00">- đội trưởng đâu captain?
+- lẽ ra phải ở  Citadel.</font>
+
+527
+00:47:40,692 --> 00:47:42,092
+<font color="#ffff00">Không có tín hiệu trả lời từ tần số của anh ấy.</font>
+
+528
+00:47:42,152 --> 00:47:44,542
+<font color="#ffff00">Tôi không rõ, có khi anh ấy đang bận rộn với mớ kế hoạch hộ tống.</font>
+
+529
+00:47:44,572 --> 00:47:48,122
+<font color="#ffff00">Pelna, đặc ân cuối cùng cho tôi nhé.
+Tôi cần cậu chuẩn bị cho đội Glaive hành động.</font>
+
+530
+00:47:48,282 --> 00:47:49,452
+<font color="#ffff00">Cậu đang nói cái gì thế?</font>
+
+531
+00:47:49,612 --> 00:47:51,372
+<font color="#ffff00">Cậu muốn triệu tập mà không có lệnh của đội trưởng sao ?</font>
+
+532
+00:47:51,532 --> 00:47:52,822
+<font color="#ffff00">Tin tôi lần này, làm như tôi nói đi.</font>
+
+533
+00:47:52,992 --> 00:47:54,702
+<font color="#ffff00">Chờ đã, tôi phải nói gì bây giờ …?</font>
+
+534
+00:47:54,912 --> 00:47:55,952
+<font color="#ffff00">Đứng đó, Glaive.</font>
+
+535
+00:48:01,712 --> 00:48:03,842
+<font color="#ffff00">Buổi lẽ sẽ diễn ra trong thời gian ít hơn 2 giờ.</font>
+
+536
+00:48:04,002 --> 00:48:05,872
+<font color="#ffff00">Chúng ta phải sẵn sàng.</font>
+
+537
+00:48:08,422 --> 00:48:10,092
+<font color="#ffff00">Rất tốt.</font>
+
+538
+00:48:10,382 --> 00:48:11,552
+<font color="#ffff00">Thưa đức vua.</font>
+
+539
+00:48:11,762 --> 00:48:13,592
+<font color="#ffff00">Một người của KingsGlaive đang ở đây.</font>
+
+540
+00:48:13,762 --> 00:48:15,132
+<font color="#ffff00">Anh ta đòi diện kiến.</font>
+
+541
+00:48:15,392 --> 00:48:16,812
+<font color="#ffff00">"Đòi" sao?</font>
+
+542
+00:48:17,312 --> 00:48:18,512
+<font color="#ffff00">- Thưa đức vua, xin ngài.
+- dừng lại.</font>
+
+543
+00:48:18,852 --> 00:48:20,602
+<font color="#ffff00">Hãy đưa ra mệnh lệnh điều động đội Glaive.</font>
+
+544
+00:48:23,562 --> 00:48:24,852
+<font color="#ffff00">Cậu.</font>
+
+545
+00:48:25,072 --> 00:48:27,822
+<font color="#ffff00">Tàu của Niflheim đã sẵn sàng để khởi động chiến tranh 20 dặm về phía nam.</font>
+
+546
+00:48:27,992 --> 00:48:29,742
+<font color="#ffff00">Hạm đội của đế quốc sao.</font>
+
+547
+00:48:29,992 --> 00:48:31,332
+<font color="#ffff00">Chúng giữ công chúa.</font>
+
+548
+00:48:33,242 --> 00:48:36,322
+<font color="#ffff00">Clarus, điều bảo vệ phía ngoài phòng kí kết.</font>
+
+558
+00:48:35,251 --> 00:48:37,131
+<font color="#ffff00">Nó sẽ được xem như một dấu hiệu thiếu niềm tin vào hòa bình.</font>
+
+549
+00:48:38,542 --> 00:48:40,172
+<font color="#ffff00">Mà chúng ta đã gây dựng.</font>
+
+550
+00:48:40,622 --> 00:48:42,372
+<font color="#ffff00">Làm đi.</font>
+
+551
+00:48:42,752 --> 00:48:45,122
+<font color="#ffff00">Chúng ta cũng phải giam hoàng đế Aldercapt lại.</font>
+
+552
+00:48:45,462 --> 00:48:47,002
+<font color="#ffff00">Bắt giữ ông ta sao ?</font>
+
+553
+00:48:47,172 --> 00:48:49,462
+<font color="#ffff00">Điều đó là một tuyên bố mới về chiến tranh đấy thưa ngài.</font>
+
+554
+00:48:49,632 --> 00:48:52,052
+<font color="#ffff00">Thì chúng ta vẫn đang trong cuộc chiến mà, Clarus.</font>
+
+555
+00:48:53,302 --> 00:48:56,472
+<font color="#ffff00">Còn cậu, Nyx Ulric.</font>
+
+556
+00:48:56,932 --> 00:48:58,972
+<font color="#ffff00">Mất bao lâu để triển khai đội Glaive?</font>
+
+557
+00:49:00,392 --> 00:49:02,602
+<font color="#ffff00">Bất cứ khi nào ngài có lệnh thưa đức vua.</font>
+
+558
+00:49:03,152 --> 00:49:04,782
+<font color="#ffff00">Đi đi</font>
+
+559
+00:49:05,112 --> 00:49:06,492
+<font color="#ffff00">Và cứu Luna</font>
+
+560
+00:49:11,742 --> 00:49:13,452
+<font color="#ffff00">Nếu đây là một trò chơi ?</font>
+
+561
+00:49:13,662 --> 00:49:14,912
+<font color="#ffff00">Không giống thế .</font>
+
+562
+00:49:15,072 --> 00:49:17,282
+<font color="#ffff00">Công chúa của Tenebrae đang ở đó</font>
+
+563
+00:49:22,832 --> 00:49:24,332
+<font color="#ffff00">Chúng ta có 2 việc phải làm</font>
+
+564
+00:49:25,422 --> 00:49:26,722
+<font color="#ffff00">Cứu cô ấy.</font>
+
+565
+00:49:27,342 --> 00:49:30,342
+<font color="#ffff00">Và không cho tàu của lũ Niff bay vào Insomnia.</font>
+
+566
+00:49:37,312 --> 00:49:39,102
+<font color="#ffff00">Chúng ta chia ra các đội.</font>
+
+567
+00:49:39,852 --> 00:49:42,772
+<font color="#ffff00">Xâm nhập và thoát ra.</font>
+
+568
+00:49:43,392 --> 00:49:45,642
+<font color="#ffff00">Nyx, chúng tôi theo lệnh của cậu.</font>
+
+569
+00:49:48,822 --> 00:49:52,282
+<font color="#ffff00">Đội Glaive sát cánh bên nhau, có đội trưởng hoặc không.</font>
+
+570
+00:49:52,492 --> 00:49:53,532
+<font color="#ffff00">Vì gia đình,</font>
+
+571
+00:49:53,702 --> 00:49:55,202
+<font color="#ffff00">Vì tổ quốc !</font>
+
+572
+00:50:07,542 --> 00:50:12,542
+<font color="#ffff00">Chúng ta còn ít hơn 20 phút cho đến khi hiệp ước được kí.</font>
+
+573
+00:50:21,222 --> 00:50:23,182
+<font color="#ffff00">Tôi nhận được lệnh triển khai từ đức vua.</font>
+
+574
+00:50:23,352 --> 00:50:24,852
+<font color="#ffff00">Tôi sẽ xem xét những vấn đề trong thành phố.</font>
+
+575
+00:50:25,942 --> 00:50:28,942
+<font color="#ffff00">Các bạn có nhiệm vụ của mình, và nó sẽ không dễ dàng đâu.</font>
+
+576
+00:50:29,112 --> 00:50:30,532
+<font color="#ffff00">Mục tiêu tăng gấp đôi.</font>
+
+577
+00:50:30,692 --> 00:50:32,942
+<font color="#ffff00">Bảo vệ con tin và ở lại cản đường kẻ thù.</font>
+
+578
+00:50:33,192 --> 00:50:35,232
+<font color="#ffff00">Cẩn thận nhé các cậu.</font>
+
+579
+00:50:35,402 --> 00:50:37,742
+<font color="#ffff00">Mỗi Glaive đều sẵn sàng chết vì công chúa.</font>
+
+580
+00:50:37,952 --> 00:50:40,502
+<font color="#ffff00">Niflheim sẽ không từ bỏ cô ấy dễ dàng đâu.</font>
+
+581
+00:50:53,842 --> 00:50:54,932
+<font color="#ffff00">Đội số 2</font>
+
+582
+00:51:14,192 --> 00:51:15,442
+<font color="#ffff00">Oh, man.</font>
+
+583
+00:51:15,652 --> 00:51:17,272
+<font color="#ffff00">Nhanh lên, Nyx!</font>
+
+584
+00:51:24,412 --> 00:51:25,912
+<font color="#ffff00">Giúp với!</font>
+
+585
+00:51:40,052 --> 00:51:41,592
+<font color="#ffff00">Đằng này.</font>
+
+586
+00:51:43,312 --> 00:51:44,852
+<font color="#ffff00">Chuẩn bị hướng đến boong tàu.</font>
+
+587
+00:51:45,022 --> 00:51:47,692
+<font color="#ffff00">Đừng giao chiến với chúng cho đến khi tôi bảo.</font>
+
+588
+00:51:47,852 --> 00:51:49,262
+<font color="#ffff00">Buổi lễ được tiến hành</font>
+
+589
+00:51:49,442 --> 00:51:52,192
+<font color="#ffff00">Chờ và xem bọn Niflhem sẽ chơi thế nào.</font>
+
+590
+00:51:57,322 --> 00:51:59,372
+<font color="#ffff00">Kingsglaive đã xâm nhập vào tàu.</font>
+
+591
+00:51:59,532 --> 00:52:01,902
+<font color="#ffff00">Vì vậy, tất cả mọi thứ đang diễn ra theo đúng kế hoạch.</font>
+
+592
+00:52:29,852 --> 00:52:35,232
+<font color="#ffff00">Ulric đang báo cáo. 6 tàu bay của Niflhem đang được gửi đến Insomnia.</font>
+
+593
+00:52:39,902 --> 00:52:43,942
+<font color="#ffff00">Nyx, cái này không giống tàu chiến.</font>
+
+594
+00:53:07,972 --> 00:53:10,932
+<font color="#ffff00">Tôi nghĩ rằng tôi có thể đã tìm thấy cô.
+Tôi có một cửa canh gác ở đây.</font>
+
+595
+00:53:11,102 --> 00:53:14,102
+<font color="#ffff00">Có 2 tên Niff MTs. Kế hoạch sao đây?</font>
+
+596
+00:53:16,732 --> 00:53:18,602
+<font color="#ffff00">Giữ nguyên vị trí.</font>
+
+597
+00:53:18,822 --> 00:53:22,622
+<font color="#ffff00">Di chuyển đến điểm tập kết.
+Khả năng cao là mục tiêu ở gần đó thôi.</font>
+
+598
+00:53:25,282 --> 00:53:27,492
+<font color="#ffff00">Tiến hành để đảm bảo an toàn.</font>
+
+599
+00:53:27,742 --> 00:53:29,072
+<font color="#ffff00">Đó sẽ là một cuộc chiến.</font>
+
+600
+00:53:29,292 --> 00:53:31,882
+<font color="#ffff00">Giữ im lặng và hạn chế nhé</font>
+
+601
+00:53:32,042 --> 00:53:35,132
+<font color="#ffff00">Pelna, cậu được phép giao tranh, nhưng giữ yên lặng nhé.</font>
+
+602
+00:53:35,332 --> 00:53:37,122
+<font color="#ffff00">Tôi đang tiến hành đây</font>
+
+603
+00:53:42,682 --> 00:53:44,262
+<font color="#ffff00">Bỏ qua cho sự chậm trễ của tôi nhé.</font>
+
+604
+00:53:44,432 --> 00:53:46,732
+<font color="#ffff00">Một chút rắc rối không lường trước được.</font>
+
+605
+00:53:46,892 --> 00:53:49,732
+<font color="#ffff00">Không có gì quá gây nhiều tranh cãi, tôi hy vọng thế.</font>
+
+606
+00:53:50,102 --> 00:53:52,692
+<font color="#ffff00">Chỉ là 1 tên trộm thôi.</font>
+
+607
+00:53:52,852 --> 00:53:55,142
+<font color="#ffff00">Một tên trộm liều lĩnh, dám trộm cả của nhà vua sao.</font>
+
+608
+00:53:55,982 --> 00:54:01,662
+<font color="#ffff00">Có lẽ những bức tường và cửa lâu đài ma thuật
+không giữ tất cả mọi thứ an toàn.</font>
+
+609
+00:54:01,822 --> 00:54:03,372
+<font color="#ffff00">Có lẽ vậy.</font>
+
+620
+00:54:02,578 --> 00:54:06,408
+<font color="#ffff00">Nhưng không có vấn đề gì đâu, những gì bị lấy đi sẽ sớm quay trở lại thôi.</font>
+
+610
+00:54:07,832 --> 00:54:09,672
+<font color="#ffff00">Ấn tượng đấy.</font>
+
+611
+00:54:09,912 --> 00:54:14,032
+<font color="#ffff00">Ngài là một hình mẫu của vị vua điềm tĩnh đấy.</font>
+
+612
+00:54:15,542 --> 00:54:17,712
+<font color="#ffff00">Nhưng tôi phải hỏi ngài điều này...</font>
+
+613
+00:54:17,962 --> 00:54:20,582
+<font color="#ffff00">...sao ngài có thể chắc chắn được ?</font>
+
+614
+00:54:21,262 --> 00:54:24,052
+<font color="#ffff00">Bởi vì đó không phải thứ đồ rẻ tiền.</font>
+
+615
+00:54:24,222 --> 00:54:27,062
+<font color="#ffff00">Nó sở hữu tất cả nhưng gì thuộc về nó.</font>
+
+616
+00:54:27,432 --> 00:54:30,442
+<font color="#ffff00">Đủ để phá vỡ nắm đấm của bất cứ tên trộm nào</font>
+
+617
+00:54:32,602 --> 00:54:37,482
+<font color="#ffff00">Nghe có vẻ như là 1 giải thưởng thực sự đó nhỉ.</font>
+
+618
+00:54:46,112 --> 00:54:48,742
+<font color="#ffff00">Không phải bây giờ chứ, khốn thật.</font>
+
+619
+00:54:50,372 --> 00:54:52,462
+<font color="#ffff00">Cho tao à? Mày không nên có nó.</font>
+
+620
+00:54:56,252 --> 00:54:58,712
+<font color="#ffff00">Mục tiêu xác nhận.. Cô ấy an toàn.</font>
+
+621
+00:55:03,882 --> 00:55:07,342
+<font color="#ffff00">Đội  Glaives đã giải cứu công chúa, thưa ngài.</font>
+
+622
+00:55:11,012 --> 00:55:13,302
+<font color="#ffff00">Ngài tìm thấy tên trộm chưa ?</font>
+
+623
+00:55:13,522 --> 00:55:14,902
+<font color="#ffff00">Chúng tôi đã tìm thấy.</font>
+
+624
+00:55:15,062 --> 00:55:17,652
+<font color="#ffff00">Và những gì bị đánh cắp vẫn nguyên vẹn .</font>
+
+625
+00:55:17,812 --> 00:55:19,222
+<font color="#ffff00">Tin tốt đấy.</font>
+
+626
+00:55:19,402 --> 00:55:21,862
+<font color="#ffff00">Tôi thở phào nhẹ nhõm khi nghe vậy</font>
+
+627
+00:55:22,782 --> 00:55:24,372
+<font color="#ffff00">Nói với tôi xem...</font>
+
+628
+00:55:24,692 --> 00:55:25,982
+<font color="#ffff00">...một lời tuyên án nặng thế nào...</font>
+
+629
+00:55:26,152 --> 00:55:29,152
+<font color="#ffff00">...giành cho kẻ trộm ở vương quốc của ngài?</font>
+
+630
+00:55:29,372 --> 00:55:30,702
+<font color="#ffff00">Trong số những hình phạt nặng nhất.</font>
+
+631
+00:55:30,872 --> 00:55:33,212
+<font color="#ffff00">Mặc dù vậy vẫn có...</font>
+
+632
+00:55:33,872 --> 00:55:35,082
+<font color="#ffff00">...một ngoại lệ.</font>
+
+633
+00:55:36,082 --> 00:55:38,412
+<font color="#ffff00">Mọi thứ ở đây bắt đầu trở nên tệ hơn rồi.</font>
+
+634
+00:55:40,502 --> 00:55:42,622
+<font color="#ffff00">Pelna, ra khỏi đó đi, đó là cái bẫy.</font>
+
+635
+00:55:43,422 --> 00:55:45,832
+<font color="#ffff00">- Gì vậy?
+- Một luật lệ cũ...</font>
+
+636
+00:55:46,012 --> 00:55:48,642
+<font color="#ffff00">...tôi vẫn cho phép ở vùng đất bên ngoài</font>
+
+637
+00:55:48,802 --> 00:55:51,672
+<font color="#ffff00">Đó là nếu kẻ trộm trốn thoát khỏi người bắt hắn...</font>
+
+638
+00:55:51,852 --> 00:55:54,442
+<font color="#ffff00">...thì tội danh của hắn sẽ không còn nữa.</font>
+
+639
+00:55:56,022 --> 00:55:58,022
+<font color="#ffff00">Đó là một cảnh báo cho các nạn nhân</font>
+
+640
+00:55:58,232 --> 00:56:02,532
+<font color="#ffff00">Không bao giờ để lộ điểm yếu của mình, chớ quên bàn tay của công lý.</font>
+
+641
+00:56:02,732 --> 00:56:04,982
+<font color="#ffff00">Oh, không, vị vua nhân từ.</font>
+
+642
+00:56:06,072 --> 00:56:08,082
+<font color="#ffff00">Còn xa vời lắm.</font>
+
+643
+00:56:08,402 --> 00:56:10,322
+<font color="#ffff00">Bản hiệp ước đang ở trên bàn</font>
+
+644
+00:56:10,492 --> 00:56:13,082
+<font color="#ffff00">Đếm ngược đến thời khắc lịch sử này.</font>
+
+645
+00:56:13,242 --> 00:56:17,372
+<font color="#ffff00">Đó chính là lời cảnh cáo đến chính bàn tay của công lý…</font>
+
+646
+00:56:17,962 --> 00:56:21,262
+<font color="#ffff00">...đừng bao giờ buông tay</font>
+
+647
+00:56:33,932 --> 00:56:35,812
+<font color="#ffff00">Đội 1, bảo vệ vòng ngoài.</font>
+
+648
+00:56:35,972 --> 00:56:37,802
+<font color="#ffff00">Đọi 2, giữ nguyên vị trí</font>
+
+649
+00:56:39,602 --> 00:56:41,182
+<font color="#ffff00">Pelna.</font>
+
+650
+00:56:41,352 --> 00:56:44,692
+<font color="#ffff00">Công chúa an toàn và…</font>
+
+651
+00:56:47,442 --> 00:56:48,442
+<font color="#ffff00">Đến đây.</font>
+
+652
+00:57:13,472 --> 00:57:16,192
+<font color="#ffff00">The crystal. Chúng đến chỗ the crystal.</font>
+
+653
+00:57:21,352 --> 00:57:23,682
+<font color="#ffff00">Có gì đó ở phía dưới boong tàu.</font>
+
+654
+00:57:24,152 --> 00:57:26,652
+<font color="#ffff00">Con tầu sẽ không đến được Insom……</font>
+
+655
+00:57:33,162 --> 00:57:34,792
+<font color="#ffff00">Ngươi…</font>
+
+656
+00:57:37,082 --> 00:57:38,462
+<font color="#ffff00">Chuyện gì thế ?</font>
+
+657
+00:57:38,622 --> 00:57:39,832
+<font color="#ffff00">Insomnia bị tấn công</font>
+
+669
+00:57:39,462 --> 00:57:41,342
+<font color="#ffff00">Ai đem cô đến đây?</font>
+
+658
+00:57:43,002 --> 00:57:45,132
+<font color="#ffff00">- tướng Glauca.
+- cô là mồi nhử.</font>
+
+659
+00:57:45,292 --> 00:57:47,502
+<font color="#ffff00">Tất cả chúng tôi đến đây đều nằm trong kế hoạch của chúng.</font>
+
+660
+00:58:14,662 --> 00:58:18,082
+<font color="#ffff00">Mục tiêu bảo đảm.
+Yêu cầu sự cho phép để rút lui.</font>
+
+661
+00:58:20,792 --> 00:58:21,832
+<font color="#ffff00">Yêu cầu được chấp thuận, đến chỗ….</font>
+
+662
+00:58:47,402 --> 00:58:49,652
+<font color="#ffff00">The crystal sẽ không phục vụ ngươi đâu…</font>
+
+663
+00:58:49,862 --> 00:58:51,822
+<font color="#ffff00">Cả ngươi nữa...</font>
+
+664
+00:58:52,072 --> 00:58:55,082
+<font color="#ffff00">...một khi ta đem nó đi khỏi thành phố đáng nguyền rủa này.</font>
+
+665
+00:58:55,862 --> 00:58:58,532
+<font color="#ffff00">Nó sẽ không còn là the Crystal nữa đâu, ta ở đây là vì</font>
+
+666
+00:58:58,952 --> 00:59:01,042
+<font color="#ffff00">The Wall. Nó mất rồi.</font>
+
+667
+00:59:04,162 --> 00:59:05,412
+<font color="#ffff00">Rút lui, đó là bẫy.</font>
+
+668
+00:59:13,592 --> 00:59:15,642
+<font color="#ffff00">Cái quái gì đang diễn ra vậy?</font>
+
+669
+00:59:26,522 --> 00:59:28,032
+<font color="#ffff00">Lũ phản bội.</font>
+
+670
+01:02:17,022 --> 01:02:19,442
+<font color="#ffff00">Đi thôi, chúng ta phải trốn thoát khi còn có thể.</font>
+
+671
+01:02:19,612 --> 01:02:21,282
+<font color="#ffff00">không, Clarus.</font>
+
+672
+01:02:22,572 --> 01:02:24,912
+<font color="#ffff00">Ta sợ rặng chạy trốn không còn là lựa chọn nữa</font>
+
+673
+01:02:32,752 --> 01:02:34,922
+<font color="#ffff00">Tướng Glauca.</font>
+
+674
+01:02:39,842 --> 01:02:42,012
+<font color="#ffff00">Cô có thể cố gắng không, cô đứng được chứ ?</font>
+
+675
+01:03:03,492 --> 01:03:04,952
+<font color="#ffff00">Luche!</font>
+
+676
+01:03:12,082 --> 01:03:13,882
+<font color="#ffff00">Cô làm gì vậy ?</font>
+
+677
+01:03:22,002 --> 01:03:24,002
+<font color="#ffff00">Cô đùa tôi chắc.</font>
+
+678
+01:03:29,802 --> 01:03:32,262
+<font color="#ffff00">Họ lại dạy khóa phi công ở học viện hoang gia sao ?</font>
+
+679
+01:03:32,432 --> 01:03:34,182
+<font color="#ffff00">Đưa tôi cái đó.</font>
+
+680
+01:03:39,062 --> 01:03:41,692
+<font color="#ffff00">Đã quá lâu rồi,
+Từ khi chúng ta sát cánh chiến đâu cùng nhau, ông bạn già à.</font>
+
+681
+01:03:41,862 --> 01:03:43,242
+<font color="#ffff00">Phải rồi...</font>
+
+682
+01:03:43,482 --> 01:03:46,232
+<font color="#ffff00">...nhưng bây giờ không phải cuộc chiến của ông…</font>
+
+683
+01:03:46,402 --> 01:03:48,112
+<font color="#ffff00">Nếu ông muốn đi thì đi ngay trước khi quá muộn</font>
+
+684
+01:03:48,282 --> 01:03:51,532
+<font color="#ffff00">Bỏ rơi nhà vua ư ? tôi không nghĩ thế đâu.</font>
+
+685
+01:03:51,702 --> 01:03:55,162
+<font color="#ffff00">Bên cạnh đó thì phép thuật của chúng tôi bị ràng buộc bởi ngài mà.</font>
+
+686
+01:03:55,712 --> 01:03:58,052
+<font color="#ffff00">Nếu ngài thua, Lucis sẽ thua.</font>
+
+687
+01:03:58,882 --> 01:04:01,172
+<font color="#ffff00">Chúng ta cùng chiến thêm lần nữa nào….</font>
+
+688
+01:04:01,342 --> 01:04:02,932
+<font color="#ffff00">...ông bạn già.</font>
+
+689
+01:04:29,662 --> 01:04:31,832
+<font color="#ffff00">Anh phải đưa tôi trở lại chỗ vua Regis.</font>
+
+690
+01:04:31,992 --> 01:04:34,702
+<font color="#ffff00">Cô mất cmn trí rồi à ?
+Insomnia đang là vùng chiến sự đấy.</font>
+
+691
+01:04:35,202 --> 01:04:37,702
+<font color="#ffff00">Tôi có nghĩa vụ. Tôi không thể trốn tránh nó.</font>
+
+692
+01:04:37,872 --> 01:04:41,162
+<font color="#ffff00">- phải rồi, tôi đã nghe lần trước rồi
+- giờ thì anh biết chúng ta phải nhanh lên rồi chứ.</font>
+
+693
+01:04:41,332 --> 01:04:43,212
+<font color="#ffff00">Nhanh làm quái gì ? để cô chết nhanh hơn à ?</font>
+
+694
+01:04:43,382 --> 01:04:44,382
+<font color="#ffff00">Tôi không sợ chết đâu.</font>
+
+695
+01:04:44,552 --> 01:04:47,432
+<font color="#ffff00">Quá đủ với hành động dũng cảm rồi đó công chúa</font>
+
+696
+01:04:51,302 --> 01:04:53,922
+<font color="#ffff00">Giờ thì cầu nguyện cái thứ này có thể đi tiếp đi.</font>
+
+697
+01:05:18,582 --> 01:05:20,002
+<font color="#ffff00">Clarus.</font>
+
+698
+01:05:23,792 --> 01:05:28,042
+<font color="#ffff00">Well, giờ thì tôi có thể nói là mọi thứ đã tiến hành theo kế hoạch rồi.</font>
+
+699
+01:05:28,632 --> 01:05:30,542
+<font color="#ffff00">- Không ư?
+- Nó đã xong.</font>
+
+700
+01:05:30,722 --> 01:05:32,392
+<font color="#ffff00">Chúng ta đã xuyên thủng bức tường.</font>
+
+701
+01:05:32,552 --> 01:05:35,092
+<font color="#ffff00">Những gì cần làm bây giờ là phá cái thành phố này</font>
+
+702
+01:05:37,062 --> 01:05:39,362
+<font color="#ffff00">Sau đó chúng ta sẽ đi chứ ?</font>
+
+703
+01:05:39,522 --> 01:05:41,572
+<font color="#ffff00">Mặt trời sẽ sớm lặn thôi.</font>
+
+704
+01:05:41,772 --> 01:05:46,242
+<font color="#ffff00">Chúng ta không cần phải ở đây để chứng kiến nỗi kinh hoàng của màn đêm.</font>
+
+705
+01:05:58,372 --> 01:05:59,502
+<font color="#ffff00">The crystal.</font>
+
+706
+01:06:03,462 --> 01:06:06,092
+<font color="#ffff00">Anh đi nhanh quá.
+Chúng ta phải hạ cánh.</font>
+
+707
+01:06:06,252 --> 01:06:10,212
+<font color="#ffff00">- cô phải cho tôi 1 phút chứ
+- không còn thời gian đâu. Tôi sẽ tự đi.</font>
+
+708
+01:06:10,382 --> 01:06:13,462
+<font color="#ffff00">Cô dấu một đôi cánh ở dưới cái váy đó hả ?
+Cô đâu dùng được phép thuật.</font>
+
+709
+01:06:14,802 --> 01:06:16,672
+<font color="#ffff00">Không phải tất cả các phép lạ đều được tạo ra từ phép thuật</font>
+
+710
+01:06:16,852 --> 01:06:18,562
+<font color="#ffff00">Tôi không sợ chết.</font>
+
+711
+01:06:18,722 --> 01:06:21,642
+<font color="#ffff00">Điều tôi sợ là không là không làm gì và để mất tất cả.</font>
+
+712
+01:06:23,942 --> 01:06:25,032
+<font color="#ffff00">Oh, thồi nào.</font>
+
+713
+01:06:32,112 --> 01:06:35,652
+<font color="#ffff00">Cô có thể cảm ơn phép thuật trong phép lạ này đấy công chúa.</font>
+
+714
+01:06:56,182 --> 01:06:57,472
+<font color="#ffff00">Các phán xét nằm trong tay.</font>
+
+715
+01:07:01,852 --> 01:07:03,612
+<font color="#ffff00">Bình minh cho một kỉ nguyên mới.</font>
+
+716
+01:07:07,812 --> 01:07:11,062
+<font color="#ffff00">Ngươi đã có the crystal.
+Ngươi còn muốn gì ở ta nữa chứ ?</font>
+
+717
+01:07:25,502 --> 01:07:27,802
+<font color="#ffff00">Chiếc nhẫn của Lucii.</font>
+
+718
+01:07:28,292 --> 01:07:31,292
+<font color="#ffff00">Ta mất mẹ của mình, đất nước của mình, quyền thừa kế của mình.</font>
+
+719
+01:07:31,462 --> 01:07:33,882
+<font color="#ffff00">Niflheim là cuộc sống duy nhất còn lại với ta</font>
+
+720
+01:07:34,722 --> 01:07:36,722
+<font color="#ffff00">Nhưng tất cả những điều đó là cho cái này.</font>
+
+721
+01:07:38,972 --> 01:07:40,432
+<font color="#ffff00">Giờ chiếc nhẫn thuộc về ta.</font>
+
+722
+01:07:49,902 --> 01:07:54,782
+<font color="#ffff00">Nghe nè, tên vua già của Lucian,
+Ta Ravus Nox Fleuret...</font>
+
+723
+01:07:54,992 --> 01:07:58,332
+<font color="#ffff00">...không ai xứng đáng với sức mạnh của người hơn ta.</font>
+
+724
+01:07:59,122 --> 01:08:02,462
+<font color="#ffff00">Không . Tại sao chứ?</font>
+
+725
+01:08:02,622 --> 01:08:04,632
+<font color="#ffff00">Sao ngươi lại từ chối ta.</font>
+
+726
+01:08:25,732 --> 01:08:27,152
+<font color="#ffff00">Coi chừng</font>
+
+727
+01:08:52,842 --> 01:08:54,382
+<font color="#ffff00">Nhanh lên, đi qua đây.</font>
+
+728
+01:09:14,572 --> 01:09:16,702
+<font color="#ffff00">Đường này dấn đến lối đi bí mật.</font>
+
+729
+01:09:16,862 --> 01:09:17,912
+<font color="#ffff00">Đi theo nó.</font>
+
+730
+01:09:18,072 --> 01:09:19,782
+<font color="#ffff00">Một khi đã thoát ra, hay đến Altissia.</font>
+
+731
+01:09:19,952 --> 01:09:21,202
+<font color="#ffff00">Noctis đợi con ở đó.</font>
+
+732
+01:09:22,072 --> 01:09:24,282
+<font color="#ffff00">- Thưa ngài.
+- cậu biết điều này sẽ đến mà...</font>
+
+733
+01:09:24,452 --> 01:09:27,452
+<font color="#ffff00">Đúng nhưng đó là cách duy nhất để họ không chú ý đến Noctis.</font>
+
+734
+01:09:29,122 --> 01:09:31,332
+<font color="#ffff00">Đó là cách của vua của chúng tôi ư ?</font>
+
+735
+01:09:31,502 --> 01:09:34,722
+<font color="#ffff00">Hi sinh những người con Lucian để cứu chính mình ?</font>
+
+736
+01:09:34,882 --> 01:09:36,552
+<font color="#ffff00">Để cứu thế giới.</font>
+
+737
+01:09:39,092 --> 01:09:40,802
+<font color="#ffff00">Đưa Luna an toàn đến Altissia.</font>
+
+738
+01:09:42,842 --> 01:09:45,472
+<font color="#ffff00">Đây không phải mệnh lệnh của một vị vua đối với Glaive</font>
+
+739
+01:09:45,642 --> 01:09:49,152
+<font color="#ffff00">Mà là lời thỉnh cầu từ một người đàn ông.
+Xin cậu đấy, Nyx Ulric , đảm bảo an toàn cho cô ấy.</font>
+
+740
+01:09:50,312 --> 01:09:51,982
+<font color="#ffff00">Cho tương lai của tất cả mọi thứ.</font>
+
+741
+01:09:52,142 --> 01:09:53,932
+<font color="#ffff00">Tương lai ư?</font>
+
+742
+01:09:56,942 --> 01:09:58,562
+<font color="#ffff00">đây.</font>
+
+743
+01:09:58,862 --> 01:10:00,162
+<font color="#ffff00">Cầm lấy.</font>
+
+744
+01:10:00,322 --> 01:10:03,872
+<font color="#ffff00">Đến lúc truyền cho người khác giữ nó rồi.</font>
+
+745
+01:10:35,352 --> 01:10:38,392
+<font color="#ffff00">không, xin đừng, dừng lại đi.</font>
+
+746
+01:10:38,692 --> 01:10:40,482
+<font color="#ffff00">- Lùi lại.
+- Xin đừng rời bỏ chúng tôi.</font>
+
+747
+01:10:42,572 --> 01:10:45,492
+<font color="#ffff00">Ta biết mẹ của con, bà ấy cũng sẽ làm như ta .</font>
+
+748
+01:10:45,952 --> 01:10:49,502
+<font color="#ffff00">Để con và Nocits được sống hạnh phúc.</font>
+
+749
+01:10:49,662 --> 01:10:52,662
+<font color="#ffff00">Tất cả những năm tháng con bị giam cầm vì ta đã bỏ lại con</font>
+
+750
+01:10:52,832 --> 01:10:53,872
+<font color="#ffff00">Lần này không thế nữa đâu.</font>
+
+751
+01:10:54,042 --> 01:10:56,922
+<font color="#ffff00">Những cánh của bị khóa kín, phong ấn số phận của con đã không còn</font>
+
+752
+01:10:57,082 --> 01:10:59,002
+<font color="#ffff00">Vua Regis....</font>
+
+753
+01:11:00,672 --> 01:11:03,882
+<font color="#ffff00">Hi vọng của chúng ta phụ thuộc vào cậu
+Nyx Ulric. Đi nhanh đi..</font>
+
+754
+01:11:40,212 --> 01:11:41,832
+<font color="#ffff00">Thấy không vua của  Lucis...</font>
+
+755
+01:11:42,842 --> 01:11:45,602
+<font color="#ffff00">... người lưu giữ sự  tĩnh lặng trong các bức tường quý giá của mình.</font>
+
+756
+01:11:46,432 --> 01:11:49,602
+<font color="#ffff00">Sự yên bình của ngài đâu rồi hả đức vua?</font>
+
+757
+01:11:50,512 --> 01:11:54,682
+<font color="#ffff00">Đây là sự yên nghỉ của ông, với dòng máu chảy qua lưỡi kiếm thép này</font>
+
+758
+01:12:10,582 --> 01:12:12,252
+<font color="#ffff00">Đi đi.</font>
+
+759
+01:12:32,222 --> 01:12:35,642
+<font color="#ffff00">Không. Chúng ta phải ra khỏi đây.</font>
+
+760
+01:12:36,772 --> 01:12:38,612
+<font color="#ffff00">Đó là điều mà vua cua anh muốn.</font>
+
+761
+01:13:19,392 --> 01:13:21,222
+<font color="#ffff00">Công chúa Lunafreya đã trốn thoát cùng với chiếc nhẫn.</font>
+
+762
+01:13:21,852 --> 01:13:22,932
+<font color="#ffff00">Tìm cô ta đi..</font>
+
+763
+01:13:23,112 --> 01:13:24,572
+<font color="#ffff00">Cô ta chưa rời khỏi thành phố đâu.</font>
+
+764
+01:13:26,902 --> 01:13:29,692
+<font color="#ffff00">- Ulric đang đọi lệnh. Nghe thấy không, đội trưởng.
+- hình ảnh của những kẻ khủng bố...</font>
+
+765
+01:13:29,862 --> 01:13:31,862
+<font color="#ffff00">...đã được ghi lại bởi những camera gần đó.</font>
+
+766
+01:13:32,032 --> 01:13:33,992
+<font color="#ffff00">Đây là hình ảnh của 6 nghi can.</font>
+
+767
+01:13:34,912 --> 01:13:38,042
+<font color="#ffff00">Một trong số đó được xác định là kẻ nhập cư từ Galah, Libertus Ostium...</font>
+
+768
+01:13:38,202 --> 01:13:41,582
+<font color="#ffff00">...một thành viên của đội KingsGlaive Lucian.</font>
+
+769
+01:13:43,632 --> 01:13:45,512
+<font color="#ffff00">Này, đến đây. Đến đây.</font>
+
+770
+01:13:45,672 --> 01:13:47,682
+<font color="#ffff00">Tôi giữ được cậu rồi. Cậu ổn chứ ?</font>
+
+771
+01:13:47,842 --> 01:13:49,512
+<font color="#ffff00">Cậu sẽ không sao đâu.</font>
+
+772
+01:13:50,262 --> 01:13:51,682
+<font color="#ffff00">Tôi ổn mà.</font>
+
+773
+01:13:51,842 --> 01:13:53,092
+<font color="#ffff00">Chúng ta được tự do.</font>
+
+774
+01:13:53,592 --> 01:13:55,052
+<font color="#ffff00">Chúng ta được tự do rồi.</font>
+
+775
+01:13:55,222 --> 01:13:57,182
+<font color="#ffff00">" Chúng ta được tự do "? ý cậu là gì</font>
+
+776
+01:13:57,352 --> 01:13:59,942
+<font color="#ffff00">Đế chế. Họ đã hứa.</font>
+
+777
+01:14:01,062 --> 01:14:02,722
+<font color="#ffff00">Vùng này giờ là của chúng ta.</font>
+
+778
+01:14:03,152 --> 01:14:04,652
+<font color="#ffff00">Tất cả những người nhập cư.</font>
+
+779
+01:14:04,812 --> 01:14:06,642
+<font color="#ffff00">Đây sẽ là nhà mới của chúng ta.</font>
+
+780
+01:14:07,282 --> 01:14:10,412
+<font color="#ffff00">- Đế chế ? cậu tham gia cùng bọn Niflheim sao?
+- Đây.</font>
+
+781
+01:14:11,362 --> 01:14:13,692
+<font color="#ffff00">Cầm lấy. Đến gặp những người khác đi.</font>
+
+782
+01:14:15,622 --> 01:14:18,792
+<font color="#ffff00">Cậu là người hùng của cuộc cách mạng này, người anh em.</font>
+
+783
+01:14:23,922 --> 01:14:24,962
+<font color="#ffff00">Khốn kiếp thật..</font>
+
+784
+01:14:33,472 --> 01:14:36,272
+<font color="#ffff00">Thằng cha này không biết bao giờ nên bỏ cuộc sao.</font>
+
+785
+01:14:36,892 --> 01:14:39,732
+<font color="#ffff00">- Cô lái được chứ ?
+- Tôi có thể thử.</font>
+
+786
+01:14:43,352 --> 01:14:44,682
+<font color="#ffff00">Tôi sẽ trở lại ngay.</font>
+
+787
+01:14:55,782 --> 01:14:58,242
+<font color="#ffff00">Mày không dịch chuyển được nữa đâu, người hùng à.</font>
+
+788
+01:15:02,912 --> 01:15:05,082
+<font color="#ffff00">Để tôi lái cho nào. Sang kia đi.</font>
+
+789
+01:15:07,792 --> 01:15:09,162
+<font color="#ffff00">Anh bị mất quyền năng rồi hả .</font>
+
+790
+01:15:09,342 --> 01:15:13,012
+<font color="#ffff00">Giờ cô mới để ý à ?
+Nó đã mất khi nhà vua băng hà rồi.</font>
+
+791
+01:15:13,382 --> 01:15:17,462
+<font color="#ffff00">Cậu đang làm rối tung thành phố của tôi, Glaive.
+Tôi nhớ đã nói với cậu đừng chơi trò người hùng nữa mà.</font>
+
+792
+01:15:18,142 --> 01:15:19,312
+<font color="#ffff00">Để tôi lo cái tàu đó cho.</font>
+
+793
+01:15:19,852 --> 01:15:22,192
+<font color="#ffff00">Có vẻ như cậu cũng đang có một sứ mệnh hoàng gia đó.</font>
+
+794
+01:16:11,772 --> 01:16:13,062
+<font color="#ffff00">Đi đi</font>
+
+795
+01:16:38,432 --> 01:16:41,142
+<font color="#ffff00">Có thể không phải tất cả các phép màu đều tạo ra bởi phép thuật.</font>
+
+796
+01:16:50,272 --> 01:16:51,772
+<font color="#ffff00">Oh, ngon nhỉ.</font>
+
+797
+01:17:09,922 --> 01:17:11,962
+<font color="#ffff00">Làm thế quái nào mà cái lũ này cứ bám theo cô vậy ?</font>
+
+798
+01:17:12,132 --> 01:17:14,882
+<font color="#ffff00">Không phải tôi mà là chiếc nhẫn.</font>
+
+799
+01:17:15,052 --> 01:17:18,512
+<font color="#ffff00">Cái nhẫn đó thì có gì đặc biệt chứ ?
+Đừng nói tôi đó là nhẫn cưới chứ.</font>
+
+800
+01:17:18,672 --> 01:17:20,552
+<font color="#ffff00">Người đeo chiếc nhẫn này có thể liên kết với Lucii…</font>
+
+801
+01:17:20,642 --> 01:17:22,982
+<font color="#ffff00">- ...và điều khiển sức mạnh tối thượng
+- Loại sức mạnh nào ?</font>
+
+802
+01:17:23,142 --> 01:17:26,022
+<font color="#ffff00">Một loại ma thuật bị cấm.
+Bị phong ấn từ xa xưa.</font>
+
+803
+01:17:26,722 --> 01:17:31,102
+<font color="#ffff00">Bước tường cũ.
+Tôi nghĩ đó chỉ là chuyện kể cho trẻ con thôi chứ.</font>
+
+804
+01:17:38,742 --> 01:17:40,202
+<font color="#ffff00">Tôi có thể đảm bảo với anh là không phải đâu.</font>
+
+805
+01:17:40,362 --> 01:17:43,492
+<font color="#ffff00">Nhưng Lucii chỉ ban quyền lực của mình cho người xứng đáng thôi.</font>
+
+806
+01:17:43,662 --> 01:17:45,792
+<font color="#ffff00">Vậy là cái gã đã cố đeo nó….</font>
+
+807
+01:17:45,952 --> 01:17:47,782
+<font color="#ffff00">...tôi đoán là hắn không xứng đáng.</font>
+
+808
+01:17:49,372 --> 01:17:50,622
+<font color="#ffff00">Đó là anh trai của tôi.</font>
+
+809
+01:17:53,462 --> 01:17:55,632
+<font color="#ffff00">12 năm đã thay đổi anh ấy, Ravus.</font>
+
+810
+01:17:55,842 --> 01:17:58,722
+<font color="#ffff00">Anh ấy bị ràng buộc bởi quá khứ và mù quáng vì quyền lực.</font>
+
+811
+01:18:00,842 --> 01:18:02,252
+<font color="#ffff00">Làm thế quái nào mà chúng tìm được ta?</font>
+
+812
+01:18:22,112 --> 01:18:24,572
+<font color="#ffff00">Kẹp tóc của cô. Chúng theo dõi nó.
+Đưa cho tôi nào.</font>
+
+813
+01:18:32,252 --> 01:18:36,382
+<font color="#ffff00">Tôi từng có một cô em gái.
+Nó bị giết khi bọn chúng đến.</font>
+
+814
+01:18:38,212 --> 01:18:40,002
+<font color="#ffff00">Tôi đã không thể cứu nó.</font>
+
+815
+01:18:40,882 --> 01:18:43,882
+<font color="#ffff00">Tôi đã bất lực giống như bây giờ.</font>
+
+816
+01:18:46,432 --> 01:18:49,102
+<font color="#ffff00">Tôi đã không thể cho nó thấy tương lai mà nó muốn.</font>
+
+817
+01:18:51,272 --> 01:18:55,282
+<font color="#ffff00">Sức mạnh thực sự không phải thứ có thể tìm ra được</font>
+
+818
+01:18:56,362 --> 01:18:58,902
+<font color="#ffff00">Nó đến với những ai xứng đáng có nó.</font>
+
+819
+01:19:01,692 --> 01:19:03,942
+<font color="#ffff00">Em gái anh cũng muốn anh có tương lai.</font>
+
+820
+01:19:07,032 --> 01:19:09,952
+<font color="#ffff00">Bất cứ ai cũng đều muốn gia đình mà họ yêu thương có được điều đó.</font>
+
+821
+01:19:14,172 --> 01:19:16,802
+<font color="#ffff00">Cô chưa bao giờ đấm vào mặt ai phải không?</font>
+
+822
+01:19:24,682 --> 01:19:26,062
+<font color="#ffff00">Tôi ở đây.</font>
+
+823
+01:19:26,472 --> 01:19:28,562
+<font color="#ffff00">có ai nghe thấy không ?
+nhắc lại, tôi là  Drautos.</font>
+
+824
+01:19:28,722 --> 01:19:30,052
+<font color="#ffff00">Cậu nghe thấy tôi không ? Over.</font>
+
+825
+01:19:30,352 --> 01:19:32,402
+<font color="#ffff00">Anh xuất hiện đúng lúc ghê, đội trưởng.</font>
+
+826
+01:19:37,862 --> 01:19:39,492
+<font color="#ffff00">Nếu Lucii có thật…</font>
+
+827
+01:19:39,652 --> 01:19:42,492
+<font color="#ffff00">… chắc họ sẽ không đứng nhìn thành phố của mình bị phá thành trăm mảnh thế này.</font>
+
+828
+01:19:48,492 --> 01:19:50,612
+<font color="#ffff00">Cậu đến điểm hẹn và tập kết ở đó, rõ chưa ?</font>
+
+829
+01:19:53,082 --> 01:19:54,542
+<font color="#ffff00">Không dễ thế đâu, đội trưởng à</font>
+
+830
+01:19:55,962 --> 01:19:58,132
+<font color="#ffff00">Nếu anh chưa biết thì để tôi kể cho,
+Đôi cánh của tôi bị cắt bỏ rồi. (dịch chuyển bằng phép thuật)</font>
+
+831
+01:20:30,492 --> 01:20:32,152
+<font color="#ffff00">Ulric. Cậu ổn chứ?</font>
+
+832
+01:20:33,792 --> 01:20:35,792
+<font color="#ffff00">Tôi chưa chết đâu, nếu ý anh hỏi là thế.</font>
+
+833
+01:20:36,582 --> 01:20:38,742
+<font color="#ffff00">Đến khu vực D nhanh nhất cậu có thể.</font>
+
+834
+01:20:38,922 --> 01:20:41,222
+<font color="#ffff00">Ta có một đội giải cứu ở đó..</font>
+
+835
+01:20:41,712 --> 01:20:44,212
+<font color="#ffff00">Đừng hi vọng là anh có thể thấy tôi ở cổng nhé.</font>
+
+836
+01:20:44,382 --> 01:20:46,712
+<font color="#ffff00">Tôi đang muốn biến khỏi cái thành phố này đây.</font>
+
+837
+01:20:46,882 --> 01:20:49,552
+<font color="#ffff00">Bọn chúng đang chiếm giữ mọi lối thoát hiểm.
+Không có đường qua đâu.</font>
+
+838
+01:20:49,722 --> 01:20:50,972
+<font color="#ffff00">Tôi sẽ gặp cậu ở khu vực D</font>
+
+839
+01:20:51,142 --> 01:20:55,192
+<font color="#ffff00">Tắt bộ đàm và đừng liên lạc cho đến lúc đó.
+Và hãy đảm bảo rằng cậu đến được đó nhé.</font>
+
+840
+01:20:55,352 --> 01:20:56,402
+<font color="#ffff00">Sẽ mất cả ngày đó, đội trưởng.</font>
+
+841
+01:21:13,162 --> 01:21:15,542
+<font color="#ffff00">Giờ không còn đường lui nữa rồi.</font>
+
+842
+01:21:15,702 --> 01:21:16,992
+<font color="#ffff00">Báo cáo tình hình đi.</font>
+
+843
+01:21:17,162 --> 01:21:19,162
+<font color="#ffff00">Ulric đã giết một vài người của chúng tôi.</font>
+
+844
+01:21:19,332 --> 01:21:21,542
+<font color="#ffff00">- thế con chiếc nhẫn thì sao ?
+- chúng tôi chứa lấy được nó.</font>
+
+845
+01:21:22,882 --> 01:21:25,132
+<font color="#ffff00">Đây là tướng Glauca. Vua Regis xong rồi nhé.</font>
+
+846
+01:21:25,382 --> 01:21:27,892
+<font color="#ffff00">Chiếc nhẫn đang trên đường đến khu vực D</font>
+
+847
+01:21:28,052 --> 01:21:30,602
+<font color="#ffff00">Chúng ta phải lấy lại chiếc nhẫn để đạt được mục đích của mình.</font>
+
+848
+01:21:30,762 --> 01:21:33,602
+<font color="#ffff00">Nếu Ulric và hay công chúa cản đường, cứ giết chúng.</font>
+
+849
+01:21:33,762 --> 01:21:36,052
+<font color="#ffff00">Đòi lại giá đình và tổ quốc của chúng ta</font>
+
+850
+01:21:36,222 --> 01:21:38,142
+<font color="#ffff00">"Gia đình và tổ quốc"?</font>
+
+851
+01:21:38,312 --> 01:21:39,442
+<font color="#ffff00">Libertus, đến đây</font>
+
+852
+01:21:39,602 --> 01:21:41,272
+<font color="#ffff00">Cậu đang ở đâu ? không sao chứ?</font>
+
+853
+01:21:41,442 --> 01:21:42,782
+<font color="#ffff00">Tôi không sao.</font>
+
+854
+01:21:43,652 --> 01:21:45,532
+<font color="#ffff00">Tôi đang trên đường trở lại căn cứ.</font>
+
+855
+01:21:45,692 --> 01:21:48,152
+<font color="#ffff00">Chúng tôi cần các cậu đến ngã ba ở khu vực D</font>
+
+856
+01:21:48,322 --> 01:21:51,542
+<font color="#ffff00">Chúng ta sẽ gặp những đội khác ở đó, và càn quét luôn.</font>
+
+857
+01:21:51,702 --> 01:21:54,332
+<font color="#ffff00">Chúng ta còn một bước nữa thôi để đạt được cuộc cách mạng này.</font>
+
+858
+01:21:54,492 --> 01:21:56,702
+<font color="#ffff00">Đừng  để cái chết của Pruvia là vô ích.</font>
+
+859
+01:21:56,872 --> 01:21:59,132
+<font color="#ffff00">Chúng tôi sẽ đợi cậu, người hùng à.</font>
+
+860
+01:22:26,022 --> 01:22:28,942
+<font color="#ffff00">- đừng di chuyển cho đến khi tôi bảo an toàn, cô hiểu không ?
+- theo ý anh.</font>
+
+861
+01:22:37,372 --> 01:22:39,122
+<font color="#ffff00">Ulric, báo cáo đi.</font>
+
+862
+01:22:40,372 --> 01:22:42,452
+<font color="#ffff00">Công chúa đang đi cùng tôi.</font>
+
+863
+01:22:42,622 --> 01:22:44,702
+<font color="#ffff00">Cô ấy vẫn ổn.</font>
+
+864
+01:22:52,592 --> 01:22:53,922
+<font color="#ffff00">- Không !
+- ra khỏi đây ngay.</font>
+
+865
+01:22:57,142 --> 01:22:59,652
+<font color="#ffff00">Cậu muốn đánh nhau phải không, Nyx,
+Giờ tôi cho cậu cơ hội đó.</font>
+
+866
+01:23:01,602 --> 01:23:03,222
+<font color="#ffff00">Chạy ngay đi.</font>
+
+867
+01:23:05,022 --> 01:23:09,232
+<font color="#ffff00">Tôi không nghĩ cậu vẫn có thể lết được với vết thương đó đấy.</font>
+
+868
+01:23:09,402 --> 01:23:13,072
+<font color="#ffff00">Crowe cũng đã la hét khi cô ta bị xé rách ra từ bên trong như vậy.</font>
+
+869
+01:23:14,452 --> 01:23:18,212
+<font color="#ffff00">- Sao cậu lại làm thế ?
+- Vì KingsGlaive chả là cái thá gì cả.</font>
+
+870
+01:23:18,372 --> 01:23:19,962
+<font color="#ffff00">Một lão già tham gia trận chiến ...</font>
+
+871
+01:23:20,122 --> 01:23:21,882
+<font color="#ffff00">...đưa đàn gia súc của mình đến cái chết trong cuộc chiến cả Insomnia...</font>
+
+872
+01:23:22,042 --> 01:23:23,792
+<font color="#ffff00">...trong khi gia đình của chúng ta bị nô dịch.</font>
+
+873
+01:23:24,792 --> 01:23:26,662
+<font color="#ffff00">Niflheim đã lấy đi ngôi nhà của cậu.</font>
+
+874
+01:23:28,962 --> 01:23:30,792
+<font color="#ffff00">Nhà của tất cả chúng ta!</font>
+
+875
+01:23:31,842 --> 01:23:33,762
+<font color="#ffff00">Không điều gì có thể thay đổi được.</font>
+
+876
+01:23:34,052 --> 01:23:35,972
+<font color="#ffff00">Cậu chưa bao giờ thực sự khôn ngoan nhỉ.</font>
+
+877
+01:23:37,642 --> 01:23:40,312
+<font color="#ffff00">Cậu có thể có một tương lai mới với để quốc</font>
+
+878
+01:23:57,492 --> 01:24:00,372
+<font color="#ffff00">Không còn nơi nào để trốn đâu, thưa công chúa.</font>
+
+879
+01:24:00,872 --> 01:24:01,872
+<font color="#ffff00">Đưa cái nhẫn đây.</font>
+
+880
+01:24:04,082 --> 01:24:05,632
+<font color="#ffff00">Đưa nó cho tôi.</font>
+
+881
+01:24:28,902 --> 01:24:30,822
+<font color="#ffff00">Đá rất nhiều người phải chết vì cái thứ nhỏ bé này.</font>
+
+882
+01:24:31,982 --> 01:24:35,152
+<font color="#ffff00">Nhưng tại sao ? vì cái gì chứ ?</font>
+
+883
+01:24:35,702 --> 01:24:37,372
+<font color="#ffff00">Quyền lực.</font>
+
+884
+01:24:37,612 --> 01:24:40,192
+<font color="#ffff00">Quyền năng vô hạn, nó vượt ngoài khả năng của một người như anh.</font>
+
+885
+01:24:42,202 --> 01:24:43,702
+<font color="#ffff00">Quyền năng ư....</font>
+
+886
+01:25:24,082 --> 01:25:25,752
+<font color="#ffff00">Đội trưởng.</font>
+
+887
+01:25:38,762 --> 01:25:40,222
+<font color="#ffff00">Nyx.</font>
+
+888
+01:25:42,722 --> 01:25:46,342
+<font color="#ffff00">Kết thúc rồi. Con quỷ đã được thả ra.</font>
+
+889
+01:25:47,352 --> 01:25:49,902
+<font color="#ffff00">Lucis thất thủ rồi</font>
+
+890
+01:25:52,102 --> 01:25:53,432
+<font color="#ffff00">Giao nộp chiếc nhẫn đi.</font>
+
+891
+01:25:57,442 --> 01:26:00,112
+<font color="#ffff00">Kế hoạch cho những vị vua, cô đã nghĩ thế phải không công chúa ?</font>
+
+892
+01:26:01,862 --> 01:26:04,902
+<font color="#ffff00">Cô có số mệnh lo cho những điều đó, nhớ không ?</font>
+
+893
+01:26:05,332 --> 01:26:08,422
+<font color="#ffff00">Bên cạnh đó, không ai nói với cô phải không ?</font>
+
+894
+01:26:11,422 --> 01:26:12,842
+<font color="#ffff00">Tôi là người hùng ở đây.</font>
+
+895
+01:26:30,482 --> 01:26:35,032
+<font color="#ffff00">Hiện hình đi vua của Lucis</font>
+
+896
+01:26:39,532 --> 01:26:42,702
+<font color="#ffff00">Ta triệu hồi ngài cho tương lai của thế giới này, hỡi kẻ bất tử.</font>
+
+897
+01:26:42,862 --> 01:26:47,612
+<font color="#ffff00">Và nếu cậu đến để đòi quyền năng của chúng tôi,
+Cậu cần được chúng tôi phán xét đã.</font>
+
+898
+01:26:47,992 --> 01:26:52,622
+<font color="#ffff00">Bao lâu trong khi các ngài để Insomnia bị thiêu rụi ?</font>
+
+899
+01:26:53,082 --> 01:26:55,452
+<font color="#ffff00">Cũ hay mới, hoặc bất kể đó là gì.</font>
+
+900
+01:26:56,542 --> 01:26:58,672
+<font color="#ffff00">Triệu hồi bức tường của các vị đi.</font>
+
+901
+01:26:59,342 --> 01:27:00,932
+<font color="#ffff00">Cậu không có quyền ra lệnh cho chúng ta.</font>
+
+902
+01:27:01,092 --> 01:27:04,252
+<font color="#ffff00">Thậm chí cậu còn chả có dòng máu hoàng tộc.</font>
+
+903
+01:27:04,432 --> 01:27:07,522
+<font color="#ffff00">Chúng tôi không có nhiệm vụ phải bảo vệ thành phố của cậu</font>
+
+904
+01:27:07,682 --> 01:27:09,132
+<font color="#ffff00">Loài người là những sinh vật ngu ngốc...</font>
+
+905
+01:27:09,312 --> 01:27:12,362
+<font color="#ffff00">...cứ bám lấy quá khứ và sợ hãi tương của chính mình.</font>
+
+906
+01:27:12,522 --> 01:27:16,112
+<font color="#ffff00">Lãng phí sức lực của mình cho quá khứ</font>
+
+907
+01:27:16,522 --> 01:27:19,272
+<font color="#ffff00">Thế còn tương lai mà các ngài nói là gì?</font>
+
+908
+01:27:19,442 --> 01:27:20,772
+<font color="#ffff00">Thật là thiển cận.</font>
+
+909
+01:27:20,942 --> 01:27:23,272
+<font color="#ffff00">Bị nguyền rủa để không bao giờ có thể vượt qua điều đó.</font>
+
+910
+01:27:23,492 --> 01:27:24,622
+<font color="#ffff00">Đợi đã.</font>
+
+911
+01:27:24,782 --> 01:27:28,112
+<font color="#ffff00">Tôi thấy rằng linh hồn dũng cảm này đã chuẩn bị để làm được đấy.</font>
+
+912
+01:27:28,282 --> 01:27:31,032
+<font color="#ffff00">Cậu ta sao, tìm cách để bảo vệ tương lai</font>
+
+913
+01:27:31,202 --> 01:27:32,452
+<font color="#ffff00">Đức vua.</font>
+
+914
+01:27:33,212 --> 01:27:37,052
+<font color="#ffff00">Tốt thôi, vị vua trẻ.
+Chúng ta sẽ cân nhắc về chiến binh của ngài.</font>
+
+915
+01:27:37,252 --> 01:27:39,752
+<font color="#ffff00">Nhưng cái giá của nó không hề rẻ đâu.</font>
+
+916
+01:27:40,132 --> 01:27:46,142
+<font color="#ffff00">Sự sống của cậu ta hay cô ấy.</font>
+
+917
+01:27:46,472 --> 01:27:47,982
+<font color="#ffff00">Không .</font>
+
+918
+01:27:49,512 --> 01:27:51,682
+<font color="#ffff00">Vứt Quyền năng của các vị đi.</font>
+
+919
+01:27:52,982 --> 01:27:55,022
+<font color="#ffff00">Tôi không đến đây vì nó.</font>
+
+920
+01:27:56,442 --> 01:28:00,612
+<font color="#ffff00">Tôi đến đây để nói điều này, các vị chẳng còn là vua đâu.</font>
+
+921
+01:28:01,282 --> 01:28:04,162
+<font color="#ffff00">Giá trị của cậu đã được cân nhắc và còn thiếu.</font>
+
+922
+01:28:04,362 --> 01:28:06,072
+<font color="#ffff00">Giờ thì bùng cháy đi.</font>
+
+923
+01:28:12,332 --> 01:28:15,042
+<font color="#ffff00">Các vị sẽ mất cái nhẫn quý báu ấy thôi.</font>
+
+924
+01:28:17,832 --> 01:28:20,582
+<font color="#ffff00">Nhưng không phải quá muộn để cứu nó đâu.</font>
+
+925
+01:28:21,462 --> 01:28:23,462
+<font color="#ffff00">Vậy cậu muốn đánh đổi bằng mạng sống của mình.</font>
+
+926
+01:28:23,632 --> 01:28:25,592
+<font color="#ffff00">không, không.</font>
+
+927
+01:28:26,632 --> 01:28:28,762
+<font color="#ffff00">Mạng sống của tôi chả là gì cả.</font>
+
+928
+01:28:31,262 --> 01:28:34,642
+<font color="#ffff00">Hãy mang tương lai đến cho những người cần nó...</font>
+
+929
+01:28:36,312 --> 01:28:38,062
+<font color="#ffff00">...đó là tất cả những gì tôi muốn.</font>
+
+930
+01:28:40,062 --> 01:28:43,482
+<font color="#ffff00">Cậu không sợ sao, thậm trí tương lại của cậu sẽ tan biến.</font>
+
+931
+01:28:43,652 --> 01:28:47,732
+<font color="#ffff00">Nếu thực sự tình cảm đó là thật, thì cậu xứng đáng</font>
+
+932
+01:28:48,282 --> 01:28:50,692
+<font color="#ffff00">Hãy nhận lấy ánh sáng của chúng tôi</font>
+
+933
+01:28:50,872 --> 01:28:53,792
+<font color="#ffff00">Nhưng hãy nên biết rằng nó sẽ chỉ đến khi mặt trời mọc thôi.</font>
+
+934
+01:28:54,332 --> 01:28:57,632
+<font color="#ffff00">Và cậu sẽ phải trả bằng mạng sống của mình.</font>
+
+935
+01:28:59,882 --> 01:29:02,842
+<font color="#ffff00">Các ngài mặc cả cũng cứng đấy.</font>
+
+936
+01:29:05,512 --> 01:29:07,432
+<font color="#ffff00">Tôi kí vào đâu đây ?</font>
+
+937
+01:29:17,392 --> 01:29:19,602
+<font color="#ffff00">Tôi có thể sử dụng nó rồi này..</font>
+
+938
+01:29:25,192 --> 01:29:26,192
+<font color="#ffff00">Nyx....</font>
+
+939
+01:29:27,452 --> 01:29:29,162
+<font color="#ffff00">- tôi xin lỗi.
+- không cần đâu.</font>
+
+940
+01:29:30,362 --> 01:29:31,992
+<font color="#ffff00">Cậu đã cứu tôi.</font>
+
+941
+01:29:32,582 --> 01:29:34,002
+<font color="#ffff00">Tôi nợ cậu.</font>
+
+942
+01:29:34,202 --> 01:29:35,822
+<font color="#ffff00">Có một sự thay đổi</font>
+
+943
+01:29:36,952 --> 01:29:38,372
+<font color="#ffff00">Tôi vẫn cần một đặc ân khác đấy.</font>
+
+944
+01:29:38,542 --> 01:29:42,762
+<font color="#ffff00">Hãy đưa công chúa Luna đến chỗ hoàng tử của chúng ta.</font>
+
+945
+01:29:42,922 --> 01:29:45,842
+<font color="#ffff00">Và cô ấy sẽ tạo lên tương lai cho thế giới với đôi bàn tay của mình.</font>
+
+946
+01:29:46,012 --> 01:29:49,392
+<font color="#ffff00">Đảm bảo cô ấy an toàn và ra khỏi Insomnia.</font>
+
+947
+01:29:50,092 --> 01:29:52,422
+<font color="#ffff00">Oh, tôi suýt quyên mất. Cậu sẽ cần cái này đấy.</font>
+
+948
+01:29:54,432 --> 01:29:57,302
+<font color="#ffff00">Hãy bày tỏ sự tôn trọng của tôi đến hoàng tử Noctis</font>
+
+949
+01:29:58,022 --> 01:30:00,112
+<font color="#ffff00">Libertus sẽ chăm sóc cho cô từ lúc này..</font>
+
+950
+01:30:00,312 --> 01:30:03,432
+<font color="#ffff00">Đi mạnh khỏe nhé, công chúa.</font>
+
+951
+01:30:03,982 --> 01:30:06,852
+<font color="#ffff00">- điều gì sẽ xảy đến với anh?
+- cậu đang làm cái quái gì vậy ?</font>
+
+952
+01:30:07,442 --> 01:30:09,402
+<font color="#ffff00">Theo lệnh của nhà vua.</font>
+
+953
+01:30:10,202 --> 01:30:12,702
+<font color="#ffff00">Tôi sẽ đưa chiếc nhẫn cho Noctis.</font>
+
+954
+01:30:13,992 --> 01:30:16,322
+<font color="#ffff00">Tương lai sẽ được an toàn, tôi hứa đó.</font>
+
+955
+01:30:26,502 --> 01:30:29,422
+<font color="#ffff00">Không định đánh nhau để thoát khỏi thành phố à ? cậu giữ nó đi</font>
+
+956
+01:30:30,092 --> 01:30:31,922
+<font color="#ffff00">- giờ chúng ta hòa rồi.
+- không đâu.</font>
+
+957
+01:30:32,302 --> 01:30:34,672
+<font color="#ffff00">Chúng ta sẽ giải quyết sau khi trở lại Galahd</font>
+
+958
+01:30:34,892 --> 01:30:37,392
+<font color="#ffff00">Tôi và mọi người sẽ đợi cậu đấy.</font>
+
+959
+01:30:37,602 --> 01:30:38,982
+<font color="#ffff00">Tôi trông chờ vào cậu đó...</font>
+
+960
+01:30:40,312 --> 01:30:41,362
+<font color="#ffff00">...người hùng.</font>
+
+961
+01:31:00,162 --> 01:31:03,372
+<font color="#ffff00">- thắt dây an toàn và công chúa
+- cuộc sống của ta đang nằm trong tay anh.</font>
+
+962
+01:31:13,182 --> 01:31:16,562
+<font color="#ffff00">Vậy sao, quyền năng của Lucii đã trở lại.</font>
+
+963
+01:31:17,052 --> 01:31:18,722
+<font color="#ffff00">Không vấn đề gì. Cậu hết thời gian rồi.</font>
+
+964
+01:31:18,892 --> 01:31:20,982
+<font color="#ffff00">Với riêng anh, tôi sẽ tự tạo cho mình thêm chút thời gian.</font>
+
+965
+01:31:54,762 --> 01:31:57,142
+<font color="#ffff00">Cậu hi vọng mình làm được gì chứ?</font>
+
+966
+01:31:58,642 --> 01:32:01,562
+<font color="#ffff00">Một người chống lại cả một đế chế sao.</font>
+
+967
+01:32:01,722 --> 01:32:03,512
+<font color="#ffff00">Chống lại con quỷ.</font>
+
+968
+01:32:03,812 --> 01:32:07,782
+<font color="#ffff00">Làm sao cậu có thể cứu Insomnia nếu không có bức tường của mình ?</font>
+
+969
+01:32:09,362 --> 01:32:13,372
+<font color="#ffff00">Anh sai rồi.
+Tôi không chiến đấu vì Insomnia.</font>
+
+970
+01:33:39,412 --> 01:33:44,462
+<font color="#ffff00">đây là sức mạnh của OLD WALL.</font>
+
+971
+01:33:44,662 --> 01:33:48,332
+<font color="#ffff00">Sự kỳ diệu thực sự.</font>
+
+972
+01:34:59,402 --> 01:35:01,402
+<font color="#ffff00">Sao anh lại làm vậy chứ ?</font>
+
+973
+01:35:01,702 --> 01:35:03,992
+<font color="#ffff00">Lucis. Niflheim.</font>
+
+974
+01:35:04,162 --> 01:35:06,832
+<font color="#ffff00">Không quan trọng chúng ta chiến đấu vì ai</font>
+
+975
+01:35:07,742 --> 01:35:11,872
+<font color="#ffff00">Chúng ta chiến đầu vì quê hương mình
+Đó là những lời dối trá cho lòng trung thành của cậu.</font>
+
+976
+01:36:31,332 --> 01:36:33,752
+<font color="#ffff00">Đó không phải điều ngày nào cô cũng được thấy đâu.</font>
+
+977
+01:36:50,012 --> 01:36:53,302
+<font color="#ffff00">Thật là lãng phí.</font>
+
+978
+01:36:53,472 --> 01:36:58,222
+<font color="#ffff00">Tatass cả những thứ xin đẹp của thành phố giờ trong thật khó cơi.</font>
+
+979
+01:36:58,442 --> 01:37:01,822
+<font color="#ffff00">- ta sẽ quay về Niflhiem.
+- Sao sớm vậy ?</font>
+
+980
+01:37:02,572 --> 01:37:04,162
+<font color="#ffff00">The crystal giờ là của chúng ta rồi mà.</font>
+
+981
+01:37:05,032 --> 01:37:06,242
+<font color="#ffff00">Kết thúc nó đi...</font>
+
+982
+01:37:06,572 --> 01:37:09,032
+<font color="#ffff00">...và xem lũ quỷ xứ lý chúng.</font>
+
+983
+01:37:09,202 --> 01:37:10,582
+<font color="#ffff00">Theo lệnh ngài.</font>
+
+984
+01:37:12,412 --> 01:37:14,832
+<font color="#ffff00">Lãng phí quá đi mà.</font>
+
+985
+01:37:28,182 --> 01:37:30,722
+<font color="#ffff00">Sao anh có thể phục vụ cho chúng ?</font>
+
+986
+01:37:31,222 --> 01:37:34,012
+<font color="#ffff00">Sau tất cả những gì chúng đã làm ?</font>
+
+987
+01:37:34,682 --> 01:37:38,182
+<font color="#ffff00">Ta không đổi lỗi cho chúng vì đã lấy những thứ được cho...</font>
+
+988
+01:37:40,312 --> 01:37:42,892
+<font color="#ffff00">Mà ta ta đổ lỗi cho kẻ đưa những thứ đó cho chúng...</font>
+
+989
+01:37:43,522 --> 01:37:45,482
+<font color="#ffff00">Kẻ hèn nhát trốn sau bức tường của hắn...</font>
+
+990
+01:37:45,692 --> 01:37:49,532
+<font color="#ffff00">...bỏ rơi chúng ta để bảo vệ cho ngai vàng của hắn cũng như con trai hắn.</font>
+
+991
+01:37:50,162 --> 01:37:53,162
+<font color="#ffff00">Đưa ta chiếc nhẫn, và quê hương của chúng ta sẽ lại được tự do.</font>
+
+992
+01:37:53,332 --> 01:37:55,622
+<font color="#ffff00">Đế chế đã hứa như thế.</font>
+
+993
+01:37:56,332 --> 01:38:00,212
+<font color="#ffff00">Tôi không thể thấy tương lai gì từ những lời hứa.</font>
+
+994
+01:38:00,422 --> 01:38:01,962
+<font color="#ffff00">Đừng ngu ngốc như thế.</font>
+
+995
+01:38:02,132 --> 01:38:03,762
+<font color="#ffff00">Cứu bạn cậu đi.</font>
+
+996
+01:38:05,212 --> 01:38:06,922
+<font color="#ffff00">Hãy để em gái cậu yên nghỉ.</font>
+
+997
+01:38:08,052 --> 01:38:10,852
+<font color="#ffff00">Cậu chiến đấu vì điều đó không phải sao ?</font>
+
+998
+01:38:56,102 --> 01:38:58,562
+<font color="#ffff00">Giữ chắc nhé, có lẽ sẽ hơi sóc đấy.</font>
+
+999
+01:39:08,282 --> 01:39:09,912
+<font color="#ffff00">Drautos.</font>
+
+1000
+01:39:18,242 --> 01:39:19,822
+<font color="#ffff00">Đây, cầm lái đi.</font>
+
+1001
+01:39:28,172 --> 01:39:29,882
+<font color="#ffff00">Hất ngã hắn đi !</font>
+
+1002
+01:39:40,182 --> 01:39:42,762
+<font color="#ffff00">- Libertus!
+- giữ chân gas đi.</font>
+
+1003
+01:40:03,462 --> 01:40:05,092
+<font color="#ffff00">cô ổn chứ ?</font>
+
+1004
+01:40:11,422 --> 01:40:13,592
+<font color="#ffff00">Tôi sẽ chờ cậu về, người hùng à.</font>
+
+1005
+01:40:40,992 --> 01:40:42,612
+<font color="#ffff00">Quyền năng từ các vị vua của cậu đâu ?</font>
+
+1006
+01:40:42,792 --> 01:40:46,502
+<font color="#ffff00">Họ bắt cậu chịu một gánh nặng mà cậu không thể</font>
+
+1007
+01:40:48,002 --> 01:40:49,712
+<font color="#ffff00">Tôi đã nói với cậu rồi</font>
+
+1008
+01:40:49,922 --> 01:40:53,182
+<font color="#ffff00">Chỉ muốn thôi thì không thắng được những cuộc chiến đâu.</font>
+
+1009
+01:42:05,752 --> 01:42:11,762
+<font color="#ffff00">Vì danh dự của quê hương,
+Tôi đã chiến đấu và giết tên vua mà tôi không ưa.</font>
+
+1010
+01:42:13,422 --> 01:42:15,882
+<font color="#ffff00">Và hắn vẫn phản bội tôi.</font>
+
+1011
+01:42:17,172 --> 01:42:19,212
+<font color="#ffff00">Hắn phản bội tất cả chúng ta.</font>
+
+1012
+01:42:19,382 --> 01:42:23,092
+<font color="#ffff00">Chúng ta chiến đấu vì cùng một lý tưởng. Tất cả chúng ta.</font>
+
+1013
+01:42:24,472 --> 01:42:26,472
+<font color="#ffff00">Nhưng anh lại nhìn về quá khứ.</font>
+
+1014
+01:42:27,432 --> 01:42:28,682
+<font color="#ffff00">Anh không thể thấy tương lai.</font>
+
+1015
+01:42:33,772 --> 01:42:35,522
+<font color="#ffff00">Thật là dễ đoán.</font>
+
+1016
+01:42:36,232 --> 01:42:39,982
+<font color="#ffff00">Không như câu, ta học được nhiều thứ từ lịch sử.</font>
+
+1017
+01:42:40,452 --> 01:42:43,162
+<font color="#ffff00">Nhưng anh lại là nô lệ của quá khứ</font>
+
+1018
+01:42:43,952 --> 01:42:46,712
+<font color="#ffff00">Kẻ không bỏ đi được sự kiêu ngạo của mình</font>
+
+1019
+01:42:47,372 --> 01:42:48,462
+<font color="#ffff00">Không.</font>
+
+1020
+01:42:48,832 --> 01:42:52,502
+<font color="#ffff00">Sự ngạo mạn của ta đang tạo ra tương lai.</font>
+
+1021
+01:43:05,142 --> 01:43:07,442
+<font color="#ffff00">Hình như tôi nợ anh một chầu lớn đó.</font>
+
+1022
+01:43:23,322 --> 01:43:25,072
+<font color="#ffff00">Chúng ta sắp đạt được rồi.</font>
+
+1023
+01:43:25,662 --> 01:43:26,872
+<font color="#ffff00">Sắp rồi.</font>
+
+1024
+01:43:39,552 --> 01:43:42,762
+<font color="#ffff00">Vua Regis đã làm những gì ông ấy cần làm cho tương lai.</font>
+
+1025
+01:43:43,762 --> 01:43:45,682
+<font color="#ffff00">Nhờ có ông ấy...</font>
+
+1026
+01:43:46,512 --> 01:43:49,302
+<font color="#ffff00">...vẫn còn hi vọng cho quê hương của chúng ta.</font>
+
+1027
+01:43:50,472 --> 01:43:52,262
+<font color="#ffff00">Hi vọng ư....</font>
+
+1028
+01:44:01,362 --> 01:44:03,612
+<font color="#ffff00">Không phải con đường tệ để bắt đầu đâu..</font>
+
+1029
+01:44:04,282 --> 01:44:06,332
+<font color="#ffff00">Trị vì tốt nhé, vị vua trẻ.</font>
+
+1030
+01:44:26,802 --> 01:44:28,302
+<font color="#ffff00">Chúng ta nên đi.</font>
+
+1031
+01:44:30,262 --> 01:44:32,592
+<font color="#ffff00">ở đây không còn an toàn nữa.</font>
+
+1032
+01:44:35,062 --> 01:44:36,432
+<font color="#ffff00">Này.</font>
+
+1033
+01:44:37,402 --> 01:44:39,402
+<font color="#ffff00">Đừng lo lắng về Nyx.</font>
+
+1034
+01:44:40,692 --> 01:44:42,862
+<font color="#ffff00">Anh ấy có thể tự lo cho mình mà.</font>
+
+1035
+01:44:47,992 --> 01:44:49,402
+<font color="#ffff00">Đi thôi.</font>
+
+1036
+01:44:51,662 --> 01:44:52,912
+<font color="#ffff00">No.</font>
+
+1037
+01:44:55,622 --> 01:44:57,582
+<font color="#ffff00">Còn những việc ta phải làm ở đây.</font>
+
+1038
+01:44:58,382 --> 01:44:59,672
+<font color="#ffff00">Gì cơ?</font>
+
+1039
+01:45:00,382 --> 01:45:04,052
+<font color="#ffff00">Tôi không thể đi bên cạnh một anh hùng như vậy được.</font>
+
+1040
+01:45:05,052 --> 01:45:08,182
+<font color="#ffff00">Còn tôi, tôi còn lời hứa phải giữ với Nyx</font>
+
+1041
+01:45:09,302 --> 01:45:11,722
+<font color="#ffff00">Tôi cầu nguyện để hai anh có thể gặp lại nhau sớm.</font>
+
+1042
+01:45:14,602 --> 01:45:16,142
+<font color="#ffff00">Phải rồi.</font>
+
+1043
+01:45:18,022 --> 01:45:19,732
+<font color="#ffff00">Tôi cũng vậy.</font>
+
+1044
+01:45:22,532 --> 01:45:24,782
+<font color="#ffff00">Cảm ơn, Libertus.</font>
+
+1045
+01:45:42,502 --> 01:45:43,712
+<font color="#ffff00">Này, hoàng hậu !</font>
+
+1046
+01:45:44,382 --> 01:45:47,752
+<font color="#ffff00">Cô và nhà vua sẽ luôn được chào đón ở Galahd.</font>
+
+1047
+01:45:48,802 --> 01:45:51,472
+<font color="#ffff00">Tôi và Nyx sẽ chờ cô đó.</font>
+
+1048
+01:54:48,132 --> 01:54:49,172
+<font color="#ffff00">Đôi khi.</font>
+
+1049
+01:54:49,342 --> 01:54:52,552
+<font color="#ffff00">Cậu có nhớ lần cuối cậu thấy quý cô Luna không ?</font>
+
+1050
+01:54:53,142 --> 01:54:54,642
+<font color="#ffff00">Khoảng 12 năm trước</font>
+
+1051
+01:54:54,812 --> 01:54:56,652
+<font color="#ffff00">Lúc đó cậu 8 tuổi hả?</font>
+
+1052
+01:54:56,812 --> 01:54:59,272
+<font color="#ffff00">- lúc đó cậu chỉ là đứa trẻ.
+- Hi vọng là cô ấy chưa từ bỏ ước muốn của mình.</font>
+
+1053
+01:54:59,442 --> 01:55:01,192
+<font color="#ffff00">Sao lại không ? bình tĩnh đi.</font>
+
+1054
+01:55:01,402 --> 01:55:03,362
+<font color="#ffff00">Cố gắng giữ điều đó khi cậu gặp cô ấy.</font>
+
+1055
+01:55:03,522 --> 01:55:06,462
+<font color="#ffff00">- cô ấy mong đợi một điều tốt đạp, hoàng tử trẻ à.
+- kể cho tôi cái gì mà tôi không biết ấy.</font>
+
+1056
+01:55:06,482 --> 01:55:08,732
+<font color="#ffff00">Chúng ta không có thời gian cho những điều đó.</font>
+
+1057
+01:55:08,902 --> 01:55:11,572
+<font color="#ffff00">Nhưng giờ chúng ta đang nói về lễ cưới của cậu đó, Noc.</font>
+
+1058
+01:55:11,742 --> 01:55:13,582
+<font color="#ffff00">Biết vậy.</font>
+
+1059
+01:55:13,742 --> 01:55:16,202
+<font color="#ffff00">Cậu thực sự nên bình tĩnh.</font>
+
+1060
+01:55:17,872 --> 01:55:20,282
+<font color="#ffff00">Ý anh là gì khi nói, "Uh-oh"?</font>
+
+1061
+01:55:20,462 --> 01:55:22,212
+<font color="#ffff00">Tôi nghĩ tôi biết đấy.</font>
+

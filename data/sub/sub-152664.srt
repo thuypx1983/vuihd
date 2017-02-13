@@ -1,0 +1,4346 @@
+﻿1
+00:00:12,068 --> 00:00:20,068
+<font color="#ffff00">The Revenant</font>
+== Translated by<font color="#cc321c"> MisterT.91</font> ==
+<font color="#00ff00">.:: Phudeviet.org::.</font>
+
+2
+00:01:04,069 --> 00:01:05,646
+<font color="#ffff00">Không sao đâu, con trai...</font>
+
+3
+00:01:08,490 --> 00:01:12,157
+<font color="#ffff00">Ta biết con muốn
+chuyện này kết thúc.</font>
+
+4
+00:01:19,826 --> 00:01:21,905
+<font color="#ffff00">Ta ở ngay đây.</font>
+
+5
+00:01:26,316 --> 00:01:28,296
+<font color="#ffff00">Ta sẽ luôn ở đây.</font>
+
+6
+00:01:36,175 --> 00:01:38,908
+<font color="#ffff00">Nhưng con đừng bỏ cuộc.</font>
+
+7
+00:01:40,985 --> 00:01:42,890
+<font color="#ffff00">Con nghe ta chứ?</font>
+
+8
+00:01:46,588 --> 00:01:51,452
+<font color="#ffff00">Chừng nào con còn hơi thở,
+con hãy chiến đâu.</font>
+
+9
+00:01:53,268 --> 00:01:55,335
+<font color="#ffff00">Hãy thở... tiếp tục thở.</font>
+
+10
+00:03:43,349 --> 00:03:44,608
+<font color="#ffff00">Hawk.</font>
+
+11
+00:04:11,413 --> 00:04:12,750
+<font color="#ffff00">Yên lặng.</font>
+
+12
+00:04:31,294 --> 00:04:32,790
+<font color="#ffff00">Chết tiệt!</font>
+
+13
+00:04:34,648 --> 00:04:37,406
+<font color="#ffff00">Mẹ lũ trời đánh.</font>
+
+14
+00:04:39,542 --> 00:04:41,659
+<font color="#ffff00">Chúa chơi mình.</font>
+
+15
+00:04:47,747 --> 00:04:49,739
+<font color="#ffff00">- Có thấy Coulter không?
+- Không.</font>
+
+16
+00:04:53,201 --> 00:04:56,015
+<font color="#ffff00">Nghe đây! Khi da sạch...</font>
+
+17
+00:04:56,130 --> 00:04:57,842
+<font color="#ffff00">Nhớ bó cho nó chặt.</font>
+
+18
+00:04:58,558 --> 00:05:02,342
+<font color="#ffff00">Nhớ là ta không đóng
+kiện 15 tấm.</font>
+
+19
+00:05:02,366 --> 00:05:03,728
+<font color="#ffff00">Ta đóng kiện 30 tấm.</font>
+
+20
+00:05:03,753 --> 00:05:04,753
+<font color="#ffff00">Fitzgerald.</font>
+
+21
+00:05:05,900 --> 00:05:07,873
+<font color="#ffff00">- Đoàn trưởng.
+- Hàng hóa thế nào rồi?</font>
+
+22
+00:05:08,428 --> 00:05:09,487
+<font color="#ffff00">Anh đang nghĩ gì thế?</font>
+
+23
+00:05:09,600 --> 00:05:10,659
+<font color="#ffff00">À...</font>
+
+24
+00:05:11,008 --> 00:05:13,682
+<font color="#ffff00">Tôi nghĩ dù họ đang
+săn gì ngoài đó.</font>
+
+25
+00:05:13,707 --> 00:05:15,750
+<font color="#ffff00">Hy vọng họ không
+kéo dài thời gian.</font>
+
+26
+00:05:15,774 --> 00:05:17,657
+<font color="#ffff00">Đảm bảo ta khởi hành
+lúc bình mình.</font>
+
+27
+00:05:17,792 --> 00:05:19,115
+<font color="#ffff00">Ta xong từ sáng nay rồi.</font>
+
+28
+00:05:19,288 --> 00:05:20,943
+<font color="#ffff00">Tôi thì muốn đi từ lâu rồi
+nhưng anh biết mà.</font>
+
+29
+00:05:20,967 --> 00:05:22,505
+<font color="#ffff00">Mọi người mệt quá rồi.</font>
+
+30
+00:05:22,636 --> 00:05:25,044
+<font color="#ffff00">Tôi nghĩ chúng ta chỉ ra khỏi Fort
+có vài ngày, giờ ta kẹt ngoài này rồi.</font>
+
+31
+00:05:25,068 --> 00:05:26,428
+<font color="#ffff00">Việc chúng ta cần lo là...</font>
+
+32
+00:05:26,452 --> 00:05:27,972
+<font color="#ffff00">- kiếm ít thịt tươi cho mọi người.
+- Ừ.</font>
+
+33
+00:05:28,570 --> 00:05:31,179
+<font color="#ffff00">Anh thấy Coulter không?</font>
+
+34
+00:05:34,487 --> 00:05:36,167
+<font color="#ffff00">Này, bọn tôi bắt được
+một con nai sừng tấm.</font>
+
+35
+00:05:36,245 --> 00:05:37,245
+<font color="#ffff00">Một con bự lắm.</font>
+
+36
+00:05:38,461 --> 00:05:39,947
+<font color="#ffff00">Bọn tôi cần giúp chở nó về.</font>
+
+37
+00:05:40,007 --> 00:05:41,863
+<font color="#ffff00">Khi nào nướng xong thì cho tao biết.</font>
+
+38
+00:05:41,984 --> 00:05:43,150
+<font color="#ffff00">Khi đó tao sẽ giúp.</font>
+
+39
+00:05:43,234 --> 00:05:44,741
+<font color="#ffff00">Thôi nào mấy anh. Tôi cần giúp.</font>
+
+40
+00:05:44,788 --> 00:05:47,509
+<font color="#ffff00">Bọn tao cần giúp khi phải cong mông
+vác cả đống kiện hàng.</font>
+
+41
+00:05:47,522 --> 00:05:50,417
+<font color="#ffff00">Tao ở ngoài này quá lâu rồi
+và phải ăn thịt lũ hải li này...</font>
+
+42
+00:05:50,714 --> 00:05:52,742
+<font color="#ffff00">Tao bắt đầu nhớ
+bữa cơm vợ tao nấu rồi.</font>
+
+43
+00:05:52,766 --> 00:05:54,808
+<font color="#ffff00">Chết tiệt, tao bắt đầu
+nhớ vợ mày rồi đấy.</font>
+
+44
+00:05:54,827 --> 00:05:56,068
+<font color="#ffff00">Sao mày không câm mẹ nó...?</font>
+
+45
+00:05:57,150 --> 00:05:59,055
+<font color="#ffff00">Cứu.</font>
+
+46
+00:05:59,317 --> 00:06:00,470
+<font color="#ffff00">Có phải Coulter không?</font>
+
+47
+00:06:01,021 --> 00:06:02,886
+<font color="#ffff00">- Tập trung lại.
+- Jim, mày đi tìm trưởng đoàn.</font>
+
+48
+00:06:03,276 --> 00:06:04,550
+<font color="#ffff00">Chúa ơi!</font>
+
+49
+00:06:04,585 --> 00:06:06,049
+<font color="#ffff00">- Yên lặng!
+- Giúp nó!</font>
+
+50
+00:06:08,408 --> 00:06:11,254
+<font color="#ffff00">- Có ai thấy bọn chúng không?
+- Yên lặng nào...</font>
+
+51
+00:06:16,737 --> 00:06:17,737
+<font color="#ffff00">Chết tiệt.</font>
+
+52
+00:06:23,821 --> 00:06:24,888
+<font color="#ffff00">Là gì vậy?</font>
+
+53
+00:06:31,508 --> 00:06:32,866
+<font color="#ffff00">Bố?</font>
+
+54
+00:06:33,129 --> 00:06:34,129
+<font color="#ffff00">Đi thôi.</font>
+
+55
+00:06:55,975 --> 00:06:57,299
+<font color="#ffff00">Chúng bắt Thomas rồi.</font>
+
+56
+00:07:20,692 --> 00:07:23,289
+<font color="#ffff00">Không thấy chúng đâu cả.</font>
+
+57
+00:07:28,563 --> 00:07:30,309
+<font color="#ffff00">- Cúi xuống.
+- Chết tiệt.</font>
+
+58
+00:07:30,429 --> 00:07:31,429
+<font color="#ffff00">Chúng ở khắp nơi.</font>
+
+59
+00:07:31,486 --> 00:07:32,215
+<font color="#ffff00">Ta bị bao vây rồi.</font>
+
+60
+00:07:32,355 --> 00:07:34,663
+<font color="#ffff00">- Chúng ở khắp nơi.
+- Soho...</font>
+
+61
+00:07:34,668 --> 00:07:36,161
+<font color="#ffff00">Ở yên đây.</font>
+
+62
+00:07:36,982 --> 00:07:38,345
+<font color="#ffff00">Không. Không. Ôi không!</font>
+
+63
+00:07:42,190 --> 00:07:43,310
+<font color="#ffff00">- Cúi thấp xuống.
+- Giúp tôi.</font>
+
+64
+00:07:47,008 --> 00:07:48,425
+<font color="#ffff00">Chúng muốn dụ chúng ta ra...</font>
+
+65
+00:07:48,521 --> 00:07:49,842
+<font color="#ffff00">Ai đó lên đồi xem!</font>
+
+66
+00:07:49,966 --> 00:07:52,437
+<font color="#ffff00">Tất cả ở yên tại chỗ.</font>
+
+67
+00:07:52,490 --> 00:07:54,011
+<font color="#ffff00">Chúng muốn số da đó.</font>
+
+68
+00:07:54,573 --> 00:07:56,716
+<font color="#ffff00">Ta phải xử bọn chúng ngay...</font>
+
+69
+00:07:56,740 --> 00:07:57,848
+<font color="#ffff00">...không ta sẽ mất tất cả.</font>
+
+70
+00:08:15,454 --> 00:08:17,972
+<font color="#ffff00">Tới chỗ con thuyền. Con trai.</font>
+
+71
+00:08:18,185 --> 00:08:20,474
+<font color="#ffff00">Đi mau.</font>
+
+72
+00:08:24,021 --> 00:08:27,025
+<font color="#ffff00">Rời khỏi rừng...</font>
+
+73
+00:08:27,049 --> 00:08:28,183
+<font color="#ffff00">...tới chỗ con thuyền.</font>
+
+74
+00:08:52,829 --> 00:08:54,774
+<font color="#ffff00">Hawk!</font>
+
+75
+00:09:01,087 --> 00:09:04,440
+<font color="#ffff00">Hawk, Hawk!</font>
+
+76
+00:09:32,716 --> 00:09:34,164
+<font color="#ffff00">Mang số da đó đi mau.</font>
+
+77
+00:09:34,643 --> 00:09:36,133
+<font color="#ffff00">Mau lên, mang số da đó đi!</font>
+
+78
+00:09:55,633 --> 00:09:57,171
+<font color="#ffff00">Mang số da đó đi.</font>
+
+79
+00:09:57,544 --> 00:09:58,877
+<font color="#ffff00">Mau lên.</font>
+
+80
+00:10:00,262 --> 00:10:01,262
+<font color="#ffff00">Mau lên.</font>
+
+81
+00:10:16,200 --> 00:10:19,080
+<font color="#ffff00">- Đưa nó cho con gái tôi.
+- Anh đi cùng bọn tôi, tôi sẽ tìm người giúp...</font>
+
+82
+00:10:32,806 --> 00:10:34,108
+<font color="#ffff00">Dựa vào tôi này, đi tiếp đi...</font>
+
+83
+00:10:37,614 --> 00:10:38,612
+<font color="#ffff00">Glass!</font>
+
+84
+00:10:38,636 --> 00:10:39,860
+<font color="#ffff00">Tới chỗ con thuyền!</font>
+
+85
+00:11:02,312 --> 00:11:03,333
+<font color="#ffff00">Thằng chó chết...</font>
+
+86
+00:11:05,270 --> 00:11:07,094
+<font color="#ffff00">Mau lên thuyền.</font>
+
+87
+00:11:17,017 --> 00:11:18,017
+<font color="#ffff00">Giúp tôi.</font>
+
+88
+00:11:21,971 --> 00:11:24,337
+<font color="#ffff00">Mau lên.</font>
+
+89
+00:11:28,038 --> 00:11:29,038
+<font color="#ffff00">Mau lên.</font>
+
+90
+00:11:29,942 --> 00:11:31,631
+<font color="#ffff00">Cắt dây mau.</font>
+
+91
+00:11:32,214 --> 00:11:33,694
+<font color="#ffff00">- Cắt dây mau.
+- Đợi Amos, đợi Amos...</font>
+
+92
+00:11:34,317 --> 00:11:35,937
+<font color="#ffff00">Ta phải đi ngay.</font>
+
+93
+00:11:36,421 --> 00:11:38,105
+<font color="#ffff00">Nổ pháo đi.</font>
+
+94
+00:11:48,825 --> 00:11:51,150
+<font color="#ffff00">Làm ơn đừng đi.</font>
+
+95
+00:12:37,268 --> 00:12:39,273
+<font color="#ffff00">Con gái tôi, Powaqa, không ở đây.</font>
+
+96
+00:12:40,334 --> 00:12:41,974
+<font color="#ffff00">Tập trung toàn bộ số da
+ta có thể mang đi.</font>
+
+97
+00:12:42,547 --> 00:12:46,715
+<font color="#ffff00">Ta sẽ đổi chúng lấy ngựa với Người Pháp...</font>
+
+98
+00:12:46,750 --> 00:12:48,757
+<font color="#ffff00">và tiếp tục tìm cô bé.</font>
+
+99
+00:12:52,818 --> 00:12:54,423
+<font color="#ffff00">Và bụi trở bột...</font>
+
+100
+00:12:54,458 --> 00:12:55,385
+<font color="#ffff00">Amen.</font>
+
+101
+00:12:55,409 --> 00:12:57,223
+<font color="#ffff00">Khi hết sương...</font>
+
+102
+00:12:57,384 --> 00:13:00,684
+<font color="#ffff00">Đứa con của Chúa này sẽ gặp
+chính Jesus Christ,</font>
+
+103
+00:13:00,757 --> 00:13:03,260
+<font color="#ffff00">Amen.</font>
+
+104
+00:13:16,498 --> 00:13:17,498
+<font color="#ffff00">Sẵn sàng chưa?</font>
+
+105
+00:13:19,340 --> 00:13:20,489
+<font color="#ffff00">Ngồi yên.</font>
+
+106
+00:13:26,043 --> 00:13:28,015
+<font color="#ffff00">Anh học ở đâu vậy?</font>
+
+107
+00:13:28,367 --> 00:13:30,091
+<font color="#ffff00">Bố tôi là bác sỹ.</font>
+
+108
+00:13:30,191 --> 00:13:30,974
+<font color="#ffff00">Bridger.</font>
+
+109
+00:13:30,986 --> 00:13:33,371
+<font color="#ffff00">Thuyền trưởng, có một thằng
+thổ dân ở ngoài này</font>
+
+110
+00:13:33,395 --> 00:13:34,837
+<font color="#ffff00">đang chờ hoàn thành nốt việc kìa.</font>
+
+111
+00:13:34,999 --> 00:13:36,126
+<font color="#ffff00">- Giữ ở đó.
+- Vâng.</font>
+
+112
+00:13:38,670 --> 00:13:40,659
+<font color="#ffff00">Cho tôi biết anh có kế hoạch đi.</font>
+
+113
+00:13:46,117 --> 00:13:47,322
+<font color="#ffff00">Glass.</font>
+
+114
+00:13:48,466 --> 00:13:50,190
+<font color="#ffff00">Missouri không có gì tốt cả.</font>
+
+115
+00:13:50,883 --> 00:13:52,700
+<font color="#ffff00">Nhất là khi bọn man di
+còn kiểm soát.</font>
+
+116
+00:13:53,769 --> 00:13:55,386
+<font color="#ffff00">Ta phải rời thuyền...</font>
+
+117
+00:13:55,410 --> 00:13:57,036
+<font color="#ffff00">Anh muốn rời thuyền hả?</font>
+
+118
+00:13:59,110 --> 00:14:00,477
+<font color="#ffff00">Rồi ta sẽ làm gì?</font>
+
+119
+00:14:01,133 --> 00:14:02,587
+<font color="#ffff00">Mang theo đống lông...</font>
+
+120
+00:14:02,611 --> 00:14:05,176
+<font color="#ffff00">và ngồi lẩn khuất giữa bọn man di
+như một đám chờ chết hả.</font>
+
+121
+00:14:05,509 --> 00:14:07,942
+<font color="#ffff00">Điều an toàn duy nhất có thể làm
+là tìm đường mới</font>
+
+122
+00:14:07,966 --> 00:14:09,077
+<font color="#ffff00">trở lại bờ.</font>
+
+123
+00:14:09,321 --> 00:14:10,391
+<font color="#ffff00">Vậy chuyến đi này sẽ kéo dài
+thêm vài tuần.</font>
+
+124
+00:14:10,521 --> 00:14:12,671
+<font color="#ffff00">Còn hơn cứ lênh đênh ngoài đó
+để bọn chúng rình rập chúng ta.</font>
+
+125
+00:14:12,695 --> 00:14:14,909
+<font color="#ffff00">Giờ chúng đang rình rập
+cậu đấy, con trai.</font>
+
+126
+00:14:16,505 --> 00:14:18,845
+<font color="#ffff00">Theo tôi ta ở yên trên thuyền.</font>
+
+127
+00:14:19,496 --> 00:14:21,561
+<font color="#ffff00">Đi theo lộ trình về phía pháo đài...</font>
+
+128
+00:14:21,758 --> 00:14:23,439
+<font color="#ffff00">Ta chấp nhận mạo hiểm trên sông.</font>
+
+129
+00:14:23,463 --> 00:14:26,184
+<font color="#ffff00">Glass hiểu địa hình nơi này
+hơn bất cứ ai trong chúng ta.</font>
+
+130
+00:14:26,234 --> 00:14:27,992
+<font color="#ffff00">Việc của anh ta là
+đưa ta về nhà an toàn.</font>
+
+131
+00:14:28,016 --> 00:14:29,372
+<font color="#ffff00">- Đưa ta về nhà an toàn hả?
+- Phải.</font>
+
+132
+00:14:29,389 --> 00:14:31,836
+<font color="#ffff00">Cần tôi nhắc anh ta đã mất
+32 người rồi không?</font>
+
+133
+00:14:31,860 --> 00:14:32,860
+<font color="#ffff00">Giờ là 33 rồi.</font>
+
+134
+00:14:33,038 --> 00:14:35,638
+<font color="#ffff00">Họ là người của tôi, Fitzgerald,
+tôi biết tôi mất bao nhiêu người.</font>
+
+135
+00:14:36,835 --> 00:14:38,828
+<font color="#ffff00">Ta làm theo lời Glass,
+không bàn cãi nữa.</font>
+
+136
+00:14:52,966 --> 00:14:54,965
+<font color="#ffff00">Ta phải thả con thuyền đi.</font>
+
+137
+00:14:54,989 --> 00:14:57,266
+<font color="#ffff00">Nếu bọn man di đi tìm ta,
+chúng sẽ tìm thấy nó dưới hạ nguồn.</font>
+
+138
+00:14:57,301 --> 00:14:59,544
+<font color="#ffff00">Lộ trình tốt nhất là đi bộ
+và cứ thế đi xuống</font>
+
+139
+00:14:59,920 --> 00:15:01,281
+<font color="#ffff00">tới Fort Kahowa.</font>
+
+140
+00:15:01,347 --> 00:15:02,587
+<font color="#ffff00">- Sao, đi bộ hả?
+- Anh chắc chứ?</font>
+
+141
+00:15:02,856 --> 00:15:04,605
+<font color="#ffff00">Vậy phải mất cả tuần
+mới tới được đó.</font>
+
+142
+00:15:04,937 --> 00:15:07,153
+<font color="#ffff00">Trừ khi ta tìm được một trạm,
+đổi lấy ít ngựa.</font>
+
+143
+00:15:07,177 --> 00:15:08,708
+<font color="#ffff00">Chẳng có trạm nào xa vậy đâu!</font>
+
+144
+00:15:08,737 --> 00:15:10,184
+<font color="#ffff00">Được rồi, trưởng đoàn.</font>
+
+145
+00:15:10,307 --> 00:15:12,700
+<font color="#ffff00">Bỏ con thuyền là sai lầm.</font>
+
+146
+00:15:12,741 --> 00:15:14,789
+<font color="#ffff00">Ngoài ra bọn man di
+không ngu thế đâu.</font>
+
+147
+00:15:14,863 --> 00:15:17,593
+<font color="#ffff00">Nếu ta giữ nó, ta có thể
+đi vòng qua đỉnh Arrow.</font>
+
+148
+00:15:17,617 --> 00:15:19,679
+<font color="#ffff00">Đừng tỏ ra là
+mình hiểu chuyện nữa, Fitzgerald.</font>
+
+149
+00:15:19,703 --> 00:15:20,876
+<font color="#ffff00">Ai nói chuyện với anh chứ.</font>
+
+150
+00:15:21,312 --> 00:15:22,831
+<font color="#ffff00">Ai mà thèm nghe anh.</font>
+
+151
+00:15:23,032 --> 00:15:26,365
+<font color="#ffff00">Mẹ kiếp, anh thậm chí
+đéo cởi nổi quần để mà đi ỉa một bãi.</font>
+
+152
+00:15:26,389 --> 00:15:27,389
+<font color="#ffff00">Ý tôi là...</font>
+
+153
+00:15:27,623 --> 00:15:29,520
+<font color="#ffff00">trại Rhulen ở ngay gần.</font>
+
+154
+00:15:29,845 --> 00:15:31,192
+<font color="#ffff00">Ta có thể lánh ở đó.</font>
+
+155
+00:15:32,303 --> 00:15:33,336
+<font color="#ffff00">Ta đi bộ.</font>
+
+156
+00:15:34,348 --> 00:15:35,920
+<font color="#ffff00">Chắc thế rồi.</font>
+
+157
+00:15:37,283 --> 00:15:39,419
+<font color="#ffff00">Mẹ kiếp, ước gì ông già
+tôi là bác sỹ thì</font>
+
+158
+00:15:39,444 --> 00:15:41,346
+<font color="#ffff00">lão đã có thể mua cho tôi
+chức trưởng đoàn.</font>
+
+159
+00:15:41,434 --> 00:15:42,788
+<font color="#ffff00">Vậy giờ ta làm gì hả?</font>
+
+160
+00:15:43,189 --> 00:15:45,756
+<font color="#ffff00">Cầu nguyện hàng hóa còn nguyên
+nếu ta có khi nào quay lại</font>
+
+161
+00:15:45,780 --> 00:15:47,780
+<font color="#ffff00">- để lấy chúng sao?
+- Nhớ đảm bảo đánh dấu chỗ này.</font>
+
+162
+00:15:48,186 --> 00:15:50,114
+<font color="#ffff00">Ta để cả đống của ở chỗ này đấy.</font>
+
+163
+00:15:50,138 --> 00:15:52,290
+<font color="#ffff00">Không còn chỗ nữa,
+phải chuyển lên đồi.</font>
+
+164
+00:15:52,314 --> 00:15:54,338
+<font color="#ffff00">- Glass.
+- Vẽ bản đồ đi...</font>
+
+165
+00:15:54,362 --> 00:15:56,680
+<font color="#ffff00">Chính xác hết mức có thể
+để giúp ta tránh bọn man di.</font>
+
+166
+00:15:56,704 --> 00:15:57,704
+<font color="#ffff00">Vâng.</font>
+
+167
+00:15:58,672 --> 00:16:02,569
+<font color="#ffff00">Thế này không ổn.</font>
+
+168
+00:16:02,815 --> 00:16:06,338
+<font color="#ffff00">Ta đều biết đống lông này còn lâu
+mới còn ở đây vào lúc ta quay lại.</font>
+
+169
+00:16:06,362 --> 00:16:08,159
+<font color="#ffff00">Không có cách nào ta có thể
+mang tất cả chúng trở về</font>
+
+170
+00:16:08,183 --> 00:16:09,061
+<font color="#ffff00">tới Fort.</font>
+
+171
+00:16:09,191 --> 00:16:11,109
+<font color="#ffff00">Đường ta đi thì không được,
+ngoài ra lũ Arikara đang</font>
+
+172
+00:16:11,180 --> 00:16:13,515
+<font color="#ffff00">đi khắp lãnh thổ của chúng,
+ta không muốn vướng víu quá nhiều.</font>
+
+173
+00:16:13,539 --> 00:16:15,293
+<font color="#ffff00">Ý tôi là anh sẽ mất số da này đấy.</font>
+
+174
+00:16:15,317 --> 00:16:17,090
+<font color="#ffff00">Anh muốn giữ đống da này
+hay cái mạng của anh?</font>
+
+175
+00:16:17,114 --> 00:16:18,114
+<font color="#ffff00">Mạng?</font>
+
+176
+00:16:18,352 --> 00:16:20,838
+<font color="#ffff00">Anh nói tới cái mạng nào?
+Tôi chẳng có cái mạng nào hết.</font>
+
+177
+00:16:21,225 --> 00:16:24,425
+<font color="#ffff00">Tôi chỉ biết sống cách duy nhất
+là nhờ vào đống da này.</font>
+
+178
+00:16:26,424 --> 00:16:27,424
+<font color="#ffff00">Mẹ nó chứ!</font>
+
+179
+00:16:27,839 --> 00:16:29,141
+<font color="#ffff00">Bình tĩnh, Fitz.</font>
+
+180
+00:16:30,275 --> 00:16:32,611
+<font color="#ffff00">Còn lâu mới có chuyện tôi về nhà...</font>
+
+181
+00:16:32,635 --> 00:16:35,319
+<font color="#ffff00">sau 6 tháng cong mông lên
+làm việc như điên,</font>
+
+182
+00:16:35,470 --> 00:16:37,050
+<font color="#ffff00">liều cả cái mạng...</font>
+
+183
+00:16:37,074 --> 00:16:38,815
+<font color="#ffff00">bao nhiêu người chết
+và để được gì chứ?</font>
+
+184
+00:16:38,949 --> 00:16:40,500
+<font color="#ffff00">Gần như mất tất cả.</font>
+
+185
+00:16:40,548 --> 00:16:42,239
+<font color="#ffff00">Việc này ngay từ đầu
+đã hỏng bét rồi.</font>
+
+186
+00:16:43,623 --> 00:16:45,254
+<font color="#ffff00">Có một đứa đang chơi chúng ta.</font>
+
+187
+00:16:46,324 --> 00:16:49,666
+<font color="#ffff00">Các anh có ai thắc mắc thế đéo nào
+bọn man di tìm được ta không?</font>
+
+188
+00:16:49,690 --> 00:16:50,831
+<font color="#ffff00">Vì anh Glass đây,</font>
+
+189
+00:16:50,866 --> 00:16:53,008
+<font color="#ffff00">lẽ ra phải để ý việc đó.</font>
+
+190
+00:16:53,032 --> 00:16:54,681
+<font color="#ffff00">Cái đám bạn thổ dân của anh ta.</font>
+
+191
+00:16:54,706 --> 00:16:57,333
+<font color="#ffff00">Thổ dân cũng ghét
+bọn man di như ta thôi.</font>
+
+192
+00:16:58,119 --> 00:16:59,197
+<font color="#ffff00">Thế hả?</font>
+
+193
+00:16:59,767 --> 00:17:01,224
+<font color="#ffff00">Thế còn đứa con lai</font>
+
+194
+00:17:01,596 --> 00:17:03,013
+<font color="#ffff00">của anh ta thì sao?</font>
+
+195
+00:17:03,928 --> 00:17:06,319
+<font color="#ffff00">Anh nghĩ mẹ nó là loại man rợ nào chứ.</font>
+
+196
+00:17:06,343 --> 00:17:07,771
+<font color="#ffff00">Kệ thằng bé đi, Fitz.</font>
+
+197
+00:17:08,807 --> 00:17:10,258
+<font color="#ffff00">Ý tôi là.</font>
+
+198
+00:17:10,802 --> 00:17:13,389
+<font color="#ffff00">Man rợ là man rợ...</font>
+
+199
+00:17:21,453 --> 00:17:22,665
+<font color="#ffff00">Này Glass.</font>
+
+200
+00:17:24,388 --> 00:17:27,270
+<font color="#ffff00">Những gì người ta nói có đúng không?
+Rằng anh đã bắn một gã trung úy...</font>
+
+201
+00:17:27,294 --> 00:17:29,014
+<font color="#ffff00">khi anh sống với đám man rợ đó?</font>
+
+202
+00:17:29,038 --> 00:17:30,119
+<font color="#ffff00">Fitzgerald.</font>
+
+203
+00:17:32,888 --> 00:17:36,160
+<font color="#ffff00">21 tên lính và hơn 40 thổ dân bỏ mạng...</font>
+
+204
+00:17:36,195 --> 00:17:38,274
+<font color="#ffff00">ấy thế mà anh và thằng con anh
+là những người duy nhất sống sót.</font>
+
+205
+00:17:38,298 --> 00:17:40,291
+<font color="#ffff00">Đúng là kì diệu, không phải sao?</font>
+
+206
+00:17:40,315 --> 00:17:41,774
+<font color="#ffff00">Câm họng lại đi, Fitzgerald.</font>
+
+207
+00:17:43,685 --> 00:17:44,951
+<font color="#ffff00">Anh đã làm vậy phải không?</font>
+
+208
+00:17:45,104 --> 00:17:47,566
+<font color="#ffff00">Bắn chính người của mình
+để cứu con chó con này hả?</font>
+
+209
+00:17:47,590 --> 00:17:49,113
+<font color="#ffff00">- Câm miệng.
+- Mày muốn đánh nhau hả, con trai?</font>
+
+210
+00:17:49,279 --> 00:17:51,621
+<font color="#ffff00">Chắc hắn đang vui vẻ
+với mẹ nó hả?</font>
+
+211
+00:17:51,840 --> 00:17:53,687
+<font color="#ffff00">- Fitzgerald!
+- Hắn giết cô ta hả?</font>
+
+212
+00:17:55,006 --> 00:17:57,530
+<font color="#ffff00">Khi tôi nói chuyện với anh
+thì đừng có mà lau súng.</font>
+
+213
+00:17:58,436 --> 00:17:59,538
+<font color="#ffff00">Tôi vẫn đang lau nó.</font>
+
+214
+00:17:59,776 --> 00:18:02,362
+<font color="#ffff00">Anh có thể làm tiếp sau khi
+tôi nói chuyện xong với anh.</font>
+
+215
+00:18:02,801 --> 00:18:04,787
+<font color="#ffff00">- Nhìn tôi này.
+- Đủ rồi!</font>
+
+216
+00:18:06,411 --> 00:18:08,152
+<font color="#ffff00">Anh đang quên vị trí của mình đấy.</font>
+
+217
+00:18:09,953 --> 00:18:13,754
+<font color="#ffff00">Theo như tôi biết vị trí của tôi
+ở ngay đây, tay cầm báng súng.</font>
+
+218
+00:18:14,292 --> 00:18:15,855
+<font color="#ffff00">Đi mau, Fitzgerald.</font>
+
+219
+00:18:17,938 --> 00:18:19,078
+<font color="#ffff00">Đó là lệnh.</font>
+
+220
+00:18:19,676 --> 00:18:20,676
+<font color="#ffff00">Nghe đây.</font>
+
+221
+00:18:20,915 --> 00:18:22,795
+<font color="#ffff00">Ta chỉ còn vài tiếng trời sáng.</font>
+
+222
+00:18:22,819 --> 00:18:23,923
+<font color="#ffff00">Ta phải giấu đống da này</font>
+
+223
+00:18:23,947 --> 00:18:25,464
+<font color="#ffff00">và xử lí con thuyền, đi nào.</font>
+
+224
+00:18:25,654 --> 00:18:26,706
+<font color="#ffff00">Vâng, trưởng đoàn.</font>
+
+225
+00:18:28,662 --> 00:18:31,091
+<font color="#ffff00">Ta bảo con không được
+gây chú ý rồi, con trai.</font>
+
+226
+00:18:31,115 --> 00:18:32,986
+<font color="#ffff00">- Ít nhất...
+- Nếu con muốn sống thì</font>
+
+227
+00:18:33,000 --> 00:18:34,000
+<font color="#ffff00">ngậm miệng lại.</font>
+
+228
+00:18:34,102 --> 00:18:39,509
+<font color="#ffff00">- Ít nhất hắn nghe con...
+- Họ không nghe giọng con!</font>
+
+229
+00:18:39,533 --> 00:18:41,603
+<font color="#ffff00">Họ chỉ thấy sắc mặt con.</font>
+
+230
+00:18:42,504 --> 00:18:43,662
+<font color="#ffff00">Con hiểu không?</font>
+
+231
+00:18:44,356 --> 00:18:46,034
+<font color="#ffff00">- Con hiểu không?
+- Con hiểu.</font>
+
+232
+00:18:51,157 --> 00:18:52,880
+<font color="#ffff00">Con phải nghe ta, con trai.</font>
+
+233
+00:18:53,688 --> 00:18:55,183
+<font color="#ffff00">Con phải nghe ta.</font>
+
+234
+00:19:08,471 --> 00:19:09,692
+<font color="#ffff00">Beckett.</font>
+
+235
+00:19:11,093 --> 00:19:12,262
+<font color="#ffff00">Weston.</font>
+
+236
+00:19:12,704 --> 00:19:13,981
+<font color="#ffff00">Sao chúng nó không nhảy?</font>
+
+237
+00:19:14,831 --> 00:19:16,638
+<font color="#ffff00">Có vẻ như bọn chúng đổi ý rồi.</font>
+
+238
+00:19:23,191 --> 00:19:24,693
+<font color="#ffff00">Lũ chó khôn lỏi.</font>
+
+239
+00:19:25,774 --> 00:19:26,958
+<font color="#ffff00">Khôn lỏi...</font>
+
+240
+00:19:33,491 --> 00:19:35,426
+<font color="#ffff00">Tôi lẽ ra đang ở
+trên con thuyền đó.</font>
+
+241
+00:19:39,223 --> 00:19:40,730
+<font color="#ffff00">Chúng làm đúng đấy.</font>
+
+242
+00:19:57,845 --> 00:19:59,112
+<font color="#ffff00">Đến lúc đi rồi.</font>
+
+243
+00:20:00,082 --> 00:20:01,301
+<font color="#ffff00">Dậy đi.</font>
+
+244
+00:20:02,461 --> 00:20:03,580
+<font color="#ffff00">Ta đi bây giờ.</font>
+
+245
+00:20:06,602 --> 00:20:07,906
+<font color="#ffff00">Con cũng đi.</font>
+
+246
+00:20:11,066 --> 00:20:13,168
+<font color="#ffff00">Con cứ nằm nghỉ đi.</font>
+
+247
+00:20:15,435 --> 00:20:18,552
+<font color="#ffff00">Khi những người còn lại sẵn sàng,
+bảo họ tới gặp ta.</font>
+
+248
+00:20:18,685 --> 00:20:20,655
+<font color="#ffff00">Ta đi về phía tây.</font>
+
+249
+00:20:35,540 --> 00:20:37,218
+<font color="#ffff00">Con là con trai ta.</font>
+
+250
+00:20:38,530 --> 00:20:40,380
+<font color="#ffff00">Con là con trai ta.</font>
+
+251
+00:20:50,659 --> 00:20:54,278
+<font color="#ffff00">Chỉ có 2 người ở đây.</font>
+
+252
+00:20:54,302 --> 00:20:55,978
+<font color="#ffff00">Powaqa không ở đây.</font>
+
+253
+00:20:58,318 --> 00:21:00,604
+<font color="#ffff00">Bọn kia chắc đã bắt nó đi rồi.</font>
+
+254
+00:21:00,811 --> 00:21:03,348
+<font color="#ffff00">Chúng đi về hướng bắc.</font>
+
+255
+00:21:04,137 --> 00:21:08,577
+<font color="#ffff00">Ta sẽ tìm được dấu chúng
+ở trên núi.</font>
+
+256
+00:21:16,325 --> 00:21:17,992
+<font color="#ffff00">Bỏ con thuyền...</font>
+
+257
+00:21:18,098 --> 00:21:19,418
+<font color="#ffff00">có phải là quyết định đúng không?</font>
+
+258
+00:21:20,163 --> 00:21:21,969
+<font color="#ffff00">Bọn man di hiểu rõ con sông đó.</font>
+
+259
+00:21:22,460 --> 00:21:23,968
+<font color="#ffff00">Chúng sẽ tập kích ta.</font>
+
+260
+00:21:24,524 --> 00:21:26,892
+<font color="#ffff00">Nếu ta ở cứ theo phía đông
+hướng mấy ngọn núi đó...</font>
+
+261
+00:21:26,916 --> 00:21:28,805
+<font color="#ffff00">ta không mất thêm một tuần
+cho chuyến đi này.</font>
+
+262
+00:21:28,829 --> 00:21:31,151
+<font color="#ffff00">Trên bờ khô ráo, chẳng có gì
+cho lũ man di săn cả.</font>
+
+263
+00:21:32,719 --> 00:21:36,039
+<font color="#ffff00">- Ngoại trừ ta?
+- Ngoại trừ ta.</font>
+
+264
+00:21:42,967 --> 00:21:44,639
+<font color="#ffff00">Những gì Fitzgerald nói
+có đúng không?</font>
+
+265
+00:21:46,469 --> 00:21:49,230
+<font color="#ffff00">Có phải vì thế mà anh ra đây ở cái nơi
+khỉ ho cò gáy của thế giới này?</font>
+
+266
+00:21:52,030 --> 00:21:54,636
+<font color="#ffff00">Glass? Tôi thích sự tĩnh lặng.</font>
+
+267
+00:21:57,083 --> 00:21:59,979
+<font color="#ffff00">Con trai anh,
+nó đã thấy nhiều chuyện...</font>
+
+268
+00:22:01,112 --> 00:22:03,526
+<font color="#ffff00">Nó có còn mẹ để mà anh
+đưa nó về với không?</font>
+
+269
+00:29:05,981 --> 00:29:07,486
+<font color="#ffff00">Glass!? Có gấu con ở đây.</font>
+
+270
+00:29:07,521 --> 00:29:08,557
+<font color="#ffff00">Glass!</font>
+
+271
+00:29:11,283 --> 00:29:12,447
+<font color="#ffff00">Có gấu con ở đây này.</font>
+
+272
+00:29:17,019 --> 00:29:18,329
+<font color="#ffff00">Ôi Chúa ơi.</font>
+
+273
+00:29:19,733 --> 00:29:21,001
+<font color="#ffff00">Này.</font>
+
+274
+00:29:21,802 --> 00:29:22,802
+<font color="#ffff00">Này.</font>
+
+275
+00:29:22,827 --> 00:29:24,393
+<font color="#ffff00">Anh ta ở dưới này.</font>
+
+276
+00:29:26,409 --> 00:29:28,089
+<font color="#ffff00">- Giúp tôi...
+- Nhớ để ý, có gầu ở đây đấy.</font>
+
+277
+00:29:28,297 --> 00:29:29,872
+<font color="#ffff00">Lại đây tôi cần anh giúp.</font>
+
+278
+00:29:32,079 --> 00:29:33,079
+<font color="#ffff00">Glass.</font>
+
+279
+00:29:33,742 --> 00:29:34,768
+<font color="#ffff00">Ôi Chúa ơi!</font>
+
+280
+00:29:36,950 --> 00:29:38,149
+<font color="#ffff00">- Ôi Chúa ơi!
+- Trưởng đoàn.</font>
+
+281
+00:29:38,493 --> 00:29:39,493
+<font color="#ffff00">Đưa tôi cái giẻ mau!</font>
+
+282
+00:29:40,176 --> 00:29:41,571
+<font color="#ffff00">Đưa tôi cái giẻ trước khi anh ta
+chảy máu mà chết.</font>
+
+283
+00:29:43,759 --> 00:29:44,795
+<font color="#ffff00">Chuẩn bị đồ sơ cứu.</font>
+
+284
+00:29:45,261 --> 00:29:47,012
+<font color="#ffff00">Bridger, cầm lấy.</font>
+
+285
+00:29:48,149 --> 00:29:49,634
+<font color="#ffff00">- Từ thôi.
+- Chúa ơi!</font>
+
+286
+00:29:50,053 --> 00:29:52,736
+<font color="#ffff00">Anh ta thật đáng nể dù có bỏ mạng
+cũng phải kéo con gấu theo.</font>
+
+287
+00:29:52,760 --> 00:29:54,146
+<font color="#ffff00">Anh ta lẽ ra không được nổ súng,</font>
+
+288
+00:29:54,158 --> 00:29:55,686
+<font color="#ffff00">cả nơi này rồi sẽ bu đầy lũ man di...</font>
+
+289
+00:29:56,460 --> 00:29:58,897
+<font color="#ffff00">Này đủ rồi đấy!</font>
+
+290
+00:29:59,136 --> 00:30:00,479
+<font color="#ffff00">Ta vẫn đang ở trong lãnh thổ
+của lũ man di...</font>
+
+291
+00:30:00,573 --> 00:30:02,442
+<font color="#ffff00">anh ta là người của ta, chết tiệt.</font>
+
+292
+00:30:03,295 --> 00:30:05,974
+<font color="#ffff00">Để thằng nhóc yên,
+tỏa ra canh chừng đi.</font>
+
+293
+00:30:05,998 --> 00:30:07,871
+<font color="#ffff00">Phía bắc và tây,
+đưa hai người này đi cùng anh.</font>
+
+294
+00:30:07,906 --> 00:30:10,094
+<font color="#ffff00">Bill, Fryman, hai người
+canh chừng phía nam và đông.</font>
+
+295
+00:30:10,318 --> 00:30:12,388
+<font color="#ffff00">Coi chừng xem có ai
+nghe thấy phát súng đó không.</font>
+
+296
+00:30:12,480 --> 00:30:14,401
+<font color="#ffff00">- Vâng.
+- Ta phải khâu vết thương cho anh ta.</font>
+
+297
+00:30:15,181 --> 00:30:16,181
+<font color="#ffff00">Thế còn tôi?</font>
+
+298
+00:30:16,813 --> 00:30:17,869
+<font color="#ffff00">Được rồi.</font>
+
+299
+00:30:17,941 --> 00:30:19,153
+<font color="#ffff00">- Anh phải...
+- Anh ở đây.</font>
+
+300
+00:30:20,060 --> 00:30:22,759
+<font color="#ffff00">- Giữ chặt.
+- Xin lỗi, anh Glass. Tôi rất xin lỗi.</font>
+
+301
+00:30:22,810 --> 00:30:24,978
+<font color="#ffff00">Bridger, giữ lấy anh ta.
+Ấn chặt chỗ này.</font>
+
+302
+00:30:26,351 --> 00:30:27,561
+<font color="#ffff00">Dưới này cũng chảy máu.</font>
+
+303
+00:30:29,212 --> 00:30:30,767
+<font color="#ffff00">Họ đang tra tấn anh ta.</font>
+
+304
+00:30:31,476 --> 00:30:35,395
+<font color="#ffff00">Điều sáng suốt cần làm...
+mau giải thoát cho anh ta.</font>
+
+305
+00:30:36,298 --> 00:30:38,394
+<font color="#ffff00">Trừ khi anh ta có khả năng qua khỏi.</font>
+
+306
+00:30:40,844 --> 00:30:44,592
+<font color="#ffff00">Qua khỏi? Anh thấy con gấu
+hành anh ta thế nào rồi đấy.</font>
+
+307
+00:30:44,992 --> 00:30:46,613
+<font color="#ffff00">Anh ta sẽ chết trong một tiếng nữa.</font>
+
+308
+00:30:48,558 --> 00:30:51,655
+<font color="#ffff00">Ừ, bọn ta cũng sẽ chết nếu ta
+không thôi kêu gào như vậy.</font>
+
+309
+00:30:55,674 --> 00:30:57,863
+<font color="#ffff00">Về phía cậu và buộc chặt vào.
+Tôi giữ anh ta. Làm đi.</font>
+
+310
+00:30:58,735 --> 00:30:59,996
+<font color="#ffff00">Giữ lấy anh ta, cậu làm đi.</font>
+
+311
+00:31:01,107 --> 00:31:03,219
+<font color="#ffff00">Làm đi! Mau!</font>
+
+312
+00:31:08,912 --> 00:31:10,981
+<font color="#ffff00">- Anh ta ngất rồi.
+- Tốt lắm.</font>
+
+313
+00:31:11,200 --> 00:31:13,676
+<font color="#ffff00">Nhân đây tôi sẽ khâu cổ anh ta,
+để tôi xem.</font>
+
+314
+00:31:13,866 --> 00:31:14,735
+<font color="#ffff00">Ôi Chúa ơi!</font>
+
+315
+00:31:14,880 --> 00:31:16,071
+<font color="#ffff00">Nước.</font>
+
+316
+00:31:23,639 --> 00:31:25,839
+<font color="#ffff00">Bridger, đi bảo mọi người
+tối nay ta sẽ dựng trại ở đây.</font>
+
+317
+00:31:26,348 --> 00:31:28,220
+<font color="#ffff00">- Con ở ngay đây.
+- Vâng.</font>
+
+318
+00:31:29,399 --> 00:31:31,516
+<font color="#ffff00">Con sẽ luôn ở đây...</font>
+
+319
+00:31:46,357 --> 00:31:47,818
+<font color="#ffff00">Toussaint, ông ta tới rồi.</font>
+
+320
+00:31:48,133 --> 00:31:50,669
+<font color="#ffff00">Ta tưởng ông ta sẽ không tới chứ.</font>
+
+321
+00:31:52,109 --> 00:31:53,553
+<font color="#ffff00">Rất mừng ông tới được đây.</font>
+
+322
+00:31:56,042 --> 00:31:59,115
+<font color="#ffff00">Chúng tôi cần ngựa và súng.</font>
+
+323
+00:31:59,461 --> 00:32:01,618
+<font color="#ffff00">Chúng tôi mang tới rất nhiều da.</font>
+
+324
+00:32:02,178 --> 00:32:05,444
+<font color="#ffff00">Không có ngựa... chỉ đúng như
+những gì đã thỏa thuận.</font>
+
+325
+00:32:06,767 --> 00:32:09,052
+<font color="#ffff00">Lấy bao nhiêu da tùy anh.</font>
+
+326
+00:32:09,438 --> 00:32:12,729
+<font color="#ffff00">Chúng tôi cần ngựa và súng.</font>
+
+327
+00:32:12,898 --> 00:32:15,028
+<font color="#ffff00">Ta cần một con đàn bà vếu to...</font>
+
+328
+00:32:15,900 --> 00:32:17,310
+<font color="#ffff00">Biết nấu ăn.</font>
+
+329
+00:32:18,817 --> 00:32:20,373
+<font color="#ffff00">Bọn ta không thể cho anh ngựa.</font>
+
+330
+00:32:21,809 --> 00:32:22,888
+<font color="#ffff00">Anh ta nói gì vậy?</font>
+
+331
+00:32:23,050 --> 00:32:24,138
+<font color="#ffff00">Tôi không biết, gì đó về ngựa.</font>
+
+332
+00:32:24,223 --> 00:32:25,308
+<font color="#ffff00">Mang tới cho chúng ta cái gì
+để uống...</font>
+
+333
+00:32:25,473 --> 00:32:26,473
+<font color="#ffff00">chút whisky đi.</font>
+
+334
+00:32:28,235 --> 00:32:29,677
+<font color="#ffff00">Bảo anh ta đừng có hỏi về ngựa nữa.</font>
+
+335
+00:32:32,847 --> 00:32:34,637
+<font color="#ffff00">Rất vui được làm ăn với anh.</font>
+
+336
+00:32:34,906 --> 00:32:35,996
+<font color="#ffff00">Còn ngựa.</font>
+
+337
+00:32:36,943 --> 00:32:37,943
+<font color="#ffff00">Không có ngựa.</font>
+
+338
+00:32:39,171 --> 00:32:40,891
+<font color="#ffff00">Bọn ta chỉ có thể trao đổi
+súng và đạn dược.</font>
+
+339
+00:32:40,995 --> 00:32:43,710
+<font color="#ffff00">Bảo anh ta nếu còn lèm bèm
+về ngựa nữa, là khỏi làm ăn gì luôn.</font>
+
+340
+00:32:45,651 --> 00:32:47,182
+<font color="#ffff00">Anh lấy chúng ở đâu ra?</font>
+
+341
+00:32:47,208 --> 00:32:48,810
+<font color="#ffff00">Người Mỹ hả?</font>
+
+342
+00:32:49,732 --> 00:32:50,871
+<font color="#ffff00">Chúng được đóng dấu rồi.</font>
+
+343
+00:32:51,792 --> 00:32:54,811
+<font color="#ffff00">Tôi sẽ chỉ trả nửa giá cho số hàng.</font>
+
+344
+00:32:56,700 --> 00:32:58,543
+<font color="#ffff00">Đưa anh ta ra khỏi đó.</font>
+
+345
+00:32:58,801 --> 00:33:00,347
+<font color="#ffff00">Ta nói không có ngựa.</font>
+
+346
+00:33:00,813 --> 00:33:02,412
+<font color="#ffff00">Bọn ta lấy ba con ngựa này.</font>
+
+347
+00:33:03,122 --> 00:33:04,465
+<font color="#ffff00">Ta sẽ không nói lại đâu.</font>
+
+348
+00:33:05,004 --> 00:33:06,364
+<font color="#ffff00">Việc đó không có trong thỏa thuận.</font>
+
+349
+00:33:06,652 --> 00:33:08,245
+<font color="#ffff00">Giờ bảo người của anh tránh ra.</font>
+
+350
+00:33:08,544 --> 00:33:10,384
+<font color="#ffff00">Chúng ta thỏa thuận rồi,
+anh phải tôn trọng nó.</font>
+
+351
+00:33:11,752 --> 00:33:16,647
+<font color="#ffff00">Anh đứng đó và nói với tôi
+về danh dự sao?</font>
+
+352
+00:33:17,302 --> 00:33:19,017
+<font color="#ffff00">Tôi nói rồi anh ta nói được
+tiếng Pháp mà.</font>
+
+353
+00:33:21,565 --> 00:33:23,131
+<font color="#ffff00">Số da đó là đồ ăn cắp.</font>
+
+354
+00:33:27,998 --> 00:33:31,403
+<font color="#ffff00">Các người trộm mọi thứ bọn ta.</font>
+
+355
+00:33:33,695 --> 00:33:35,045
+<font color="#ffff00">Mọi thứ!</font>
+
+356
+00:33:35,610 --> 00:33:36,875
+<font color="#ffff00">Đất.</font>
+
+357
+00:33:37,690 --> 00:33:39,764
+<font color="#ffff00">Động vật.</font>
+
+358
+00:33:40,238 --> 00:33:43,940
+<font color="#ffff00">Hai tên da trắng lẻn vào làng ta</font>
+
+359
+00:33:43,965 --> 00:33:49,209
+<font color="#ffff00">và bắt con gái ta, Powaqa.</font>
+
+360
+00:33:49,466 --> 00:33:54,323
+<font color="#ffff00">Bọn ta để lại số da này cho các anh
+vì bọn ta có danh dự.</font>
+
+361
+00:33:54,799 --> 00:33:57,449
+<font color="#ffff00">Ta lấy ngựa của các anh
+để tìm con gái ta.</font>
+
+362
+00:33:58,124 --> 00:34:01,919
+<font color="#ffff00">Các anh thích thì cứ
+thử ngăn tôi xem.</font>
+
+363
+00:34:05,331 --> 00:34:08,440
+<font color="#ffff00">Làm ăn là lắm ăn.</font>
+
+364
+00:34:10,785 --> 00:34:13,743
+<font color="#ffff00">Chuẩn bị 5 con ngựa cho họ.</font>
+
+365
+00:34:20,772 --> 00:34:22,926
+<font color="#ffff00">Tôi muốn mọi người dậy
+ngay khi trời sáng.</font>
+
+366
+00:34:23,007 --> 00:34:24,156
+<font color="#ffff00">- Vâng.
+- Rõ, đoàn trưởng.</font>
+
+367
+00:34:24,180 --> 00:34:26,147
+<font color="#ffff00">Kéo Glass theo sẽ rất vất vả.</font>
+
+368
+00:34:26,640 --> 00:34:29,171
+<font color="#ffff00">Ta cần đi trước càng xa càng tốt.</font>
+
+369
+00:34:30,216 --> 00:34:31,793
+<font color="#ffff00">Ta sẽ chia làm hai nhóm.</font>
+
+370
+00:34:32,548 --> 00:34:37,342
+<font color="#ffff00">Fitzgerald, Jones, Fryman.
+Mấy anh đi bên phía đông con sông.</font>
+
+371
+00:34:37,843 --> 00:34:39,753
+<font color="#ffff00">Anderson, anh đi do thám phía trước.</font>
+
+372
+00:34:40,829 --> 00:34:44,064
+<font color="#ffff00">- Bộ móng đó không thuộc về cậu.
+- Mọi người thay nhau kéo Glass.</font>
+
+373
+00:34:44,254 --> 00:34:45,314
+<font color="#ffff00">Vâng, đoàn trưởng.</font>
+
+374
+00:34:45,360 --> 00:34:46,467
+<font color="#ffff00">Không phải là cho tôi.</font>
+
+375
+00:35:31,403 --> 00:35:32,793
+<font color="#ffff00">Đừng để anh ta rơi xuống nước...</font>
+
+376
+00:35:32,903 --> 00:35:33,903
+<font color="#ffff00">Dừng lại.</font>
+
+377
+00:35:35,244 --> 00:35:37,015
+<font color="#ffff00">- Biến mẹ đi.
+- Đó là lệnh!</font>
+
+378
+00:36:01,109 --> 00:36:02,739
+<font color="#ffff00">Chết tiệt, đừng để anh ta rơi xuống!</font>
+
+379
+00:36:03,073 --> 00:36:04,577
+<font color="#ffff00">Đừng để anh ta rơi xuống!</font>
+
+380
+00:36:16,611 --> 00:36:17,611
+<font color="#ffff00">Coi chừng.</font>
+
+381
+00:36:18,523 --> 00:36:20,095
+<font color="#ffff00">Làm sao chúng ta
+lên được trên đó?</font>
+
+382
+00:36:20,329 --> 00:36:21,445
+<font color="#ffff00">Chậm lại chút.</font>
+
+383
+00:36:21,547 --> 00:36:23,417
+<font color="#ffff00">Chết mất thôi, đoàn trưởng.</font>
+
+384
+00:36:30,980 --> 00:36:32,325
+<font color="#ffff00">Nâng anh ta lên, Bridger.</font>
+
+385
+00:36:33,554 --> 00:36:35,237
+<font color="#ffff00">Chết tiệt, giữ cho chắc...</font>
+
+386
+00:36:35,555 --> 00:36:37,555
+<font color="#ffff00">- Nâng cao lên chút nữa.
+- Đang nâng đây!</font>
+
+387
+00:36:38,386 --> 00:36:39,386
+<font color="#ffff00">Mọi người.</font>
+
+388
+00:36:39,700 --> 00:36:41,137
+<font color="#ffff00">Kéo nào...</font>
+
+389
+00:36:42,457 --> 00:36:43,569
+<font color="#ffff00">Tôi sẽ lên trên và kéo...</font>
+
+390
+00:36:45,950 --> 00:36:47,318
+<font color="#ffff00">Đẩy...</font>
+
+391
+00:36:48,462 --> 00:36:49,579
+<font color="#ffff00">Giữ lấy.</font>
+
+392
+00:36:50,810 --> 00:36:52,310
+<font color="#ffff00">Chân tôi.</font>
+
+393
+00:36:52,801 --> 00:36:53,716
+<font color="#ffff00">Đủ quá rồi.</font>
+
+394
+00:36:53,741 --> 00:36:56,484
+<font color="#ffff00">Cứ như này ta không thể qua được đâu.</font>
+
+395
+00:36:57,433 --> 00:36:58,741
+<font color="#ffff00">Anh ta hạ sốt rồi, đoàn trưởng.</font>
+
+396
+00:37:01,109 --> 00:37:02,969
+<font color="#ffff00">Đoàn trưởng, anh chẳng giúp gì
+cho chúng ta</font>
+
+397
+00:37:03,161 --> 00:37:06,605
+<font color="#ffff00">hay anh ta, khi cứ để
+anh ta phải chịu đựng như này.</font>
+
+398
+00:37:06,820 --> 00:37:07,820
+<font color="#ffff00">Đoàn trưởng!</font>
+
+399
+00:37:08,136 --> 00:37:12,313
+<font color="#ffff00">Đoàn trưởng, trên này không có gì khác.
+Ta phải quay lại thôi.</font>
+
+400
+00:37:13,131 --> 00:37:14,370
+<font color="#ffff00">Tìm đường khác.</font>
+
+401
+00:37:18,484 --> 00:37:19,488
+<font color="#ffff00">Khoan đã.</font>
+
+402
+00:37:21,950 --> 00:37:22,950
+<font color="#ffff00">Glass... Hugh...</font>
+
+403
+00:37:25,437 --> 00:37:27,452
+<font color="#ffff00">Tôi xin lỗi, tôi xin lỗi.</font>
+
+404
+00:37:28,142 --> 00:37:30,790
+<font color="#ffff00">Lấy miếng giẻ che mắt
+anh ta lại, Bridger.</font>
+
+405
+00:37:31,031 --> 00:37:32,422
+<font color="#ffff00">- Sao?
+- Tôi không thể.</font>
+
+406
+00:37:32,446 --> 00:37:33,916
+<font color="#ffff00">Lấy miếng giẻ che mắt anh ta lại.</font>
+
+407
+00:37:33,951 --> 00:37:35,386
+<font color="#ffff00">- Sao, khoan.
+- Xin lỗi, Hugh.</font>
+
+408
+00:37:35,410 --> 00:37:38,971
+<font color="#ffff00">- Khoan. Tôi không thể làm vậy.
+- Làm sao ta quay lại mà không có anh ta?</font>
+
+409
+00:37:39,080 --> 00:37:40,825
+<font color="#ffff00">- Chỉ có mỗi anh ta biết đường.
+- Anh ta không đi thêm được nữa.</font>
+
+410
+00:37:40,860 --> 00:37:42,142
+<font color="#ffff00">- Lấy miếng giẻ che mắt anh ta lại.
+- Khoan.</font>
+
+411
+00:37:42,177 --> 00:37:43,115
+<font color="#ffff00">Tôi không thể.</font>
+
+412
+00:37:43,139 --> 00:37:44,179
+<font color="#ffff00">Khoan, anh không thể...</font>
+
+413
+00:37:46,264 --> 00:37:47,914
+<font color="#ffff00">Lấy miếng giẻ che mắt anh ta lại.</font>
+
+414
+00:37:48,778 --> 00:37:50,186
+<font color="#ffff00">Che mắt anh ta lại.</font>
+
+415
+00:37:51,125 --> 00:37:52,166
+<font color="#ffff00">Lùi lại.</font>
+
+416
+00:37:55,619 --> 00:37:57,361
+<font color="#ffff00">Dừng lại, anh Henry...</font>
+
+417
+00:37:57,938 --> 00:37:59,240
+<font color="#ffff00">Henry, làm ơn.</font>
+
+418
+00:37:59,430 --> 00:38:00,689
+<font color="#ffff00">Đoàn trưởng...</font>
+
+419
+00:38:00,749 --> 00:38:01,870
+<font color="#ffff00">Này, Hawk!</font>
+
+420
+00:38:03,047 --> 00:38:04,263
+<font color="#ffff00">Bình tĩnh, nhóc.</font>
+
+421
+00:38:04,656 --> 00:38:05,676
+<font color="#ffff00">Bình tĩnh.</font>
+
+422
+00:38:10,556 --> 00:38:12,352
+<font color="#ffff00">Henry, làm ơn...</font>
+
+423
+00:38:12,613 --> 00:38:15,745
+<font color="#ffff00">Thêm 70 đô tiền thưởng
+từ công ty Rocky Mountain Fur</font>
+
+424
+00:38:15,842 --> 00:38:17,316
+<font color="#ffff00">cho hai người ở lại</font>
+
+425
+00:38:17,351 --> 00:38:19,195
+<font color="#ffff00">với Glass để xử lí việc này.</font>
+
+426
+00:38:19,199 --> 00:38:20,754
+<font color="#ffff00">- Tôi sẽ ở lại.
+- Tôi cũng vậy.</font>
+
+427
+00:38:20,987 --> 00:38:22,427
+<font color="#ffff00">Có tiền hay không,
+tôi cũng sẽ ở lại.</font>
+
+428
+00:38:23,688 --> 00:38:24,976
+<font color="#ffff00">Tôi cần người thứ ba.</font>
+
+429
+00:38:25,710 --> 00:38:27,554
+<font color="#ffff00">Xin lỗi, đoàn trưởng,
+tôi còn có gia đình.</font>
+
+430
+00:38:28,459 --> 00:38:29,796
+<font color="#ffff00">Tôi không có điên.</font>
+
+431
+00:38:30,806 --> 00:38:34,084
+<font color="#ffff00">Đoàn trưởng, ba người đàn ông không thể
+đối đầu với một đoàn người man di.</font>
+
+432
+00:38:34,108 --> 00:38:35,360
+<font color="#ffff00">Đừng nói đến mấy thằng nhóc.</font>
+
+433
+00:38:35,810 --> 00:38:39,123
+<font color="#ffff00">Ngoài ra, 70 đô cũng không giúp ai
+có lại được đôi tai mới.</font>
+
+434
+00:38:39,147 --> 00:38:40,249
+<font color="#ffff00">Vậy thì 100.</font>
+
+435
+00:38:41,062 --> 00:38:43,064
+<font color="#ffff00">Chúng ta còn sống là nhờ
+người đàn ông này.</font>
+
+436
+00:38:43,275 --> 00:38:47,890
+<font color="#ffff00">Đoàn trưởng, ta bắt đầu 45 người,
+giờ ta còn 10 người, coi như 9.</font>
+
+437
+00:38:48,255 --> 00:38:50,105
+<font color="#ffff00">Ông ấy là bố tôi,
+ông ta thể lấy phần của tôi.</font>
+
+438
+00:38:50,140 --> 00:38:51,226
+<font color="#ffff00">Của tôi nữa.</font>
+
+439
+00:38:51,250 --> 00:38:52,514
+<font color="#ffff00">Cả của tôi luôn.</font>
+
+440
+00:38:57,342 --> 00:38:58,433
+<font color="#ffff00">Được rồi.</font>
+
+441
+00:38:59,194 --> 00:39:02,285
+<font color="#ffff00">Được rồi, nếu Bridger cũng thấy vậy,
+thì tôi sẽ ở lại với họ.</font>
+
+442
+00:39:02,354 --> 00:39:03,373
+<font color="#ffff00">- Anh sao?
+- Ừ.</font>
+
+443
+00:39:03,634 --> 00:39:05,996
+<font color="#ffff00">Anh đã để mất phần da của tôi rồi...</font>
+
+444
+00:39:06,000 --> 00:39:08,728
+<font color="#ffff00">Nên tôi không còn lựa chọn nào
+ngoài cách bù lại bằng cách khác.</font>
+
+445
+00:39:09,801 --> 00:39:12,674
+<font color="#ffff00">Ngoài ra, ở lại thêm một hai ngày
+cũng không có gì khác biệt.</font>
+
+446
+00:39:12,784 --> 00:39:15,497
+<font color="#ffff00">300 đô cũng là an ủi
+phần nào khi về nhà.</font>
+
+447
+00:39:15,583 --> 00:39:17,460
+<font color="#ffff00">Glass phải được chăm sóc cho tới...</font>
+
+448
+00:39:17,484 --> 00:39:18,484
+<font color="#ffff00">Hiểu chứ?</font>
+
+449
+00:39:18,725 --> 00:39:20,399
+<font color="#ffff00">Ừ. Tôi hứa, tôi hiểu mà.</font>
+
+450
+00:39:23,347 --> 00:39:25,993
+<font color="#ffff00">Mấy đứa đưa anh ta xuống dốc
+tới chỗ nào an toàn trước khi trời tối.</font>
+
+451
+00:39:26,028 --> 00:39:27,407
+<font color="#ffff00">Nghe rồi đấy.</font>
+
+452
+00:39:27,442 --> 00:39:28,786
+<font color="#ffff00">- Fitzgerald.
+- Đoàn trưởng.</font>
+
+453
+00:39:30,657 --> 00:39:32,952
+<font color="#ffff00">Khi cần thiết Glass
+vẫn phải được chăm sóc.</font>
+
+454
+00:39:33,504 --> 00:39:36,407
+<font color="#ffff00">Và chôn cất tử tế khi tới lúc.
+Anh ta xứng đáng được vậy.</font>
+
+455
+00:39:37,733 --> 00:39:39,109
+<font color="#ffff00">Tôi hiểu.</font>
+
+456
+00:39:42,400 --> 00:39:44,400
+<font color="#ffff00">Tự làm mình bị thương à?</font>
+
+457
+00:39:44,650 --> 00:39:46,650
+<font color="#ffff00">Tôi sẽ ổn thôi.</font>
+
+458
+00:39:54,092 --> 00:39:57,750
+<font color="#ffff00">Bố có nghe thấy tiếng gió không?</font>
+
+459
+00:39:59,676 --> 00:40:06,082
+<font color="#ffff00">Có nhớ mẹ thường nói gì
+về gió không?</font>
+
+460
+00:40:06,634 --> 00:40:14,593
+<font color="#ffff00">Gió không thể quật ngã
+một cái cây có rễ vững chắc.</font>
+
+461
+00:40:17,249 --> 00:40:20,485
+<font color="#ffff00">Bố vẫn còn thở...</font>
+
+462
+00:40:24,161 --> 00:40:27,929
+<font color="#ffff00">Con nhớ mẹ lắm.</font>
+
+463
+00:40:48,637 --> 00:40:50,720
+<font color="#ffff00">Ta sẽ luôn ở đây.</font>
+
+464
+00:40:53,052 --> 00:40:55,033
+<font color="#ffff00">Ta ở ngay đây.</font>
+
+465
+00:40:59,729 --> 00:41:04,311
+<font color="#ffff00">Chừng nào con còn hơi thở,
+con hãy chiến đâu.</font>
+
+466
+00:41:06,109 --> 00:41:08,718
+<font color="#ffff00">Hãy thở... tiếp tục thở.</font>
+
+467
+00:41:08,742 --> 00:41:12,559
+<font color="#ffff00">Khi có bão...</font>
+
+468
+00:41:15,486 --> 00:41:20,760
+<font color="#ffff00">Và anh đứng trước một cái cây...</font>
+
+469
+00:41:25,038 --> 00:41:32,089
+<font color="#ffff00">Nếu anh nhìn vào cành của nó,
+anh thề là nó sẽ gãy.</font>
+
+470
+00:41:42,223 --> 00:41:50,160
+<font color="#ffff00">Nhưng nếu anh nhìn vào thân,
+anh sẽ thấy sự vững chãi của nó.</font>
+
+471
+00:42:32,093 --> 00:42:34,986
+<font color="#ffff00">300 đô thì còn lâu mới giải nghệ được.</font>
+
+472
+00:42:35,609 --> 00:42:38,433
+<font color="#ffff00">Té xuống Texas, kiếm cho mình
+một mảnh đất tử tế...</font>
+
+473
+00:42:38,490 --> 00:42:40,154
+<font color="#ffff00">và bắt đầu tè trước gió.</font>
+
+474
+00:42:41,092 --> 00:42:43,842
+<font color="#ffff00">Biến khỏi cái vùng đất
+trời đánh thánh vật này.</font>
+
+475
+00:42:48,682 --> 00:42:50,000
+<font color="#ffff00">Anh bị vậy là do bọn man di à?</font>
+
+476
+00:42:52,065 --> 00:42:53,201
+<font color="#ffff00">Tôi chỉ hỏi vậy thôi.</font>
+
+477
+00:42:54,546 --> 00:42:55,821
+<font color="#ffff00">Là bọn chúng.</font>
+
+478
+00:42:56,933 --> 00:42:59,175
+<font color="#ffff00">Chúng cũng biết tận hưởng lắm.</font>
+
+479
+00:43:00,541 --> 00:43:01,709
+<font color="#ffff00">Ban đầu tôi chẳng cảm thấy gì cả,</font>
+
+480
+00:43:01,870 --> 00:43:03,450
+<font color="#ffff00">tôi chỉ nghe thấy tiếng như...</font>
+
+481
+00:43:03,862 --> 00:43:06,053
+<font color="#ffff00">dao cạo vào hộp sọ tôi...</font>
+
+482
+00:43:07,330 --> 00:43:10,538
+<font color="#ffff00">Chúng cười nhạo, gào thét
+ầm ỹ các kiểu...</font>
+
+483
+00:43:11,287 --> 00:43:12,882
+<font color="#ffff00">Thế rồi máu chảy ra...</font>
+
+484
+00:43:13,119 --> 00:43:16,840
+<font color="#ffff00">Cái lạnh bắt đầu ảnh hưởng tới
+mặt và mắt tôi...</font>
+
+485
+00:43:17,851 --> 00:43:19,169
+<font color="#ffff00">Hít nó vào...</font>
+
+486
+00:43:19,791 --> 00:43:21,090
+<font color="#ffff00">mắc nghẹn vì nó...</font>
+
+487
+00:43:23,061 --> 00:43:24,564
+<font color="#ffff00">Đó là khi tôi cảm thấy nó.</font>
+
+488
+00:43:25,595 --> 00:43:26,907
+<font color="#ffff00">Cảm thấy tất cả.</font>
+
+489
+00:43:28,313 --> 00:43:30,234
+<font color="#ffff00">Chúng khiến đầu óc tôi quay cuồng.</font>
+
+490
+00:43:31,755 --> 00:43:32,755
+<font color="#ffff00">Chúa ơi.</font>
+
+491
+00:43:32,858 --> 00:43:34,850
+<font color="#ffff00">Ừ, đám người Indian
+ở dưới Texas...</font>
+
+492
+00:43:35,199 --> 00:43:37,353
+<font color="#ffff00">chúng có thể cướp cậu,
+như không lấy da đầu cậu đâu.</font>
+
+493
+00:43:39,449 --> 00:43:40,658
+<font color="#ffff00">Là khi nào?</font>
+
+494
+00:43:44,097 --> 00:43:47,690
+<font color="#ffff00">Chết tiệt, đừng có làm ồn nữa,
+được không?</font>
+
+495
+00:43:47,725 --> 00:43:50,026
+<font color="#ffff00">Hay là...</font>
+
+496
+00:44:16,035 --> 00:44:18,404
+<font color="#ffff00">Tôi càng ngày càng xa phía sau Henry</font>
+
+497
+00:44:18,416 --> 00:44:20,350
+<font color="#ffff00">và bọn nhóc có nhiệm vụ chăm sóc anh.</font>
+
+498
+00:44:24,594 --> 00:44:27,711
+<font color="#ffff00">Bọn ta phải lên ngọn núi đó nhưng
+mùa đông lạnh cứ đẩy ta xuống.</font>
+
+499
+00:44:31,233 --> 00:44:32,335
+<font color="#ffff00">Nếu anh sẵn sàng...</font>
+
+500
+00:44:32,593 --> 00:44:34,137
+<font color="#ffff00">nhận ban phước.</font>
+
+501
+00:44:35,649 --> 00:44:36,847
+<font color="#ffff00">Tôi có thể giúp anh.</font>
+
+502
+00:44:42,682 --> 00:44:44,382
+<font color="#ffff00">Anh còn vương vấn gì nữa hả Glass?</font>
+
+503
+00:44:48,343 --> 00:44:49,455
+<font color="#ffff00">Anh biết không?</font>
+
+504
+00:44:50,255 --> 00:44:51,659
+<font color="#ffff00">Sẽ tốt hơn nhiều...</font>
+
+505
+00:44:52,026 --> 00:44:54,906
+<font color="#ffff00">nếu anh chịu chút hơi thở
+cuối cùng của anh ngay lúc này.</font>
+
+506
+00:44:55,487 --> 00:44:56,669
+<font color="#ffff00">Vì tất cả chúng tôi.</font>
+
+507
+00:44:59,700 --> 00:45:01,341
+<font color="#ffff00">Anh sống dai thật đấy.</font>
+
+508
+00:45:01,779 --> 00:45:02,850
+<font color="#ffff00">Phải công nhận.</font>
+
+509
+00:45:04,480 --> 00:45:05,731
+<font color="#ffff00">Tôi cầu xin anh, Glass.</font>
+
+510
+00:45:05,805 --> 00:45:08,269
+<font color="#ffff00">Bọn man di đó, chúng tới gần lắm rồi,
+tôi có thể ngửi thấy chúng...</font>
+
+511
+00:45:08,389 --> 00:45:10,445
+<font color="#ffff00">và tôi biết anh cũng ngửi thấy
+mùi chúng, khi anh phải suy nghĩ.</font>
+
+512
+00:45:10,495 --> 00:45:11,892
+<font color="#ffff00">Hãy nghĩ tới thằng con anh.</font>
+
+513
+00:45:12,384 --> 00:45:14,646
+<font color="#ffff00">Được không?
+Vì anh sẽ giết nó đấy.</font>
+
+514
+00:45:14,723 --> 00:45:16,334
+<font color="#ffff00">Anh sẽ giết tất cả chúng tôi.</font>
+
+515
+00:45:23,836 --> 00:45:25,564
+<font color="#ffff00">Tôi có thể bịt miệng anh
+nếu anh muốn.</font>
+
+516
+00:45:26,237 --> 00:45:28,544
+<font color="#ffff00">Giải quyết nỗi đau đớn,
+nhanh chóng và nhẹ nhàng...</font>
+
+517
+00:45:28,568 --> 00:45:30,645
+<font color="#ffff00">không ai biết anh đã từ bỏ.
+Tôi sẽ làm vậy.</font>
+
+518
+00:45:32,284 --> 00:45:34,069
+<font color="#ffff00">Anh chỉ việc chớp mắt thôi...</font>
+
+519
+00:45:34,093 --> 00:45:35,352
+<font color="#ffff00">nếu anh muốn tôi làm vậy.</font>
+
+520
+00:45:41,835 --> 00:45:43,731
+<font color="#ffff00">Cứu thằng con anh và chớp mắt.</font>
+
+521
+00:45:53,923 --> 00:45:55,692
+<font color="#ffff00">Anh chỉ việc chớp mắt thôi.</font>
+
+522
+00:46:01,229 --> 00:46:02,162
+<font color="#ffff00">Phải rồi.</font>
+
+523
+00:46:02,197 --> 00:46:03,252
+<font color="#ffff00">Đúng rồi đấy!</font>
+
+524
+00:46:04,178 --> 00:46:07,076
+<font color="#ffff00">Anh tốt nhất hy vọng là Chúa
+mau lết mông tới đây.</font>
+
+525
+00:46:11,589 --> 00:46:13,700
+<font color="#ffff00">Có lẽ ông ấy sẽ tha thứ cho tội lỗi
+của anh, có lẽ là không đâu...</font>
+
+526
+00:46:13,873 --> 00:46:15,891
+<font color="#ffff00">Anh đột nhiên giao phó cho Chúa.</font>
+
+527
+00:46:17,342 --> 00:46:21,191
+<font color="#ffff00">Thông qua Jesus Christ, vị Chúa
+của hiện thực và lòng vị tha...</font>
+
+528
+00:46:22,435 --> 00:46:25,435
+<font color="#ffff00">và người Cha và Đấng Sáng Tạo.
+Con xin...</font>
+
+529
+00:46:25,672 --> 00:46:27,895
+<font color="#ffff00">Tránh ra. Tránh ra.</font>
+
+530
+00:46:28,477 --> 00:46:31,451
+<font color="#ffff00">Bố không sao chứ?
+Jim. Jim... Giúp với.</font>
+
+531
+00:46:43,044 --> 00:46:45,715
+<font color="#ffff00">- Giúp với.
+- Bình tĩnh. Mày không hiểu.</font>
+
+532
+00:46:47,080 --> 00:46:49,635
+<font color="#ffff00">- Đừng có hét, mày khiến cả bọn chết giờ.
+- Tránh ra.</font>
+
+533
+00:46:49,647 --> 00:46:50,503
+<font color="#ffff00">Tránh ra.</font>
+
+534
+00:46:50,632 --> 00:46:53,335
+<font color="#ffff00">Tôi sẽ cho Jim và đoàn trưởng
+biết điều ông làm và họ sẽ treo cổ ông.</font>
+
+535
+00:46:53,359 --> 00:46:55,812
+<font color="#ffff00">- Bọn tao đã thỏa thuận...
+- Họ sẽ treo cổ ông...</font>
+
+536
+00:46:55,920 --> 00:46:58,327
+<font color="#ffff00">Jim giúp với. Jim lại đây mau.</font>
+
+537
+00:46:58,668 --> 00:47:00,406
+<font color="#ffff00">Yên lặng nào!</font>
+
+538
+00:47:02,430 --> 00:47:04,430
+<font color="#ffff00">Bọn mày bị cái quái gì vậy?</font>
+
+539
+00:47:15,053 --> 00:47:16,066
+<font color="#ffff00">Chết tiệt.</font>
+
+540
+00:48:17,376 --> 00:48:18,626
+<font color="#ffff00">Tôi bắt được một con hải li, Hawk.</font>
+
+541
+00:48:21,041 --> 00:48:22,362
+<font color="#ffff00">Hơi thở anh ta thay đổi không?</font>
+
+542
+00:48:24,249 --> 00:48:25,610
+<font color="#ffff00">Tôi không để ý.</font>
+
+543
+00:48:27,597 --> 00:48:28,993
+<font color="#ffff00">Chết tiệt, anh ta lạnh như đá ấy.</font>
+
+544
+00:48:31,081 --> 00:48:33,930
+<font color="#ffff00">Đây, anh Glass... cái này giúp được.</font>
+
+545
+00:48:34,733 --> 00:48:35,954
+<font color="#ffff00">Nó sẽ giúp anh được ấm.</font>
+
+546
+00:48:36,894 --> 00:48:37,894
+<font color="#ffff00">Được rồi.</font>
+
+547
+00:48:39,985 --> 00:48:40,985
+<font color="#ffff00">Hawk đâu rồi?</font>
+
+548
+00:48:42,720 --> 00:48:44,003
+<font color="#ffff00">Nó không đi cùng cậu à?</font>
+
+549
+00:48:45,853 --> 00:48:47,292
+<font color="#ffff00">- Không.
+- Không?</font>
+
+550
+00:48:53,178 --> 00:48:54,562
+<font color="#ffff00">Tôi hiểu mà, anh Glass.</font>
+
+551
+00:48:55,320 --> 00:48:56,320
+<font color="#ffff00">Được rồi.</font>
+
+552
+00:48:56,968 --> 00:48:58,442
+<font color="#ffff00">Tôi nghĩ tôi sẽ đi nhóm lửa.</font>
+
+553
+00:48:58,644 --> 00:49:00,587
+<font color="#ffff00">Ừ, ý hay đấy.</font>
+
+554
+00:49:07,568 --> 00:49:08,568
+<font color="#ffff00">Hawk!</font>
+
+555
+00:49:09,076 --> 00:49:11,993
+<font color="#ffff00">Mày giết con tao.</font>
+
+556
+00:49:12,017 --> 00:49:13,017
+<font color="#ffff00">Hawk!</font>
+
+557
+00:49:34,925 --> 00:49:39,101
+<font color="#ffff00">Bridge, có khoảng 20 tên ở dưới sông.</font>
+
+558
+00:49:39,838 --> 00:49:41,085
+<font color="#ffff00">Chúng đang hướng về đây.</font>
+
+559
+00:49:41,476 --> 00:49:43,187
+<font color="#ffff00">Giờ thì lấy đồ của cậu
+và té thôi.</font>
+
+560
+00:49:45,099 --> 00:49:47,380
+<font color="#ffff00">Chết tiệt. Khoan. Ta phải làm gì?</font>
+
+561
+00:49:47,794 --> 00:49:49,221
+<font color="#ffff00">Chạy ngay lập tức.</font>
+
+562
+00:49:49,606 --> 00:49:52,294
+<font color="#ffff00">- Thế còn Hawk?
+- Nó không còn là vấn đề của ta nữa.</font>
+
+563
+00:49:53,246 --> 00:49:54,435
+<font color="#ffff00">Ta không thể cứ thế
+bỏ cậu ta lại được.</font>
+
+564
+00:49:54,459 --> 00:49:56,234
+<font color="#ffff00">Nó bị moi ruột hoặc bị cạo đầu rồi.</font>
+
+565
+00:49:56,830 --> 00:49:58,549
+<font color="#ffff00">Nếu không, nó có thể
+tìm chúng ta, không phải sao?</font>
+
+566
+00:49:58,584 --> 00:50:00,269
+<font color="#ffff00">Khoan. Thế còn Glass?</font>
+
+567
+00:50:00,476 --> 00:50:03,196
+<font color="#ffff00">Anh ta không phải vấn đề của ta nữa,
+giống như ta, anh ta phải tự lo.</font>
+
+568
+00:50:03,565 --> 00:50:05,992
+<font color="#ffff00">Không, không, ta đã hứa với
+đoàn trưởng rồi...</font>
+
+569
+00:50:06,085 --> 00:50:07,597
+<font color="#ffff00">Ta sẽ chôn cất anh ta tử tế
+khi tới lúc.</font>
+
+570
+00:50:07,665 --> 00:50:08,941
+<font color="#ffff00">Anh ta cần khẩu súng đó.</font>
+
+571
+00:50:09,465 --> 00:50:11,864
+<font color="#ffff00">Nếu có nhét nó vào tay anh ta,
+anh ta cũng chẳng thể làm gì được.</font>
+
+572
+00:50:11,888 --> 00:50:13,659
+<font color="#ffff00">Giờ mau dọn đồ của cậu
+và té thôi.</font>
+
+573
+00:50:13,786 --> 00:50:15,186
+<font color="#ffff00">Không, không, ta không thể làm vậy.</font>
+
+574
+00:50:15,695 --> 00:50:18,606
+<font color="#ffff00">- Ta đéo có lựa chọn nào khác đâu.
+- Không thể được. Nhìn anh ta xem.</font>
+
+575
+00:50:21,503 --> 00:50:23,302
+<font color="#ffff00">- Được rồi, đồ óc chó...
+- Anh làm gì vậy?</font>
+
+576
+00:50:23,988 --> 00:50:25,912
+<font color="#ffff00">Cậu muốn đưa anh ta theo?
+Đi nào.</font>
+
+577
+00:50:25,952 --> 00:50:27,324
+<font color="#ffff00">Không, không, khoan...</font>
+
+578
+00:50:29,483 --> 00:50:31,047
+<font color="#ffff00">Từ từ thôi, Fitz...</font>
+
+579
+00:50:31,204 --> 00:50:32,204
+<font color="#ffff00">Từ từ.</font>
+
+580
+00:50:33,173 --> 00:50:35,829
+<font color="#ffff00">- Tôi không thể...
+- Chết tiệt...</font>
+
+581
+00:50:36,690 --> 00:50:37,798
+<font color="#ffff00">Chết tiệt, lo cho xong đi.</font>
+
+582
+00:50:38,329 --> 00:50:39,126
+<font color="#ffff00">Khoan đã...</font>
+
+583
+00:50:39,161 --> 00:50:40,161
+<font color="#ffff00">Khoan!</font>
+
+584
+00:50:44,445 --> 00:50:45,445
+<font color="#ffff00">Im miệng.</font>
+
+585
+00:50:46,028 --> 00:50:47,185
+<font color="#ffff00">Từ đã.</font>
+
+586
+00:50:50,367 --> 00:50:51,367
+<font color="#ffff00">Fitz...</font>
+
+587
+00:50:51,640 --> 00:50:53,760
+<font color="#ffff00">- Anh đang làm gì vậy?
+- Trông như tôi đang làm gì hả?</font>
+
+588
+00:50:54,274 --> 00:50:55,416
+<font color="#ffff00">Chôn cất tử tế.</font>
+
+589
+00:50:55,506 --> 00:50:56,506
+<font color="#ffff00">Như cậu muốn.</font>
+
+590
+00:50:56,786 --> 00:50:59,137
+<font color="#ffff00">- Không, không phải như này.
+- Tại sao không?</font>
+
+591
+00:51:00,861 --> 00:51:03,190
+<font color="#ffff00">Anh ta còn sống, Fitz.
+Anh ta còn sống.</font>
+
+592
+00:51:05,456 --> 00:51:06,586
+<font color="#ffff00">Vậy thì bắn anh ta đi.</font>
+
+593
+00:51:19,631 --> 00:51:21,542
+<font color="#ffff00">Tôi phải đi, tôi phải...</font>
+
+594
+00:51:23,931 --> 00:51:24,931
+<font color="#ffff00">Tôi xin lỗi.</font>
+
+595
+00:51:26,103 --> 00:51:27,358
+<font color="#ffff00">Tôi xin lỗi.</font>
+
+596
+00:51:42,154 --> 00:51:44,234
+<font color="#ffff00">Đoàn trưởng, lối này...</font>
+
+597
+00:51:45,633 --> 00:51:47,484
+<font color="#ffff00">Có đường ở dưới này.</font>
+
+598
+00:51:47,519 --> 00:51:49,615
+<font color="#ffff00">Chẳng có đường nào dưới đó cả.</font>
+
+599
+00:51:50,260 --> 00:51:53,122
+<font color="#ffff00">Chẳng có gì dưới đó cả,
+ta phải trèo qua.</font>
+
+600
+00:51:53,170 --> 00:51:55,917
+<font color="#ffff00">- Glass bảo đi về hướng đông.
+- Kệ mẹ Glass.</font>
+
+601
+00:51:57,862 --> 00:51:59,882
+<font color="#ffff00">- Bản đồ thì thế nào?
+- Tiếp tục trèo.</font>
+
+602
+00:52:00,150 --> 00:52:01,402
+<font color="#ffff00">Ta trèo tiếp, đoàn trưởng.</font>
+
+603
+00:52:01,742 --> 00:52:03,273
+<font color="#ffff00">Ta trèo tiếp.</font>
+
+604
+00:52:03,518 --> 00:52:05,025
+<font color="#ffff00">Cho tới khi tới Old Gabe.</font>
+
+605
+00:52:09,479 --> 00:52:10,479
+<font color="#ffff00">Ta trèo tiếp.</font>
+
+606
+00:52:12,406 --> 00:52:13,669
+<font color="#ffff00">- Ta phải đợi Murph.
+- Ừ.</font>
+
+607
+00:52:14,081 --> 00:52:15,322
+<font color="#ffff00">Anh đợi nó đi.</font>
+
+608
+00:52:16,719 --> 00:52:17,719
+<font color="#ffff00">Đoàn trưởng.</font>
+
+609
+00:52:20,878 --> 00:52:24,000
+<font color="#ffff00">Murphy nói có đường đi
+ở dưới đó.</font>
+
+610
+00:52:24,987 --> 00:52:26,152
+<font color="#ffff00">Ta theo ai đây?</font>
+
+611
+00:52:26,248 --> 00:52:27,658
+<font color="#ffff00">Theo ai tùy anh.</font>
+
+612
+00:52:27,693 --> 00:52:28,859
+<font color="#ffff00">Tôi lên trên.</font>
+
+613
+00:52:30,524 --> 00:52:34,022
+<font color="#ffff00">- Stubby, tiếp tục lên trên.
+- Murph, lại đây!</font>
+
+614
+00:55:56,413 --> 00:56:00,474
+<font color="#ffff00">Ta không bỏ con lại đâu, con trai.</font>
+
+615
+00:56:02,159 --> 00:56:03,630
+<font color="#ffff00">Ta ở ngay đây.</font>
+
+616
+00:57:10,447 --> 00:57:11,768
+<font color="#ffff00">Lửa tắt rồi.</font>
+
+617
+00:57:13,429 --> 00:57:14,936
+<font color="#ffff00">Tôi thậm chí
+không cảm thấy chân mình...</font>
+
+618
+00:57:17,420 --> 00:57:20,276
+<font color="#ffff00">Ngoài ra, không phải ta đã chạy xa
+khỏi lũ man di rồi sao?</font>
+
+619
+00:57:20,300 --> 00:57:21,109
+<font color="#ffff00">À...</font>
+
+620
+00:57:21,292 --> 00:57:23,467
+<font color="#ffff00">một tá man di vẫn còn thể
+đi nhanh gấp đôi chúng ta.</font>
+
+621
+00:57:23,491 --> 00:57:25,034
+<font color="#ffff00">- 20.
+- Sao?</font>
+
+622
+00:57:27,455 --> 00:57:29,364
+<font color="#ffff00">Tôi tưởng anh nói lúc trước
+anh thấy 20 tên man di.</font>
+
+623
+00:57:29,396 --> 00:57:30,966
+<font color="#ffff00">Ừ, cậu nói tới cái gì?</font>
+
+624
+00:57:34,560 --> 00:57:35,587
+<font color="#ffff00">Anh gọi tôi dậy.</font>
+
+625
+00:57:37,496 --> 00:57:39,431
+<font color="#ffff00">Anh nói anh thấy 20 tên man di
+ở dưới sông.</font>
+
+626
+00:57:39,877 --> 00:57:42,813
+<font color="#ffff00">Ừ, 20 hay một tá, chẳng quan trọng.</font>
+
+627
+00:57:42,972 --> 00:57:44,305
+<font color="#ffff00">Tôi cũng không định ở lại</font>
+
+628
+00:57:44,340 --> 00:57:45,940
+<font color="#ffff00">mà đếm cái bọn mọi rợ đó,
+đúng không nào?</font>
+
+629
+00:57:49,520 --> 00:57:50,570
+<font color="#ffff00">Thật sự thì...</font>
+
+630
+00:57:52,857 --> 00:57:54,978
+<font color="#ffff00">anh làm gì một mình ở dưới sông vậy?</font>
+
+631
+00:57:56,273 --> 00:57:58,039
+<font color="#ffff00">Tôi mang lên nhiều nước lắm rồi mà.</font>
+
+632
+00:58:00,166 --> 00:58:01,166
+<font color="#ffff00">Này!</font>
+
+633
+00:58:02,643 --> 00:58:04,473
+<font color="#ffff00">Trả lời tôi đi, Fitzgerald,
+tôi hỏi anh đấy.</font>
+
+634
+00:58:06,292 --> 00:58:08,927
+<font color="#ffff00">Đừng có chất vấn tôi vì cậu cảm thấy</font>
+
+635
+00:58:08,951 --> 00:58:10,201
+<font color="#ffff00">- có lỗi vì bỏ Glass lại.
+- Trả lời tôi mau không thì</font>
+
+636
+00:58:10,213 --> 00:58:11,504
+<font color="#ffff00">tôi sẽ bắn vỡ sọ anh.</font>
+
+637
+00:58:11,695 --> 00:58:13,340
+<font color="#ffff00">Cậu có trí nhớ hơi bị ngắn đấy.</font>
+
+638
+00:58:14,540 --> 00:58:16,758
+<font color="#ffff00">Cái xác của cậu sẽ vẫn nổi
+lềnh phềnh ở Missouri vào lúc này...</font>
+
+639
+00:58:16,782 --> 00:58:17,916
+<font color="#ffff00">nếu không nhờ có tôi.</font>
+
+640
+00:58:20,680 --> 00:58:21,748
+<font color="#ffff00">Giờ cậu muốn hỏi...</font>
+
+641
+00:58:22,448 --> 00:58:24,220
+<font color="#ffff00">Cậu muốn hỏi gì?
+Nếu cậu muốn biết, hỏi đi.</font>
+
+642
+00:58:26,477 --> 00:58:29,257
+<font color="#ffff00">Cậu muốn biết tại sao cậu
+bỏ mặc Glass chết tại đó, phải không?</font>
+
+643
+00:58:29,978 --> 00:58:31,046
+<font color="#ffff00">Có lẽ...</font>
+
+644
+00:58:31,307 --> 00:58:33,699
+<font color="#ffff00">trong khi cậu bỏ thằng bạn nhỏ
+của cậu lang thang đâu đó,</font>
+
+645
+00:58:33,711 --> 00:58:36,231
+<font color="#ffff00">cậu không biết nó còn sống không.
+Đó có phải điều cậu muốn biết.</font>
+
+646
+00:58:36,496 --> 00:58:38,636
+<font color="#ffff00">Tôi cho cậu biết, vì cậu
+vẫn chưa trưởng thành.</font>
+
+647
+00:58:39,301 --> 00:58:41,298
+<font color="#ffff00">Hiểu không? Vì cậu
+sợ quắn cả đít lại</font>
+
+648
+00:58:41,322 --> 00:58:42,715
+<font color="#ffff00">và giờ cậu cũng đang sợ.
+Giờ thì bỏ khẩu súng xuống.</font>
+
+649
+00:58:43,025 --> 00:58:44,871
+<font color="#ffff00">- Bọn man di.
+- Làm sao?</font>
+
+650
+00:58:46,390 --> 00:58:48,540
+<font color="#ffff00">Cho tôi biết ngay và hãy nói thật.
+Anh có thấy bọn chúng không?</font>
+
+651
+00:58:48,564 --> 00:58:50,644
+<font color="#ffff00">- Bỏ khẩu súng xuống.
+- Anh có thấy bọn man di không?</font>
+
+652
+00:58:52,708 --> 00:58:53,863
+<font color="#ffff00">Không.</font>
+
+653
+00:58:55,215 --> 00:58:56,615
+<font color="#ffff00">Một đứa cũng không.</font>
+
+654
+00:58:59,555 --> 00:59:00,989
+<font color="#ffff00">Anh nói dối tôi sao?</font>
+
+655
+00:59:01,511 --> 00:59:02,758
+<font color="#ffff00">Anh nói dối tôi!</font>
+
+656
+00:59:06,913 --> 00:59:09,114
+<font color="#ffff00">Tôi phải khiến cậu biết thế nào là sợ.</font>
+
+657
+00:59:09,884 --> 00:59:12,204
+<font color="#ffff00">Glass thì chết rồi,
+Hawk thì không ai biết...</font>
+
+658
+00:59:12,284 --> 00:59:14,724
+<font color="#ffff00">Chúng ta có chết ngoài này
+cũng chỉ vô nghĩa... Hiểu không hả?</font>
+
+659
+00:59:15,361 --> 00:59:17,541
+<font color="#ffff00">Theo như tôi thấy,
+tôi cứu mạng cậu hai lần đấy.</font>
+
+660
+00:59:17,565 --> 00:59:19,113
+<font color="#ffff00">Với cậu tôi phải là Chúa.</font>
+
+661
+00:59:20,489 --> 00:59:23,454
+<font color="#ffff00">Và Chúa ban tặng,
+thì Chúa cũng tước đi.</font>
+
+662
+00:59:27,730 --> 00:59:28,730
+<font color="#ffff00">Chết tiệt.</font>
+
+663
+00:59:31,011 --> 00:59:32,167
+<font color="#ffff00">Thằng lìn may mắn.</font>
+
+664
+00:59:33,759 --> 00:59:35,528
+<font color="#ffff00">Lần tới nếu định bắn ai...</font>
+
+665
+00:59:35,552 --> 00:59:38,580
+<font color="#ffff00">nhớ cho thuốc súng vào.</font>
+
+666
+00:59:38,909 --> 00:59:40,327
+<font color="#ffff00">Nạp đạn vào súng.</font>
+
+667
+00:59:43,538 --> 00:59:44,538
+<font color="#ffff00">Đi thôi...</font>
+
+668
+00:59:45,031 --> 00:59:47,292
+<font color="#ffff00">Đi thôi. Lấy đồ của cậu đi.</font>
+
+669
+01:03:48,338 --> 01:03:51,392
+<font color="#ffff00">Máu còn tươi. Có thể là Powaqa.</font>
+
+670
+01:04:03,979 --> 01:04:05,243
+<font color="#ffff00">Xác một thằng nhóc.</font>
+
+671
+01:04:14,241 --> 01:04:15,639
+<font color="#ffff00">Một thằng nhóc thổ dân.</font>
+
+672
+01:04:16,637 --> 01:04:17,709
+<font color="#ffff00">Đi thôi.</font>
+
+673
+01:07:31,121 --> 01:07:33,315
+<font color="#ffff00">Đoàn trưởng, đợi...</font>
+
+674
+01:14:26,891 --> 01:14:29,346
+<font color="#ffff00">- Ai làm việc này chứ?
+- Tôi không biết.</font>
+
+675
+01:14:37,583 --> 01:14:39,946
+<font color="#ffff00">Có thể là người của
+Đại úy Leavenworth.</font>
+
+676
+01:14:42,546 --> 01:14:43,546
+<font color="#ffff00">Phải.</font>
+
+677
+01:14:44,608 --> 01:14:46,557
+<font color="#ffff00">Nhớ để ý đằng sau đấy.</font>
+
+678
+01:14:50,183 --> 01:14:52,943
+<font color="#ffff00">Lũ người Indian này
+không dễ chết như cậu nghĩ đâu.</font>
+
+679
+01:14:54,195 --> 01:14:57,408
+<font color="#ffff00">Nhìn chúng xem, lúc nào
+cũng trộm của chúng ta.</font>
+
+680
+01:15:34,482 --> 01:15:35,884
+<font color="#ffff00">Ta có ngựa ở đây.</font>
+
+681
+01:15:40,643 --> 01:15:41,754
+<font color="#ffff00">Được rồi, Bridger.</font>
+
+682
+01:15:47,526 --> 01:15:48,618
+<font color="#ffff00">Ta có ngựa.</font>
+
+683
+01:15:54,815 --> 01:15:56,553
+<font color="#ffff00">Anh muốn làm gì với lũ lợn này?</font>
+
+684
+01:16:04,021 --> 01:16:05,678
+<font color="#ffff00">Chúa đứng về phía ta, nhóc.</font>
+
+685
+01:16:14,674 --> 01:16:15,714
+<font color="#ffff00">Ổn cả chứ nhóc?</font>
+
+686
+01:16:16,558 --> 01:16:17,757
+<font color="#ffff00">Đầu óc tỉnh táo rồi chứ?</font>
+
+687
+01:16:18,840 --> 01:16:19,939
+<font color="#ffff00">Chắc là vậy.</font>
+
+688
+01:16:25,554 --> 01:16:27,474
+<font color="#ffff00">- Không thể không nghĩ liệu ta có làm...
+- Không.</font>
+
+689
+01:16:28,585 --> 01:16:29,982
+<font color="#ffff00">Ta không có quyền thắc mắc.</font>
+
+690
+01:16:30,341 --> 01:16:33,250
+<font color="#ffff00">Chúa đưa ta lên đường,
+dù do ta chọn hay không.</font>
+
+691
+01:16:37,395 --> 01:16:40,220
+<font color="#ffff00">Ông già tôi không phải một người
+cuồng tín, cậu hiểu không?</font>
+
+692
+01:16:40,735 --> 01:16:42,833
+<font color="#ffff00">Nếu ta không thể trồng nó,
+giết nó hay ăn nó...</font>
+
+693
+01:16:43,075 --> 01:16:45,337
+<font color="#ffff00">thì ông ta sẽ không tin vào nó
+và chỉ có vậy.</font>
+
+694
+01:16:46,674 --> 01:16:49,655
+<font color="#ffff00">Và có một lần nọ ông ấy
+lên trên Saba Hills.</font>
+
+695
+01:16:49,914 --> 01:16:51,202
+<font color="#ffff00">San Saba Hills...</font>
+
+696
+01:16:52,551 --> 01:16:55,648
+<font color="#ffff00">Nhập hội với một cặp xạ thủ
+người Texas, bạn ông để đi săn.</font>
+
+697
+01:16:56,454 --> 01:16:59,372
+<font color="#ffff00">Đều như vắt chanh, ông ta đi săn
+như hàng trăm lần trước.</font>
+
+698
+01:16:59,463 --> 01:17:04,403
+<font color="#ffff00">Lẽ ra chỉ là ba ngày đi săn, nhưng vào
+thứ bảy, tất cả hỏng bét hết.</font>
+
+699
+01:17:05,015 --> 01:17:07,348
+<font color="#ffff00">Vì thế nào mà đêm đó
+ông ấy phải mất bạn...</font>
+
+700
+01:17:07,383 --> 01:17:08,690
+<font color="#ffff00">và tế nhất là...</font>
+
+701
+01:17:09,348 --> 01:17:12,127
+<font color="#ffff00">bọn Comanches tới và lấy hết ngựa, nên...</font>
+
+702
+01:17:12,504 --> 01:17:13,911
+<font color="#ffff00">ông ấy bị bỏ đói,</font>
+
+703
+01:17:13,935 --> 01:17:15,205
+<font color="#ffff00">mê sảng...</font>
+
+704
+01:17:15,300 --> 01:17:18,411
+<font color="#ffff00">và bò lên ngọn cây...</font>
+
+705
+01:17:19,044 --> 01:17:21,958
+<font color="#ffff00">như một đống cây ở ngoài kia
+ở giữa nơi đồng không mông quạnh...</font>
+
+706
+01:17:22,052 --> 01:17:24,571
+<font color="#ffff00">ngập ngụa giữa đám bụi cây...</font>
+
+707
+01:17:24,608 --> 01:17:26,368
+<font color="#ffff00">và rồi ông ấy tìm thấy tôn giáo.</font>
+
+708
+01:17:27,724 --> 01:17:29,018
+<font color="#ffff00">Vào giây phút đó...</font>
+
+709
+01:17:29,042 --> 01:17:30,136
+<font color="#ffff00">ông bảo tôi...</font>
+
+710
+01:17:30,758 --> 01:17:32,006
+<font color="#ffff00">ông đã tìm thấy Chúa.</font>
+
+711
+01:17:39,412 --> 01:17:40,900
+<font color="#ffff00">Nhưng hóa ra...</font>
+
+712
+01:17:41,193 --> 01:17:42,361
+<font color="#ffff00">Chúa đó...</font>
+
+713
+01:17:43,837 --> 01:17:45,098
+<font color="#ffff00">là một con sóc.</font>
+
+714
+01:17:46,417 --> 01:17:48,597
+<font color="#ffff00">Phải. Một con béo ngậy đầy thịt...</font>
+
+715
+01:17:51,653 --> 01:17:53,911
+<font color="#ffff00">Ông thường nói, ta tìm thấy Chúa.</font>
+
+716
+01:17:55,383 --> 01:17:57,559
+<font color="#ffff00">"Trong khi ngồi đó và phơi nắng</font>
+
+717
+01:17:57,754 --> 01:17:59,929
+<font color="#ffff00">trong hào quang, trong sự cao cả
+của lòng khoan dung...</font>
+
+718
+01:18:01,753 --> 01:18:03,888
+<font color="#ffff00">Ta đã bắn và ăn thịt nó."</font>
+
+719
+01:18:17,948 --> 01:18:19,928
+<font color="#ffff00">Cậu sẽ muốn chợp mắt chút đấy.</font>
+
+720
+01:27:05,112 --> 01:27:07,718
+<font color="#ffff00">Tôi bị thương.</font>
+
+721
+01:27:08,823 --> 01:27:09,895
+<font color="#ffff00">Chuyện gì xảy ra với anh?</font>
+
+722
+01:27:12,812 --> 01:27:16,230
+<font color="#ffff00">Một con gấu.</font>
+
+723
+01:27:18,231 --> 01:27:19,504
+<font color="#ffff00">Một con gấu xám.</font>
+
+724
+01:27:38,114 --> 01:27:41,552
+<font color="#ffff00">Người của tôi... bỏ mặc tôi chết.</font>
+
+725
+01:27:42,183 --> 01:27:44,907
+<font color="#ffff00">Giết con trai tôi.</font>
+
+726
+01:27:48,512 --> 01:27:51,800
+<font color="#ffff00">Tôi cũng mất gia đình của tôi.</font>
+
+727
+01:27:54,044 --> 01:27:56,112
+<font color="#ffff00">Sioux giết người của tôi.</font>
+
+728
+01:27:57,580 --> 01:28:05,580
+<font color="#ffff00">Tôi sẽ đi về phía nam
+tìm thêm người thổ dân.</font>
+
+729
+01:28:07,867 --> 01:28:09,570
+<font color="#ffff00">Trái tim tôi rỉ máu.</font>
+
+730
+01:28:12,750 --> 01:28:15,745
+<font color="#ffff00">Nhưng báo thù nằm trong tay
+đấng sáng tạo.</font>
+
+731
+01:28:24,565 --> 01:28:25,757
+<font color="#ffff00">Anh sẽ đi cùng tôi...</font>
+
+732
+01:29:33,862 --> 01:29:35,278
+<font color="#ffff00">Cơ thể anh bị thối rồi.</font>
+
+733
+01:29:36,681 --> 01:29:37,984
+<font color="#ffff00">Cần chữa trị.</font>
+
+734
+01:29:43,714 --> 01:29:44,798
+<font color="#ffff00">Anh có thể chết đấy.</font>
+
+735
+01:29:59,852 --> 01:30:00,941
+<font color="#ffff00">Có thế chứ!</font>
+
+736
+01:30:01,027 --> 01:30:02,713
+<font color="#ffff00">Nàng kia rồi.</font>
+
+737
+01:30:04,453 --> 01:30:05,647
+<font color="#ffff00">Ta tới nơi rồi.</font>
+
+738
+01:30:06,911 --> 01:30:09,142
+<font color="#ffff00">Cậu phải tự hào về bản thân mình.</font>
+
+739
+01:30:10,190 --> 01:30:11,190
+<font color="#ffff00">Rồi.</font>
+
+740
+01:30:11,466 --> 01:30:14,535
+<font color="#ffff00">Chúng ta đã làm theo lệnh... chỉ là
+ta bỏ qua phần tang lễ.</font>
+
+741
+01:30:15,272 --> 01:30:18,381
+<font color="#ffff00">Đừng có xuống dưới đó bắt đầu
+làm mấy trò ngu si đần độn, hiểu không?</font>
+
+742
+01:30:18,856 --> 01:30:21,839
+<font color="#ffff00">Vì nếu không chắc chắn đêm về
+họ sẽ treo cổ cả hai ta đấy.</font>
+
+743
+01:30:22,931 --> 01:30:24,850
+<font color="#ffff00">Ta làm việc cần phải làm.</font>
+
+744
+01:30:53,492 --> 01:30:56,206
+<font color="#ffff00">Chúng tôi có thêm một ngày,
+nên cố đào sâu hơn...</font>
+
+745
+01:30:56,230 --> 01:30:58,512
+<font color="#ffff00">để vài tảng đá ở trên để lũ ăn xác thối
+không thể động vào anh ta...</font>
+
+746
+01:30:58,582 --> 01:31:00,359
+<font color="#ffff00">chúng tôi đã làm rất tử tế.</font>
+
+747
+01:31:01,446 --> 01:31:02,902
+<font color="#ffff00">Anh ta được chôn cất đàng hoàng.</font>
+
+748
+01:31:03,593 --> 01:31:06,088
+<font color="#ffff00">- Trưởng đoàn...
+- Sự thật là...</font>
+
+749
+01:31:07,573 --> 01:31:10,397
+<font color="#ffff00">Khi Hawk biến mất,
+tôi đã lo là do lũ man rợ.</font>
+
+750
+01:31:10,827 --> 01:31:15,284
+<font color="#ffff00">Tôi đã sẵn sàng để... rời đi,
+anh biết đấy, nhưng...</font>
+
+751
+01:31:16,027 --> 01:31:18,370
+<font color="#ffff00">Bridger đây nhất quyết đòi ở lại.</font>
+
+752
+01:31:19,367 --> 01:31:21,042
+<font color="#ffff00">Cậu ta đòi ở lại để...</font>
+
+753
+01:31:21,351 --> 01:31:24,052
+<font color="#ffff00">ít nhất để cậu ta có thể làm
+một cái thánh giá hay gì đó...</font>
+
+754
+01:31:24,791 --> 01:31:27,811
+<font color="#ffff00">để đặt lên mộ của Glass,
+và đó là việc cậu ta làm...</font>
+
+755
+01:31:28,748 --> 01:31:29,426
+<font color="#ffff00">việc chúng tôi làm.</font>
+
+756
+01:31:29,438 --> 01:31:31,148
+<font color="#ffff00">Rất mừng cậu đã hoàn thành
+nhiệm vụ của mình, Bridger.</font>
+
+757
+01:31:31,183 --> 01:31:32,156
+<font color="#ffff00">Tôi biết cậu sẽ làm được.</font>
+
+758
+01:31:32,180 --> 01:31:34,099
+<font color="#ffff00">Phải, còn hơn cả nhiệm vụ của cậu ta,</font>
+
+759
+01:31:34,111 --> 01:31:36,176
+<font color="#ffff00">đoàn trưởng, cậu ta là cộng sự của tôi.</font>
+
+760
+01:31:39,195 --> 01:31:40,280
+<font color="#ffff00">Được rồi.</font>
+
+761
+01:31:42,320 --> 01:31:46,324
+<font color="#ffff00">Vậy là những thỏa thuận lúc trước
+không có gì thay đổi chứ?</font>
+
+762
+01:31:46,432 --> 01:31:48,572
+<font color="#ffff00">May mắn cho tôi, không hề thay đổi.</font>
+
+763
+01:32:11,080 --> 01:32:12,138
+<font color="#ffff00">Cảm ơn anh.</font>
+
+764
+01:32:13,101 --> 01:32:15,041
+<font color="#ffff00">Vì sự dũng cảm, danh dự...</font>
+
+765
+01:32:15,430 --> 01:32:16,831
+<font color="#ffff00">- và sự phục vụ của anh.
+- Rồi.</font>
+
+766
+01:32:17,988 --> 01:32:21,471
+<font color="#ffff00">Thỏa thuận hay không, Bridger, cậu
+xứng đáng có gì đó cho những gì cậu làm.</font>
+
+767
+01:32:22,312 --> 01:32:23,312
+<font color="#ffff00">Cảm ơn.</font>
+
+768
+01:32:33,998 --> 01:32:37,549
+<font color="#ffff00">Thằng nhóc đã dằn vặt bản thân
+suốt chuyến đi.</font>
+
+769
+01:32:41,050 --> 01:32:45,225
+<font color="#ffff00">Ta đều thấy tình trạng của Glass,
+ta không thể làm gì hơn, phải không?</font>
+
+770
+01:32:46,348 --> 01:32:47,348
+<font color="#ffff00">Phải.</font>
+
+771
+01:32:48,972 --> 01:32:50,417
+<font color="#ffff00">Ta đều thấy.</font>
+
+772
+01:36:16,968 --> 01:36:20,840
+<font color="#ffff00">Khi có cơn bão...</font>
+
+773
+01:36:23,258 --> 01:36:28,921
+<font color="#ffff00">Và anh đứng trước một cái cây...</font>
+
+774
+01:36:30,389 --> 01:36:36,354
+<font color="#ffff00">Nếu anh nhìn vào cành của nó,
+anh thề là nó sẽ gãy...</font>
+
+775
+01:36:42,299 --> 01:36:50,299
+<font color="#ffff00">Nhưng nếu anh nhìn vào thân,
+anh sẽ thấy sự vững chãi của nó.</font>
+
+776
+01:41:07,040 --> 01:41:11,070
+<font color="#ffff00">TA LÀ LŨ MAN RỢ</font>
+
+777
+01:42:11,872 --> 01:42:14,231
+<font color="#ffff00">Có dấu vết một khu trại...</font>
+
+778
+01:42:15,089 --> 01:42:17,146
+<font color="#ffff00">Có dấu vết một khu trại...</font>
+
+779
+01:42:19,097 --> 01:42:20,097
+<font color="#ffff00">Ở đâu?</font>
+
+780
+01:42:20,187 --> 01:42:22,619
+<font color="#ffff00">Ở trong rừng trăng.</font>
+
+781
+01:42:23,657 --> 01:42:28,036
+<font color="#ffff00">Có lẽ là từ 2 hôm trước.
+Chúng đi về phía đông.</font>
+
+782
+01:42:28,569 --> 01:42:30,541
+<font color="#ffff00">Cho mọi người biết.</font>
+
+783
+01:42:31,144 --> 01:42:34,333
+<font color="#ffff00">Mau đi thôi, Powaqa
+có thể ở chỗ bọn chúng!</font>
+
+784
+01:42:55,475 --> 01:42:56,988
+<font color="#ffff00">Đưa đứa con gái đến đây...</font>
+
+785
+01:42:58,235 --> 01:43:00,552
+<font color="#ffff00">5 con ngựa đó
+không phải là cho không.</font>
+
+786
+01:44:24,833 --> 01:44:26,208
+<font color="#ffff00">Đừng có làm ồn.</font>
+
+787
+01:44:28,460 --> 01:44:31,762
+<font color="#ffff00">Yên lặng.</font>
+
+788
+01:44:40,977 --> 01:44:44,248
+<font color="#ffff00">Tao sẽ lấy một con ngựa.</font>
+
+789
+01:44:48,837 --> 01:44:52,769
+<font color="#ffff00">Tao sẽ chặt bi của mày ra.</font>
+
+790
+01:45:07,589 --> 01:45:09,884
+<font color="#ffff00">Toussaint đang ở đâu?</font>
+
+791
+01:45:13,313 --> 01:45:14,753
+<font color="#ffff00">Lại đây...</font>
+
+792
+01:46:06,529 --> 01:46:08,564
+<font color="#ffff00">- Ngồi cùng được không?
+- Được.</font>
+
+793
+01:46:08,599 --> 01:46:09,813
+<font color="#ffff00">- Được hả?
+- Ừ.</font>
+
+794
+01:46:10,817 --> 01:46:13,995
+<font color="#ffff00">Không biết khi nào ta mới được
+thanh toán cho chuyến hàng vừa rồi?</font>
+
+795
+01:46:15,930 --> 01:46:18,552
+<font color="#ffff00">Vì đống da ta thu được,
+chúng vẫn còn ngoài đó...</font>
+
+796
+01:46:19,229 --> 01:46:21,090
+<font color="#ffff00">chúng được đất và tuyết che lấp,</font>
+
+797
+01:46:21,102 --> 01:46:23,302
+<font color="#ffff00">nhưng chúng vẫn đang ở đó,
+và đó không phải lỗi của tôi.</font>
+
+798
+01:46:23,821 --> 01:46:26,580
+<font color="#ffff00">Tôi đang đợi Đại úy Leavenworth
+tới cùng lính của ông ta...</font>
+
+799
+01:46:27,100 --> 01:46:28,281
+<font color="#ffff00">Khi đó ta sẽ có đủ người...</font>
+
+800
+01:46:28,345 --> 01:46:30,474
+<font color="#ffff00">để quay lại ngoài đó
+và soi sáng chút văn minh...</font>
+
+801
+01:46:30,502 --> 01:46:34,122
+<font color="#ffff00">cho lũ Arikara khốn nạn đó,
+dành lại số da của ta.</font>
+
+802
+01:46:34,212 --> 01:46:35,924
+<font color="#ffff00">Được rồi.</font>
+
+803
+01:46:36,901 --> 01:46:38,643
+<font color="#ffff00">Vậy khi nào thì tiến hành?</font>
+
+804
+01:46:39,466 --> 01:46:40,618
+<font color="#ffff00">Tôi không biết nhưng...</font>
+
+805
+01:46:41,051 --> 01:46:42,771
+<font color="#ffff00">cho tới khi đó không ai
+được thanh toán hết.</font>
+
+806
+01:46:45,479 --> 01:46:47,177
+<font color="#ffff00">Nghe này, được không?</font>
+
+807
+01:46:48,065 --> 01:46:51,323
+<font color="#ffff00">Tôi được thuê để bẫy chúng...
+không phải để bảo vệ chúng.</font>
+
+808
+01:46:52,027 --> 01:46:56,906
+<font color="#ffff00">Theo như tôi thấy...
+anh có một cái rương.</font>
+
+809
+01:46:57,066 --> 01:46:59,609
+<font color="#ffff00">- Có lẽ đựng đầy tiền.
+- Anh đã kí một hợp đồng.</font>
+
+810
+01:47:00,254 --> 01:47:02,869
+<font color="#ffff00">Để bảo vệ chủ và tài sản của chủ.</font>
+
+811
+01:47:04,254 --> 01:47:07,204
+<font color="#ffff00">Và cái rương đó không còn đầy nữa,
+nó thiếu khoảng 300 đô.</font>
+
+812
+01:47:07,239 --> 01:47:10,581
+<font color="#ffff00">Thiếu? Thiếu? Nói vậy
+ý là thế quái nào?</font>
+
+813
+01:47:11,283 --> 01:47:13,283
+<font color="#ffff00">Nghĩa là theo như
+sổ sách kê khai của tôi...</font>
+
+814
+01:47:13,307 --> 01:47:15,565
+<font color="#ffff00">Ta chi ra nhiều cho hàng hóa
+trong chuyến đi</font>
+
+815
+01:47:15,590 --> 01:47:16,844
+<font color="#ffff00">hơn số mà công ty nợ ta.</font>
+
+816
+01:47:22,429 --> 01:47:24,094
+<font color="#ffff00">Chúc mừng năm mới, Fitzgerald.</font>
+
+817
+01:56:17,021 --> 01:56:19,184
+<font color="#ffff00">FITZGERALD GIẾT CON TÔI</font>
+
+818
+01:56:30,334 --> 01:56:33,539
+<font color="#ffff00">Fryman! Có người da trắng ở cổng.</font>
+
+819
+01:56:46,969 --> 01:56:47,810
+<font color="#ffff00">Nói tiếng Anh đi.</font>
+
+820
+01:56:47,903 --> 01:56:50,288
+<font color="#ffff00">Tôi không có vũ khí.</font>
+
+821
+01:56:50,576 --> 01:56:51,786
+<font color="#ffff00">Mở cửa ra.</font>
+
+822
+01:56:51,823 --> 01:56:54,103
+<font color="#ffff00">- Dobb, gọi Đoàn trưởng đi.
+- Tôi không có vũ khí.</font>
+
+823
+01:56:54,163 --> 01:56:55,380
+<font color="#ffff00">Người của anh đâu?</font>
+
+824
+01:56:55,920 --> 01:56:57,663
+<font color="#ffff00">- Chết, tất cả đều chết rồi.
+- Hắn là ai?</font>
+
+825
+01:56:58,944 --> 01:57:01,549
+<font color="#ffff00">Tôi không biết, xin hãy cho tôi
+thứ gì đó để ăn đi.</font>
+
+826
+01:57:01,628 --> 01:57:02,869
+<font color="#ffff00">Đồ ăn có giá của nó.</font>
+
+827
+01:57:04,304 --> 01:57:05,048
+<font color="#ffff00">Tôi không có tiền.</font>
+
+828
+01:57:05,060 --> 01:57:07,077
+<font color="#ffff00">Vậy thì anh không được ăn,
+như vậy đó.</font>
+
+829
+01:57:07,101 --> 01:57:10,048
+<font color="#ffff00">Có lẽ anh có thể trả lại số da bị trộm
+anh mua từ lũ Indian.</font>
+
+830
+01:57:10,172 --> 01:57:12,074
+<font color="#ffff00">- Không phải bây giờ, Jones.
+- Bạc.</font>
+
+831
+01:57:12,109 --> 01:57:13,245
+<font color="#ffff00">Đây là bạc. Được không? Bạc.</font>
+
+832
+01:57:14,581 --> 01:57:15,869
+<font color="#ffff00">Thế à?</font>
+
+833
+01:57:16,877 --> 01:57:17,933
+<font color="#ffff00">Anh có thế thôi à?</font>
+
+834
+01:57:20,462 --> 01:57:25,137
+<font color="#ffff00">Chúng tôi có 9 người... nhưng bạn tôi,
+anh ta chết trong tuyết...</font>
+
+835
+01:57:25,501 --> 01:57:26,750
+<font color="#ffff00">và những người khác bị...</font>
+
+836
+01:57:27,798 --> 01:57:30,832
+<font color="#ffff00">bị sói giết, tôi đã thấy nó.</font>
+
+837
+01:57:32,209 --> 01:57:33,745
+<font color="#ffff00">Khoan, anh có nó từ đâu?</font>
+
+838
+01:57:34,663 --> 01:57:35,991
+<font color="#ffff00">Chỗ nhà ăn.</font>
+
+839
+01:57:36,537 --> 01:57:39,007
+<font color="#ffff00">Anh ta... đánh rơi nó dưới tuyết.
+Anh ta giết Toussaint.</font>
+
+840
+01:57:39,032 --> 01:57:42,634
+<font color="#ffff00">- Ai, ai?
+- Tôi không biết, tôi không thấy.</font>
+
+841
+01:57:44,842 --> 01:57:45,919
+<font color="#ffff00">Có thể là Hawk.</font>
+
+842
+01:57:48,703 --> 01:57:51,899
+<font color="#ffff00">- Phải, có thể.
+- Thằng con lai đó không cướp được ngựa đâu.</font>
+
+843
+01:57:52,023 --> 01:57:53,643
+<font color="#ffff00">- Có thể là Weston.
+- Cách đây bao xa?</font>
+
+844
+01:57:53,890 --> 01:57:56,201
+<font color="#ffff00">- Cách đây bao xa?
+- 48 km...</font>
+
+845
+01:57:56,342 --> 01:57:59,876
+<font color="#ffff00">Phía tây bắc... gần Yellowstone.</font>
+
+846
+01:57:59,900 --> 01:58:01,243
+<font color="#ffff00">Chuẩn bị ngựa đi.</font>
+
+847
+01:58:01,864 --> 01:58:03,780
+<font color="#ffff00">Đuốc và nhu yếu phẩm,
+10 đô mỗi người.</font>
+
+848
+01:58:04,598 --> 01:58:07,137
+<font color="#ffff00">- Anderson, anh ở đây.
+- Vâng.</font>
+
+849
+01:58:07,289 --> 01:58:08,861
+<font color="#ffff00">Cho anh ta ăn và canh chừng...</font>
+
+850
+01:58:10,551 --> 01:58:11,824
+<font color="#ffff00">Tôi sẽ lấy cho anh li nước.</font>
+
+851
+01:58:24,414 --> 01:58:25,573
+<font color="#ffff00">Mở cửa ra.</font>
+
+852
+01:58:27,597 --> 01:58:30,997
+<font color="#ffff00">Khi ta tới Yellowstone,
+ta tách ra làm hai nhóm.</font>
+
+853
+01:58:42,933 --> 01:58:44,233
+<font color="#ffff00">Hawk!</font>
+
+854
+01:58:44,520 --> 01:58:46,320
+<font color="#ffff00">Hawk, cậu có ngoài đó không?</font>
+
+855
+01:59:03,372 --> 01:59:04,519
+<font color="#ffff00">Nhớ cảnh giác.</font>
+
+856
+01:59:06,837 --> 01:59:07,933
+<font color="#ffff00">Để ý phía trước.</font>
+
+857
+01:59:09,950 --> 01:59:11,033
+<font color="#ffff00">Từ từ thôi.</font>
+
+858
+01:59:13,716 --> 01:59:15,156
+<font color="#ffff00">Từ thôi.</font>
+
+859
+01:59:19,892 --> 01:59:21,021
+<font color="#ffff00">Anh là ai?</font>
+
+860
+01:59:21,552 --> 01:59:23,537
+<font color="#ffff00">Beckett? Là anh đấy à?</font>
+
+861
+01:59:23,538 --> 01:59:24,643
+<font color="#ffff00">Weston?</font>
+
+862
+01:59:35,124 --> 01:59:36,124
+<font color="#ffff00">Glass.</font>
+
+863
+01:59:36,941 --> 01:59:38,072
+<font color="#ffff00">- Là Glass...
+- Glass...</font>
+
+864
+01:59:38,107 --> 01:59:39,107
+<font color="#ffff00">Không sao rồi.</font>
+
+865
+01:59:39,332 --> 01:59:40,575
+<font color="#ffff00">Chúa ơi.</font>
+
+866
+01:59:41,060 --> 01:59:42,383
+<font color="#ffff00">Chúa ơi, đã có chuyện gì?</font>
+
+867
+01:59:43,675 --> 01:59:44,896
+<font color="#ffff00">Hắn ta đâu?</font>
+
+868
+01:59:48,163 --> 01:59:49,732
+<font color="#ffff00">Jones, đỡ anh ta, đi nào.</font>
+
+869
+01:59:50,288 --> 01:59:51,680
+<font color="#ffff00">Đi nào, tôi đi trước.</font>
+
+870
+01:59:51,774 --> 01:59:53,285
+<font color="#ffff00">Bill, đưa Bridger đi cùng.</font>
+
+871
+01:59:54,532 --> 01:59:55,675
+<font color="#ffff00">Cho Bridger đi cùng.</font>
+
+872
+01:59:55,968 --> 01:59:57,483
+<font color="#ffff00">- Được rồi, Glass.
+- Đi nào.</font>
+
+873
+02:00:04,130 --> 02:00:05,250
+<font color="#ffff00">Mở cửa ra.</font>
+
+874
+02:00:10,444 --> 02:00:12,307
+<font color="#ffff00">- Có thấy Fitzgerald không?
+- Không.</font>
+
+875
+02:00:18,597 --> 02:00:19,597
+<font color="#ffff00">Dậy mau.</font>
+
+876
+02:00:20,164 --> 02:00:21,011
+<font color="#ffff00">Dậy mau.</font>
+
+877
+02:00:21,051 --> 02:00:22,624
+<font color="#ffff00">- Có thấy Fitzgerald không?
+- Không.</font>
+
+878
+02:00:22,659 --> 02:00:23,659
+<font color="#ffff00">Fitzgerald.</font>
+
+879
+02:00:34,802 --> 02:00:36,122
+<font color="#ffff00">- Bình tĩnh nào.
+- Hắn đi đâu rồi?</font>
+
+880
+02:00:37,646 --> 02:00:38,846
+<font color="#ffff00">- Ai?
+- Fitzgerald.</font>
+
+881
+02:00:39,099 --> 02:00:40,099
+<font color="#ffff00">Hắn đi đâu rồi?</font>
+
+882
+02:00:40,911 --> 02:00:43,354
+<font color="#ffff00">- Tôi không biết.
+- Nói mau không tôi bắn vỡ sọ anh.</font>
+
+883
+02:00:43,358 --> 02:00:46,170
+<font color="#ffff00">- Đoàn trưởng, tôi thề với Chúa.
+- Nói mau!</font>
+
+884
+02:00:46,613 --> 02:00:48,103
+<font color="#ffff00">- Nói mau!
+- Texas.</font>
+
+885
+02:00:48,138 --> 02:00:50,475
+<font color="#ffff00">- Texas?
+- Hắn nói sẽ tới Texas.</font>
+
+886
+02:00:51,131 --> 02:00:52,952
+<font color="#ffff00">Tôi thề có Chúa, hắn nói
+hắn sẽ tái ngũ.</font>
+
+887
+02:00:53,083 --> 02:00:56,141
+<font color="#ffff00">Và hắn bắt đầu nói về đất đai,
+một mảnh đất tử tế...</font>
+
+888
+02:00:56,684 --> 02:00:59,067
+<font color="#ffff00">hắn đang tới Texas.
+Tôi thề có Chúa.</font>
+
+889
+02:00:59,087 --> 02:01:00,157
+<font color="#ffff00">Ở yên đây.</font>
+
+890
+02:01:03,380 --> 02:01:04,630
+<font color="#ffff00">Fitzgerald.</font>
+
+891
+02:01:06,311 --> 02:01:07,861
+<font color="#ffff00">Fitzgerald.</font>
+
+892
+02:01:36,744 --> 02:01:37,808
+<font color="#ffff00">Mẹ kiếp.</font>
+
+893
+02:01:41,088 --> 02:01:42,271
+<font color="#ffff00">Mẹ kiếp.</font>
+
+894
+02:01:43,285 --> 02:01:45,285
+<font color="#ffff00">Jones! Gọi đoàn trưởng!</font>
+
+895
+02:01:46,373 --> 02:01:47,992
+<font color="#ffff00">- Fryman!
+- Mở cửa ra.</font>
+
+896
+02:01:48,637 --> 02:01:49,792
+<font color="#ffff00">Mở ra.</font>
+
+897
+02:01:52,373 --> 02:01:53,681
+<font color="#ffff00">Murphy, tìm đoàn trưởng.</font>
+
+898
+02:01:59,882 --> 02:02:02,192
+<font color="#ffff00">Đưa anh ta tới chỗ bác sỹ.</font>
+
+899
+02:02:03,660 --> 02:02:05,098
+<font color="#ffff00">Mày nói anh ta chết rồi.</font>
+
+900
+02:02:06,058 --> 02:02:08,578
+<font color="#ffff00">- Mày nói anh ta chết rồi.
+- Tôi tưởng anh ta chết rồi, tôi thề.</font>
+
+901
+02:02:10,828 --> 02:02:12,432
+<font color="#ffff00">- Thằng dối trá.
+- Hắn nói dối tôi.</font>
+
+902
+02:02:12,453 --> 02:02:15,756
+<font color="#ffff00">Đồ dối trá, mày bỏ đi.
+Mày bỏ anh ta ngoài đó.</font>
+
+903
+02:02:15,889 --> 02:02:18,239
+<font color="#ffff00">- Tôi tưởng anh ta đã...
+- Cầu Chúa đi.</font>
+
+904
+02:02:18,277 --> 02:02:20,832
+<font color="#ffff00">- Sao?
+- Cầu Chúa đi.</font>
+
+905
+02:02:22,124 --> 02:02:23,640
+<font color="#ffff00">Ông cha ta...</font>
+
+906
+02:02:23,748 --> 02:02:26,740
+<font color="#ffff00">người đang ở thiên đường...
+tôi không thể...</font>
+
+907
+02:02:26,841 --> 02:02:27,572
+<font color="#ffff00">Câm miệng.</font>
+
+908
+02:02:27,694 --> 02:02:31,100
+<font color="#ffff00">Câm miệng! Từ giờ trở đi
+mày là tù nhân bị kết án phản bội.</font>
+
+909
+02:02:31,816 --> 02:02:34,478
+<font color="#ffff00">Nhốt nó vào trong lồng!</font>
+
+910
+02:02:34,505 --> 02:02:35,996
+<font color="#ffff00">Không tôi treo cậu cùng với nó đấy.</font>
+
+911
+02:02:37,052 --> 02:02:38,619
+<font color="#ffff00">Tôi tưởng anh ta sẽ chết.</font>
+
+912
+02:02:39,510 --> 02:02:41,751
+<font color="#ffff00">- Dậy.
+- Bác sỹ.</font>
+
+913
+02:02:43,142 --> 02:02:44,738
+<font color="#ffff00">Tôi không thể giúp được, làm ơn.</font>
+
+914
+02:02:45,752 --> 02:02:48,187
+<font color="#ffff00">- Làm ơn, đoàn trưởng...
+- Chúa ơi!</font>
+
+915
+02:02:49,392 --> 02:02:50,704
+<font color="#ffff00">- Được rồi, lại đây.
+- Fitz lừa tôi.</font>
+
+916
+02:02:59,544 --> 02:03:01,021
+<font color="#ffff00">1, 2, 3.</font>
+
+917
+02:03:01,056 --> 02:03:02,700
+<font color="#ffff00">Thả xuống.</font>
+
+918
+02:03:21,892 --> 02:03:24,189
+<font color="#ffff00">- Anh ta sao rồi?
+- Anh ta sẽ ổn thôi, có vài chỗ sưng...</font>
+
+919
+02:03:24,460 --> 02:03:25,460
+<font color="#ffff00">Anh ta cần nghỉ ngơi.</font>
+
+920
+02:03:25,901 --> 02:03:27,218
+<font color="#ffff00">Tôi sẽ quay lại khám cho anh ta.</font>
+
+921
+02:03:37,115 --> 02:03:38,954
+<font color="#ffff00">Hắn bỏ trốn rồi, phải không?</font>
+
+922
+02:03:47,837 --> 02:03:49,942
+<font color="#ffff00">Bridger nói thật...</font>
+
+923
+02:03:52,238 --> 02:03:55,959
+<font color="#ffff00">- Sao thế được?
+- Fitzgerald nói dối nó...</font>
+
+924
+02:03:56,143 --> 02:03:57,804
+<font color="#ffff00">cậu ta chỉ làm theo lệnh.</font>
+
+925
+02:03:59,972 --> 02:04:03,446
+<font color="#ffff00">Cậu ta không ở đó khi Fitzgerald
+đâm chết con trai tôi.</font>
+
+926
+02:04:07,639 --> 02:04:12,575
+<font color="#ffff00">Chuyện là vậy sao?
+Hắn giết Hawk sao.</font>
+
+927
+02:04:17,296 --> 02:04:18,670
+<font color="#ffff00">Tôi cần một con ngựa
+và một khẩu súng.</font>
+
+928
+02:04:18,705 --> 02:04:20,780
+<font color="#ffff00">Không, anh cần nghỉ ngơi
+và ăn gì đó.</font>
+
+929
+02:04:21,179 --> 02:04:23,096
+<font color="#ffff00">- Tôi sẽ đi tìm hắn.
+- Không.</font>
+
+930
+02:04:24,658 --> 02:04:26,262
+<font color="#ffff00">Không có tôi
+anh không tìm được hắn đâu.</font>
+
+931
+02:04:26,274 --> 02:04:29,552
+<font color="#ffff00">Nếu ta đợi tới sáng, hắn sẽ đi trước ta
+một ngày, và vậy là hắn sẽ thoát.</font>
+
+932
+02:04:29,715 --> 02:04:31,112
+<font color="#ffff00">Không, hắn không thoát đâu.</font>
+
+933
+02:04:32,482 --> 02:04:33,877
+<font color="#ffff00">Hắn đang sợ hãi.</font>
+
+934
+02:04:35,490 --> 02:04:37,736
+<font color="#ffff00">Hắn biết tôi đã đi bao xa
+để tìm hắn.</font>
+
+935
+02:04:39,174 --> 02:04:43,521
+<font color="#ffff00">Cũng giống như con nai đó, khi chúng sợ,
+chúng chạy sâu vào rừng...</font>
+
+936
+02:04:44,607 --> 02:04:46,358
+<font color="#ffff00">Tôi bẫy hắn rồi, hắn chỉ là...</font>
+
+937
+02:04:47,123 --> 02:04:50,281
+<font color="#ffff00">- Hắn vẫn chưa biết thôi.
+- Sao anh chắc chắn vậy?</font>
+
+938
+02:04:51,663 --> 02:04:53,793
+<font color="#ffff00">Vì hắn có nhiều thứ để mất.</font>
+
+939
+02:04:56,175 --> 02:04:58,888
+<font color="#ffff00">Còn tôi chỉ có thằng bé...</font>
+
+940
+02:05:00,016 --> 02:05:01,743
+<font color="#ffff00">và hắn cướp thằng bé khỏi tôi.</font>
+
+941
+02:05:05,806 --> 02:05:07,672
+<font color="#ffff00">Tôi không thể để anh
+trở lại ngoài đó.</font>
+
+942
+02:05:08,203 --> 02:05:11,373
+<font color="#ffff00">- Không lần nào nữa.
+- Không.</font>
+
+943
+02:05:13,121 --> 02:05:15,276
+<font color="#ffff00">Tôi không còn sợ chết nữa.</font>
+
+944
+02:05:17,603 --> 02:05:19,142
+<font color="#ffff00">Vì tôi vốn đã chết rồi.</font>
+
+945
+02:05:25,135 --> 02:05:26,685
+<font color="#ffff00">Tôi sẽ đi cùng anh.</font>
+
+946
+02:06:42,482 --> 02:06:45,212
+<font color="#ffff00">- Là ngựa của hắn, phải không?
+- Phải.</font>
+
+947
+02:06:47,125 --> 02:06:49,000
+<font color="#ffff00">Không thể nào hắn cưỡi ngựa
+cả đêm được.</font>
+
+948
+02:06:49,591 --> 02:06:50,959
+<font color="#ffff00">Phía trước bao xa?</font>
+
+949
+02:06:51,891 --> 02:06:55,458
+<font color="#ffff00">- Cùng lắm là nửa ngày đường.
+- Có thể là bọn man di.</font>
+
+950
+02:06:56,567 --> 02:06:58,167
+<font color="#ffff00">Nếu không phải là của hắn,
+ta sẽ mất hắn.</font>
+
+951
+02:06:59,310 --> 02:07:02,513
+<font color="#ffff00">Trừ khi hắn tái ngũ để hắn có thể
+biện minh việc lại giết chóc.</font>
+
+952
+02:07:03,514 --> 02:07:05,222
+<font color="#ffff00">Dấu vết ở kia là của hắn.</font>
+
+953
+02:07:07,347 --> 02:07:08,454
+<font color="#ffff00">Đi thôi.</font>
+
+954
+02:07:15,459 --> 02:07:17,688
+<font color="#ffff00">Tôi không thể nhớ được
+mặt vợ tôi.</font>
+
+955
+02:07:18,797 --> 02:07:21,008
+<font color="#ffff00">Tuần trước cô ấy còn ở bên tôi.</font>
+
+956
+02:07:22,983 --> 02:07:24,343
+<font color="#ffff00">Giờ cô ấy đi rồi.</font>
+
+957
+02:07:27,743 --> 02:07:30,822
+<font color="#ffff00">Tôi lo tôi sẽ không nhận ra cô ấy
+khi tôi về nhà.</font>
+
+958
+02:07:43,500 --> 02:07:45,231
+<font color="#ffff00">Có thật là anh đã giết
+một sỹ quan không?</font>
+
+959
+02:07:50,146 --> 02:07:53,320
+<font color="#ffff00">Tôi chỉ giết một kẻ
+đã cố giết con trai tôi thôi.</font>
+
+960
+02:08:12,249 --> 02:08:15,772
+<font color="#ffff00">- Khói.
+- Gần không?</font>
+
+961
+02:08:21,199 --> 02:08:23,085
+<font color="#ffff00">Không quá 1,6 km hướng đó.</font>
+
+962
+02:08:23,836 --> 02:08:26,784
+<font color="#ffff00">Tôi sẽ đi lên về phía tây,
+anh đi xuống phía đông...</font>
+
+963
+02:08:27,212 --> 02:08:31,649
+<font color="#ffff00">- Xem ta có thể tìm được dấu vết không.
+- Nếu là bọn man di thì sao?</font>
+
+964
+02:08:32,744 --> 02:08:36,404
+<font color="#ffff00">Nếu là bọn man di, anh quay lại ngay
+và trở lại gặp tôi ở đây.</font>
+
+965
+02:10:01,863 --> 02:10:02,888
+<font color="#ffff00">Này!</font>
+
+966
+02:10:05,084 --> 02:10:07,365
+<font color="#ffff00">Tôi không nghĩ sẽ tìm được
+một người có tầm vóc như anh...</font>
+
+967
+02:10:08,181 --> 02:10:10,018
+<font color="#ffff00">rời quá xa tổ ấm của mình khi...</font>
+
+968
+02:10:10,053 --> 02:10:12,573
+<font color="#ffff00">trời sáng với cái rét căm căm này.
+Đoàn trưởng, anh lạc đường à?</font>
+
+969
+02:10:12,926 --> 02:10:15,068
+<font color="#ffff00">Tôi tới để đưa anh về
+Fort Kiowa.</font>
+
+970
+02:10:15,730 --> 02:10:17,540
+<font color="#ffff00">Ở đó anh sẽ bị kết án
+vì tội giết người.</font>
+
+971
+02:10:18,103 --> 02:10:19,320
+<font color="#ffff00">Vậy hả?</font>
+
+972
+02:10:19,780 --> 02:10:21,921
+<font color="#ffff00">Tôi cũng không hứng thú
+với kế hoạch của anh đâu.</font>
+
+973
+02:10:22,525 --> 02:10:24,353
+<font color="#ffff00">Ngoài ra, tôi cũng có kế hoạch của tôi.</font>
+
+974
+02:17:53,061 --> 02:17:55,103
+<font color="#ffff00">Chúng ta đã thỏa thuận, Glass.</font>
+
+975
+02:17:58,978 --> 02:18:01,130
+<font color="#ffff00">Tôi cố nói cho con trai anh biết,
+hiểu không?</font>
+
+976
+02:18:01,281 --> 02:18:04,310
+<font color="#ffff00">Tôi cố cho nó biết đang có chuyện gì,
+nhưng nó không chịu nghe...</font>
+
+977
+02:18:04,358 --> 02:18:08,140
+<font color="#ffff00">Và nó cứ hét lên.
+Nó sẽ khiến mọi người mất mạng.</font>
+
+978
+02:18:10,434 --> 02:18:11,527
+<font color="#ffff00">Anh và tôi...</font>
+
+979
+02:18:11,953 --> 02:18:13,174
+<font color="#ffff00">Ta đã thỏa thuận.</font>
+
+980
+02:18:15,385 --> 02:18:17,042
+<font color="#ffff00">Ta đều biết đã có chuyện gì ngoài đó.</font>
+
+981
+02:18:18,162 --> 02:18:20,122
+<font color="#ffff00">Và trên linh hồn tôi, Chúa cũng biết.</font>
+
+982
+02:18:20,229 --> 02:18:22,587
+<font color="#ffff00">Chúa biết chuyện gì xảy ra ngoài đó.</font>
+
+983
+02:18:25,882 --> 02:18:27,394
+<font color="#ffff00">Không có thỏa thuận nào hết.</font>
+
+984
+02:18:30,618 --> 02:18:32,192
+<font color="#ffff00">Mày giết con tao.</font>
+
+985
+02:18:36,070 --> 02:18:37,976
+<font color="#ffff00">Có lẽ anh nên nuôi một
+thằng đàn ông...</font>
+
+986
+02:18:38,177 --> 02:18:40,326
+<font color="#ffff00">thay vì một con đĩ mè nheo.</font>
+
+987
+02:18:51,787 --> 02:18:53,314
+<font color="#ffff00">Mẹ kiếp!</font>
+
+988
+02:21:16,805 --> 02:21:19,959
+<font color="#ffff00">Anh đi cả chặng đường
+chỉ để trả thù hả?</font>
+
+989
+02:21:23,526 --> 02:21:24,908
+<font color="#ffff00">Tận hưởng đi nhé, Glass.</font>
+
+990
+02:21:26,183 --> 02:21:29,084
+<font color="#ffff00">Vì chẳng có thứ gì có thể
+giúp con trai anh sống lại đâu.</font>
+
+991
+02:21:32,349 --> 02:21:34,349
+<font color="#ffff00">Đúng là thế.</font>
+
+992
+02:21:52,638 --> 02:22:00,085
+<font color="#ffff00">Trả thù nằm trong tay Chúa...</font>
+
+993
+02:22:00,329 --> 02:22:01,928
+<font color="#ffff00">không phải tôi.</font>
+
+994
+02:25:48,952 --> 02:25:56,952
+<font color="#ffff00">== Translated by<font color="#cc321c"> MisterT.91</font> ==
+<font color="#00ff00">.:: Phudeviet.org::.</font></font>
+

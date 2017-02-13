@@ -513,7 +513,7 @@ h5 small,
 h6 .small,
 h6 small{font-size:75%;}
 .h1,
-h1{font-size:36px;}
+h1{font-size:36px;color:#fdc613;}
 .h2,
 h2{font-size:30px;}
 .h3,
@@ -3492,7 +3492,7 @@ img.mfp-img{box-sizing:border-box;padding:40px 0;margin:0 auto;}
 .owl-carousel .owl-item,
 .owl-carousel .owl-wrapper{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);}
 *{outline:0;}
-body{font-family:Arial,sans-serif;font-size:12px;padding:0;margin:0;background:#191919;outline:0;}
+body{font-family:Arial,sans-serif;font-size:12px;color:#dcdcdc;padding:0;margin:0;background:#191919;outline:0;}
 a,
 a:focus,
 a:hover{text-decoration:none;outline:0;}
@@ -3929,7 +3929,7 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.info-film .col2 .buttons .rating .stars{overflow:hidden;display:inline-block;}
 .block.info-film .col2 .buttons .rating .stars .fa{color:#F0B320;cursor:pointer;font-size:22px;padding:2px 3px;margin:0;float:left;}
 .block.info-film-text{padding:10px;background: #0F0E0E;}
-.block.info-film-text .block-body{font-size:13px;line-height:1.6em;text-align:justify;}
+.block.info-film-text .block-body{font-size:15px;line-height:1.6em;text-align:justify;}
 .block.info-film-text .block-body img{width:100%!important;height:100%!important;border:1px solid rgba(0, 0, 0, 0.46);-webkit-border-radius:2px;-khtml-border-radius:2px;-moz-border-radius:2px;-ms-border-radius:2px;-o-border-radius:2px;border-radius:2px;display:block;margin:0 auto;}
 .block.media{margin-bottom:0;}
 .block.media .block-title{padding-left:20px;padding-right:0;margin-bottom:0;-webkit-box-shadow:0 0 0 rgba(0,0,0,.4);-khtml-box-shadow:0 0 0 rgba(0,0,0,.4);-moz-box-shadow:0 0 0 rgba(0,0,0,.4);-ms-box-shadow:0 0 0 rgba(0,0,0,.4);-o-box-shadow:0 0 0 rgba(0,0,0,.4);box-shadow:0 0 0 rgba(0,0,0,.4);font-size:13px;}
@@ -4352,7 +4352,7 @@ custom style by thuypx
     width: 100%;
 }
 .news-category .news-item .info .name{
-    font-size: 14px;
+    font-size: 22px;
     color: #fff
 }
 .news-category .news-item .col-md-7{

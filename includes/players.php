@@ -1,6 +1,7 @@
 <?php
 if (!defined('TRUNKSJJ')) die("Hack");
 require_once("phpfastcache.php");
+
 $phpFastCache = phpFastCache();//Gọi hàm	
 
 /* AnimeVN Coder */
@@ -292,7 +293,10 @@ function phimle_players($url,$filmID,$episode_id,$server,$film_sub,$img,$playTec
 	}elseif($playTech=='html5'){
 	
 	}elseif($playTech=='flash'){
-	    $player = '<script type="text/javascript">var url_playlist = "'.$web_link.'/playlist/'.$filmID.'/episode/'.$episode_id.'"; ClickToLoad('.$filmID.');</script>';
+		include('../haplugin/license.php');
+		include('../haplugin/ha.function.php');
+		$ha = new HAPlugin;
+	    $player = $ha->handle($url,$film_sub,$img);
 	}elseif($playTech=='flashv1'){ //-- For Megabox.vn
 	    $player = '<script type="text/javascript">var url_playlist = "'.get_megabox_stream($url).'"; ClickToLoad('.$filmID.');</script>';
 	}elseif($playTech=='flashv2'){ //-- For Youtube
