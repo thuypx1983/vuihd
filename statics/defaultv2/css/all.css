@@ -3266,6 +3266,7 @@ th.visible-print{display:table-cell !important;}
 .icon-earth:before{content:"\e603";}
 .icon-newfilm:before{content:"\e604";}
 .icon-video:before{content:"\e605";}
+.icon-newspaper:before{content:"\e004";}
 .bootstrap-select{width:220px \0;}
 .bootstrap-select>.btn{width:100%;padding-right:25px;}
 .error .bootstrap-select .btn{border:1px solid #b94a48;}

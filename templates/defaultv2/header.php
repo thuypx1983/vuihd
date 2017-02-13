@@ -81,7 +81,7 @@ if($data_cache_aside != null){
  </li> 
  <li class="item"> 
     <a href="/tin-tuc/">
-        <i class="icon-video"></i> Tin tức
+        <i class="icon-newspaper"></i> Tin tức
    </a> 
  </li> 
  </ul> 
