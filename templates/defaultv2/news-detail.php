@@ -228,7 +228,9 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                 <div class="block info-film-text">
 
                     <div class="block-body">
-                        <?php echo htmlspecialchars_decode ($news['news_content'])?>
+                        <div class="news-summary"> <?php echo htmlspecialchars_decode ($news['news_summary'])?></div>
+                        <div class="news-content"> <?php echo htmlspecialchars_decode ($news['news_content'])?></div>
+
                     </div>
 
                 </div>
