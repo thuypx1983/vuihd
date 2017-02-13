@@ -93,21 +93,21 @@ $inp_arr = array(
             'table'	=>	'news_title',
             'name'	=>	'Meta title',
             'type'	=>	'free',
-            'can_be_empty'	=>	false
+            'can_be_empty'	=>	true
         ),
 
         'news_keyword'	=> array(
             'table'	=>	'news_keyword',
             'name'	=>	'Meta  keyword',
             'type'	=>	'free',
-            'can_be_empty'	=>	false
+            'can_be_empty'	=>	true
         ),
 
         'news_description'	=> array(
             'table'	=>	'news_description',
             'name'	=>	'Meta  description',
             'type'	=>	'free',
-            'can_be_empty'	=>	false
+            'can_be_empty'	=>	true
         ),
 		
 
@@ -139,7 +139,6 @@ if ($mode == 'add') {
 			$inp_arr['news_date']['value'] = date('d/m/Y');
 
 			$inp_arr['news_content']['value'] = $news_content;
-			$inp_arr['news_summary']['value'] = $news_summary;
 			$inp_arr['news_name']['value'] = $news_name;
 			$inp_arr['news_film']['value'] = $film;
 			unset($inp_arr['film']);
@@ -222,7 +221,6 @@ if ($mode == 'edit') {
 				$inp_arr['news_poster']['value'] = $news_poster;
 
 				$inp_arr['news_content']['value'] = $news_content;
-				$inp_arr['news_summary']['value'] = $news_summary;
 				$inp_arr['news_name']['value'] = $news_name;
 				$inp_arr['news_film']['value'] = $film;
 				unset($inp_arr['film']);
