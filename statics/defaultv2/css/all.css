@@ -4444,3 +4444,7 @@ ul.news-cat  li a{
 #abd_mv{
     padding-bottom: 0px !important;
 }
+.video-social{
+    display: block;
+    float: left;
+}
