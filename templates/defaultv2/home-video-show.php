@@ -121,7 +121,7 @@ if($value[1]=='home-video-show'){
                                             <div class="el-100 video-social">
                                                 <div class="fb-like" data-href="<?=$videoLINK;?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
                                             </div>
-                                            <div class="el-100 video-social">
+                                            <div class="el-100 video-social ">
                                                 <g:plusone></g:plusone>
                                             </div>
                                         </div>
