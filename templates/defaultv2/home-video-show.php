@@ -134,7 +134,7 @@ if($value[1]=='home-video-show'){
                                     <div class="column medium-12" id="content-p">
                                         <?=$des;?>
                                         <div class="tag-post"></div>
-                                        <div class="cat-post"><span>Danh mục : </span><?=$video_cat;?></div>
+                                        <div class="cat-post"><span>Danh mục: </span><?=$video_cat;?></div>
 
                                     </div>
                                 </div>
