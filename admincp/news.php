@@ -43,6 +43,12 @@ $inp_arr = array(
 			'can_be_empty'	=> true,
             'change_on_update'=>true,
 		),
+		'news_summary'	=> array(
+			'table'	=>	'news_summary',
+			'name'	=>	'news_summary',
+			'type'	=>	'text',
+			'can_be_empty'	=> true,
+		),
 		'news_content'	=> array(
 			'table'	=>	'news_content',
 			'name'	=>	'News content',
