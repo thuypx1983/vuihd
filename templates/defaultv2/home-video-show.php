@@ -1,4 +1,7 @@
-<?php 
+<?php
+ require_once('haplugin/license.php');
+ require_once('haplugin/ha.function.php');
+ $ha = new HAPlugin;
 if($value[1]=='home-video-show'){
     
     $videoID = (int)($value[2]);
@@ -80,71 +83,8 @@ if($row['video_id']){
 }
 #player-area{display:block;position:relative;height: 420px;    margin-bottom: 10px;}
 </style>
-	<?php
-	$detect = new Mobile_Detect;
-	if ( $detect->isMobile() or  $detect->isTablet()) {
-		?>
-		<script type="text/javascript">
-			var adsConfig = {
-				swfVast : "/newplayer/vastplay.swf",
-				/*pause:[
-				 "/newplayer/adstest/pause.xml"
-				 ],*/
-				video: [
-					{
-						position : 0,
-						link : [
-							'http://blueserving.com/vast.xml?key=0cf81923f34c497f07efc0a31c3d0e4d&cat=giaitri&country=vietnam',
-						]
-					}],
-				/*overlay: [
-				 {
-				 type : "tags",
-				 position : 0,
-				 time : 30,/!*30 thuypx change value*!/
-				 link : [
-				 "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
-				 ]
 
-				 }
-				 ]*/
-			};
-		</script>
-	<?php
-	}else{
-	?>
-		<script type="text/javascript">
-			var adsConfig = {
-				swfVast : "/newplayer/vastplay.swf",
-				/*pause:[
-				 "/newplayer/adstest/pause.xml"
-				 ],*/
-				video: [
-					{
-						position : 0,
-						link : [
-							'http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat=giaitri&country=vietnam',
-						]
-					}],
-				/*overlay: [
-				 {
-				 type : "tags",
-				 position : 0,
-				 time : 30,/!*30 thuypx change value*!/
-				 link : [
-				 "http://demo.jwplayer.com.s3.amazonaws.com/player-demos/assets/overlay.xml"
-				 ]
 
-				 }
-				 ]*/
-			};
-		</script>
-		<?php
-	}
-	?>
-<script type="text/javascript">
-    var videoURLStream=JSON.parse(CryptoJS.AES.decrypt('<?php echo $encodedVideoUrlStream?>', '<?php echo $password?>', {format: CryptoJSAesJson}).toString(CryptoJS.enc.Utf8))
-</script>
 </head>
 <body>  <? require_once("header.php");?>
  <div id="body-wrapper"> 
@@ -157,7 +97,21 @@ if($row['video_id']){
 	
 
 <main class="row"> 	<div class="large-8 columns left-side">
-<div id="player-area"><div id="phimletv_player"></div> </div>
+<div id="player-area"><?php echo $ha->handle($videoURLStream,NULL);?> </div>
+
+<!-- Composite Start -->
+<div id="M229973ScriptRootC101217">
+        
+        <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC101217")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC101217");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=101217;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.101217.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script>
+</div>
+<!-- Composite End -->
+
 		<article class="row v-detail">
 			<div class="medium-4 columns video-meta">
 				<div class="column small-6 medium-12 bottom-margin-10px margin-top-5px">
@@ -218,6 +172,10 @@ if($row['video_id']){
 		<div class="fb-comments fb_iframe_widget" data-href="<?=$videoLINK;?>" data-num-posts="10" data-width="100%" data-colorscheme="dark"></div>
 	</div>
 </div>
+
+
+
+
 		
 		<div class="row user-relate">
 			<div class="row">
@@ -246,6 +204,21 @@ echo ShowVideo("WHERE video_cat LIKE '%".$videoCAT."%' AND video_id <> ".$videoI
 
                         </div> 
           </div>
+		  
+		  <!-- Composite Start -->
+<div id="M229973ScriptRootC101183">
+        <div id="M229973PreloadC101183">
+        Đang Tải ...
+    </div>
+        <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC101183")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC101183");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=101183;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.101183.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script>
+</div>
+<!-- Composite End -->
 
         <div class="block interested video-show">
             <div class="widget-title">
@@ -443,7 +416,6 @@ $catNAME = $row['cat_name'];
 </main>
      </div> </div> </div>
 <script src="<?=STATIC_URL;?>/defaultv2/js/pdnghia.js" type="text/javascript"></script>
-<script type="text/javascript" src="/newplayer/jwplayer.js"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/plvideo.js" type="text/javascript"></script>
 <script type="text/javascript">
