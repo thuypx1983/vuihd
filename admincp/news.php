@@ -82,7 +82,27 @@ $inp_arr = array(
             'name'	=>	'Hot',
             'type'	=>	"function::acp_news_hot",
             'can_be_empty'	=> true,
-        )
+        ),
+        'news_title'	=> array(
+            'table'	=>	'news_cat_title',
+            'name'	=>	'Meta title',
+            'type'	=>	'free',
+            'can_be_empty'	=>	false
+        ),
+
+        'news_keyword'	=> array(
+            'table'	=>	'news_cat_keyword',
+            'name'	=>	'Meta  keyword',
+            'type'	=>	'free',
+            'can_be_empty'	=>	false
+        ),
+
+        'news_description'	=> array(
+            'table'	=>	'news_cat_description',
+            'name'	=>	'Meta  description',
+            'type'	=>	'free',
+            'can_be_empty'	=>	false
+        ),
 		
 
 );
