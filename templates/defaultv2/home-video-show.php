@@ -118,6 +118,12 @@ if($value[1]=='home-video-show'){
                                     <div class="column medium-12">
                                         <div class="column small-6">
                                             <small><i>Đăng <?=$videoTIME?></i></small>
+                                            <div class="el-100">
+                                                <div class="fb-like" data-href="<?=$videoLINK;?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+                                            </div>
+                                            <div class="el-100">
+                                                <g:plusone></g:plusone>
+                                            </div>
                                         </div>
                                         <div class="column small-6 text-right">
                                             <button id="wacth-report" data-val="" class="radius" title="Báo cáo"><i class="fi-flag"></i></button>
@@ -126,25 +132,6 @@ if($value[1]=='home-video-show'){
                                     <div class="column medium-12 title-v">
                                         <?=$videoNAME;?>
                                     </div>
-                                    <div class="column medium-12" id="content-p">
-                                        <?=$des;?>
-                                        <div class="cat-post"><span>Danh mục : </span><?=$video_cat;?></div>
-
-                                    </div>
-                                </div>
-                                <div class="medium-4 columns video-meta">
-
-                                    <div class="  margin-bottom-5px">
-                                        <div class="el-100">
-                                            <div class="fb-like" data-href="<?=$videoLINK;?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
-                                        </div>
-                                        <div class="el-100">
-                                            <g:plusone></g:plusone>
-                                        </div>
-                                    </div>
-
-
-
 
                                 </div>
                             </article>
