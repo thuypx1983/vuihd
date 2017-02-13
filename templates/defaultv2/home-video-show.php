@@ -116,12 +116,12 @@ if($value[1]=='home-video-show'){
 
                                 <div class="columnsvideo-content">
                                     <div class="column medium-12">
-                                        <div class="column small-6">
-                                            <small><i>Đăng <?=$videoTIME?></i></small>
-                                            <div class="el-100">
+                                        <div class="column ">
+                                            <small class="video-social"><i>Đăng <?=$videoTIME?></i></small>
+                                            <div class="el-100 video-social">
                                                 <div class="fb-like" data-href="<?=$videoLINK;?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
                                             </div>
-                                            <div class="el-100">
+                                            <div class="el-100 video-social">
                                                 <g:plusone></g:plusone>
                                             </div>
                                         </div>
