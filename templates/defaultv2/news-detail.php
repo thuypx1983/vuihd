@@ -131,7 +131,7 @@ $breadcrumbs .= '<li><a itemprop="url" href="/tin-tuc/" title="'.$language['home
 $breadcrumbs .= '<li><a itemprop="url" href="/tin-tuc/'.$news_cat['news_cat_url'].'/" title="'.$language['home'].'"><span itemprop="title">'.$news_cat['news_cat_name'].'</span></a></li>';
 $web_title = $news['news_title']?$news['news_title']:$news['news_name'];
 $web_keywords = $news['news_keyword']?$news['news_keyword']:$news['news_name'];
-$web_des =$news['news_description']?$news['news_description']: $web_title.', '.substr(strip_tags(htmlspecialchars_decode ($news['news_content'])),0,100).'...';
+$web_des =$news['news_description']?$news['news_description']: $web_title.', '.strip_tags(htmlspecialchars_decode ($news['news_summary']));
 
 ?><!DOCTYPE html>
 <html xmlns:og="http://ogp.me/ns#">
@@ -227,7 +227,8 @@ $web_des =$news['news_description']?$news['news_description']: $web_title.', '.s
                 <div class="block info-film-text">
 
                     <div class="block-body">
-                        <?php echo htmlspecialchars_decode ($news['news_content'])?>
+                        <div class="news-summary"><?php echo htmlspecialchars_decode ($news['news_summary'])?></div>
+                        <div class="news-content"><?php echo htmlspecialchars_decode ($news['news_content'])?></div>
                     </div>
 
                 </div>
