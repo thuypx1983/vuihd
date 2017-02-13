@@ -4447,4 +4447,5 @@ ul.news-cat  li a{
 .video-social{
     display: block;
     float: left;
+    margin-right: 5px;
 }
