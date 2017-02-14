@@ -574,7 +574,7 @@ function upperFirstChar($t)
 }
 function displayAdsLeft(){
     $detect = new Mobile_Detect;
-    if($detect->isMobile() and $detect->isTablet()){
+    if(!$detect->isMobile() and !$detect->isTablet()){
         echo ' <div class="ads-left"><script type ="text/javascript" src ="//admicro1.vcmedia.vn/ads_codes/ads_box_472585.ads" > </script></div>';
     }
    }
