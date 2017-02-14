@@ -139,6 +139,15 @@ if($value[1]=='home-video-show'){
                                     </div>
                                 </div>
                             </article>
+							<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v4.0.1
+  *
+  */-->
+
+<ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
                             <div id="fbcomments" class="row">
                                 <div id="facebook-comments" >
 
@@ -176,12 +185,7 @@ if($value[1]=='home-video-show'){
                                         </div>
 
                                     </div>
-									<!--- Script ANTS - 300x250 --> 
-<script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
-<div class="583347906" data-ants-zone-id="583347906"></div>
-<!--- end ANTS Script -->
-
-                                </div>
+								</div>
 
                                 <!-- Composite Start -->
                                 <div id="M229973ScriptRootC101183">
@@ -197,6 +201,9 @@ if($value[1]=='home-video-show'){
                                     </script>
                                 </div>
                                 <!-- Composite End -->
+								<div class="large-12 columns text-center show-for-large-up bottom-margin-10px">			<div class="ad-box-300">
+                                        <?=showAds('right_below_fanpage');?>
+                                    </div>
 
                                 <div class="block interested video-show">
                                     <div class="widget-title">
@@ -331,9 +338,7 @@ if($value[1]=='home-video-show'){
                                 </div>
                                 <div class="large-12 columns text-center show-for-large-up top-margin-10px">
                                 </div>
-                                <div class="large-12 columns text-center show-for-large-up bottom-margin-10px">			<div class="ad-box-300">
-                                        <?=showAds('right_below_fanpage');?>
-                                    </div>
+                                
                                 </div>
                                 <div class="medium-6 large-12 columns cat-group">
                                     <h3>Danh mục</h3>

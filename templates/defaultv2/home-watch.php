@@ -308,6 +308,15 @@ $film_countryz_title = "";
                             </div>
                             <div class="ad_location mobile hidden-lg hidden-md"> </div>-->
 							<?=$filmNote;?>
+							<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v4.0.1
+  *
+  */-->
+
+<ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
 						    <div class="block comment">
                                  
                                 <div class="block-body">

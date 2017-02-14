@@ -102,6 +102,29 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
         }
     })*/
 </script>
+<!-- Body code - Put below code before tag close </body> -->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/2627062/slider.vuihd.com_1x1', [1, 1], 'div-gpt-ad-1487056972739-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /2627062/slider.vuihd.com_1x1 -->
+<div id='div-gpt-ad-1487056972739-0' style='height:1px; width:1px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487056972739-0'); });
+</script>
+</div>
 
 
 
