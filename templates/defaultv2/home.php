@@ -46,7 +46,7 @@
     <div class="ad_location container desktop hidden-sm hidden-xs" style="padding-top: 0px; margin-bottom: 15px;display:none;"> </div>
     <div class="ad_location container mobile hidden-lg hidden-md" style="padding-top: 0px; margin-bottom: 15px;display:none;"> </div>
     <div class="content-wrapper">
-        <div class="container fit" style="position: relative">
+        <div class="container fit">
             <div class="main col-lg-8 col-md-8 col-sm-7">
                 <div class="block movie-kinhdien">
 
@@ -423,6 +423,16 @@
             <?php
             if(@$_GET['dev']=='1'){
                 ?>
+                <style type="text/css">
+                    .container.fit{
+                        position: relative;
+                    }
+                    .ads-left{
+                        position: absolute;
+                        top: 0px;
+                        left: -146px;
+                    }
+                </style>
                 <script type="text/javascript">
                     //jQuery used for simplicity
                     (function($){
