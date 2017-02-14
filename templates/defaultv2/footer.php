@@ -143,15 +143,10 @@ if(@$_GET['dev']=='1'){
         (function($){
             $(window).scroll(function(){
                 console.log('-1-');
-                console.log($(window).scrollTop());
-                console.log('-2-');
-                console.log($('.container.fit').offset().top);
+                console.log($(window).scrollTop()-$('.container.fit').offset().top);
+
             });
 
-            if($(window).width()>1200){
-
-
-            }
 
         })(jQuery)
     </script>
