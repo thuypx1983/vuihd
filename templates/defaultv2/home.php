@@ -423,33 +423,7 @@
             <?php
             if(@$_GET['dev']=='1'){
                 ?>
-                <style type="text/css">
-                    .container.fit{
-                        position: relative;
-                    }
-                    .ads-left{
-                        position: absolute;
-                        top: 0px;
-                        left: -146px;
-                    }
-                </style>
-                <script type="text/javascript">
-                    //jQuery used for simplicity
-                    (function($){
-                        $(window).scroll(function(){
-                            console.log('-1-');
-                            console.log($(window).scrollTop());
-                            console.log('-2-');
-                            console.log($('.container.fit').offset().top);
-                        });
 
-                        if($(window).width()>1200){
-
-
-                        }
-
-                    })(jQuery)
-                </script>
                 <div class="ads-left">
                     <script type ="text/javascript" src ="//admicro1.vcmedia.vn/ads_codes/ads_box_472585.ads" > </script>
                 </div>
