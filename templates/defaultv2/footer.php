@@ -142,11 +142,11 @@ if(@$_GET['dev']=='1'){
         //jQuery used for simplicity
         (function($){
             $(window).scroll(function(){
-                console.log('-1-');
-                var top=$(window).scrollTop()-$('.container.fit').offset().top;
-                console.log(top);
-                if(top>1){
-                    $('.ads-left').css('top',top+'px');
+                if($('.ads-left').length>0){
+                    var top=$(window).scrollTop()-$('.container.fit').offset().top;
+                    if(top>1){
+                        $('.ads-left').css('top',top+'px');
+                    }
                 }
 
             });

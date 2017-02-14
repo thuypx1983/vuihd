@@ -420,15 +420,9 @@
             <!--.sidebar-->
 
 
+            <!-- ads left-->
             <?php
-            if(@$_GET['dev']=='1'){
-                ?>
-
-                <div class="ads-left">
-                    <script type ="text/javascript" src ="//admicro1.vcmedia.vn/ads_codes/ads_box_472585.ads" > </script>
-                </div>
-                <?php
-            }
+            echo displayAdsLeft();
             ?>
 
         </div>
