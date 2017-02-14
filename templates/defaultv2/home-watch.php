@@ -3,10 +3,11 @@ if(($value[1]=='home-watch' && is_numeric($value[2])) || ($value[1]=='home-watch
     $x_get = explode('-',$value[3]);
     $get_f = $x_get[count($x_get)-1];
 	$filmID = (int)$get_f;
-	$mysql->query("UPDATE ".$tb_prefix."film SET film_viewed = film_viewed + 1,
-													film_viewed_day = film_viewed_day + 1,
-													film_viewed_w = film_viewed_w + 1,
-													film_viewed_m = film_viewed_m + 1 WHERE film_id = '".$filmID."'");
+    $increase=rand(1,50);
+	$mysql->query("UPDATE ".$tb_prefix."film SET film_viewed = film_viewed + {$increase},
+													film_viewed_day = film_viewed_day + {$increase},
+													film_viewed_w = film_viewed_w + {$increase},
+													film_viewed_m = film_viewed_m + {$increase} WHERE film_id = '".$filmID."'");
     if(is_numeric($value[2])) {
 	    $episode_id = 	intval($value[2]);
 	}elseif(strpos($value[2] , 'xem-phim') !== false){
