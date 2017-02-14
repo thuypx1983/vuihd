@@ -135,7 +135,7 @@ if(@$_GET['dev']=='1'){
         .ads-left{
             position: absolute;
             top: 0px;
-            left: -150px;
+            left: -160px;
         }
     </style>
     <script type="text/javascript">
