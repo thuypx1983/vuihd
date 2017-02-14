@@ -415,7 +415,14 @@ var ad_idzone = "2459817",
                             </div>
                         </div>
                     </main>
-                </div> </div> </div>
+
+                    <!-- ads left-->
+                    <?php
+                    echo displayAdsLeft();
+                    ?>
+                </div>
+            </div>
+            </div>
         <script src="<?=STATIC_URL;?>/defaultv2/js/pdnghia.js" type="text/javascript"></script>
         <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
         <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/plvideo.js" type="text/javascript"></script>

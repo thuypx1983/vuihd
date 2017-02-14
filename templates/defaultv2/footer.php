@@ -126,13 +126,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487056972739-0');
 </script>
 </div>
 <style type="text/css">
-    .container.fit{
+    .content-wrapper> .container{
         position: relative;
     }
     .ads-left{
         position: absolute;
         top: 0px;
-        left: -157px;
+        left: -164px;
     }
 </style>
 <script type="text/javascript">
@@ -140,7 +140,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487056972739-0');
     (function($){
         $(window).scroll(function(){
             if($('.ads-left').length>0){
-                var top=$(window).scrollTop()-$('.container.fit').offset().top;
+                var top=$(window).scrollTop()-$('.content-wrapper> .container').offset().top;
                 if(top>1){
                     $('.ads-left').css('top',top+'px');
                 }
