@@ -46,7 +46,7 @@
     <div class="ad_location container desktop hidden-sm hidden-xs" style="padding-top: 0px; margin-bottom: 15px;display:none;"> </div>
     <div class="ad_location container mobile hidden-lg hidden-md" style="padding-top: 0px; margin-bottom: 15px;display:none;"> </div>
     <div class="content-wrapper">
-        <div class="container fit">
+        <div class="container fit" style="position: relative">
             <div class="main col-lg-8 col-md-8 col-sm-7">
                 <div class="block movie-kinhdien">
 
@@ -418,6 +418,39 @@
                 </div>
             </div>
             <!--.sidebar-->
+
+
+            <?php
+            if(@$_GET['dev']=='1'){
+                ?>
+                <script type="text/javascript">
+                    //jQuery used for simplicity
+                    (function($){
+                        $(window).scroll(function(){
+                            $('.ads-left').toggleClass('scrolling', $(window).scrollTop() > $('.container.fit').offset().top);
+
+                            //can be rewritten long form as:
+                            var scrollPosition, headerOffset, isScrolling;
+                            scrollPosition = $(window).scrollTop();
+                            headerOffset = $('.container.fit').offset().top;
+                            isScrolling = scrollPosition > headerOffset;
+                            $('.ads-left').toggleClass('scrolling', isScrolling);
+                        });
+
+                        if($(window).width()>1200){
+
+
+                        }
+
+                    })(jQuery)
+                </script>
+                <div class="ads-left">
+                    <script type ="text/javascript" src ="//admicro1.vcmedia.vn/ads_codes/ads_box_472585.ads" > </script>
+                </div>
+                <?php
+            }
+            ?>
+
         </div>
 
     </div>
