@@ -125,35 +125,29 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487056972739-0'); });
 </script>
 </div>
-<?php
-if(@$_GET['dev']=='1'){
-    ?>
-    <style type="text/css">
-        .container.fit{
-            position: relative;
-        }
-        .ads-left{
-            position: absolute;
-            top: 0px;
-            left: -157px;
-        }
-    </style>
-    <script type="text/javascript">
-        //jQuery used for simplicity
-        (function($){
-            $(window).scroll(function(){
-                if($('.ads-left').length>0){
-                    var top=$(window).scrollTop()-$('.container.fit').offset().top;
-                    if(top>1){
-                        $('.ads-left').css('top',top+'px');
-                    }
+<style type="text/css">
+    .container.fit{
+        position: relative;
+    }
+    .ads-left{
+        position: absolute;
+        top: 0px;
+        left: -157px;
+    }
+</style>
+<script type="text/javascript">
+    //jQuery used for simplicity
+    (function($){
+        $(window).scroll(function(){
+            if($('.ads-left').length>0){
+                var top=$(window).scrollTop()-$('.container.fit').offset().top;
+                if(top>1){
+                    $('.ads-left').css('top',top+'px');
                 }
+            }
 
-            });
+        });
 
 
-        })(jQuery)
-    </script>
-    <?php
-}
-?>
+    })(jQuery)
+</script>
