@@ -440,6 +440,10 @@ $film_countryz_title = "";
                         </div>
                     </div>
                     <!--.sidebar-->
+                        <!-- ads left-->
+                        <?php
+                        echo displayAdsLeft();
+                        ?>
                     </div>
                 </div>
             </div>

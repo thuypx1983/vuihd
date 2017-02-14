@@ -434,6 +434,10 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
                 </div>
             </div>
             <!--.sidebar-->
+            <!-- ads left-->
+            <?php
+            echo displayAdsLeft();
+            ?>
         </div>
     </div>
 </div>
