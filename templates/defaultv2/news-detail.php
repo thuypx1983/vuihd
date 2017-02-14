@@ -156,6 +156,26 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
         filmInfo.filmID = parseInt('<?=$filmID;?>');
         filmInfo.isAdult = parseInt('<?=$film18;?>');
     </script>
+	<!-- Header code - Put in HEAD -->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/2627062/vuihd.com_ROS_300x250', [300, 250], 'div-gpt-ad-1486957988775-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+
+<!-- Body code - Put below code where the ads will show -->
 </head> <body>
 <? require_once("header.php");?>
 <div id="body-wrapper">
@@ -301,38 +321,13 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
 				
             </div>
 			
-			<!-- Header code - Put in HEAD -->
-
-<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
-
-<script>
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/2627062/vuihd.com_ROS_300x250', [300, 250], 'div-gpt-ad-1486957988775-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();
-  });
-</script>
-
-
-
-<!-- Body code - Put below code where the ads will show -->
-
-<!-- /2627062/vuihd.com_ROS_300x250 -->
-<div id='div-gpt-ad-1486957988775-0' style='height:250px; width:300px;'>
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486957988775-0'); });
-</script>
-</div>
-
 			<!--- Script ANTS - 300x250 --> 
 <script async src="//e-vcdn.anthill.vn/delivery-ants/asset/1.0/ants.js"></script>
 <div class="583347906" data-ants-zone-id="583347906"></div>
 <!--- end ANTS Script -->
+			
+
+
 			
 			<!-- Composite Start -->
                                 <div id="M229973ScriptRootC101183">
@@ -348,7 +343,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486957988775-0');
                                     </script>
                                 </div>
                                 <!-- Composite End -->
+								
             <div class="sidebar col-lg-4 col-md-4 col-sm-5">
+			<!-- /2627062/vuihd.com_ROS_300x250 -->
+<div id='div-gpt-ad-1486957988775-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486957988775-0'); });
+</script>
+</div>
                 <div class="block ad_location" id="ads_location">
                               <?=showAds('right_below_fanpage');?>
                         </div>
