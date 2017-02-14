@@ -26,7 +26,6 @@ class vietlott{
     }
     function filterUserByNumber() {
         $agr=func_num_args();
-
         switch($agr){
             case 1:
                 $sql="SELECT * FROM `vietlott` AS table1 WHERE table1.number1 =".func_get_arg(0)." OR table1.number2 =".func_get_arg(0)." OR table1.number3 =".func_get_arg(0);
