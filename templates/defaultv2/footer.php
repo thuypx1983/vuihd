@@ -125,5 +125,6 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487056972739-0'); });
 </script>
 </div>
-
-
+<div class="ads-left" style="position: fixed; left: 0px;top: 300px">
+    <script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472585.ads"></script>
+</div>
