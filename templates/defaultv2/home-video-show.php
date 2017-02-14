@@ -87,7 +87,7 @@ if($value[1]=='home-video-show'){
 
         </head>
         <body>  <? require_once("header.php");?>
-		    <div id="body-wrapper">
+        <div id="body-wrapper">
             <div class="ad_location container desktop hidden-sm hidden-xs" style="padding-top: 0px; margin-bottom: 15px;">  </div>
             <div class="ad_location container mobile hidden-lg hidden-md" style="padding-top: 0px; margin-bottom: 15px;"> </div>
             <div class="content-wrapper">
@@ -97,25 +97,43 @@ if($value[1]=='home-video-show'){
 
 
                     <main class="row"> 	<div class="large-8 columns left-side">
-					<script type="text/javascript">
-var ad_idzone = "2459817",
-	 ad_width = "728",
-	 ad_height = "90";
-</script>
-<script type="text/javascript" src="https://ads.exdynsrv.com/ads.js"></script>
-<noscript><a href="http://main.exdynsrv.com/img-click.php?idzone=2459817" target="_blank"><img src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=2459817&output=img&type=728x90" width="728"></a></noscript>
+                            <?php
+                            $detect = new Mobile_Detect;
+                            if ( $detect->isMobile() or  $detect->isTablet()){
+                                ?>
+                                <script type="text/javascript">
+                                    var ad_idzone = "2460143",
+                                        ad_width = "300",
+                                        ad_height = "250";
+                                </script>
+                                <script type="text/javascript" src="https://ads.exdynsrv.com/ads.js"></script>
+                                <noscript><a href="http://main.exdynsrv.com/img-click.php?idzone=2460143" target="_blank"><img src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=2460143&output=img&type=300x250" width="300" height="250"></a></noscript>
+                            <?php
+                            }else{
+                            ?>
+                                <script type="text/javascript">
+                                    var ad_idzone = "2459817",
+                                        ad_width = "728",
+                                        ad_height = "110";
+                                </script>
+                                <script type="text/javascript" src="https://ads.exdynsrv.com/ads.js"></script>
+                                <noscript><a href="http://main.exdynsrv.com/img-click.php?idzone=2459817" target="_blank"><img src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=2459817&output=img&type=728x90" width="728"></a></noscript>
+                                <?php
+                            }
+                            ?>
+
                             <div id="player-area"><?php echo $ha->handle($videoURLStream,NULL);?> </div>
-							<?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-    <?php
-    }else{
-        ?>
-        <script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472579.ads"></script>
-    <?php
-    }
-    ?>					
+                            <?php
+                            $detect = new Mobile_Detect;
+                            if ( $detect->isMobile() or  $detect->isTablet()){
+                                ?>
+                                <?php
+                            }else{
+                                ?>
+                                <script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472579.ads"></script>
+                                <?php
+                            }
+                            ?>
 
                             <!-- Composite Start -->
                             <div id="M229973ScriptRootC101217">
@@ -157,15 +175,15 @@ var ad_idzone = "2459817",
                                     </div>
                                 </div>
                             </article>
-							<!--/*
+                            <!--/*
   *
   * Revive Adserver Asynchronous JS Tag
   * - Generated with Revive Adserver v4.0.1
   *
   */-->
 
-<ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
-<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
+                            <ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+                            <script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
                             <div id="fbcomments" class="row">
                                 <div id="facebook-comments" >
 
@@ -203,7 +221,7 @@ var ad_idzone = "2459817",
                                         </div>
 
                                     </div>
-								</div>
+                                </div>
 
                                 <!-- Composite Start -->
                                 <div id="M229973ScriptRootC101183">
@@ -219,14 +237,14 @@ var ad_idzone = "2459817",
                                     </script>
                                 </div>
                                 <!-- Composite End -->
-								<div class="large-12 columns text-center show-for-large-up bottom-margin-10px">			<div class="ad-box-300">
+                                <div class="large-12 columns text-center show-for-large-up bottom-margin-10px">			<div class="ad-box-300">
                                         <?=showAds('right_below_fanpage');?>
                                     </div>
 
-                                <div class="block interested video-show">
-                                    <div class="widget-title">
-                                        <h3 class="title">Phim hot tuần</h3>
-                        <span class="tabs">
+                                    <div class="block interested video-show">
+                                        <div class="widget-title">
+                                            <h3 class="title">Phim hot tuần</h3>
+                                            <span class="tabs">
                             <div class="tab active" data-name="film-interested-le" data-target=".block.interested .content"><div class="name"><a title="Phim lẻ" href="phim-le/">Phim lẻ</a></div>
                             </div>
                             <div class="tab" data-name="film-interested-bo" data-target=".block.interested .content"><div class="name"><a title="Phim bộ" href="phim-bo/">Phim bộ</a></div>
@@ -234,129 +252,129 @@ var ad_idzone = "2459817",
                             <div class="tab" data-name="film-interested-hoat-hinh" data-target=".block.interested .content"><div class="name"><a title="Phim hoạt hình" href="/the-loai/hoat-hinh/">Hoạt hình</a></div>
                             </div>
                         </span>
+                                        </div>
+
+
+                                        <div class="block-body">
+                                            <div class="content" data-name="film-interested-le">
+                                                <div class="list-film-simple">
+                                                    <?=ShowFilm("WHERE film_lb = 0","ORDER BY film_viewed_w",10,'showfilm_right_home','phimle_hotw');?>
+
+
+                                                </div>
+                                            </div>
+                                            <div class="content hidden" data-name="film-interested-bo">
+                                                <div class="list-film-simple">
+
+                                                    <?=ShowFilm("WHERE film_lb IN (1,2)","ORDER BY film_viewed_w",10,'showfilm_right_home','phimbo_hotw');?>
+
+                                                </div>
+                                            </div>
+                                            <div class="content hidden" data-name="film-interested-hoat-hinh">
+                                                <div class="list-film-simple">
+
+                                                    <?=ShowFilm("WHERE film_cat LIKE '%,5,%'","ORDER BY film_viewed_w",10,'showfilm_right_home','phimhoathinh_hotw');?>
+
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
 
-
-                                    <div class="block-body">
-                                        <div class="content" data-name="film-interested-le">
-                                            <div class="list-film-simple">
-                                                <?=ShowFilm("WHERE film_lb = 0","ORDER BY film_viewed_w",10,'showfilm_right_home','phimle_hotw');?>
-
-
-                                            </div>
-                                        </div>
-                                        <div class="content hidden" data-name="film-interested-bo">
-                                            <div class="list-film-simple">
-
-                                                <?=ShowFilm("WHERE film_lb IN (1,2)","ORDER BY film_viewed_w",10,'showfilm_right_home','phimbo_hotw');?>
-
-                                            </div>
-                                        </div>
-                                        <div class="content hidden" data-name="film-interested-hoat-hinh">
-                                            <div class="list-film-simple">
-
-                                                <?=ShowFilm("WHERE film_cat LIKE '%,5,%'","ORDER BY film_viewed_w",10,'showfilm_right_home','phimhoathinh_hotw');?>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="medium-6 large-12 columns pop-tab">
-                                    <ul class="tabs" data-tab role="tablist">
-                                        <li class="tab-title">
-                                            <a href="javascript:void(0)" data="#panel2-1" class="active"><h3>Xem nhiều hôm nay</h3></a>
-                                        </li>
-                                        <li class="tab-title">
-                                            <a href="javascript:void(0)" data="#panel2-2"><h3>Hot tuần</h3></a>
-                                        </li>
-                                    </ul>
-                                    <div class="tabs-content">
-                                        <section role="tabpanel" aria-hidden="false" class="content active" id="panel2-1">
-                                            <?php
-                                            $qview = $mysql->query("SELECT * FROM ".DATABASE_FX."video ORDER BY video_viewed_day DESC LIMIT 5");
-                                            while($row = $qview->fetch(PDO::FETCH_ASSOC)){
-                                                $videoURL = $web_link.'/xem-video/'.$row['video_key'].'-'.$row['video_id'].'.html';
-                                                $videoNAME = $row['video_name'];
-                                                $videoIMG = 'http://i.ytimg.com/vi/'.get_idyoutube($row['video_url']).'/mqdefault.jpg';
-                                                $videoTIME = RemainTime($row['video_time_update']);
-                                                $videoVIEWED = number_format($row['video_viewed']);
-                                                $videoPOSTER = $row['video_upload'];
-                                                $videoDURATION = ($row['video_duration']);
-                                                if(is_numeric($videoPOSTER)){
-                                                    $videoUploader = get_data("user_name","user","user_id",$videoPOSTER);
-                                                    if(isset($videoUploader) && $videoUploader != '') $videoPOSTER = $videoUploader; else $videoPOSTER = $videoPOSTER;
-                                                }
-                                                else $videoPOSTER = $videoPOSTER;
+                                    <div class="medium-6 large-12 columns pop-tab">
+                                        <ul class="tabs" data-tab role="tablist">
+                                            <li class="tab-title">
+                                                <a href="javascript:void(0)" data="#panel2-1" class="active"><h3>Xem nhiều hôm nay</h3></a>
+                                            </li>
+                                            <li class="tab-title">
+                                                <a href="javascript:void(0)" data="#panel2-2"><h3>Hot tuần</h3></a>
+                                            </li>
+                                        </ul>
+                                        <div class="tabs-content">
+                                            <section role="tabpanel" aria-hidden="false" class="content active" id="panel2-1">
+                                                <?php
+                                                $qview = $mysql->query("SELECT * FROM ".DATABASE_FX."video ORDER BY video_viewed_day DESC LIMIT 5");
+                                                while($row = $qview->fetch(PDO::FETCH_ASSOC)){
+                                                    $videoURL = $web_link.'/xem-video/'.$row['video_key'].'-'.$row['video_id'].'.html';
+                                                    $videoNAME = $row['video_name'];
+                                                    $videoIMG = 'http://i.ytimg.com/vi/'.get_idyoutube($row['video_url']).'/mqdefault.jpg';
+                                                    $videoTIME = RemainTime($row['video_time_update']);
+                                                    $videoVIEWED = number_format($row['video_viewed']);
+                                                    $videoPOSTER = $row['video_upload'];
+                                                    $videoDURATION = ($row['video_duration']);
+                                                    if(is_numeric($videoPOSTER)){
+                                                        $videoUploader = get_data("user_name","user","user_id",$videoPOSTER);
+                                                        if(isset($videoUploader) && $videoUploader != '') $videoPOSTER = $videoUploader; else $videoPOSTER = $videoPOSTER;
+                                                    }
+                                                    else $videoPOSTER = $videoPOSTER;
 
 
-                                                ?>
-                                                <div class="row">
-                                                    <div class="columns small-5 margin-bottom-5px ratio16_9">
-                                                        <div class="box">
-                                                            <span class="video-time"><?=$videoDURATION;?></span>
-                                                            <a href="<?=$videoURL;?>"
-                                                               title="Video clip <?=$videoNAME;?>">
-                                                                <img alt="Video clip <?=$videoNAME;?>" src="<?=$videoIMG;?>">
-                                                            </a>
+                                                    ?>
+                                                    <div class="row">
+                                                        <div class="columns small-5 margin-bottom-5px ratio16_9">
+                                                            <div class="box">
+                                                                <span class="video-time"><?=$videoDURATION;?></span>
+                                                                <a href="<?=$videoURL;?>"
+                                                                   title="Video clip <?=$videoNAME;?>">
+                                                                    <img alt="Video clip <?=$videoNAME;?>" src="<?=$videoIMG;?>">
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="columns small-7 margin-bottom-5px detail-group">
+                                                            <a href="<?=$videoURL;?>" title="Video clip <?=$videoNAME;?>"><strong><?=$videoNAME;?></strong></a>
+                                                            <div class="content-item"></div>
+                                                            <span class="play-icon"><?=$videoVIEWED;?></span>
                                                         </div>
                                                     </div>
-                                                    <div class="columns small-7 margin-bottom-5px detail-group">
-                                                        <a href="<?=$videoURL;?>" title="Video clip <?=$videoNAME;?>"><strong><?=$videoNAME;?></strong></a>
-                                                        <div class="content-item"></div>
-                                                        <span class="play-icon"><?=$videoVIEWED;?></span>
-                                                    </div>
-                                                </div>
 
-                                            <? } ?>
+                                                <? } ?>
 
 
-                                        </section>
-                                        <section role="tabpanel" aria-hidden="true" class="content" id="panel2-2">
-                                            <?php
-                                            $qview = $mysql->query("SELECT * FROM ".DATABASE_FX."video ORDER BY video_viewed_week DESC LIMIT 5");
-                                            while($row = $qview->fetch(PDO::FETCH_ASSOC)){
-                                                $videoURL = $web_link.'/xem-video/'.$row['video_key'].'-'.$row['video_id'].'.html';
-                                                $videoNAME = $row['video_name'];
-                                                $videoIMG = 'http://i.ytimg.com/vi/'.get_idyoutube($row['video_url']).'/mqdefault.jpg';
-                                                $videoTIME = RemainTime($row['video_time_update']);
-                                                $videoVIEWED = number_format($row['video_viewed']);
-                                                $videoPOSTER = $row['video_upload'];
-                                                $videoDURATION = ($row['video_duration']);
-                                                if(is_numeric($videoPOSTER)){
-                                                    $videoUploader = get_data("user_name","user","user_id",$videoPOSTER);
-                                                    if(isset($videoUploader) && $videoUploader != '') $videoPOSTER = $videoUploader; else $videoPOSTER = $videoPOSTER;
-                                                }
-                                                else $videoPOSTER = $videoPOSTER;
+                                            </section>
+                                            <section role="tabpanel" aria-hidden="true" class="content" id="panel2-2">
+                                                <?php
+                                                $qview = $mysql->query("SELECT * FROM ".DATABASE_FX."video ORDER BY video_viewed_week DESC LIMIT 5");
+                                                while($row = $qview->fetch(PDO::FETCH_ASSOC)){
+                                                    $videoURL = $web_link.'/xem-video/'.$row['video_key'].'-'.$row['video_id'].'.html';
+                                                    $videoNAME = $row['video_name'];
+                                                    $videoIMG = 'http://i.ytimg.com/vi/'.get_idyoutube($row['video_url']).'/mqdefault.jpg';
+                                                    $videoTIME = RemainTime($row['video_time_update']);
+                                                    $videoVIEWED = number_format($row['video_viewed']);
+                                                    $videoPOSTER = $row['video_upload'];
+                                                    $videoDURATION = ($row['video_duration']);
+                                                    if(is_numeric($videoPOSTER)){
+                                                        $videoUploader = get_data("user_name","user","user_id",$videoPOSTER);
+                                                        if(isset($videoUploader) && $videoUploader != '') $videoPOSTER = $videoUploader; else $videoPOSTER = $videoPOSTER;
+                                                    }
+                                                    else $videoPOSTER = $videoPOSTER;
 
 
-                                                ?>
-                                                <div class="row">
-                                                    <div class="columns small-5 margin-bottom-5px ratio16_9">
-                                                        <div class="box">
-                                                            <span class="video-time"><?=$videoDURATION;?></span>
-                                                            <a href="<?=$videoURL;?>"
-                                                               title="Video clip <?=$videoNAME;?>">
-                                                                <img alt="Video clip <?=$videoNAME;?>" src="<?=$videoIMG;?>">
-                                                            </a>
+                                                    ?>
+                                                    <div class="row">
+                                                        <div class="columns small-5 margin-bottom-5px ratio16_9">
+                                                            <div class="box">
+                                                                <span class="video-time"><?=$videoDURATION;?></span>
+                                                                <a href="<?=$videoURL;?>"
+                                                                   title="Video clip <?=$videoNAME;?>">
+                                                                    <img alt="Video clip <?=$videoNAME;?>" src="<?=$videoIMG;?>">
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="columns small-7 margin-bottom-5px detail-group">
+                                                            <a href="<?=$videoURL;?>" title="Video clip <?=$videoNAME;?>"><strong><?=$videoNAME;?></strong></a>
+                                                            <div class="content-item"></div>
+                                                            <span class="play-icon"><?=$videoVIEWED;?></span>
                                                         </div>
                                                     </div>
-                                                    <div class="columns small-7 margin-bottom-5px detail-group">
-                                                        <a href="<?=$videoURL;?>" title="Video clip <?=$videoNAME;?>"><strong><?=$videoNAME;?></strong></a>
-                                                        <div class="content-item"></div>
-                                                        <span class="play-icon"><?=$videoVIEWED;?></span>
-                                                    </div>
-                                                </div>
 
-                                            <? } ?>
+                                                <? } ?>
 
 
-                                        </section>
+                                            </section>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="large-12 columns text-center show-for-large-up top-margin-10px">
-                                </div>
-                                
+                                    <div class="large-12 columns text-center show-for-large-up top-margin-10px">
+                                    </div>
+
                                 </div>
                                 <div class="medium-6 large-12 columns cat-group">
                                     <h3>Danh mục</h3>
@@ -415,14 +433,11 @@ var ad_idzone = "2459817",
                             </div>
                         </div>
                     </main>
-
                     <!-- ads left-->
                     <?php
                     echo displayAdsLeft();
                     ?>
-                </div>
-            </div>
-            </div>
+                </div> </div> </div>
         <script src="<?=STATIC_URL;?>/defaultv2/js/pdnghia.js" type="text/javascript"></script>
         <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
         <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/plvideo.js" type="text/javascript"></script>
