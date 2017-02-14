@@ -143,7 +143,10 @@ if(@$_GET['dev']=='1'){
         (function($){
             $(window).scroll(function(){
                 console.log('-1-');
-                console.log($(window).scrollTop()-$('.container.fit').offset().top);
+                var top=$(window).scrollTop()-$('.container.fit').offset().top;
+                if(top>1){
+                    $('.ads-left').css('top',top+'px');
+                }
 
             });
 
