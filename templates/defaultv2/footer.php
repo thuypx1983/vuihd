@@ -145,7 +145,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487056972739-0');
             $(d).addClass('ads-left');
             var s = document.createElement("script");
             s.type = "text/javascript";
-            s.src = "http://scriptlocation/das.js";
+            s.src = "//admicro1.vcmedia.vn/ads_codes/ads_box_472585.ads";
             $(d).append(s)
             // Use any selector
             $(d).appendTo('.container.fit');
