@@ -437,14 +437,10 @@
                     //jQuery used for simplicity
                     (function($){
                         $(window).scroll(function(){
-                            $('.ads-left').toggleClass('scrolling', $(window).scrollTop() > $('.container.fit').offset().top);
-
-                            //can be rewritten long form as:
-                            var scrollPosition, headerOffset, isScrolling;
-                            scrollPosition = $(window).scrollTop();
-                            headerOffset = $('.container.fit').offset().top;
-                            isScrolling = scrollPosition > headerOffset;
-                            $('.ads-left').toggleClass('scrolling', isScrolling);
+                            console.log('-1-');
+                            console.log($(window).scrollTop());
+                            console.log('-2-');
+                            console.log($('.container.fit').offset().top);
                         });
 
                         if($(window).width()>1200){
