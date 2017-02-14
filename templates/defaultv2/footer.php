@@ -125,3 +125,31 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1487056972739-0'); });
 </script>
 </div>
+<script type="text/javascript">
+    //jQuery used for simplicity
+    (function($){
+        $(window).scroll(function(){
+            $('.ads-left').toggleClass('scrolling', $(window).scrollTop() > $('.container.fit').offset().top);
+
+            //can be rewritten long form as:
+            var scrollPosition, headerOffset, isScrolling;
+            scrollPosition = $(window).scrollTop();
+            headerOffset = $('.container.fit').offset().top;
+            isScrolling = scrollPosition > headerOffset;
+            $('.ads-left').toggleClass('scrolling', isScrolling);
+        });
+
+        if($(window).width()>1200){
+
+            var d=document.createElement("div");
+            $(d).addClass('ads-left');
+            var s = document.createElement("script");
+            s.type = "text/javascript";
+            s.src = "http://scriptlocation/das.js";
+            $(d).append(s)
+            // Use any selector
+            $(d).appendTo('.container.fit');
+        }
+
+    })(jQuery)
+</script>
