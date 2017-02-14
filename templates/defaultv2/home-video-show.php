@@ -87,7 +87,7 @@ if($value[1]=='home-video-show'){
 
         </head>
         <body>  <? require_once("header.php");?>
-        <div id="body-wrapper">
+		    <div id="body-wrapper">
             <div class="ad_location container desktop hidden-sm hidden-xs" style="padding-top: 0px; margin-bottom: 15px;">  </div>
             <div class="ad_location container mobile hidden-lg hidden-md" style="padding-top: 0px; margin-bottom: 15px;"> </div>
             <div class="content-wrapper">
@@ -97,7 +97,25 @@ if($value[1]=='home-video-show'){
 
 
                     <main class="row"> 	<div class="large-8 columns left-side">
+					<script type="text/javascript">
+var ad_idzone = "2459817",
+	 ad_width = "728",
+	 ad_height = "90";
+</script>
+<script type="text/javascript" src="https://ads.exdynsrv.com/ads.js"></script>
+<noscript><a href="http://main.exdynsrv.com/img-click.php?idzone=2459817" target="_blank"><img src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=2459817&output=img&type=728x90" width="728"></a></noscript>
                             <div id="player-area"><?php echo $ha->handle($videoURLStream,NULL);?> </div>
+							<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+    <?php
+    }else{
+        ?>
+        <script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472579.ads"></script>
+    <?php
+    }
+    ?>					
 
                             <!-- Composite Start -->
                             <div id="M229973ScriptRootC101217">

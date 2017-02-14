@@ -185,6 +185,15 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
         <div class="container fit">
             <div class="block-title breadcrumb"> <?=$breadcrumbs;?> </div>
             <div class="main col-lg-8 col-md-8 col-sm-7">
+				<!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v4.0.1
+  *
+  */-->
+
+<ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
                 <h1><?php echo $news['news_name']?></h1>
                 <div class="author-and-share clearfix" style="padding-bottom: 15px">
                     <div class="info pull-left">
@@ -345,12 +354,7 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
                                 <!-- Composite End -->
 								
             <div class="sidebar col-lg-4 col-md-4 col-sm-5">
-			<!-- /2627062/vuihd.com_ROS_300x250 -->
-<div id='div-gpt-ad-1486957988775-0' style='height:250px; width:300px;'>
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486957988775-0'); });
-</script>
-</div>
+			
                 <div class="block ad_location" id="ads_location">
                               <?=showAds('right_below_fanpage');?>
                         </div>

@@ -220,13 +220,74 @@ $film_countryz_title = "";
                 </div>-->
                 <div class="content-wrapper background-dark watch-page">
                     <div class="container fit">
-					<div class="block-title breadcrumb"> <?=$breadcrumbs;?> </div>
-					<div id="player-area" style="width:100%;height:100%;">    
-                                        </div>
+					<!--<div class="block-title breadcrumb"> <?=$breadcrumbs;?> </div>-->
+					<div id="player-area" style="width:100%;height:100%;"> 	
+                    </div>
+					<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+    <?php
+    }else{
+        ?>
+        <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472576.ads"></script></center>
+    <?php
+    }
+    ?>
+					
 					
 					
                         <div class="main col-lg-8 col-md-8">
-<div class="block info-film watch-film" itemscope="" itemtype="http://schema.org/Movie" style="display:block;">
+						<div class="block media">
+                                <div class="block-title" style="display:none;"> Xem phim <?=$filmNAMEVN;?> / Tập <?=$EpisodeNAME;?></div>
+                                <div class="block-body" style="position: relative;">
+								<? if($filmPublish == 1){?>
+								<div class="error-not-available"><div class="alert-container"><div class="alert-inner" style="padding: 24px 30px;"><div class="alert-heading">Phim bị gỡ bỏ vì bản quyền</div><div class="alert-subheading"><?=$filmThongbao;?></div></div></div></div>
+							<?	}else{?>
+                                    <div id="ads_location" class="ad_location desktop"><?=showAds("banner_home_watch");?> </div>
+                                 
+                                    <div class="controls" itemscope itemtype="http://data-vocabulary.org/Review-aggregate">
+                                        <div class="item widget rating" data-scores="<?=$filmRATESCORE;?>" data-count="<?=$filmRATE;?>"> <span class="stars"> <?=showStar($filmRATESCORE);?> </span> <span class="text" data-text="%s luợt"> <?=$filmRATESCORE;?> / <?=$filmRATE;?> lượt </span> </div> <span class="hidden" itemprop="votes"><?=$filmRATE;?></span> <span class="hidden" itemtype="http://data-vocabulary.org/Rating" itemscope itemprop="rating"> <span itemprop="average"><?=$filmRATESCORE;?></span>
+                                        <meta itemprop="best" content="10">
+                                        <meta itemprop="worst" content="1"> </span>
+                                        <!--<div class="item remove-ad"> <span class="wrap"> <i class="fa fa-support"></i> <span>Tắt QC</span> </span>
+                                        </div>-->
+										<div class="item toggle-addbox hidden-sm hidden-xs" data-on="Đã thích" data-off="Thích" title="Thích để thêm phim vào tủ phim của bạn!"> <span class="wrap" onclick="Player.Box(<?=$filmID;?>);" data="<?=$filmNAMEVN;?>"><i class="fa fa-gittip"></i> <span>Thích</span> </span> </div>
+										<div class="item toggle-autonext hidden-sm hidden-xs" data-on="Chuyển tập: ON" data-off="Chuyển tập: OFF"> <span class="wrap"> <span>Chuyển tập: ON</span> </span> </div>
+										<div class="fb-send" style="left:4px" data-href="<?=$filmURL;?>" data-size="large"></div> <div class="fb-like" style="left: 4px" data-href="<?=$filmURL;?>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+										<div style="position: relative;top: 5px;left: 4px;display: inline-block;"><g:plusone></g:plusone></div>
+
+
+                                        <!--<div class="item toggle-light right hidden-sm hidden-xs" data-on="Tắt đèn" data-off="Bật đèn"> <span class="wrap"> <i class="fa fa-lightbulb-o"></i> <span>Tắt đèn</span> </span>
+                                        </div>
+                                        <div class="item toggle-size right hidden-sm hidden-xs" data-on="Thu nhỏ" data-off="Phóng to"> <span class="wrap"> <i class="fa fa-exchange"></i> <span>Phóng to</span> </span> </div>
+										<div class="item toggle-error right hidden-sm hidden-xs"> <span class="wrap"> <i class="fa fa-exclamation-circle"></i> <span>Báo lỗi</span> </span> </div>-->
+                                    </div>
+									<? } ?>
+                                </div>
+                            </div>
+							<!--.block-->
+                            <div class="ad_location desktop hidden-sm hidden-xs"> </div>
+                            <div class="ad_location mobile hidden-lg hidden-md"> </div>
+
+                            <div class="block servers">
+                                <div class="server" data-type="watch">
+								    <?=$EpisodeList;?>
+                                    
+
+                                </div>
+								
+                                <!--.server-->
+
+                            </div>
+                            <!--.block-->
+                            <!--<div class="row ad_location desktop hidden-sm hidden-xs">
+                                <div class="col-lg-6 col-md-6"></div>
+                                <div class="col-lg-6 col-md-6"></div>
+                            </div>
+                            <div class="ad_location mobile hidden-lg hidden-md"> </div>-->
+							
+						<div class="block info-film watch-film" itemscope="" itemtype="http://schema.org/Movie" style="display:block;">
                             
                             <div class="row">
                                 <div class="col-sm-3 visible-sm-block col-xs-1 visible-xs-block"></div>
@@ -260,55 +321,8 @@ $film_countryz_title = "";
                                 </div>
                             </div>
                         </div>
-                            <div class="block media">
-                                <div class="block-title" style="display:none;"> Xem phim <?=$filmNAMEVN;?> / Tập <?=$EpisodeNAME;?></div>
-                                <div class="block-body" style="position: relative;">
-								<? if($filmPublish == 1){?>
-								<div class="error-not-available"><div class="alert-container"><div class="alert-inner" style="padding: 24px 30px;"><div class="alert-heading">Phim bị gỡ bỏ vì bản quyền</div><div class="alert-subheading"><?=$filmThongbao;?></div></div></div></div>
-							<?	}else{?>
-                                    <div id="ads_location" class="ad_location desktop"><?=showAds("banner_home_watch");?> </div>
-                                 
-                                    <div class="controls" itemscope itemtype="http://data-vocabulary.org/Review-aggregate">
-                                        <div class="item widget rating" data-scores="<?=$filmRATESCORE;?>" data-count="<?=$filmRATE;?>"> <span class="stars"> <?=showStar($filmRATESCORE);?> </span> <span class="text" data-text="%s luợt"> <?=$filmRATESCORE;?> / <?=$filmRATE;?> lượt </span> </div> <span class="hidden" itemprop="votes"><?=$filmRATE;?></span> <span class="hidden" itemtype="http://data-vocabulary.org/Rating" itemscope itemprop="rating"> <span itemprop="average"><?=$filmRATESCORE;?></span>
-                                        <meta itemprop="best" content="10">
-                                        <meta itemprop="worst" content="1"> </span>
-                                        <!--<div class="item remove-ad"> <span class="wrap"> <i class="fa fa-support"></i> <span>Tắt QC</span> </span>
-                                        </div>-->
-										<div class="item toggle-addbox hidden-sm hidden-xs" data-on="Đã thích" data-off="Thích" title="Thích để thêm phim vào tủ phim của bạn!"> <span class="wrap" onclick="Player.Box(<?=$filmID;?>);" data="<?=$filmNAMEVN;?>"><i class="fa fa-gittip"></i> <span>Thích</span> </span> </div>
-										<div class="item toggle-autonext hidden-sm hidden-xs" data-on="Chuyển tập: ON" data-off="Chuyển tập: OFF"> <span class="wrap"> <span>Chuyển tập: ON</span> </span> </div>
-										<div class="fb-send" style="left:4px" data-href="<?=$filmURL;?>" data-size="large"></div> <div class="fb-like" style="left: 4px" data-href="<?=$filmURL;?>" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
-										<div style="position: relative;top: 5px;left: 4px;display: inline-block;"><g:plusone></g:plusone></div>
-
-
-                                        <!--<div class="item toggle-light right hidden-sm hidden-xs" data-on="Tắt đèn" data-off="Bật đèn"> <span class="wrap"> <i class="fa fa-lightbulb-o"></i> <span>Tắt đèn</span> </span>
-                                        </div>
-                                        <div class="item toggle-size right hidden-sm hidden-xs" data-on="Thu nhỏ" data-off="Phóng to"> <span class="wrap"> <i class="fa fa-exchange"></i> <span>Phóng to</span> </span> </div>
-										<div class="item toggle-error right hidden-sm hidden-xs"> <span class="wrap"> <i class="fa fa-exclamation-circle"></i> <span>Báo lỗi</span> </span> </div>-->
-                                    </div>
-									<? } ?>
-                                </div>
-                            </div>
-                            <!--.block-->
-                            <div class="ad_location desktop hidden-sm hidden-xs"> </div>
-                            <div class="ad_location mobile hidden-lg hidden-md"> </div>
-
-                            <div class="block servers">
-                                <div class="server" data-type="watch">
-								    <?=$EpisodeList;?>
-                                    
-
-                                </div>
-								
-                                <!--.server-->
-
-                            </div>
-                            <!--.block-->
-                            <!--<div class="row ad_location desktop hidden-sm hidden-xs">
-                                <div class="col-lg-6 col-md-6"></div>
-                                <div class="col-lg-6 col-md-6"></div>
-                            </div>
-                            <div class="ad_location mobile hidden-lg hidden-md"> </div>-->
-							<?=$filmNote;?>
+                        <?=$filmNote;?>    
+                            
 							<!--/*
   *
   * Revive Adserver Asynchronous JS Tag
@@ -337,7 +351,7 @@ $film_countryz_title = "";
                             <!--/.block-->
                         </div>
                         <!--/.main-->
-						<div class="block fanpage">
+						<div class="sidebar col-lg-4 col-md-4 col-sm-5">
 
 
                             <div class="fb-page" data-href="https://www.facebook.com/hoinhungnguoimephimhay/" data-width="339px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
