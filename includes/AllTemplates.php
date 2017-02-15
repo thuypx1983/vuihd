@@ -239,7 +239,7 @@ function EpisodeList($film_id,$episode_id,$episode_name,$server,$type=""){
 	for($i=1;$i<=$TotalSV;$i++){
 	if (isset($sv[$i]))
 	    if($type == "defaultv2"){
-            if($j==1)  $sv[$i]=str_replace('class=""','class="active"',$sv[$i]);
+            //if($j==1)  $sv[$i]=str_replace('class=""','class="active"',$sv[$i]);
             $html .= '<div class="name col-lg-3 col-md-3 col-sm-3"> <i class="fa fa-database"></i> '.ServerNAME($i).' </div><div class="episodes col-lg-9 col-md-9 col-sm-9"><ul>'.$sv[$i].'</ul></div><span style="clear: both;margin: 10px 0;display:block;"></span>';
             $j=0;
         }
