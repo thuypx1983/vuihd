@@ -229,18 +229,24 @@ function EpisodeList($film_id,$episode_id,$episode_name,$server,$type=""){
 		$name = '';}
 		
         if($type == "defaultv2")
-		$sv[$episode_type] .= '<li><a href="'.$link_seo.'" title="Tập '.$r['episode_name'].'" id="'.$r['episode_id'].'" class="'.$name.'" data-play="'.playTech_check($r['episode_url']).'">'.$r['episode_name'].'</a></li>';
+		$sv[$episode_type] .= '<li><a href="'.$link_seo.'" title="Tập '.$r['episode_name'].'" id="'.$r['episode_id'].'" class="" data-play="'.playTech_check($r['episode_url']).'">'.$r['episode_name'].'</a></li>';
 		else
         $sv[$episode_type] .= '<a class="btn btn-sm '.$claa.'" role="button" id="'.$r['episode_id'].'" href="'.$link_seo.'" title="'.$language['episode'].' '.$r['episode_name'].'" name="'.$name.'">'.$r['episode_name'].'</a>';
 	}
 	$TotalSV = ServerTotal();
 	$html = '';
+    $j=1;
 	for($i=1;$i<=$TotalSV;$i++){
 	if (isset($sv[$i]))
-	    if($type == "defaultv2")
-		$html .= '<div class="name col-lg-3 col-md-3 col-sm-3"> <i class="fa fa-database"></i> '.ServerNAME($i).' </div><div class="episodes col-lg-9 col-md-9 col-sm-9"><ul>'.$sv[$i].'</ul></div><span style="clear: both;margin: 10px 0;display:block;"></span>';
-		else
-	    $html .= '<div class="epi"><div style="padding-top:8px;"><b>'.ServerNAME($i).':</b>'.$sv[$i].'<br/></div></div>';
+	    if($type == "defaultv2"){
+            if($j==1)  $sv[$i]=str_replace('class=""','class="active"',$sv[$i]);
+            $html .= '<div class="name col-lg-3 col-md-3 col-sm-3"> <i class="fa fa-database"></i> '.ServerNAME($i).' </div><div class="episodes col-lg-9 col-md-9 col-sm-9"><ul>'.$sv[$i].'</ul></div><span style="clear: both;margin: 10px 0;display:block;"></span>';
+            $j=0;
+        }
+		else{
+            $html .= '<div class="epi"><div style="padding-top:8px;"><b>'.ServerNAME($i).':</b>'.$sv[$i].'<br/></div></div>';
+
+        }
 	}
 	return $html;
 }
