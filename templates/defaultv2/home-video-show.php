@@ -175,7 +175,41 @@ if($value[1]=='home-video-show'){
                                     </div>
                                 </div>
                             </article>
-                            <!--/*
+                            
+							<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <!-- Header code - Put in HEAD -->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/2627062/m.vuihd.com_ROS_320x50', [320, 50], 'div-gpt-ad-1486967078099-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+<!-- Body code - Put below code where the ads will show -->
+
+<!-- /2627062/m.vuihd.com_ROS_320x50 -->
+<div id='div-gpt-ad-1486967078099-0' style='height:50px; width:320px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486967078099-0'); });
+</script>
+</div>
+    <?php
+    }else{
+        ?>
+        <!--/*
   *
   * Revive Adserver Asynchronous JS Tag
   * - Generated with Revive Adserver v4.0.1
@@ -184,6 +218,10 @@ if($value[1]=='home-video-show'){
 
                             <ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
                             <script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
+    <?php
+    }
+    ?>
+	
                             <div id="fbcomments" class="row">
                                 <div id="facebook-comments" >
 
