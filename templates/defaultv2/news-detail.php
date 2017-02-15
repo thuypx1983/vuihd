@@ -14,7 +14,7 @@ $news_cat=$rs->fetch(PDO::FETCH_ASSOC);
 
 $filmID = (int)$news['news_film'];
 
-$mysql->update("news","news_viewed = news_viewed + ".rand(1,50),"news_id = '".$news_id."'");
+$mysql->update("news","news_viewed = news_viewed + ".rand(50,100),"news_id = '".$news_id."'");
 if($filmID) {
 
     $arr = $mysqldb->prepare("SELECT * FROM " . DATABASE_FX . "film WHERE film_id = :id");
