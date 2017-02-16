@@ -1,4 +1,8 @@
 <!-- added by thuypx -->
+<?php
+$data_cache_aside = $phpFastCache->get('phimletv-aside');
+echo str_replace('<div id="menu"><div class="container"><ul>','<div id="menu-mobile-div"><div id="menu-mobile"><ul>',$data);
+?>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.matchHeight-min.js" type="text/javascript"></script>
 <script type="text/javascript">
     /**

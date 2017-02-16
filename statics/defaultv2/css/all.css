@@ -4423,6 +4423,12 @@ ul.news-cat  li a{
     #player-area{
         height: auto !important;
     }
+    #menu{
+        display: none;
+    }
+    .btn-menu-mobile{
+        padding: 30px 10px 10px 0px;
+    }
 }
 .news-film .watch a{
     background:#860E0E;height:40px;display:block;

@@ -4,8 +4,15 @@ $datas = '<div id="header">
     <div class="container"> 
 	    <div class="row">
 		  
-			<div class="col-lg-2 col-md-2 col-sm-3 col-xs-6"> <h1 id="logo"><a href="" title="Xem phim"></a></h1> </div> 
-			<div id="search" class="col-lg-6 col-md-6 col-sm-5 col-xs-6"> 
+			<div class="hidden-sm hidden-md hidden-lg col-xs-3">
+			    <div class="btn-menu-mobile">
+                    <a href="#menu-mobile">
+                    <img src="http://motortradebook.com/application/modules/Trademotor/externals/images/list_icon.png">
+                    </a>
+			    </div>
+			 </div> 
+			<div class="col-lg-2 col-md-2 col-sm-3 col-xs-8"> <h1 id="logo"><a href="" title="Xem phim"></a></h1> </div> 
+			<div id="search" class="col-lg-6 col-md-6 col-sm-5 col-xs-12"> 
 			    <form method="post" onsubmit="return false;" action="" class="style2" id="form-search">
       				<i class="icon"></i> 
 					<input type="text" name="keyword" class="input keyword" placeholder="Tìm kiếm">
@@ -88,5 +95,4 @@ if($data_cache_aside != null){
     if($data != '') $phpFastCache->set('phimletv-aside', $data, 86400);
 }
 echo $datas.$data;
-echo str_replace('<div id="menu"><div class="container"><ul>','<div id="menu-mobile-div"><div id="menu-mobile"><ul>',$data);
 ?>
