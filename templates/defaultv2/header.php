@@ -31,9 +31,7 @@ if($data_cache_aside != null){
     $data = '<!---Use Cache phimletv-aside---->'.$data_cache_aside.'<!---/End Use Cache phimletv-aside---->';
 }else{
 
-    $data = '<div id="menu">
-    <div class="container">
-            <ul>
+    $data = '<div id="menu"><div class="container"><ul>
                     <li class="item"> <a href="javascript:;"><i class="icon-cate"></i> '.$language['genres'].'</a>
                             <ul class="sub"> ';
     $arr = $mysql->query("SELECT cat_name_key,cat_name FROM ".DATABASE_FX."cat WHERE cat_child = '0' AND cat_type = '0' ORDER BY cat_order ASC");
