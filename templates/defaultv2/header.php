@@ -4,15 +4,15 @@ $datas = '<div id="header">
     <div class="container"> 
 	    <div class="row">
 		  
-			<div class="hidden-sm hidden-md hidden-lg col-xs-3">
+			<div class="hidden-sm hidden-md hidden-lg col-xs-2 menu-buttom">
 			    <div class="btn-menu-mobile">
                     <a href="#menu-mobile">
                     <img src="http://motortradebook.com/application/modules/Trademotor/externals/images/list_icon.png">
                     </a>
 			    </div>
 			 </div> 
-			<div class="col-lg-2 col-md-2 col-sm-3 col-xs-8"> <h1 id="logo"><a href="" title="Xem phim"></a></h1> </div> 
-			<div id="search" class="col-lg-6 col-md-6 col-sm-5 col-xs-12"> 
+			<div class="col-lg-2 col-md-2 col-sm-3 col-xs-5"> <h1 id="logo"><a href="" title="Xem phim"></a></h1> </div> 
+			<div id="search" class="col-lg-6 col-md-6 col-sm-5 col-xs-12 hidden-xs"> 
 			    <form method="post" onsubmit="return false;" action="" class="style2" id="form-search">
       				<i class="icon"></i> 
 					<input type="text" name="keyword" class="input keyword" placeholder="Tìm kiếm">
@@ -20,7 +20,7 @@ $datas = '<div id="header">
 				</form> 
 				<ul class="autocomplete-list"></ul>
 			</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">';
+			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-5 account">';
 $datas .= Logged();
 $datas .=	'</div> 
 		</div> 

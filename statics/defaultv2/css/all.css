@@ -4429,6 +4429,59 @@ ul.news-cat  li a{
     .btn-menu-mobile{
         padding: 30px 10px 10px 0px;
     }
+    #menu-mobile #search .btn-search {
+        width: 36px;
+        height: 36px;
+        position: absolute;
+        right: 0px;
+        background-color: #000000;
+        border: 0px;
+    }
+    #menu-mobile #search .icon {
+        background-position: -151px 3px;
+        width: 36px;
+        height: 36px;
+        position: absolute;
+        top: -4px;
+        left: -5px;
+    }
+    #menu-mobile #search .keyword {
+        line-height: 36px;
+        padding-left: 36px;
+        padding-right: 20px;
+        font-size: 13px;
+        color: #ddd;
+        width: 100%;
+        outline: 0;
+        box-sizing: border-box;
+    }
+    #menu-mobile #search .keyword, #menu-mobile #search .submit {
+        border: none;
+        float: left;
+        background-color: #1E1E1E;
+        height: 36px;
+        border: 1px solid #1D1C1C;
+    }
+    #menu-mobile #search .submit {
+        background-position: -151px 3px;
+        width: 36px;
+        cursor: pointer;
+        display: none;
+    }
+    #header .account{
+        padding-right: 0px;
+    }
+    #header #signing .col-xs-12 a{
+        width: 85%;
+        line-height: 47px;
+    }
+    #header #signing .col-xs-12 a img{
+        max-width: 100%;
+    }
+    #header .menu-buttom{
+        padding-right: 0px;
+        padding-right: 0px;
+    }
 }
 .news-film .watch a{
     background:#860E0E;height:40px;display:block;
