@@ -142,7 +142,7 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
                 screenReader 			: true,
                 counters				: true,
                 navbar 	: {
-                    title	: 'Advanced menu'
+                    title	: 'Main menu'
                 },
                 navbars	: [
                     {
@@ -154,11 +154,6 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
                             'prev',
                             'title',
                             'close'
-                        ]
-                    }, {
-                        position	: 'bottom',
-                        content		: [
-                            '<a href="http://mmenu.frebsite.nl/wordpress-plugin.html" target="_blank">WordPress plugin</a>'
                         ]
                     }
                 ]
