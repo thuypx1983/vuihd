@@ -151,7 +151,10 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
                 navbars	: [
                     {
                         position	: 'top',
-                        content		: [ 'searchfield' ]
+                        content		: [ '<div id="search" class="col-lg-6 col-md-6 col-sm-5 col-xs-12"> <form method="post" onsubmit="return fals-;" action="" class="style2" id="form-search"><input name="keyword" class="input keyword" placeholder="Tìm kiếm" type="text"><button class="btn-search" type="submit" name="submit" value="submit"> <i class="icon"></i></button></form></div>',
+                            'prev',
+                            'title'
+                        ]
                     }, {
                         position	: 'top',
                         content		: [
@@ -162,6 +165,8 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
                     }
                 ]
             });
+
+            $('nav#menu-mobile').prepend($('#search'));
         });
     })(jQuery)
 </script>
