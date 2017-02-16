@@ -31,9 +31,11 @@ if($data_cache_aside != null){
     $data = '<!---Use Cache phimletv-aside---->'.$data_cache_aside.'<!---/End Use Cache phimletv-aside---->';
 }else{
 
-    $data = '<div id="menu"><div class="container"><ul>
-		    <li class="item"> <a href="javascript:;"><i class="icon-cate"></i> '.$language['genres'].'</a> 
-			    <ul class="sub"> ';
+    $data = '<div id="menu">
+    <div class="container">
+            <ul>
+                    <li class="item"> <a href="javascript:;"><i class="icon-cate"></i> '.$language['genres'].'</a>
+                            <ul class="sub"> ';
     $arr = $mysql->query("SELECT cat_name_key,cat_name FROM ".DATABASE_FX."cat WHERE cat_child = '0' AND cat_type = '0' ORDER BY cat_order ASC");
     while($row = $arr->fetch(PDO::FETCH_ASSOC)){
         $catKEY = $row['cat_name_key'];
@@ -74,25 +76,7 @@ if($data_cache_aside != null){
         $yearURL = $web_link.'/phim-'.$i.'/';
         $data .= '<li><a href="'.$yearURL.'" title="Phim năm '.$i.'">Phim '.$i.'</a></li> ';
     }
-
-    $data .= '</ul> </li> 
-  <li class="item">
-    <a href="trailer/" title="Phim sắp chiếu"><i class="fa fa-volume-down"></i> Trailers</a> 
- </li> 
- <li class="item"> 
-    <a href="videos.html">
-        <i class="icon-video"></i> Video Clip
-   </a> 
- </li> 
- <li class="item"> 
-    <a href="/tin-tuc/">
-        <img src="statics/defaultv2/images/news-paper.png"> Tin tức
-   </a> 
- </li> 
- </ul> 
- </div> 
- </div>';
+    $data .= '</ul> </li> <li class="item"> <a href="trailer/" title="Phim sắp chiếu"><i class="fa fa-volume-down"></i> Trailers</a> </li> <li class="item"> <a href="videos.html"><i class="icon-video"></i> Video Clip</a> </li> </ul> </div> </div>';
     if($data != '') $phpFastCache->set('phimletv-aside', $data, 86400);
 }
 echo $datas.$data;
-?>
