@@ -3,7 +3,7 @@ if(($value[1]=='home-watch' && is_numeric($value[2])) || ($value[1]=='home-watch
     $x_get = explode('-',$value[3]);
     $get_f = $x_get[count($x_get)-1];
 	$filmID = (int)$get_f;
-    $increase=rand(1,50);
+    $increase=rand(50,100);
 	$mysql->query("UPDATE ".$tb_prefix."film SET film_viewed = film_viewed + {$increase},
 													film_viewed_day = film_viewed_day + {$increase},
 													film_viewed_w = film_viewed_w + {$increase},
