@@ -4420,6 +4420,9 @@ ul.news-cat  li a{
         padding-top: 15px;
         min-height: 100px;
     }
+    #player-area{
+        height: auto !important;
+    }
 }
 .news-film .watch a{
     background:#860E0E;height:40px;display:block;
