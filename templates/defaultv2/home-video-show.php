@@ -101,23 +101,10 @@ if($value[1]=='home-video-show'){
                             $detect = new Mobile_Detect;
                             if ( $detect->isMobile() or  $detect->isTablet()){
                                 ?>
-                                <script type="text/javascript">
-                                    var ad_idzone = "2460143",
-                                        ad_width = "300",
-                                        ad_height = "250";
-                                </script>
-                                <script type="text/javascript" src="https://ads.exdynsrv.com/ads.js"></script>
-                                <noscript><a href="http://main.exdynsrv.com/img-click.php?idzone=2460143" target="_blank"><img src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=2460143&output=img&type=300x250" width="300" height="250"></a></noscript>
+                                <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472638.ads"></script></center>
                             <?php
                             }else{
                             ?>
-                                <script type="text/javascript">
-                                    var ad_idzone = "2459817",
-                                        ad_width = "728",
-                                        ad_height = "110";
-                                </script>
-                                <script type="text/javascript" src="https://ads.exdynsrv.com/ads.js"></script>
-                                <noscript><a href="http://main.exdynsrv.com/img-click.php?idzone=2459817" target="_blank"><img src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=2459817&output=img&type=728x90" width="728"></a></noscript>
                                 <?php
                             }
                             ?>
@@ -201,11 +188,11 @@ if($value[1]=='home-video-show'){
 <!-- Body code - Put below code where the ads will show -->
 
 <!-- /2627062/m.vuihd.com_ROS_320x50 -->
-<div id='div-gpt-ad-1486967078099-0' style='height:50px; width:320px;'>
+<center><div id='div-gpt-ad-1486967078099-0' style='height:50px; width:320px;'>
 <script>
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486967078099-0'); });
 </script>
-</div>
+</div></center>
     <?php
     }else{
         ?>
@@ -486,7 +473,32 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486967078099-0');
             Phimle_videoplayer(videoURLStream);
 
         </script>
-        <? require_once("footer.php");?>
+		<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <!-- Composite Start -->
+<div id="M229973ScriptRootC104270">
+        <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC104270")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC104270");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=104270;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.104270.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script>
+</div>
+<!-- Composite End -->
+    <?php
+    }else{
+        ?>        
+    <?php
+    }
+    ?>
+		
+		<script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472678.ads"></script>
+		
+		
+		<? require_once("footer.php");?>
         </body>
         </html>
     <? }else header('Location: '.$web_link.'/404?error='.$videoID.'+'.$videoKEY);  }else header('Location: '.$web_link.'/404');  ?>
