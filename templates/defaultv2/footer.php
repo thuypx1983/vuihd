@@ -131,3 +131,38 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 
     })(jQuery)
 </script>
+
+<script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.mmenu.all.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    (function($){
+        $(function() {
+            $('div#menu-mobile').mmenu({
+                extensions				: [ 'effect-slide-menu', 'shadow-page', 'shadow-panels' ],
+                keyboardNavigation 		: true,
+                screenReader 			: true,
+                counters				: true,
+                navbar 	: {
+                    title	: 'Advanced menu'
+                },
+                navbars	: [
+                    {
+                        position	: 'top',
+                        content		: [ 'searchfield' ]
+                    }, {
+                        position	: 'top',
+                        content		: [
+                            'prev',
+                            'title',
+                            'close'
+                        ]
+                    }, {
+                        position	: 'bottom',
+                        content		: [
+                            '<a href="http://mmenu.frebsite.nl/wordpress-plugin.html" target="_blank">WordPress plugin</a>'
+                        ]
+                    }
+                ]
+            });
+        });
+    })(jQuery)
+</script>
