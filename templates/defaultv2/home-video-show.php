@@ -193,7 +193,7 @@ document.write("<scr"+"ipt  id='YuhuAdsBanner300x250' language='javascript' type
                                     <div class="fb-comments fb_iframe_widget" data-href="<?=$videoLINK;?>" data-num-posts="10" data-width="100%" data-colorscheme="dark"></div>
                                 </div>
                             </div>
-
+<div id="SC_TBlock_272570" class="SC_TBlock">Đang Tải...</div>
 
 
 
@@ -453,7 +453,13 @@ document.write("<scr"+"ipt  id='YuhuAdsBanner300x250' language='javascript' type
         </script>
 				
 		<script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472678.ads"></script>
-		
+		<script type="text/javascript">
+    (sc_adv_out = window.sc_adv_out || []).push({
+        id : "272570",
+        domain : "n.ads1-adnow.com"
+    });
+</script>
+<script type="text/javascript" src="//st-n.ads1-adnow.com/js/adv_out.js"></script>
 		
 		<? require_once("footer.php");?>
         </body>

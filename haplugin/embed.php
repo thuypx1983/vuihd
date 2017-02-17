@@ -5,7 +5,7 @@ require_once(''.ROOT.'/license.php');
 require_once(''.ROOT.'/jwplayer.class.php');
 require_once(''.ROOT.'/cache.class.php');
 require_once(''.ROOT.'/ha.function.php');
-if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h']))
+if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h'])&&isset($_POST['y']))
 {
 	$haplugin = new HAPlugin;
 	$url = NULL;
@@ -16,6 +16,7 @@ if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h']))
 	$url = urlencode($url[1]);
 	$sub = $haplugin->decode(base64_decode(base64_decode($_POST['n'])),ENCODEK);
 	$share = base64_decode($_POST['h']);
+	$share = base64_decode($_POST['y']);
 	if($sub!=NULL)
 	{
 		$subtitle = NULL;
@@ -52,7 +53,8 @@ if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h']))
 				{
 					$content = json_decode($content);
 					$type = $content->{'type'};
-					$poster = $content->{'thumb'};
+					if($poster==NULL) $poster = $content->{'thumb'};
+					else $poster = $poster;
 					if($type==1)
 					{
 						$dataplay = NULL;

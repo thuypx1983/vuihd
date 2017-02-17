@@ -764,12 +764,13 @@ class HAPlugin
 		}
 		return $randomKeyEnc.hash('sha256',$string).$returnString;
 	}
-	public function handle($url,$sub)
+	public function handle($url,$sub,$poster)
 	{
 		$data_share = base64_encode($this->pageurl());
+		$data_poster = base64_encode($poster);
 		$data_url = base64_encode(base64_encode($this->encode($url,ENCODEK))); 
 		$data_sub = base64_encode(base64_encode($this->encode($sub,ENCODEK)));
-		$main_data = 'jQuery(document).ready(haplugin_load("'.$data_url.'","'.$data_sub.'","'.$data_share.'","","","","","","","",""))';
+		$main_data = 'jQuery(document).ready(haplugin_load("'.$data_url.'","'.$data_sub.'","'.$data_share.'","'.$data_poster.'","","","","","","",""))';
 		$script = $main_data;
 		if (get_magic_quotes_gpc())
 		$script = stripslashes($script);
@@ -780,7 +781,7 @@ class HAPlugin
 		$packed = $packer->pack();
 		$data_play = $packed;
 		//PLAYER START
-		$player = '<style type="text/css">#player-content{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%}#player-content iframe,#player-content object,#player-content embed{position:absolute;top:0;left:0;width:100%;height:100%}@import "http://fonts.googleapis.com/css?family=Montserrat";.cssload-loading{text-align:center;margin:49px auto;color:#000;font-size:2em;font-family:"Montserrat",sans-serif;animation:cssload-breathe 8.05s ease infinite;-o-animation:cssload-breathe 8.05s ease infinite;-ms-animation:cssload-breathe 8.05s ease infinite;-webkit-animation:cssload-breathe 8.05s ease infinite;-moz-animation:cssload-breathe 8.05s ease infinite}@keyframes cssload-breathe{0%{letter-spacing:0;text-shadow:0 0 1px #fff}30%{color:transparent}50%{letter-spacing:97px;font-size:0;text-shadow:0 0 6px #fff}60%{color:transparent}100%{letter-spacing:0;text-shadow:0 0 1px #fff}}@-o-keyframes cssload-breathe{0%{letter-spacing:0;text-shadow:0 0 1px #fff}30%{color:transparent}50%{letter-spacing:97px;font-size:0;text-shadow:0 0 6px #fff}60%{color:transparent}100%{letter-spacing:0;text-shadow:0 0 1px #fff}}@-ms-keyframes cssload-breathe{0%{letter-spacing:0;text-shadow:0 0 1px #fff}30%{color:transparent}50%{letter-spacing:97px;font-size:0;text-shadow:0 0 6px #fff}60%{color:transparent}100%{letter-spacing:0;text-shadow:0 0 1px #fff}}@-webkit-keyframes cssload-breathe{0%{letter-spacing:0;text-shadow:0 0 1px #fff}30%{color:transparent}50%{letter-spacing:97px;font-size:0;text-shadow:0 0 6px #fff}60%{color:transparent}100%{letter-spacing:0;text-shadow:0 0 1px #fff}}@-moz-keyframes cssload-breathe{0%{letter-spacing:0;text-shadow:0 0 1px #fff}30%{color:transparent}50%{letter-spacing:97px;font-size:0;text-shadow:0 0 6px #fff}60%{color:transparent}100%{letter-spacing:0;text-shadow:0 0 1px #fff}}</style><div id="player-content"><div class="cssload-loading">Loading Player</div></div>
+		$player = '<style type="text/css">#player-content{position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%}#player-content iframe,#player-content object,#player-content embed{position:absolute;top:0;left:0;width:100%;height:100%}.spinner{width:40px;height:40px;position:relative;margin:100px auto}.double-bounce1,.double-bounce2{width:100%;height:100%;border-radius:50%;background-color:#333;opacity:.6;position:absolute;top:0;left:0;-webkit-animation:sk-bounce 2s infinite ease-in-out;animation:sk-bounce 2s infinite ease-in-out}.double-bounce2{-webkit-animation-delay:-1s;animation-delay:-1s}@-webkit-keyframes sk-bounce{0%,100%{-webkit-transform:scale(0.0)}50%{-webkit-transform:scale(1.0)}}@keyframes sk-bounce{0%,100%{transform:scale(0.0);-webkit-transform:scale(0.0)}50%{transform:scale(1.0);-webkit-transform:scale(1.0)}}</style><div id="player-content"><div class="spinner"><div class="double-bounce1"></div><div class="double-bounce2"></div></div></div>
 		<script type="text/javascript">var sitename = "'.NAMEF.''.DIRF.'/haplugin";</script>
 		<script type="text/javascript" src="//'.NAMEF.''.DIRF.'/haplugin/embed.js"></script>
 		<script type="text/javascript">'.$data_play.'</script>';

@@ -220,7 +220,29 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
 <? if(checkNotif($filmID)){ $showNotif = "none"; echo subscribeOff($filmURL,hashNotif($filmID),$filmID); }else{$showNotif = "block";}?>
 <? echo subscribeSuggest($filmLB,$filmURL,$filmNAMEVN,$showNotif); echo subscribeForm($filmURL);?>
 </div><? }?>
-                        <div class="block info-film-text">
+                        
+						<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472638.ads"></script></center>
+    <?php
+    }else{
+        ?>
+        <!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v4.0.1
+  *
+  */-->
+
+<ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
+    <?php
+    }
+    ?>
+						
+						<div class="block info-film-text">
                             <div class="widget-title clear-top"> <div class="tabs"> <div class="tab active"><span>Thông tin</span></div> </div> <div class="socials" style="display:inline-block;float:right;"><div class="fb-like" data-href="<?=$filmURL;?>" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div><div style="position: relative;top: 5px;left: 5px;display: inline-block;"><g:plusone></g:plusone></div></div></div>
                             <div class="block-body">
                                 <div><strong><?=$filmNAMEVN;?></strong></div>
@@ -242,6 +264,27 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
 				
 
 						<?=$filmNote;?>
+						
+						<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472638.ads"></script></center>
+    <?php
+    }else{
+        ?>
+        <!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v4.0.1
+  *
+  */-->
+
+<ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
+    <?php
+    }
+    ?>
 						<div class="block comment">
                            
                             <div class="block-body">

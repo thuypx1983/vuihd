@@ -1,3 +1,4 @@
+﻿/** **/
 .fa,
 .glyphicon{-moz-osx-font-smoothing:grayscale;}
 .navbar-fixed-bottom .navbar-collapse,
@@ -4292,7 +4293,7 @@ custom style by thuypx
 }
 @media (min-width:641px){
     .block.fanpage{
-        height: 250px;
+        height: 225px;
     }
 }
 .block.media .block-body .controls .item.toggle-size{

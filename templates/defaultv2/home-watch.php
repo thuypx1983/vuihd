@@ -322,8 +322,18 @@ $film_countryz_title = "";
                             </div>
                         </div>
                         <?=$filmNote;?>    
-                            
-							<!--/*
+                            <?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <script type="text/javascript">
+TagBannerUrl = ("https:" == document.location.protocol ? "https://" : "http://") + "track.yuhuads.com/b300x250/58a5bbadf492f02c582a2f01/"+((new Date()).getTime()) + Math.random();
+document.write("<scr"+"ipt  id='YuhuAdsBanner300x250' language='javascript' type='text/javascript' src='"+TagBannerUrl+"' async></scri"+"pt>"); 
+</script>
+    <?php
+    }else{
+        ?>
+        <!--/*
   *
   * Revive Adserver Asynchronous JS Tag
   * - Generated with Revive Adserver v4.0.1
@@ -332,6 +342,12 @@ $film_countryz_title = "";
 
 <ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
 <script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
+    <?php
+    }
+    ?>
+							
+
+
 						    <div class="block comment">
                                  
                                 <div class="block-body">

@@ -185,7 +185,15 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
         <div class="container fit">
             <div class="block-title breadcrumb"> <?=$breadcrumbs;?> </div>
             <div class="main col-lg-8 col-md-8 col-sm-7">
-				<!--/*
+				<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472638.ads"></script></center>
+    <?php
+    }else{
+        ?>
+        <!--/*
   *
   * Revive Adserver Asynchronous JS Tag
   * - Generated with Revive Adserver v4.0.1
@@ -194,6 +202,15 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
 
 <ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
 <script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
+    <?php
+    }
+    ?>
+
+
+
+
+
+
                 <h1><?php echo $news['news_name']?></h1>
                 <div class="author-and-share clearfix" style="padding-bottom: 15px">
                     <div class="info pull-left">
@@ -257,6 +274,15 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
 
                     <div class="block-body">
                         <div class="news-summary"><?php echo htmlspecialchars_decode ($news['news_summary'])?></div>
+						<center><!--/*
+  *
+  * Revive Adserver Asynchronous JS Tag
+  * - Generated with Revive Adserver v4.0.1
+  *
+  */-->
+
+<ins data-revive-zoneid="5" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script></center>
                         <div class="news-content"><?php echo htmlspecialchars_decode ($news['news_content'])?></div>
                     </div>
 
