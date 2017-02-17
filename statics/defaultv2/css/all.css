@@ -4423,7 +4423,7 @@ ul.news-cat  li a{
     #player-area{
         height: auto !important;
     }
-    #menu{
+    body #menu{
         display: none;
     }
     .btn-menu-mobile{
