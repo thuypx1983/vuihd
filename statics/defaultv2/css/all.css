@@ -4482,6 +4482,9 @@ ul.news-cat  li a{
         padding-right: 0px;
         padding-right: 0px;
     }
+    .logged .btn.btn-red.btn-small{
+        display: none;
+    }
 }
 .news-film .watch a{
     background:#860E0E;height:40px;display:block;
