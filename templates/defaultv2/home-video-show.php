@@ -167,32 +167,10 @@ if($value[1]=='home-video-show'){
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
         ?>  
-        <!-- Header code - Put in HEAD -->
-
-<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-</script>
-
-<script>
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/2627062/m.vuihd.com_ROS_320x50', [320, 50], 'div-gpt-ad-1486967078099-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();
-  });
-</script>
-
-
-<!-- Body code - Put below code where the ads will show -->
-
-<!-- /2627062/m.vuihd.com_ROS_320x50 -->
-<center><div id='div-gpt-ad-1486967078099-0' style='height:50px; width:320px;'>
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486967078099-0'); });
-</script>
-</div></center>
+      <center><script type="text/javascript">
+TagBannerUrl = ("https:" == document.location.protocol ? "https://" : "http://") + "track.yuhuads.com/b300x250/58a5bbadf492f02c582a2f01/"+((new Date()).getTime()) + Math.random();
+document.write("<scr"+"ipt  id='YuhuAdsBanner300x250' language='javascript' type='text/javascript' src='"+TagBannerUrl+"' async></scri"+"pt>"); 
+</script></center>
     <?php
     }else{
         ?>
@@ -473,28 +451,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1486967078099-0');
             Phimle_videoplayer(videoURLStream);
 
         </script>
-		<?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-        <!-- Composite Start -->
-<div id="M229973ScriptRootC104270">
-        <script>
-                (function(){
-            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
-            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC104270")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
-            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC104270");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=104270;c[ac](dv);
-            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.104270.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
-    </script>
-</div>
-<!-- Composite End -->
-    <?php
-    }else{
-        ?>        
-    <?php
-    }
-    ?>
-		
+				
 		<script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472678.ads"></script>
 		
 		

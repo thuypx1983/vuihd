@@ -4423,7 +4423,7 @@ ul.news-cat  li a{
     #player-area{
         height: auto !important;
     }
-    #menu{
+    body #menu{
         display: none;
     }
     .btn-menu-mobile{
@@ -4481,6 +4481,9 @@ ul.news-cat  li a{
     #header .menu-buttom{
         padding-right: 0px;
         padding-right: 0px;
+    }
+    .logged .btn.btn-red.btn-small{
+        display: none;
     }
 }
 .news-film .watch a{

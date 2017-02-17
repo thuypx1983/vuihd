@@ -74,7 +74,14 @@ if($data_cache_aside != null){
         $yearURL = $web_link.'/phim-'.$i.'/';
         $data .= '<li><a href="'.$yearURL.'" title="Phim năm '.$i.'">Phim '.$i.'</a></li> ';
     }
-    $data .= '</ul> </li> <li class="item"> <a href="trailer/" title="Phim sắp chiếu"><i class="fa fa-volume-down"></i> Trailers</a> </li> <li class="item"> <a href="videos.html"><i class="icon-video"></i> Video Clip</a> </li> </ul> </div> </div>';
+    $data .= '</ul> </li> <li class="item"> <a href="trailer/" title="Phim sắp chiếu"><i class="fa fa-volume-down"></i> Trailers</a> </li>
+    <li class="item"> <a href="videos.html"><i class="icon-video"></i> Video Clip</a> </li>
+    <li class="item">
+        <a href="/tin-tuc/">
+            <img src="statics/defaultv2/images/news-paper.png"> Tin tức
+       </a>
+     </li>
+        </ul> </div> </div>';
     if($data != '') $phpFastCache->set('phimletv-aside', $data, 86400);
 }
 echo $datas.$data;
