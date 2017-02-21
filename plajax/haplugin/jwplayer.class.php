@@ -34,6 +34,7 @@
 	 }
 	 private function __handle($temp)
 	 {
+	 	file_put_contents('/home/vuihd_com/public_html/__handle.txt',$temp);
 		 if($temp == 'share' && $this->read($temp)) return 'sharing:{link: "'.$this->read('share').'",heading: "Share"},';
 		 elseif($temp == 'download' && $this->read($temp)) return 'download();';
 		 elseif($temp == 'videoads' && $this->read($temp)) return 'ads :{video: [{position : 0,link : ["//'.NAME.''.DIR.'/assets/xml/preroll.xml",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
