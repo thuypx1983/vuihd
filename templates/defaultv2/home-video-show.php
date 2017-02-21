@@ -167,19 +167,14 @@ if($value[1]=='home-video-show'){
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
         ?>  
-      <center><script type="text/javascript">
-TagBannerUrl = ("https:" == document.location.protocol ? "https://" : "http://") + "track.yuhuads.com/b300x250/58a5bbadf492f02c582a2f01/"+((new Date()).getTime()) + Math.random();
-document.write("<scr"+"ipt  id='YuhuAdsBanner300x250' language='javascript' type='text/javascript' src='"+TagBannerUrl+"' async></scri"+"pt>"); 
-</script></center>
+      <center>
+
+<ins data-revive-zoneid="5" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script></center>
     <?php
     }else{
         ?>
-        <!--/*
-  *
-  * Revive Adserver Asynchronous JS Tag
-  * - Generated with Revive Adserver v4.0.1
-  *
-  */-->
+        
 
                             <ins data-revive-zoneid="2" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
                             <script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script>
@@ -193,7 +188,19 @@ document.write("<scr"+"ipt  id='YuhuAdsBanner300x250' language='javascript' type
                                     <div class="fb-comments fb_iframe_widget" data-href="<?=$videoLINK;?>" data-num-posts="10" data-width="100%" data-colorscheme="dark"></div>
                                 </div>
                             </div>
-<div id="SC_TBlock_272570" class="SC_TBlock">Đang Tải...</div>
+							<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <div id="SC_TBlock_276637" class="SC_TBlock">loading...</div> 
+    <?php
+    }else{
+        ?>
+        <div id="SC_TBlock_272570" class="SC_TBlock">Đang Tải...</div>
+    <?php
+    }
+    ?>
+
 
 
 
@@ -452,14 +459,47 @@ document.write("<scr"+"ipt  id='YuhuAdsBanner300x250' language='javascript' type
 
         </script>
 				
-		<script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472678.ads"></script>
-		<script type="text/javascript">
+		<!--<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <?php
+    }else{
+        ?>
+        <script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472678.ads"></script>
+    <?php
+    }
+    ?>-->
+		<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <script type="text/javascript">
+  (sc_adv_out = window.sc_adv_out || []).push({
+    id : "276637",
+    domain : "n.ads2-adnow.com"
+  });
+</script>
+<script type="text/javascript" src="//st-n.ads2-adnow.com/js/adv_out.js"></script>
+    <?php
+    }else{
+        ?>
+        <script type="text/javascript">
     (sc_adv_out = window.sc_adv_out || []).push({
         id : "272570",
         domain : "n.ads1-adnow.com"
     });
 </script>
 <script type="text/javascript" src="//st-n.ads1-adnow.com/js/adv_out.js"></script>
+    <?php
+    }
+    ?>
+		
+		
+		
+		
+		
+		
 		
 		<? require_once("footer.php");?>
         </body>

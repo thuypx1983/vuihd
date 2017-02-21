@@ -301,7 +301,18 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
                             </div>
                             <!-- Composite End -->
 							<div class="583347912" data-ants-zone-id="583347912"></div>
-<div id="SC_TBlock_272570" class="SC_TBlock">Đang tải...</div>
+<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <div id="SC_TBlock_276637" class="SC_TBlock">loading...</div> 
+    <?php
+    }else{
+        ?>
+        <div id="SC_TBlock_272570" class="SC_TBlock">Đang Tải...</div>
+    <?php
+    }
+    ?>
 
                 <div class="block comment">
 
@@ -489,13 +500,30 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
             })
         })(jQuery)
     </script>
-	<script type="text/javascript">
+	<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <script type="text/javascript">
+  (sc_adv_out = window.sc_adv_out || []).push({
+    id : "276637",
+    domain : "n.ads2-adnow.com"
+  });
+</script>
+<script type="text/javascript" src="//st-n.ads2-adnow.com/js/adv_out.js"></script>
+    <?php
+    }else{
+        ?>
+        <script type="text/javascript">
     (sc_adv_out = window.sc_adv_out || []).push({
         id : "272570",
         domain : "n.ads1-adnow.com"
     });
 </script>
 <script type="text/javascript" src="//st-n.ads1-adnow.com/js/adv_out.js"></script>
+    <?php
+    }
+    ?>
 </body>
 </html>
 <?
