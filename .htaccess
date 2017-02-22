@@ -57,6 +57,8 @@ RewriteRule ^account/film/trang-(.*).html$ ./?models=/home-box/$1 [L]
 RewriteRule ^account/film/$ ./?models=/home-box/ [L]
 RewriteRule ^account/film$ ./?models=/home-box/ [L]
 
+RewriteRule ^account/lotery ./?models=/home-account-lotery/ [L]
+
 RewriteRule ^pages/$ ./?models=/home-page/ [L]
 RewriteRule ^pages$ ./?models=/home-page/ [L]
 RewriteRule ^pages/trang-(.*).html$ ./?models=/home-page/$1 [L]

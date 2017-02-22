@@ -1,0 +1,162 @@
+.countdown-wrapper {
+    padding-left: 86px;
+}
+.countdown {
+    margin:0 auto;
+    border-radius: 4px;
+    -moz-border-radius: 4px; -webkit-border-radius: 4px;
+}
+.timer-holder {  text-align: center; width: 360px; }
+.timer-slot {
+    width: 65px;
+    float: left;
+    text-align: center;
+    background-color: #F7F7F7;
+    color: #323232;
+    padding: 5px 1px;
+}
+.timer-time {
+    font-family: arial;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #050830;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.timer-title {font-family: arial; font-size: 13px; padding: 3px 0px; }
+.clearfix { float:none; clear: both; margin-bottom: 0 !important; }
+
+.lotery-banner{
+    position: relative;
+}
+.lotery-banner .caption .value {
+    font-size: 60px;
+    font-weight: bold;
+    color: #fdc613;
+}
+.lotery-banner .caption .value span{
+    font-size: 21px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.lotery-banner .caption .desc span{
+    font-size: 20px;
+    color: #ffffff;
+}
+.lotery-banner .caption{
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    width: 400px;
+    font-size: 14px;
+    text-align: center;
+}
+.lotery-banner .countdown-title{
+   width: 260px;
+    background-color: #f7f7f7;
+    color: #323232;
+    padding-top: 10px;
+}
+.banner-text .color-j{
+    color: #ff0065;
+}
+.banner-text .color-h{
+    color: #ff0065;
+    font-size: 10px;
+}
+.banner-text{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.lotery-result {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.lotery-result .result-desc{
+    font-size: 14px;
+}
+.lotery-result .result-text{
+    font-size: 16px;
+}
+.lotery-result .result-number {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.lotery-result .result-number span{
+    border: 5px solid #ffffff;
+    border-radius: 50%;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px;
+    margin: 10px;
+}
+.lotery-result .lotery-introduction{
+    background-color: #1d2044;
+    padding: 15px;
+    text-align: left;
+    font-weight: bold;
+}
+.lotery-result{
+    background-color: #c21d32;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 15px;
+}
+.my-numbers .numbers-text{
+    font-size: 16px;
+}
+.my-numbers{
+    background-color: #1d2044;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom: 0px;
+    padding-top: 15px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.my-numbers .result-number{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.my-numbers .result-number span{
+    border: 5px solid #ffffff;
+    border-radius: 50%;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px;
+    margin: 10px;
+}
+.my-numbers .table {
+    margin-bottom: 0px;
+}
+.my-numbers .table thead{
+    background-color: #8a8ca2;
+}
+.my-numbers .table tbody{
+    background-color: #ffffff;
+}
+.my-numbers .table tbody td{
+    color: #000000;
+    font-size: 14px;
+}
+.won-list {
+    background-color: #c21d32;
+}
+.won-list .title{
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 22px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.yesterday-won-list table{
+    background-color: #1d2044;
+    margin-bottom: 0px;
+}
+.yesterday-won-list tbody tr:nth-child(odd){
+    background-color: #050830;
+}
