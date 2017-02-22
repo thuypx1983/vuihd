@@ -389,6 +389,12 @@ if (window['jQuery']) {
                 "display": 'block'
             });
             var link = $(this)['attr']('href');
+
+            //added by thuypx
+            window.location.href=link;
+            return false;
+            //!added buy thuypx
+
             var id = $(this)['attr']('id');
           //  var filmInfo = $(this)['attr']('data-play');
             var tap = $('div.server a[class=active]')['attr']('title');
