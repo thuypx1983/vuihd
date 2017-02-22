@@ -157,6 +157,9 @@
     background-color: #1d2044;
     margin-bottom: 0px;
 }
+.yesterday-won-list tbody tr:hover{
+    background-color: transparent;
+}
 .yesterday-won-list tbody tr:nth-child(odd){
     background-color: #050830;
 }
