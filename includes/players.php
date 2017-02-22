@@ -277,7 +277,7 @@ function playerContent($link,$film_sub,$filmID,$img){
     return $player;			  
 }
 function phimle_players($url,$filmID,$episode_id,$server,$film_sub,$img,$playTech='html5'){
-    global $mysql, $web_link;
+    global $mysql, $web_link, $tb_prefix;
 	$is_mobile = is_mobile();
 	if($playTech=='iframe'){
 	    if(strpos($url , '4shared.com') !== false){
@@ -293,10 +293,23 @@ function phimle_players($url,$filmID,$episode_id,$server,$film_sub,$img,$playTec
 	}elseif($playTech=='html5'){
 	
 	}elseif($playTech=='flash'){
-		include('../haplugin/license.php');
-		include('../haplugin/ha.function.php');
+		include('../plajax/haplugin/license.php');
+		include('../plajax/haplugin/ha.function.php');
+		$sql = $mysql->query("SELECT film_cat, film_country FROM ".$tb_prefix."film WHERE film_id = ".$filmID."");
+		$sql = $sql->fetch();
+		$cat = $cou = NULL;
+		$cat = explode(',', $sql['film_cat']);
+		$cou = explode(',', $sql['film_country']);
+		$cat = intval($cat[1]);
+		$cou = intval($cou[1]);
+		$sql = $mysql->query("SELECT cat_name_ascii FROM ".$tb_prefix."cat WHERE cat_id = ".$cat."");
+		$sql = $sql->fetch();
+		$cat = str_replace(' ','',$sql['cat_name_ascii']);
+		$sql = $mysql->query("SELECT country_name_ascii FROM ".$tb_prefix."country WHERE country_id = ".$cou."");
+		$sql = $sql->fetch();
+		$cou = str_replace(' ','',$sql['country_name_ascii']);
 		$ha = new HAPlugin;
-	    $player = $ha->handle($url,$film_sub,$img);
+	    $player = $ha->handle($url,$film_sub,$img,$cat,$cou);
 	}elseif($playTech=='flashv1'){ //-- For Megabox.vn
 	    $player = '<script type="text/javascript">var url_playlist = "'.get_megabox_stream($url).'"; ClickToLoad('.$filmID.');</script>';
 	}elseif($playTech=='flashv2'){ //-- For Youtube

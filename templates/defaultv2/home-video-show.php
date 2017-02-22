@@ -1,6 +1,6 @@
 <?php
-require_once('haplugin/license.php');
-require_once('haplugin/ha.function.php');
+require_once('plajax/haplugin/license.php');
+require_once('plajax/haplugin/ha.function.php');
 $ha = new HAPlugin;
 if($value[1]=='home-video-show'){
 
@@ -109,7 +109,7 @@ if($value[1]=='home-video-show'){
                             }
                             ?>
 
-                            <div id="player-area"><?php echo $ha->handle($videoURLStream,NULL);?> </div>
+                            <div id="player-area"><?php echo $ha->handle($videoURLStream,NULL,NULL,'video','vietnam');?> </div>
                             <?php
                             $detect = new Mobile_Detect;
                             if ( $detect->isMobile() or  $detect->isTablet()){
@@ -499,9 +499,29 @@ if($value[1]=='home-video-show'){
 		
 		
 		
-		
-		
 		<? require_once("footer.php");?>
+		<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        
+		<script type="text/javascript">
+var adstir_vars = {
+  ver: "4.0",
+  type: "interstitial",
+  app_id: "MEDIA-70edcd0d",
+  ad_spot: 1
+};
+</script>
+<script type="text/javascript" src="https://js.ad-stir.com/js/adstir.js"></script>
+    <?php
+    }else{
+        ?>
+        
+    <?php
+    }
+    ?>
+
         </body>
         </html>
     <? }else header('Location: '.$web_link.'/404?error='.$videoID.'+'.$videoKEY);  }else header('Location: '.$web_link.'/404');  ?>

@@ -223,7 +223,10 @@ $film_countryz_title = "";
 					<!--<div class="block-title breadcrumb"> <?=$breadcrumbs;?> </div>-->
 					<div id="player-area" style="width:100%;height:100%;">
                     </div>
-					<center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472576.ads"></script></center>
+					
+        <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472576.ads"></script></center>
+
+					
 					
 					
 					
@@ -470,22 +473,7 @@ isAdult();
 }});
 
   </script>	
-  <?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-        <script type='text/javascript'><!--//<![CDATA[
-   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=8&layerstyle=simple&align=right&valign=bottom&padding=2&padding=2&shifth=0&shiftv=10&closebutton=t&backcolor=FFFFFF&bordercolor=000000';
-   if (document.context) ox_u += '&context=' + escape(document.context);
-   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
-//]]>--></script>
-    <?php
-    }else{
-        ?>
-        
-    <?php
-    }
-    ?>
+  
 
             <? require_once("footer.php");?>
     </body>
