@@ -124,9 +124,7 @@
                         <span>02</span>
                         <span>04</span>
                     </div>
-                    <div class="result-desc">
-                        <span>Các con số may mắn phải trùng với kết quả và KHÔNG CẦN theo đúng thứ tự</span>
-                    </div>
+
                 </div>
                 <div class="won-list">
                     <div class="title">DANH SÁCH THÀNH VIÊN TRÚNG JACKPOT</div>
