@@ -39,7 +39,7 @@ if(($value[1]=='home-watch' && is_numeric($value[2])) || ($value[1]=='home-watch
 		$EpisodeURL = $episodeq['episode_url'];
 		$EpisodeSUB = $episodeq['episode_urlsub'];
 		$EpisodeTYPE = $episodeq['episode_servertype'];
-	$EpisodeList = EpisodeList($filmID,$episode_id,$EpisodeNAME,$EpisodeTYPE,"defaultv2");	
+	$EpisodeList = EpisodeList($filmID,$episode_id,$EpisodeNAME,$EpisodeTYPE,"defaultv2");
 	$arr = $mysqldb->prepare("SELECT * FROM ".DATABASE_FX."film WHERE film_id = :id");
     $arr->execute(array('id' => $filmID));
 	$row = $arr->fetch();
@@ -221,13 +221,28 @@ $film_countryz_title = "";
                 <div class="content-wrapper background-dark watch-page">
                     <div class="container fit">
 					<!--<div class="block-title breadcrumb"> <?=$breadcrumbs;?> </div>-->
-					<div id="player-area" style="width:100%;height:100%;">
-                    </div>
+                        <div id="abd_mv">
+                            <div id="player-area" style="width:100%;height:100%;">
+                            </div>
+                        </div>
+                        <div class="controls" style="display: none" itemscope itemtype="http://data-vocabulary.org/Review-aggregate">
+                            <div class="item widget rating" data-scores="<?=$filmRATESCORE;?>" data-count="<?=$filmRATE;?>"> <span class="stars"> <?=showStar($filmRATESCORE);?> </span> <span class="text" data-text="%s luợt"> <?=$filmRATESCORE;?> / <?=$filmRATE;?> lượt </span> </div> <span class="hidden" itemprop="votes"><?=$filmRATE;?></span> <span class="hidden" itemtype="http://data-vocabulary.org/Rating" itemscope itemprop="rating"> <span itemprop="average"><?=$filmRATESCORE;?></span>
+                                        <meta itemprop="best" content="10">
+                                        <meta itemprop="worst" content="1"> </span>
+                            <!--<div class="item remove-ad"> <span class="wrap"> <i class="fa fa-support"></i> <span>Tắt QC</span> </span>
+                            </div>-->
+                            <div class="item toggle-addbox hidden-sm hidden-xs" data-on="Đã thích" data-off="Thích" title="Thích để thêm phim vào tủ phim của bạn!"> <span class="wrap" onclick="Player.Box(<?=$filmID;?>);" data="<?=$filmNAMEVN;?>"><i class="fa fa-gittip"></i> <span>Thích</span> </span> </div>
+                            <div class="item toggle-autonext hidden-sm hidden-xs" data-on="Chuyển tập: ON" data-off="Chuyển tập: OFF"> <span class="wrap"> <span>Chuyển tập: ON</span> </span> </div>
+                            <div class="item toggle-light right hidden-sm hidden-xs" data-on="Tắt đèn" data-off="Bật đèn"> <span class="wrap"> <i class="fa fa-lightbulb-o"></i> <span>Tắt đèn</span> </span>
+                            </div>
+                            <div class="item toggle-size right hidden-sm hidden-xs" data-on="Thu nhỏ" data-off="Phóng to"> <span class="wrap"> <i class="fa fa-exchange"></i> <span>Phóng to</span> </span> </div>
+                            <div class="item toggle-error right hidden-sm hidden-xs"> <span class="wrap"> <i class="fa fa-exclamation-circle"></i> <span>Báo lỗi</span> </span> </div>
+                        </div>
 					<center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472576.ads"></script></center>
-					
-					
-					
-					
+
+
+
+
                         <div class="main col-lg-8 col-md-8">
 						<div class="block media">
                                 <div class="block-title" style="display:none;"> Xem phim <?=$filmNAMEVN;?> / Tập <?=$EpisodeNAME;?></div>
@@ -236,7 +251,7 @@ $film_countryz_title = "";
 								<div class="error-not-available"><div class="alert-container"><div class="alert-inner" style="padding: 24px 30px;"><div class="alert-heading">Phim bị gỡ bỏ vì bản quyền</div><div class="alert-subheading"><?=$filmThongbao;?></div></div></div></div>
 							<?	}else{?>
                                     <div id="ads_location" class="ad_location desktop"><?=showAds("banner_home_watch");?> </div>
-                                 
+
                                     <div class="controls" itemscope itemtype="http://data-vocabulary.org/Review-aggregate">
                                         <div class="item widget rating" data-scores="<?=$filmRATESCORE;?>" data-count="<?=$filmRATE;?>"> <span class="stars"> <?=showStar($filmRATESCORE);?> </span> <span class="text" data-text="%s luợt"> <?=$filmRATESCORE;?> / <?=$filmRATE;?> lượt </span> </div> <span class="hidden" itemprop="votes"><?=$filmRATE;?></span> <span class="hidden" itemtype="http://data-vocabulary.org/Rating" itemscope itemprop="rating"> <span itemprop="average"><?=$filmRATESCORE;?></span>
                                         <meta itemprop="best" content="10">
@@ -264,10 +279,10 @@ $film_countryz_title = "";
                             <div class="block servers">
                                 <div class="server" data-type="watch">
 								    <?=$EpisodeList;?>
-                                    
+
 
                                 </div>
-								
+
                                 <!--.server-->
 
                             </div>
@@ -277,46 +292,46 @@ $film_countryz_title = "";
                                 <div class="col-lg-6 col-md-6"></div>
                             </div>
                             <div class="ad_location mobile hidden-lg hidden-md"> </div>-->
-							
+
 						<div class="block info-film watch-film" itemscope="" itemtype="http://schema.org/Movie" style="display:block;">
-                            
+
                             <div class="row">
                                 <div class="col-sm-3 visible-sm-block col-xs-1 visible-xs-block"></div>
                                 <div class="col1 col-md-3 col-sm-8 col-xs-10">
                                     <div class="poster"> <span class="status"><?=$filmQUALITY;?></span> <img src="<?=thumbimg($row['film_img'],200);?>" alt="<?=$filmNAMEVN;?>">
 
-									<div class="tools-box" style="display:block;"><div class="tools-box-bookmark normal" style="display: block;"><span class="bookmark-status"><i class="fa fa-gittip"></i></span><span class="bookmark-action"></span></div></div> 
-									
+									<div class="tools-box" style="display:block;"><div class="tools-box-bookmark normal" style="display: block;"><span class="bookmark-status"><i class="fa fa-gittip"></i></span><span class="bookmark-action"></span></div></div>
+
 									</div>
-									
-									
+
+
                                 </div>
                                 <div class="clearfix visible-sm-block visible-xs-block"></div>
                                 <div class="col2 col-md-9">
-								
+
                                     <div class="name block-title style2">
                                         <h2 itemprop="name"><?=$filmNAMEVN;?></h2> </div>
                                     <div class="name2"> <dfn><?=$filmNAMEEN;?> (<?=$filmYEAR;?>)</dfn> </div>
                                     <dl>
                                         <dt>Status:</dt><dd class="status"><?=$Status;?></dd> <br />
-                                        <dt></dt><dd> <?=cut_string(text_tidy1(strip_tags($filmINFO)),450);?> </dd> 
+                                        <dt></dt><dd> <?=cut_string(text_tidy1(strip_tags($filmINFO)),450);?> </dd>
                                     </dl>
                                     <div class="extra-info">
                                         <div class="views"> <i class="micon views"></i> <span><?=$filmVIEWED;?></span> </div>
                                         <div class="like"> <i class="micon heart"></i> <span><?=$filmLIKED;?> lượt</span> </div>
 										<div class="imdbs"> <i class="micon imdb"></i> <span><?=$filmIMDb;?></span> </div>
-										
+
                                     </div>
-                                    
-									
+
+
                                 </div>
                             </div>
                         </div>
-                        <?=$filmNote;?>    
+                        <?=$filmNote;?>
                             <?php
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
+        ?>
         <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472638.ads"></script></center>
     <?php
     }else{
@@ -333,11 +348,11 @@ $film_countryz_title = "";
     <?php
     }
     ?>
-							
+
 
 
 						    <div class="block comment">
-                                 
+
                                 <div class="block-body">
                                     <div class="fb-comments fb_iframe_widget" data-href="<?=$filmURL;?>" data-num-posts="10" data-width="100%" data-colorscheme="light"></div>
                                 </div>
@@ -364,27 +379,27 @@ $film_countryz_title = "";
                                 </div>
                             </div>
 
-                        </div> 
+                        </div>
                          <div class="sidebar col-lg-4 col-md-4 col-sm-5">
 							<div class="block ad_location" id="ads_location">
                               <?=showAds('right_below_fanpage');?>
                         </div>
 							<div class="block announcement">
                             <div class="widget-title">
-     							<h3 class="title">Thông báo</h3> 
-								</div> 
+     							<h3 class="title">Thông báo</h3>
+								</div>
                             <div class="block-body">
                                 <div class="announcement-list"><?=strip_tags(text_tidy1($announcement),'<a><b><i><u><br>');?></div>
                             </div>
                         </div>
-                       
+
 						<!--<div class="block chatting">
 						<div class="widget-title">
 						<span class="tabs"><div class="tab " data-name="request_list" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Yêu cầu/ tán gẫu</a></div></div>
-							<div class="tab active" data-name="request_post" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Gửi yêu cầu</a></div></div>	
+							<div class="tab active" data-name="request_post" data-target=".block.chatting .content"><div class="name"><a title="Phim lẻ" href="javascript:void(0)">Gửi yêu cầu</a></div></div>
 								 </span>
-						</div> 
-						
+						</div>
+
 						<div class="block-body">
 <span class="rtips">Nhấn vào nút "Trả lời" để reply bình luận đó!</span>
 						<div class="content hidden" data-name="request_list" id="request_list_show">
@@ -392,19 +407,19 @@ $film_countryz_title = "";
                         </div>
 						<div class="content " data-name="request_post">
 						     <div class="chat-form" style="margin-bottom:10px">
-							 <span id="chat-error" style="display:none;"></span>	
+							 <span id="chat-error" style="display:none;"></span>
 							<?=chatForm();?></div>
                         </div>
                         </div>
                         </div>-->
                         <div class="block interested">
 						<div class="widget-title">
-     							<h3 class="title">Phim hot tuần</h3> 
+     							<h3 class="title">Phim hot tuần</h3>
 								<span class="tabs"><div class="tab active" data-name="lew" data-target=".block.interested .content"><div class="name"><a title="Phim lẻ" href="phim-le/">Phim lẻ</a></div></div>
 								<div class="tab" data-name="bow" data-target=".block.interested .content"><div class="name"><a title="Phim bộ" href="phim-bo/">Phim bộ</a></div></div>
-								 </span></div> 
-								
-                          
+								 </span></div>
+
+
                             <div class="block-body">
                                 <div class="content" data-name="lew">
                                     <div class="list-film-simple">
@@ -423,18 +438,18 @@ $film_countryz_title = "";
                             </div>
                         </div>
                         <!--/.block-->
-						
+
                         <div class="block ad_location desktop hidden-sm hidden-xs">
                               <?=showAds('right_below_tags');?>
-                       
+
                         </div>
                         <div class="block ad_location mobile hidden-lg hidden-md">
 
                         </div>
                         <div class="block tagcloud">
                             <div class="widget-title">
-     							<h3 class="title">Từ khóa phổ biến</h3> 
-								</div> 
+     							<h3 class="title">Từ khóa phổ biến</h3>
+								</div>
                             <div class="block-body">
                                 <ul>
 
@@ -460,8 +475,9 @@ $film_countryz_title = "";
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.public.js" type="text/javascript"></script>
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.watchv2.js" type="text/javascript"></script>
  <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
+        <script type="text/javascript" src="/newplayer/jwplayer.js"></script>
   <script type="text/javascript">
-  
+
  $(document).ready(function() {PhimLe(filmInfo.episodeID,filmInfo.filmID);
 var isAdult18 = $.cookie("isAdult");
 if (!isAdult18) $.cookie("isAdult", "0", {expires: 365,path: '/'});
@@ -469,11 +485,11 @@ if((!isAdult18 || isAdult18 == 0) && filmInfo.isAdult == 1){
 isAdult();
 }});
 
-  </script>	
+  </script>
   <?php
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
+        ?>
         <script type='text/javascript'><!--//<![CDATA[
    var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=8&layerstyle=simple&align=right&valign=bottom&padding=2&padding=2&shifth=0&shiftv=10&closebutton=t&backcolor=FFFFFF&bordercolor=000000';
    if (document.context) ox_u += '&context=' + escape(document.context);
@@ -482,7 +498,7 @@ isAdult();
     <?php
     }else{
         ?>
-        
+
     <?php
     }
     ?>
