@@ -37,7 +37,20 @@
 	 	file_put_contents('/home/vuihd_com/public_html/__handle.txt',$temp);
 		 if($temp == 'share' && $this->read($temp)) return 'sharing:{link: "'.$this->read('share').'",heading: "Share"},';
 		 elseif($temp == 'download' && $this->read($temp)) return 'download();';
-		 elseif($temp == 'videoads' && $this->read($temp)) return 'ads :{video: [{position : 0,link : ["//'.NAME.''.DIR.'/assets/xml/preroll.xml",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
+		 elseif($temp == 'videoads' && $this->read($temp)) 
+		 {
+			 if($this->read('mobile'))
+			 {
+				 //Ads on mobile
+				 return 'ads :{video: [{position : 0,link : ["http://blueserving.com/vast.xml?key=0cf81923f34c497f07efc0a31c3d0e4d&cat='.$this->read('cat').'&country='.$this->read('country').'",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
+			 }
+			 else
+			 {
+				 //Ads on PC
+				 return 'ads :{video: [{position : 0,link : ["http://blueserving.com/vast.xml?key=a52c8f53872b2b99bd78d6e44a4fd141&cat='.$this->read('cat').'&country='.$this->read('country').'",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
+			 }
+		 }
+		 
 	 }
 	 private function __html()
 	 {

@@ -17,6 +17,8 @@ if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h'])&&isset($_POST['y']
 	$sub = $haplugin->decode(base64_decode(base64_decode($_POST['n'])),ENCODEK);
 	$share = base64_decode($_POST['h']);
 	$poster = base64_decode($_POST['y']);
+	$cat = base64_decode($_POST['e']);
+	$cou = base64_decode($_POST['u']);
 	if($sub!=NULL)
 	{
 		$subtitle = NULL;
@@ -83,7 +85,10 @@ if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h'])&&isset($_POST['y']
 							'logo_link' => 'http://vuihd.com',
 							'logo_position' => 'top-left', //top-left, top-right, bottom-left, bottom-right
 							//Ads
-							'videoads' => false,
+							'videoads' => true,
+							'cat' => $cat,
+							'country' => $cou,
+							'mobile' => $haplugin->mobile(),
 						 );
 						 $haplayer = new JWPlayer;
 						 $source = json_encode($playerdata);
