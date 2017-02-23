@@ -1,3 +1,6 @@
+body .lotery{
+    font-family: "Tahoma Bold";
+}
 .countdown-wrapper {
     padding-left: 86px;
 }
@@ -77,6 +80,7 @@
 }
 .lotery-result .result-desc{
     font-size: 14px;
+    padding-bottom: 15px;
 }
 .lotery-result .result-text{
     font-size: 16px;
@@ -163,3 +167,43 @@
 .yesterday-won-list tbody tr:nth-child(odd){
     background-color: #050830;
 }
+.my-numbers .numbers .get-numbers .get-numbers-desc {
+    padding: 15px;
+}
+.my-numbers .numbers .get-numbers .get-numbers-desc span{
+    font-size: 13px;
+}
+.my-numbers .numbers .get-numbers .btn-get-numbers{
+    background-color: #ff0000;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.white-popup {
+    position: relative;
+    background: #c21d32;
+    padding: 20px;
+    width: auto;
+    max-width: 600px;
+    margin: 20px auto;
+    border: 5px solid #222146;
+}
+#pop-up-share-film{
+    text-align: center;
+}
+#pop-up-share-film p{
+    color: #ffffff;
+    font-family: "Tahoma";
+    font-size: 21px;
+}
+.btn-share-facebook{
+    padding: 10px;
+    background-color: #1d2044;
+    color: #ffffff;
+    font-family: "Tahoma";
+    text-transform: uppercase;
+    font-size: 21px;
+}
+

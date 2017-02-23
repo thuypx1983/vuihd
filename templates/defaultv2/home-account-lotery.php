@@ -1,3 +1,20 @@
+<?php
+$date=strtotime(date('Y-m-d 20:00:00'));
+$now=time();
+$current="";
+$timeStop=0;
+if($date>$now){
+    $current=date('d/m/Y');
+    $timeStop=strtotime(date('Y-m-d 20:00:00'));
+}else{
+    $current=date("d/m/Y", strtotime( '-1 days' ) );
+    $timeStop=strtotime(date('Y-m-d 20:00:00',strtotime( '-1 days' )));
+}
+
+$web_title="Lotery";
+$web_des="Lotery";
+$web_keywords="Lotery";
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,20 +32,20 @@
 <body>
 
 <? require_once("header.php");?>
-<div id="body-wrapper">
+<div id="body-wrapper ">
     <div class="ad_location container desktop hidden-sm hidden-xs" style="padding-top: 0px; margin-bottom: 15px;">
 
     </div>
     <div class="ad_location container mobile hidden-lg hidden-md" style="padding-top: 0px; margin-bottom: 15px;">
 
     </div>
-    <div class="content-wrapper">
+    <div class="content-wrapper lotery">
         <div class="container fit">
             <div class="main col-lg-12 col-md-12 col-sm-12">
                 <div class="lotery-banner">
                     <img src="/statics/defaultv2/images/lotery-banner.png">
                     <div class="caption">
-                        <div class="desc">Giá trị giải JACKPOT ngày <span>14/02/2017</span></div>
+                        <div class="desc">Giá trị giải JACKPOT ngày <span><?php echo $current?></span> </div>
                         <div class="value">20.000.000 <span>đồng</span></div>
                         <div class="coundown-container">
                             <div id="countdown" class="countdown-wrapper" style="display: block;">
@@ -118,11 +135,19 @@
             </div>
             <div class="main col-lg-5 col-md-5 my-numbers">
                 <div class="numbers">
-                    <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
-                    <div class="result-number">
-                        <span>01</span>
-                        <span>02</span>
-                        <span>04</span>
+                    <div class="get-numbers">
+                        <a class="btn-get-numbers" href="javascript:void(0)">NHẬN DÃY SỐ MAY MẮN</a>
+                        <div class="get-numbers-desc">
+                            <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 20h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
+                        </div>
+                    </div>
+                    <div class="number-exist" style="display: none">
+                        <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
+                        <div class="result-number">
+                            <span>01</span>
+                            <span>02</span>
+                            <span>04</span>
+                        </div>
                     </div>
 
                 </div>
@@ -158,6 +183,12 @@
                     </div>
                 </div>
             </div>
+
+            <div id="pop-up-share-film" class="white-popup mfp-hide">
+                <p>Nhấn nút CHIA SẺ PHIM HAY VUIHD bên dưới giới thiệu bộ phim hay lên Facebook (yêu cầu chế độ công khai) với bạn bè của mình và nhận được dãy số may mắn ngày hôm nay.</p>
+                <p>Mỗi thành viên chỉ có thể nhận 1 dãy số / 1 ngày để tham gia quay số may mắn.</p>
+                <a class="btn-share-facebook" data-share="<?php WEB_URL ?>/" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
+            </div>
         </div>
     </div>
 </div>	 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery-2.1.0.min.js" type="text/javascript"></script>
@@ -172,7 +203,8 @@
 <? require_once("footer.php");?>
 <script type="text/javascript">
     var dateNow = new Date();
-    var countdown_date = new Date(new Date().setMinutes(dateNow.getMinutes() + 10000));
+
+    var countdown_date = new Date('<?php echo date('Y-m-d H:i:s',$timeStop)?>');
     var days, hours, minutes, seconds;
 
     // update every 1 second
@@ -204,6 +236,30 @@
             document.getElementById("countdown").style.display = "none";
         }
     }
+
+    (function ($) {
+        $(function () {
+            $('.btn-get-numbers').click(function () {
+                $.magnificPopup.open({
+                    items: {
+                        src: '#pop-up-share-film',
+                        type: 'inline'
+                    }
+                });
+            })
+            $("body").on("click", ".btn-share-facebook", function (event) {
+                var target = $(this).attr('data-share');
+                FB.ui({
+                    method: 'share',
+                    display: 'popup',
+                    href: target,
+                }, function (response) {
+                    console.log('facebook shared response');
+                    console.log(response);
+                });
+            });
+        })
+    })(jQuery)
 </script>
 </body>
 
