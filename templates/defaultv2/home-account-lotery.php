@@ -240,7 +240,7 @@ $web_keywords="Lotery";
     (function ($) {
         $(function () {
             $('.btn-get-numbers').click(function () {
-                $.magnificPopup.open({
+                var magnificPopup= $.magnificPopup.open({
                     items: {
                         src: '#pop-up-share-film',
                         type: 'inline'
@@ -255,6 +255,7 @@ $web_keywords="Lotery";
                     href: target,
                 }, function (response) {
                     alert(response);
+                    magnificPopup.close();
                 });
             });
         })
