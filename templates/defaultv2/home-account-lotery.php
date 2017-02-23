@@ -254,7 +254,8 @@ $web_keywords="Lotery";
                     display: 'popup',
                     href: target,
                 }, function (response) {
-                    alert('xxx');
+                    alert(response.post_id);
+                    alert(response.error_message);
                     console.log('facebook shared response');
                     console.log(response);
                 });
