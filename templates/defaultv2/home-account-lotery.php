@@ -254,11 +254,7 @@ $web_keywords="Lotery";
                     display: 'popup',
                     href: target,
                 }, function (response) {
-                    if(response !='undefined'){
-                        alert('share success');
-                    }else{
-                        alert('share cancel');
-                    }
+                    alert('response');
                 });
             });
         })
