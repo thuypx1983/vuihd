@@ -7,6 +7,7 @@ ob_start();
 session_start();
 //error_reporting(E_ALL);
 //ini_set('display_errors', 1);
+date_default_timezone_set("Asia/Ho_Chi_Minh");
 ini_set('memory_limit', '512M'); // increase this if you catch "Allowed memory size..."
 define('TRUNKSJJ',true);
 include_once('includes/configurations.php');
