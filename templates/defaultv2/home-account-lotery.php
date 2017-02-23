@@ -189,6 +189,17 @@ $web_keywords="Lotery";
                 <p>Mỗi thành viên chỉ có thể nhận 1 dãy số / 1 ngày để tham gia quay số may mắn.</p>
                 <a class="btn-share-facebook" data-share="<?php echo WEB_URL ?>/" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
             </div>
+            <div id="pop-up-add-numbers" class="white-popup mfp-hide">
+                <div>
+                    <span><input type="number" max="75" min="0"></span>
+                    <span><input type="number" max="75" min="0"></span>
+                    <span><input type="number" max="75" min="0"></span>
+                </div>
+                <p>Tự chọn và điền 3 số may mắn KHÁC NHAU từ 01-75.</p>
+                <p>- Không thể thay đổi khi đã nhấn nút xác nhận</p>
+                <p>- Mỗi thành viên được chọn 1 dãy số/1 ngày</p>
+                <a class="btn-share-facebook" data-share="<?php echo WEB_URL ?>/" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
+            </div>
         </div>
     </div>
 </div>	 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery-2.1.0.min.js" type="text/javascript"></script>
@@ -254,7 +265,13 @@ $web_keywords="Lotery";
                     href: target,
                 }, function (response) {
                     alert(response);
-                    $.magnificPopup.close()
+                    $.magnificPopup.close();
+                    $.magnificPopup.open({
+                        items: {
+                            src: '#pop-up-add-numbers',
+                            type: 'inline'
+                        }
+                    });
                 });
             });
         })
