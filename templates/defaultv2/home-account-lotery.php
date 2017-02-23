@@ -236,11 +236,10 @@ $web_keywords="Lotery";
             document.getElementById("countdown").style.display = "none";
         }
     }
-    var magnificPopup;
     (function ($) {
         $(function () {
             $('.btn-get-numbers').click(function () {
-                 magnificPopup= $.magnificPopup.open({
+                 $.magnificPopup.open({
                     items: {
                         src: '#pop-up-share-film',
                         type: 'inline'
@@ -255,7 +254,7 @@ $web_keywords="Lotery";
                     href: target,
                 }, function (response) {
                     alert(response);
-                    magnificPopup.close();
+                    $.magnificPopup.close()
                 });
             });
         })
