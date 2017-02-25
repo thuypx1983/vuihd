@@ -28,141 +28,76 @@ $web_keywords="Lotery";
 
     </div>
     <div class="content-wrapper lotery">
-        <div class="container fit">
-            <div class="main col-lg-12 col-md-12 col-sm-12">
-                <div class="lotery-banner">
-                    <img src="/statics/defaultv2/images/lotery-banner.png">
-                    <div class="caption">
-                        <div class="desc">Giá trị giải JACKPOT ngày <span><?php echo getCurentDates()?></span> </div>
-                        <div class="value">20.000.000 <span>đồng</span></div>
-                        <div class="coundown-container">
-                            <div id="countdown" class="countdown-wrapper" style="display: block;">
-                                <div class="countdown">
-                                    <div class="countdown-title">ĐẾM NGƯỢC</div>
-                                    <div class="timer-holder">
-                                        <div class="timer-slot">
-                                            <div id="CountDownDays" class="timer-time"> </div>
-                                            <div class="timer-title"> Ngày </div>
+        <?php
+        if(isset($_SESSION['user_id'])){
+        ?>
+            <div class="container fit">
+                <div class="main col-lg-12 col-md-12 col-sm-12">
+
+                    <div class="lotery-banner">
+                        <img src="/statics/defaultv2/images/lotery-banner.png">
+                        <div class="caption">
+                            <div class="desc">Giá trị giải JACKPOT ngày <span><?php echo getCurentDates()?></span> </div>
+                            <div class="value">20.000.000 <span>đồng</span></div>
+                            <div class="coundown-container">
+                                <div id="countdown" class="countdown-wrapper" style="display: block;">
+                                    <div class="countdown">
+                                        <div class="countdown-title">ĐẾM NGƯỢC</div>
+                                        <div class="timer-holder">
+                                            <div class="timer-slot">
+                                                <div id="CountDownDays" class="timer-time"> </div>
+                                                <div class="timer-title"> Ngày </div>
+                                            </div>
+                                            <div class="timer-slot">
+                                                <div id="CountDownHours" class="timer-time"> </div>
+                                                <div class="timer-title"> Giờ </div>
+                                            </div>
+                                            <div class="timer-slot">
+                                                <div id="CountDownMinutes" class="timer-time"> </div>
+                                                <div class="timer-title"> Phút </div>
+                                            </div>
+                                            <div class="timer-slot">
+                                                <div id="CountDownSeconds" class="timer-time"> </div>
+                                                <div class="timer-title"> Giây </div>
+                                            </div>
                                         </div>
-                                        <div class="timer-slot">
-                                            <div id="CountDownHours" class="timer-time"> </div>
-                                            <div class="timer-title"> Giờ </div>
-                                        </div>
-                                        <div class="timer-slot">
-                                            <div id="CountDownMinutes" class="timer-time"> </div>
-                                            <div class="timer-title"> Phút </div>
-                                        </div>
-                                        <div class="timer-slot">
-                                            <div id="CountDownSeconds" class="timer-time"> </div>
-                                            <div class="timer-title"> Giây </div>
-                                        </div>
+                                        <div class="clearfix"></div>
                                     </div>
-                                    <div class="clearfix"></div>
                                 </div>
+                                <div id="showMsg" style="font-size: 54px; display: none;"> Time Up !!</div>
                             </div>
-                            <div id="showMsg" style="font-size: 54px; display: none;"> Time Up !!</div>
                         </div>
                     </div>
-                </div>
-                <div class="banner-text">
-                    <span>XEM PHIM HAY, <span class="color-j">JACKPOT</span> MỖI NGÀY, TRỌN VẸN NIỀM VUI  <span class="color-h">CHỈ CÓ TẠI VUIHD.COM</span></span>
+
+                    <div class="banner-text">
+                        <span>XEM PHIM HAY, <span class="color-j">JACKPOT</span> MỖI NGÀY, TRỌN VẸN NIỀM VUI  <span class="color-h">CHỈ CÓ TẠI VUIHD.COM</span></span>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="container fit">
-            <div class="main col-lg-7 col-md-7 lotery-result">
-                <div class="result">
-                    <div class="result-text">KẾT QUẢ NGÀY 13/02/2017</div>
-                    <div class="result-number">
-                        <span>01</span>
-                        <span>02</span>
-                        <span>04</span>
-                    </div>
-                    <div class="result-desc">
-                        <span>Các con số may mắn phải trùng với kết quả và KHÔNG CẦN theo đúng thứ tự</span>
-                    </div>
-                </div>
-                <div class="yesterday-won-list">
-                    <div class="content">
-                        <table class="table table-hover">
-                            <thead>
-                            <tr>
-                                <td>THÀNH VIÊN</td>
-                                <td>GIÁ TRỊ</td>
-                                <td>NGÀY MỞ THƯỞNG</td>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td><a href="#">PHạm văn ngữ</a></td>
-                                <td>400.000</td>
-                                <td>13/3/2017</td>
-                            </tr>
-                            <tr>
-                                <td><a href="#">PHạm văn ngữ</a></td>
-                                <td>400.000</td>
-                                <td>13/3/2017</td>
-                            </tr>
-                            <tr>
-                                <td><a href="#">PHạm văn ngữ</a></td>
-                                <td>400.000</td>
-                                <td>13/3/2017</td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-                <div class="lotery-introduction">
-                    <p>
-                        Trường hợp không tìm được Chủ Nhân giải JACKPOT, 50% Giá Trị Giải Thưởng sẽ được cộng dồn vào tổng giá trị JACKPOT của ngày tiếp theo = 50% ngày hôm trước + 200.000 giải JACKPOT mỗi ngày. Cho đến khi có thành viên may mắn trúng giải, giải JACKPOT sẽ quay về 200.000 đồng mặc định.
-                    </p>
-                    <p>
-                        VUIHD sẽ chủ động liên hệ thành viên trúng giải qua Inbox Facebook hoặc thành viên trúng giải chủ động PM Fanpage VUIHD tại: <a href="#">HỘI NHỮNG NGƯỜI MÊ PHIM</a>
-                    </p>
-                </div>
-            </div>
-            <div class="main col-lg-5 col-md-5 my-numbers">
-                <div class="numbers">
-                    <?php
-                    $shared=checkShared($_SESSION['user_id']);
-                    if($shared===false){
-                        ?>
-                        <div class="get-numbers">
-                            <a class="btn-get-numbers" href="javascript:void(0)">NHẬN DÃY SỐ MAY MẮN</a>
-                            <div class="get-numbers-desc">
-                                <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 20h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
-                            </div>
+            <div class="container fit">
+                <div class="main col-lg-7 col-md-7 lotery-result">
+                    <div class="result">
+                        <div class="result-text">KẾT QUẢ NGÀY 13/02/2017</div>
+                        <div class="result-number">
+                            <span>01</span>
+                            <span>02</span>
+                            <span>04</span>
                         </div>
-                    <?php
-                    }else{
-                        ?>
-                        <div class="number-exist">
-                            <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
-                            <div class="result-number">
-                                <span><?php echo numberStyle($shared['number1'])?></span>
-                                <span><?php echo numberStyle($shared['number2'])?></span>
-                                <span><?php echo numberStyle($shared['number3'])?></span>
-                            </div>
+                        <div class="result-desc">
+                            <span>Các con số may mắn phải trùng với kết quả và KHÔNG CẦN theo đúng thứ tự</span>
                         </div>
-                    <?php
-                    }
-                    ?>
-
-
-
-                </div>
-                <div class="won-list">
-                    <div class="title">DANH SÁCH THÀNH VIÊN TRÚNG JACKPOT</div>
-                    <div class="content">
-                        <table class="table table-hover">
-                            <thead>
+                    </div>
+                    <div class="yesterday-won-list">
+                        <div class="content">
+                            <table class="table table-hover">
+                                <thead>
                                 <tr>
                                     <td>THÀNH VIÊN</td>
                                     <td>GIÁ TRỊ</td>
                                     <td>NGÀY MỞ THƯỞNG</td>
                                 </tr>
-                            </thead>
-                            <tbody>
+                                </thead>
+                                <tbody>
                                 <tr>
                                     <td><a href="#">PHạm văn ngữ</a></td>
                                     <td>400.000</td>
@@ -178,35 +113,117 @@ $web_keywords="Lotery";
                                     <td>400.000</td>
                                     <td>13/3/2017</td>
                                 </tr>
-                            </tbody>
-                        </table>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="lotery-introduction">
+                        <p>
+                            Trường hợp không tìm được Chủ Nhân giải JACKPOT, 50% Giá Trị Giải Thưởng sẽ được cộng dồn vào tổng giá trị JACKPOT của ngày tiếp theo = 50% ngày hôm trước + 200.000 giải JACKPOT mỗi ngày. Cho đến khi có thành viên may mắn trúng giải, giải JACKPOT sẽ quay về 200.000 đồng mặc định.
+                        </p>
+                        <p>
+                            VUIHD sẽ chủ động liên hệ thành viên trúng giải qua Inbox Facebook hoặc thành viên trúng giải chủ động PM Fanpage VUIHD tại: <a href="#">HỘI NHỮNG NGƯỜI MÊ PHIM</a>
+                        </p>
                     </div>
                 </div>
-            </div>
+                <div class="main col-lg-5 col-md-5 my-numbers">
+                    <div class="numbers">
+                        <?php
+                        $shared=checkShared($_SESSION['user_id']);
+                        if($shared===false){
+                            ?>
+                            <div class="get-numbers">
+                                <a class="btn-get-numbers" href="javascript:void(0)">NHẬN DÃY SỐ MAY MẮN</a>
+                                <div class="get-numbers-desc">
+                                    <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 20h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
+                                </div>
+                            </div>
+                            <?php
+                        }else{
+                            ?>
+                            <div class="number-exist">
+                                <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
+                                <div class="result-number">
+                                    <span><?php echo numberStyle($shared['number1'])?></span>
+                                    <span><?php echo numberStyle($shared['number2'])?></span>
+                                    <span><?php echo numberStyle($shared['number3'])?></span>
+                                </div>
+                            </div>
+                            <?php
+                        }
+                        ?>
 
-            <div id="pop-up-share-film" class="white-popup mfp-hide">
-                <p>Nhấn nút CHIA SẺ PHIM HAY VUIHD bên dưới giới thiệu bộ phim hay lên Facebook (yêu cầu chế độ công khai) với bạn bè của mình và nhận được dãy số may mắn ngày hôm nay.</p>
-                <p>Mỗi thành viên chỉ có thể nhận 1 dãy số / 1 ngày để tham gia quay số may mắn.</p>
-                <a class="btn-share-facebook" data-share="<?php echo WEB_URL ?>/" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
-            </div>
-            <div id="pop-up-add-numbers" class="white-popup mfp-hide">
-                <div class="list-number">
-                    <span><div><input id="number1" name="nummber1" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
-                    <span><div><input id="number2" name="nummber2" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
-                    <span><div><input id="number3" name="nummber3" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
-                </div>
-                <div class="row" style="padding-top: 15px">
-                    <div class="col-md-8 col-lg-8 col-xs-8">
-                        <p>Tự chọn và điền 3 số may mắn KHÁC NHAU từ 01-75.</p>
-                        <p>- Không thể thay đổi khi đã nhấn nút xác nhận</p>
-                        <p>- Mỗi thành viên được chọn 1 dãy số/1 ngày</p>
+
+
                     </div>
-                    <div class="col-md-4 col-lg-4 col-xs-4">
-                        <a class="btn-add-number" href="javascript:void(0)">Xác nhận</a>
+                    <div class="won-list">
+                        <div class="title">DANH SÁCH THÀNH VIÊN TRÚNG JACKPOT</div>
+                        <div class="content">
+                            <table class="table table-hover">
+                                <thead>
+                                <tr>
+                                    <td>THÀNH VIÊN</td>
+                                    <td>GIÁ TRỊ</td>
+                                    <td>NGÀY MỞ THƯỞNG</td>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td><a href="#">PHạm văn ngữ</a></td>
+                                    <td>400.000</td>
+                                    <td>13/3/2017</td>
+                                </tr>
+                                <tr>
+                                    <td><a href="#">PHạm văn ngữ</a></td>
+                                    <td>400.000</td>
+                                    <td>13/3/2017</td>
+                                </tr>
+                                <tr>
+                                    <td><a href="#">PHạm văn ngữ</a></td>
+                                    <td>400.000</td>
+                                    <td>13/3/2017</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="pop-up-share-film" class="white-popup mfp-hide">
+                    <p>Nhấn nút CHIA SẺ PHIM HAY VUIHD bên dưới giới thiệu bộ phim hay lên Facebook (yêu cầu chế độ công khai) với bạn bè của mình và nhận được dãy số may mắn ngày hôm nay.</p>
+                    <p>Mỗi thành viên chỉ có thể nhận 1 dãy số / 1 ngày để tham gia quay số may mắn.</p>
+                    <a class="btn-share-facebook" data-share="<?php echo WEB_URL ?>/" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
+                </div>
+                <div id="pop-up-add-numbers" class="white-popup mfp-hide">
+                    <div class="list-number">
+                        <span><div><input id="number1" name="nummber1" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
+                        <span><div><input id="number2" name="nummber2" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
+                        <span><div><input id="number3" name="nummber3" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
+                    </div>
+                    <div class="row" style="padding-top: 15px">
+                        <div class="col-md-8 col-lg-8 col-xs-8">
+                            <p>Tự chọn và điền 3 số may mắn KHÁC NHAU từ 01-75.</p>
+                            <p>- Không thể thay đổi khi đã nhấn nút xác nhận</p>
+                            <p>- Mỗi thành viên được chọn 1 dãy số/1 ngày</p>
+                        </div>
+                        <div class="col-md-4 col-lg-4 col-xs-4">
+                            <a class="btn-add-number" href="javascript:void(0)">Xác nhận</a>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+            <?php
+        }else{
+            ?>
+            <div class="container fit">
+                <div class="col-md-12 col-lg-12">
+                    <h1>Hãy đăng nhập để xem trang này</h1>
+                </div>
+            </div>
+            <?php
+        }
+        ?>
+
     </div>
 </div>	 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery-2.1.0.min.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.bootstrap-growl.min.js" type="text/javascript"></script>
