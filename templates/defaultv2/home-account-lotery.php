@@ -33,7 +33,7 @@ $web_keywords="Lotery";
                 <div class="lotery-banner">
                     <img src="/statics/defaultv2/images/lotery-banner.png">
                     <div class="caption">
-                        <div class="desc">Giá trị giải JACKPOT ngày <span><?php echo $current?></span> </div>
+                        <div class="desc">Giá trị giải JACKPOT ngày <span><?php echo getCurentDates()?></span> </div>
                         <div class="value">20.000.000 <span>đồng</span></div>
                         <div class="coundown-container">
                             <div id="countdown" class="countdown-wrapper" style="display: block;">
@@ -295,7 +295,6 @@ $web_keywords="Lotery";
 
                 });
             });
-
             $("body").on('click','.btn-add-number',function(){
                 var number1=parseInt($('#number1').val());
                 var number2=parseInt($('#number2').val());
