@@ -1,16 +1,4 @@
 <?php
-$date=strtotime(date('Y-m-d 20:00:00'));
-$now=time();
-$current="";
-$timeStop=0;
-if($date>$now){
-    $current=date('d/m/Y');
-    $timeStop=strtotime(date('Y-m-d 20:00:00'));
-}else{
-    $current=date("d/m/Y", strtotime( '-1 days' ) );
-    $timeStop=strtotime(date('Y-m-d 20:00:00',strtotime( '-1 days' )));
-}
-
 $web_title="Lotery";
 $web_des="Lotery";
 $web_keywords="Lotery";
@@ -135,20 +123,32 @@ $web_keywords="Lotery";
             </div>
             <div class="main col-lg-5 col-md-5 my-numbers">
                 <div class="numbers">
-                    <div class="get-numbers">
-                        <a class="btn-get-numbers" href="javascript:void(0)">NHẬN DÃY SỐ MAY MẮN</a>
-                        <div class="get-numbers-desc">
-                            <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 20h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
+                    <?php
+                    $shared=checkShared($_SESSION['user_id']);
+                    if($shared===false){
+                        ?>
+                        <div class="get-numbers">
+                            <a class="btn-get-numbers" href="javascript:void(0)">NHẬN DÃY SỐ MAY MẮN</a>
+                            <div class="get-numbers-desc">
+                                <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 20h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
+                            </div>
                         </div>
-                    </div>
-                    <div class="number-exist" style="display: none">
-                        <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
-                        <div class="result-number">
-                            <span>01</span>
-                            <span>02</span>
-                            <span>04</span>
+                    <?php
+                    }else{
+                        ?>
+                        <div class="number-exist">
+                            <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
+                            <div class="result-number">
+                                <span><?php echo numberStyle($shared['number1'])?></span>
+                                <span><?php echo numberStyle($shared['number2'])?></span>
+                                <span><?php echo numberStyle($shared['number3'])?></span>
+                            </div>
                         </div>
-                    </div>
+                    <?php
+                    }
+                    ?>
+
+
 
                 </div>
                 <div class="won-list">
@@ -190,15 +190,21 @@ $web_keywords="Lotery";
                 <a class="btn-share-facebook" data-share="<?php echo WEB_URL ?>/" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
             </div>
             <div id="pop-up-add-numbers" class="white-popup mfp-hide">
-                <div>
-                    <span><input type="number" max="75" min="0"></span>
-                    <span><input type="number" max="75" min="0"></span>
-                    <span><input type="number" max="75" min="0"></span>
+                <div class="list-number">
+                    <span><div><input id="number1" name="nummber1" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
+                    <span><div><input id="number2" name="nummber2" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
+                    <span><div><input id="number3" name="nummber3" type="number" max="75" min="1" onkeypress="validate(event)"></div></span>
                 </div>
-                <p>Tự chọn và điền 3 số may mắn KHÁC NHAU từ 01-75.</p>
-                <p>- Không thể thay đổi khi đã nhấn nút xác nhận</p>
-                <p>- Mỗi thành viên được chọn 1 dãy số/1 ngày</p>
-                <a class="btn-share-facebook" data-share="<?php echo WEB_URL ?>/" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
+                <div class="row" style="padding-top: 15px">
+                    <div class="col-md-8 col-lg-8 col-xs-8">
+                        <p>Tự chọn và điền 3 số may mắn KHÁC NHAU từ 01-75.</p>
+                        <p>- Không thể thay đổi khi đã nhấn nút xác nhận</p>
+                        <p>- Mỗi thành viên được chọn 1 dãy số/1 ngày</p>
+                    </div>
+                    <div class="col-md-4 col-lg-4 col-xs-4">
+                        <a class="btn-add-number" href="javascript:void(0)">Xác nhận</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -215,7 +221,7 @@ $web_keywords="Lotery";
 <script type="text/javascript">
     var dateNow = new Date();
 
-    var countdown_date = new Date('<?php echo date('Y-m-d H:i:s',$timeStop)?>');
+    var countdown_date = new Date('<?php echo date('Y-m-d H:i:s',getNextDate())?>');
     var days, hours, minutes, seconds;
 
     // update every 1 second
@@ -264,18 +270,70 @@ $web_keywords="Lotery";
                     display: 'popup',
                     href: target,
                 }, function (response) {
-                    alert(response);
-                    $.magnificPopup.close();
-                    $.magnificPopup.open({
-                        items: {
-                            src: '#pop-up-add-numbers',
-                            type: 'inline'
-                        }
-                    });
+                    if (typeof response === 'undefined') {
+                        // Your variable is undefined
+                        $.magnificPopup.close();
+                        alert('Bạn chưa chia sẻ liên kết!');
+                    }else{
+                        $.magnificPopup.close();
+                        $.ajax({
+                            url:'/ajax.php',
+                            type:'POST',
+                            dataType:'html',
+                            data:{action:'shared'},
+                            success:function (response) {
+                                $.magnificPopup.open({
+                                    items: {
+                                        src: '#pop-up-add-numbers',
+                                        type: 'inline'
+                                    }
+                                });
+                            }
+                        })
+
+                    }
+
                 });
             });
+
+            $("body").on('click','.btn-add-number',function(){
+                var number1=parseInt($('#number1').val());
+                var number2=parseInt($('#number2').val());
+                var number3=parseInt($('#number3').val());
+                if(!isNaN(number1) && !isNaN(number2) && !isNaN(number3) &&  number1>0 && number1<=75 && number2>0 && number2<=75 && number3>0 && number3<=75 && number1!=number2 && number1!=number3 && number2!=number3){
+                    $.ajax({
+                        url:'/ajax.php',
+                        type:'POST',
+                        dataType:'json',
+                        data:{action:'addNumber',number1:number1,number2:number2,number3:number3},
+                        success:function (response) {
+                            if(response.success){
+                                alert(response.message);
+                                window.location.href='/account/lotery';
+                            }else{
+                                alert(response.message);
+                            }
+                        }
+                    })
+                }else{
+                    alert('Dãy số không hợp lệ')
+                }
+            })
+
+
         })
     })(jQuery)
+
+    function validate(evt) {
+        var theEvent = evt || window.event;
+        var key = theEvent.keyCode || theEvent.which;
+        key = String.fromCharCode( key );
+        var regex = /[0-9]|\./;
+        if( !regex.test(key) ) {
+            theEvent.returnValue = false;
+            if(theEvent.preventDefault) theEvent.preventDefault();
+        }
+    }
 </script>
 </body>
 

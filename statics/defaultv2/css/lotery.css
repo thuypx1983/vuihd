@@ -190,8 +190,37 @@ body .lotery{
     margin: 20px auto;
     border: 5px solid #222146;
 }
+#pop-up-add-numbers .btn-add-number{
+    background-color: #1d2044;
+    padding: 10px;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+#pop-up-add-numbers{
+    background-color: #c21d32;
+}
+#pop-up-add-numbers .list-number{
+    display: table;
+    width: 100%;
+}
+#pop-up-add-numbers .list-number>span{
+    display: table-cell;
+    overflow: hidden;
+}
+#pop-up-add-numbers input[type=number]{
+    font-size: 65px;
+    line-height: 85px;
+    text-align: center;
+    max-width: 130px;
+    box-sizing: border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing: border-box;
+    color: #000000;
+}
 #pop-up-share-film{
     text-align: center;
+    background-color: #c21d32;
 }
 #pop-up-share-film p{
     color: #ffffff;
