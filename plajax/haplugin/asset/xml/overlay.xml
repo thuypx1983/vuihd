@@ -10,8 +10,8 @@
         <Creative sequence="1">
           <NonLinearAds>
             <NonLinear height="50" width="300" maintainAspectRatio="true" scalable="true" minSuggestedDuration="00:01:00">
-              <StaticResource creativeType="image/jpeg">https://s3.amazonaws.com/demo.jwplayer.com/static-tag/jwplayer-overlay.jpg</StaticResource>
-              <NonLinearClickThrough>http://haplugins.com</NonLinearClickThrough>
+              <StaticResource creativeType="image/jpeg">http://vuihd.com/bannervuihd.jpg</StaticResource>
+              <NonLinearClickThrough>https://www.facebook.com/hoinhungnguoimephimhay</NonLinearClickThrough>
             </NonLinear>
             <TrackingEvents>
               <Tracking event="creativeView">data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==</Tracking>

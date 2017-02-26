@@ -86,7 +86,34 @@ if($value[1]=='home-video-show'){
 
 
         </head>
-        <body>  <? require_once("header.php");?>
+        <body><?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+
+<div id="M229973ScriptRootC106642" style="background-color:white; overflow:hidden;">
+        <div id="M229973PreloadC106642">
+    </div>
+        <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC106642")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC106642");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=106642;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.106642.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script>
+</div>
+
+    <?php
+    }else{
+        ?>
+        
+    <?php
+    }
+    ?>
+
+
+
+		<? require_once("header.php");?>
         <div id="body-wrapper">
             <div class="ad_location container desktop hidden-sm hidden-xs" style="padding-top: 0px; margin-bottom: 15px;">  </div>
             <div class="ad_location container mobile hidden-lg hidden-md" style="padding-top: 0px; margin-bottom: 15px;"> </div>
@@ -122,18 +149,7 @@ if($value[1]=='home-video-show'){
                             }
                             ?>
 
-                            <!-- Composite Start -->
-                            <div id="M229973ScriptRootC101217">
-
-                                <script>
-                                    (function(){
-                                        var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
-                                        var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC101217")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
-                                        catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC101217");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=101217;c[ac](dv);
-                                        var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.101217.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
-                                </script>
-                            </div>
-                            <!-- Composite End -->
+                            
 
                             <article class="row v-detail">
                                 <div class="columns  video-content">
@@ -162,15 +178,47 @@ if($value[1]=='home-video-show'){
                                     </div>
                                 </div>
                             </article>
-                            
+                            <?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <!-- Composite Start -->
+<div id="M229973ScriptRootC106831">
+        <div id="M229973PreloadC106831">
+        
+    </div>
+        <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC106831")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC106831");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=106831;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.106831.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script>
+</div>
+<!-- Composite End -->
+    <?php
+    }else{
+        ?>
+        <!-- Composite Start -->
+                            <div id="M229973ScriptRootC101217">
+
+                                <script>
+                                    (function(){
+                                        var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+                                        var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC101217")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+                                        catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC101217");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=101217;c[ac](dv);
+                                        var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.101217.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+                                </script>
+                            </div>
+                            <!-- Composite End -->
+    <?php
+    }
+    ?>
 							<?php
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
         ?>  
-      <center>
-
-<ins data-revive-zoneid="5" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
-<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script></center>
+      
     <?php
     }else{
         ?>
@@ -188,18 +236,7 @@ if($value[1]=='home-video-show'){
                                     <div class="fb-comments fb_iframe_widget" data-href="<?=$videoLINK;?>" data-num-posts="10" data-width="100%" data-colorscheme="dark"></div>
                                 </div>
                             </div>
-							<?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-        <div id="SC_TBlock_276637" class="SC_TBlock">loading...</div> 
-    <?php
-    }else{
-        ?>
-        <div id="SC_TBlock_272570" class="SC_TBlock">Đang Tải...</div>
-    <?php
-    }
-    ?>
+							
 
 
 
@@ -233,20 +270,7 @@ if($value[1]=='home-video-show'){
                                     </div>
                                 </div>
 
-                                <!-- Composite Start -->
-                                <div id="M229973ScriptRootC101183">
-                                    <div id="M229973PreloadC101183">
-                                        Đang Tải ...
-                                    </div>
-                                    <script>
-                                        (function(){
-                                            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
-                                            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC101183")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
-                                            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC101183");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=101183;c[ac](dv);
-                                            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.101183.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
-                                    </script>
-                                </div>
-                                <!-- Composite End -->
+                                
                                 <div class="large-12 columns text-center show-for-large-up bottom-margin-10px">			<div class="ad-box-300">
                                         <?=showAds('right_below_fanpage');?>
                                     </div>
@@ -470,57 +494,14 @@ if($value[1]=='home-video-show'){
     <?php
     }
     ?>-->
-		<?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-        <script type="text/javascript">
-  (sc_adv_out = window.sc_adv_out || []).push({
-    id : "276637",
-    domain : "n.ads2-adnow.com"
-  });
-</script>
-<script type="text/javascript" src="//st-n.ads2-adnow.com/js/adv_out.js"></script>
-    <?php
-    }else{
-        ?>
-        <script type="text/javascript">
-    (sc_adv_out = window.sc_adv_out || []).push({
-        id : "272570",
-        domain : "n.ads1-adnow.com"
-    });
-</script>
-<script type="text/javascript" src="//st-n.ads1-adnow.com/js/adv_out.js"></script>
-    <?php
-    }
-    ?>
+		
 		
 		
 		
 		
 		
 		<? require_once("footer.php");?>
-		<?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-        
-		<script type="text/javascript">
-var adstir_vars = {
-  ver: "4.0",
-  type: "interstitial",
-  app_id: "MEDIA-70edcd0d",
-  ad_spot: 1
-};
-</script>
-<script type="text/javascript" src="https://js.ad-stir.com/js/adstir.js"></script>
-    <?php
-    }else{
-        ?>
-        
-    <?php
-    }
-    ?>
+		
 
         </body>
         </html>

@@ -269,7 +269,7 @@ if(($filmSub == 0) && ($filmLB == 0)){$subscribe = 0;}elseif($filmLB == 2){$subs
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
         ?>  
-        <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472638.ads"></script></center>
+        
     <?php
     }else{
         ?>

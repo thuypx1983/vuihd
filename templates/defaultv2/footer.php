@@ -1,3 +1,57 @@
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+  <script>
+    var OneSignal = window.OneSignal || [];
+	OneSignal.push(["init", {
+      appId: "bc1277f9-b0cb-4f48-bb35-0beb8013d5e6",
+      autoRegister: true, /* Set to true to automatically prompt visitors */
+      subdomainName: 'vuihd.onesignal.com',
+      notifyButton: {
+          enable: false, /* Set to false to hide */
+      },
+	  httpPermissionRequest: {
+        modalTitle: 'Cảm ơn bạn đã ĐĂNG KÝ',
+        modalMessage: "VuiHD sẽ cố gắng mang đến cho bạn những phút giây vui vẻ nhất.",
+        modalButtonText: 'ĐÓNG',
+        /* ... */
+    },
+	  welcomeNotification: {
+        title: 'VuiHD.com',
+	  message: 'Cảm ơn bạn đã đăng ký!',
+	  },
+	  promptOptions: {
+        siteName: 'VuiHD.com',
+        actionMessage: "Nhận thông báo khi có phim mới được cập nhật, hoặc những quà tặng hấp dẫn từ VuiHD",
+        exampleNotificationTitle: 'Demo Thông Báo',
+        exampleNotificationMessage: 'Phim Super Man 2017 vừa ra mắt phản FullHD VietSub. Xem Ngay ',
+        exampleNotificationCaption: 'Bạn có thể bỏ nhận thông báo bất kỳ lúc nào',
+        acceptButtonText: "ĐỒNG Ý",
+        cancelButtonText: "BỎ QUA",
+		autoAcceptTitle: 'Cho Phép Nhận Thông Báo',
+    },
+	safari_web_id: 'web.onesignal.auto.4cf0d27e-fe33-43e6-b134-272c9aaf00b9'
+	 
+		  
+	 }]);
+	OneSignal.push(function() {
+		OneSignal.showHttpPrompt();
+		});
+  </script>
+  
+  <?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        
+    <?php
+    }else{
+        ?>
+        <script src="//get.sbro.me/partners/vuihd.js?v=170224” type="text/javascript"></script>
+    <?php
+    }
+    ?>
+  
+ 
+
 <!-- added by thuypx -->
 <?php
 $data_cache_aside = $phpFastCache->get('phimletv-aside');
