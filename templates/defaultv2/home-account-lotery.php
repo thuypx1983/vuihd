@@ -88,7 +88,6 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                             $rs=getLoteryResult(getPrevDates('Y-m-d'));
                             if($rs!==false){
                                 ?>
-
                                 <span>01</span>
                                 <span>02</span>
                                 <span>04</span>
@@ -102,24 +101,55 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                             <span>Các con số may mắn phải trùng với kết quả và KHÔNG CẦN theo đúng thứ tự</span>
                         </div>
                     </div>
-                    <div class="yesterday-won-list">
+                    <div class="yesterday-won-list"  style="font-size: 15px">
                         <div class="content">
                             <table class="table table-hover">
                                 <thead>
                                 <tr>
-                                    <td>THÀNH VIÊN</td>
-                                    <td>GIÁ TRỊ</td>
-                                    <td>NGÀY MỞ THƯỞNG</td>
+                                    <td>Giải thưởng</td>
+                                    <td>Trùng khớp</td>
+                                    <td>Giá trị</td>
+                                    <td>Thành viên</td>
                                 </tr>
                                 </thead>
                                 <tbody>
-                                <?php $users=getWinners();?>
+                                <?php $users=getWinnerYesterday();?>
+                                <?php
+                                    if(count($users)<0 or $users[0]['win_type'] !=1){
+                                            ?>
+                                            <tr>
+                                                <td>Jackpot</td>
+                                                <td style="text-align: center">
+                                                    <img src="/statics/defaultv2/images/ico_rating.png">
+                                                    <img src="/statics/defaultv2/images/ico_rating.png">
+                                                    <img src="/statics/defaultv2/images/ico_rating.png">
+                                                </td>
+                                                <td><?php echo number_format($cf['cf_lottery_price'])?> </td>
+                                                <td style=""><span style="color: #fdc613; font-weight: bold">Chưa có chủ nhân</span></td>
+
+                                            </tr>
+                                            <?php
+                                    }
+                                ?>
                                 <?php foreach($users as $item){
                                     ?>
                                     <tr>
-                                        <td><a href="https://facebook.com/<?php echo $item['user']['user_fb_oauth_uid']?>"><?php echo $item['user']['user_name']?></a></td>
+                                        <td><?php if($item['win_type']==1) echo 'Jackpot'; else if($item['win_type']==2) echo 'May mắn'?></td>
+                                        <td style="text-align: center">
+                                            <?php
+                                                if($item['win_type']==1){
+                                                    echo '<img src="/statics/defaultv2/images/ico_rating.png">
+                                                    <img src="/statics/defaultv2/images/ico_rating.png">
+                                                    <img src="/statics/defaultv2/images/ico_rating.png">';
+                                                }else{
+                                                    '<img src="/statics/defaultv2/images/ico_rating.png">
+                                                    <img src="/statics/defaultv2/images/ico_rating.png">';
+                                                }
+                                            ?>
+                                        </td>
                                         <td><?php echo number_format($item['win_price'])?></td>
-                                        <td><?php echo date('d/m/Y',$item['uv_time'])?></td>
+                                        <td><a style="color: #c21d32;" href="https://facebook.com/<?php echo $item['user']['user_fb_oauth_uid']?>"><?php echo $item['user']['user_name']?></a></td>
+
                                     </tr>
                                     <?php
                                 }?>

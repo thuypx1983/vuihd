@@ -600,6 +600,18 @@ function getNextDate(){
     }
     return $current;
 }
+function getYesterday(){
+    $date=strtotime(date('Y-m-d 20:00:00'));
+    $now=time();
+    if($now>$date){
+        $start=strtotime(date('Y-m-d 20:00:00',strtotime( '-1 days' )));
+        $endDate=$date;
+    }else{
+        $start=$start=strtotime(date('Y-m-d 20:00:00',strtotime( '-2 days' )));;
+        $endDate=$start=strtotime(date('Y-m-d 20:00:00',strtotime( '-1 days' )));;
+    }
+    return array($start,$endDate);
+}
 function getPrevDates($format='d/m/Y'){
     $date=strtotime(date('Y-m-d 20:00:00'));
     $now=time();
@@ -679,5 +691,59 @@ function getLoteryResult($date){
         }else{
             return $row->fetch();
         }
+}
+
+function getWinners(){
+    global $mysql;
+    $sql="SELECT * FROM table_user_vietlott WHERE `win_type`=1 ORDER BY `uv_id` DESC LIMIT 10";
+    $q=$mysql->query($sql);
+
+    $items=array();
+    $users=array();
+    $user_ids=array();
+    while ($r = $q->fetch(PDO::FETCH_ASSOC)) {
+        $items[]=$r;
+        $user_ids[]=$r['uv_user_id'];
+    }
+    if(count($user_ids)>0){
+        $sql="SELECT * FROM table_user WHERE user_id IN (".implode(',',$user_ids).")";
+        $rs=$mysql->query($sql);
+        while ($user = $rs->fetch(PDO::FETCH_ASSOC)) {
+            $users[$user['user_id']]=$user;
+        }
+
+    }
+    foreach($items as &$item){
+        $item['user']=$users[$item['uv_user_id']];
+    }
+    unset($item);
+    return $items;
+}
+function getWinnerYesterday(){
+    list($s,$e)=getYesterday();
+    global $mysql;
+    $sql="SELECT * FROM table_user_vietlott WHERE uv_time>{$s} AND uv_time<{$e} AND `win_type`!=0  ORDER BY `uv_id` DESC LIMIT 10";
+    $q=$mysql->query($sql);
+
+    $items=array();
+    $users=array();
+    $user_ids=array();
+    while ($r = $q->fetch(PDO::FETCH_ASSOC)) {
+        $items[]=$r;
+        $user_ids[]=$r['uv_user_id'];
+    }
+    if(count($user_ids)>0){
+        $sql="SELECT * FROM table_user WHERE user_id IN (".implode(',',$user_ids).")";
+        $rs=$mysql->query($sql);
+        while ($user = $rs->fetch(PDO::FETCH_ASSOC)) {
+            $users[$user['user_id']]=$user;
+        }
+
+    }
+    foreach($items as &$item){
+        $item['user']=$users[$item['uv_user_id']];
+    }
+    unset($item);
+    return $items;
 }
 ?>

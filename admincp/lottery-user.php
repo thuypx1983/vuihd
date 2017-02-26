@@ -252,6 +252,9 @@ $inp_arr = array(
 
                     }
                    foreach($items as $r) {
+                       $win="";
+                       if($r['win_type']==1) $win='Jackport';
+                       else if($r['win_type']==2) $win='May mắn';
                         $id = $r['uv_id'];
                         $id2 = $id;
                         $news_name = $r['news_name'];
@@ -264,11 +267,11 @@ $inp_arr = array(
                         echo '<tr>
                             <td> <input class="checkbox" type="checkbox" id="checkbox" name="checkbox[]" value="'.$id2.'"></td>
                             <td>#'.$id.'</td>
-                            <td><a href="/admincp/index.php?act=lottery-user&mode=edit&uv_id='.$r['uv_id'].'">'.$users[$r['user_id']]['user_name'].'</a></td>
+                            <td><a href="/admincp/index.php?act=lottery-user&mode=edit&uv_id='.$r['uv_id'].'">'.$users[$r['uv_user_id']]['user_name'].'</a></td>
                             <td><a href="https://facebook.com/'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'">'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'</a></td>
 							<td><b><a style="color:#555;" href=?act=lottery&mode=edit&uv_id='.$id.'>'.date('d/m/Y H:i:s',$r['uv_time']).'</a></b></a></td>
                             <td class=fr_2 align=left><b>'.$r['number1'].'-'.$r['number2'].'-'.$r['number3'].'</b></td>
-                            <td>'.($r['win_type']?'Yes':'').'</td>
+                            <td>'.$win.'</td>
                             <td>'.($r['win_price']?number_format($r['win_price']):'').'</td>
                              </tr>';
                     }

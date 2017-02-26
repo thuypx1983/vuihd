@@ -621,7 +621,8 @@ function acp_news_hot($lv) {
 function acp_lottery_win($lv) {
     $html = "<select name=win_type class='form-control m-b'>".
         "<option value=0".(($lv==0)?' selected':'').">No</option>".
-        "<option value=1".(($lv==1)?' selected':'').">Yes</option>".
+        "<option value=1".(($lv==1)?' selected':'').">Jackpot</option>".
+        "<option value=2".(($lv==2)?' selected':'').">May mắn</option>".
         "</select>";
     return $html;
 }
