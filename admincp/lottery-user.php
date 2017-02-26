@@ -270,7 +270,7 @@ $inp_arr = array(
                         echo '<tr>
                             <td> <input class="checkbox" type="checkbox" id="checkbox" name="checkbox[]" value="'.$id2.'"></td>
                             <td>#'.$id.'</td>
-                            <td><a href="https://facebook.com/<UID>'.$users[$r['user_id']]['user_fb_oauth_uid'].'">'.$users[$r['user_id']]['user_name'].'</a></td>
+                            <td><a href="https://facebook.com/'.$users[$r['user_id']]['user_fb_oauth_uid'].'">'.$users[$r['user_id']]['user_name'].'</a></td>
                             <td>'.$users[$r['user_id']]['user_fb_oauth_uid'].'</td>
 							<td><b><a style="color:#555;" href=?act=lottery&mode=edit&uv_id='.$id.'>'.date('d/m/Y H:i:s',$r['uv_time']).'</a></b></a></td>
                             <td class=fr_2 align=left><b>'.$r['number1'].'-'.$r['number2'].'-'.$r['number3'].'</b></td>
