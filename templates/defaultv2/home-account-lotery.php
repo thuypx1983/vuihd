@@ -113,21 +113,16 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                                 </tr>
                                 </thead>
                                 <tbody>
-                                <tr>
-                                    <td><a href="#">PHạm văn ngữ</a></td>
-                                    <td>400.000</td>
-                                    <td>13/3/2017</td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">PHạm văn ngữ</a></td>
-                                    <td>400.000</td>
-                                    <td>13/3/2017</td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">PHạm văn ngữ</a></td>
-                                    <td>400.000</td>
-                                    <td>13/3/2017</td>
-                                </tr>
+                                <?php $users=getWinners();?>
+                                <?php foreach($users as $item){
+                                    ?>
+                                    <tr>
+                                        <td><a href="https://facebook.com/<?php echo $item['user']['user_fb_oauth_uid']?>"><?php echo $item['user']['user_name']?></a></td>
+                                        <td><?php echo number_format($item['win_price'])?></td>
+                                        <td><?php echo date('d/m/Y',$item['uv_time'])?></td>
+                                    </tr>
+                                    <?php
+                                }?>
                                 </tbody>
                             </table>
                         </div>
@@ -174,6 +169,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                     <div class="won-list">
                         <div class="title">DANH SÁCH THÀNH VIÊN TRÚNG JACKPOT</div>
                         <div class="content">
+
                             <table class="table table-hover">
                                 <thead>
                                 <tr>
@@ -183,21 +179,16 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                                 </tr>
                                 </thead>
                                 <tbody>
-                                <tr>
-                                    <td><a href="#">PHạm văn ngữ</a></td>
-                                    <td>400.000</td>
-                                    <td>13/3/2017</td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">PHạm văn ngữ</a></td>
-                                    <td>400.000</td>
-                                    <td>13/3/2017</td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">PHạm văn ngữ</a></td>
-                                    <td>400.000</td>
-                                    <td>13/3/2017</td>
-                                </tr>
+                                <?php $users=getWinners();?>
+                                <?php foreach($users as $item){
+                                    ?>
+                                    <tr>
+                                        <td><a href="https://facebook.com/<?php echo $item['user']['user_fb_oauth_uid']?>"><?php echo $item['user']['user_name']?></a></td>
+                                        <td><?php echo number_format($item['win_price'])?></td>
+                                        <td><?php echo date('d/m/Y',$item['uv_time'])?></td>
+                                    </tr>
+                                <?php
+                                }?>
                                 </tbody>
                             </table>
                         </div>

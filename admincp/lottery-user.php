@@ -247,7 +247,7 @@ $inp_arr = array(
                         $sql="SELECT * FROM table_user WHERE user_id IN (".implode(',',$user_ids).")";
                         $rs=$mysql->query($sql);
                         while ($user = $rs->fetch(PDO::FETCH_ASSOC)) {
-                            $users[$item['user_id']]=$user;
+                            $users[$user['user_id']]=$user;
                         }
 
                     }
@@ -265,7 +265,7 @@ $inp_arr = array(
                             <td> <input class="checkbox" type="checkbox" id="checkbox" name="checkbox[]" value="'.$id2.'"></td>
                             <td>#'.$id.'</td>
                             <td><a href="/admincp/index.php?act=lottery-user&mode=edit&uv_id='.$r['uv_id'].'">'.$users[$r['user_id']]['user_name'].'</a></td>
-                            <td><a href="https://facebook.com/'.$users[$r['user_id']]['user_fb_oauth_uid'].'">'.$users[$r['user_id']]['user_fb_oauth_uid'].'</a></td>
+                            <td><a href="https://facebook.com/'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'">'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'</a></td>
 							<td><b><a style="color:#555;" href=?act=lottery&mode=edit&uv_id='.$id.'>'.date('d/m/Y H:i:s',$r['uv_time']).'</a></b></a></td>
                             <td class=fr_2 align=left><b>'.$r['number1'].'-'.$r['number2'].'-'.$r['number3'].'</b></td>
                             <td>'.($r['win_type']?'Yes':'').'</td>
