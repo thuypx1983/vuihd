@@ -32,31 +32,23 @@ if(isset($_GET['uv_id']))
     $uv_id = (int)$_GET['uv_id'];
 else $uv_id = false;
 $inp_arr = array(
-    'uvr_date'	=> array(
-        'table'	=>	'uvr_date',
-        'name'	=>	'date (Định dạng Y-m-d: 2017-01-30)',
-        'type'	=>	'free',
-        'can_be_empty'	=>	true
+
+
+    'win_type'	=> array(
+        'table'	=>	'win_type',
+        'name'	=>	'Đạt giải',
+        'type'	=>	"function::acp_lottery_win",
+        'can_be_empty'	=> true,
     ),
-    'uvr_number1'	=> array(
-        'table'	=>	'uvr_number1',
-        'name'	=>	'number1',
-        'type'	=>	'free',
-        'can_be_empty'	=>	true
-    ),
-    'uvr_number2'	=> array(
-        'table'	=>	'uvr_number2',
-        'name'	=>	'number2',
-        'type'	=>	'free',
-        'can_be_empty'	=>	true
-    ),
-    'uvr_number3'	=> array(
-        'table'	=>	'uvr_number3',
-        'name'	=>	'number3',
+    'win_price'	=> array(
+        'table'	=>	'win_price',
+        'name'	=>	'Giá trị giải thưởng',
         'type'	=>	'free',
         'can_be_empty'	=>	true
     ),
 );
+
+
 ?>
 <section class="vbox">
     <section class="scrollable padder">
@@ -73,7 +65,7 @@ $inp_arr = array(
                 $error_arr = array();
                 $error_arr = $form->checkForm($inp_arr);
                 if (!$error_arr) {
-                    $sql = $form->createSQL(array('INSERT',$tb_prefix.'user_vietlott_result'),$inp_arr);
+                    $sql = $form->createSQL(array('INSERT',$tb_prefix.'user_vietlott'),$inp_arr);
                     eval('$mysql->query("'.$sql.'");');
                     echo "<BR><BR><BR><B><font size=3 color=blue>THÊM THÀNH CÔNG</font></B> <meta http-equiv='refresh' content='0;url=$link'>";
                     exit();
@@ -93,7 +85,7 @@ $inp_arr = array(
                 if ($_POST['selected_option'] == 'del') {
                     $in_sql = implode(',',$arr);
 
-                    $mysql->query("DELETE FROM ".$tb_prefix."user_vietlott_result WHERE uv_id IN (".$in_sql.")");
+                    $mysql->query("DELETE FROM ".$tb_prefix."user_vietlott WHERE uv_id IN (".$in_sql.")");
 
                     echo "DEL FINISH <meta http-equiv='refresh' content='0;url=".$edit_url."'>";
                 }
@@ -101,10 +93,10 @@ $inp_arr = array(
                 exit();
             }
             elseif ($uv_id) {
-                $qq = $mysql->query("SELECT * FROM ".$tb_prefix."user_vietlott_result WHERE uv_id = '".$uv_id."'");
+                $qq = $mysql->query("SELECT * FROM ".$tb_prefix."user_vietlott WHERE uv_id = '".$uv_id."'");
                 $rr = $qq->fetch(PDO::FETCH_ASSOC);
                 if (!isset($_POST['submit'])) {
-                    $q = $mysql->query("SELECT * FROM ".$tb_prefix."user_vietlott_result WHERE uv_id = '".$uv_id."'");
+                    $q = $mysql->query("SELECT * FROM ".$tb_prefix."user_vietlott WHERE uv_id = '".$uv_id."'");
                     $r = $q->fetch(PDO::FETCH_ASSOC);
                     foreach ($inp_arr as $key=>$arr) {
                         if($arr['table']=='news_film'){
@@ -122,7 +114,7 @@ $inp_arr = array(
                     $error_arr = $form->checkForm($inp_arr);
                     if (!$error_arr) {
 
-                        $sql = $form->createSQL(array('UPDATE',$tb_prefix.'user_vietlott_result','uv_id','uv_id'),$inp_arr);
+                        $sql = $form->createSQL(array('UPDATE',$tb_prefix.'user_vietlott','uv_id','uv_id'),$inp_arr);
                         eval('$mysql->query("'.$sql.'");');
                         echo "EDIT FINISH <meta http-equiv='refresh' content='0;url=".$edit_url."'>";
                         exit();
@@ -176,7 +168,7 @@ $inp_arr = array(
 
                     echo '<section class="panel panel-default">
                 <header class="panel-heading">
-                  Danh sách Phim
+                  Danh sách người chơi
                 </header>
                 <div class="row wrapper">
                     
@@ -238,6 +230,8 @@ $inp_arr = array(
                         <th>Facebook ID</th>
                         <th>Ngày</th>
                         <th>Cắp số</th>
+                        <th>Winner</th>
+                        <th>Win pice</th>
                 
                       </tr>
                     </thead>
@@ -270,10 +264,12 @@ $inp_arr = array(
                         echo '<tr>
                             <td> <input class="checkbox" type="checkbox" id="checkbox" name="checkbox[]" value="'.$id2.'"></td>
                             <td>#'.$id.'</td>
-                            <td><a href="https://facebook.com/'.$users[$r['user_id']]['user_fb_oauth_uid'].'">'.$users[$r['user_id']]['user_name'].'</a></td>
-                            <td>'.$users[$r['user_id']]['user_fb_oauth_uid'].'</td>
+                            <td><a href="/admincp/index.php?act=lottery-user&mode=edit&uv_id='.$r['uv_id'].'">'.$users[$r['user_id']]['user_name'].'</a></td>
+                            <td><a href="https://facebook.com/'.$users[$r['user_id']]['user_fb_oauth_uid'].'">'.$users[$r['user_id']]['user_fb_oauth_uid'].'</a></td>
 							<td><b><a style="color:#555;" href=?act=lottery&mode=edit&uv_id='.$id.'>'.date('d/m/Y H:i:s',$r['uv_time']).'</a></b></a></td>
                             <td class=fr_2 align=left><b>'.$r['number1'].'-'.$r['number2'].'-'.$r['number3'].'</b></td>
+                            <td>'.($r['win_type']?'Yes':'').'</td>
+                            <td>'.($r['win_price']?number_format($r['win_price']):'').'</td>
                              </tr>';
                     }
 
@@ -309,7 +305,7 @@ $inp_arr = array(
             if ($uv_id) {
                 if ($_POST['submit']) {
                     //$mysql->query("DELETE FROM ".$tb_prefix."film WHERE film_country = '".$actor_id."'");
-                    $mysql->query("DELETE FROM ".$tb_prefix."user_vietlott_result WHERE uv_id = '".$uv_id."'");
+                    $mysql->query("DELETE FROM ".$tb_prefix."user_vietlott WHERE uv_id = '".$uv_id."'");
                     echo "<BR><BR><BR><B><font size=3 color=blue>XÓA THÀNH CÔNG</font></B> <meta http-equiv='refresh' content='0;url=".$edit_url."'>";
                     exit();
                 }
