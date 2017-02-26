@@ -43,7 +43,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                         <img src="/statics/defaultv2/images/lotery-banner.png">
                         <div class="caption">
                             <div class="desc">Giá trị giải JACKPOT ngày <span><?php echo getCurentDates()?></span> </div>
-                            <div class="value"><?php number_format($cf['cf_lottery_price'])?> <span>đồng</span></div>
+                            <div class="value"><?php echo number_format($cf['cf_lottery_price'])?> <span>đồng</span></div>
                             <div class="coundown-container">
                                 <div id="countdown" class="countdown-wrapper" style="display: block;">
                                     <div class="countdown">
