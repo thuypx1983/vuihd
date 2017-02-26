@@ -107,6 +107,12 @@ $inp_arr = array(
             'type'	=>	'texts',
             'can_be_empty'	=> true,
         ),
+		'cf_share_link'	=> array(
+            'table'	=>	'cf_share_link',
+            'name'	=>	'Share link lottery',
+            'type'	=>	'texts',
+            'can_be_empty'	=> true,
+        ),
 	);
 
 ?>
