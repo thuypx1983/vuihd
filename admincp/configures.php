@@ -113,6 +113,12 @@ $inp_arr = array(
             'type'	=>	'texts',
             'can_be_empty'	=> true,
         ),
+		'cf_lottery_price'	=> array(
+            'table'	=>	'cf_lottery_price',
+            'name'	=>	'Price lottery',
+            'type'	=>	'free',
+            'can_be_empty'	=> true,
+        ),
 	);
 
 ?>
