@@ -152,6 +152,16 @@ $menu_arr = array(
 		'fa-th',
 		'bg-warning dker',
 	),
+	'lottery'=>array(
+		'LOTTERY',
+		array(
+			'result'=>array('Kết quả','act=lottery&mode=edit'),
+			'add'	=>	array('Thêm kết quả','act=lottery&mode=add'),
+			'user_edit'	=>	array('Thêm kết quả','act=lottery-user&mode=edit'),
+		),
+		'fa-cogs',
+		'bg-success dker',
+	),
 	'config'	=>	array(
 		'CẤU HÌNH',
 		array(

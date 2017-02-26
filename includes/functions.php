@@ -600,6 +600,16 @@ function getNextDate(){
     }
     return $current;
 }
+function getPrevDates($format='d/m/Y'){
+    $date=strtotime(date('Y-m-d 20:00:00'));
+    $now=time();
+    if($now>$date){
+        $current=date($format );
+    }else{
+        $current=date($format,strtotime( '-1 days' ));
+    }
+    return $current;
+}
 function getCurentDates(){
     $date=strtotime(date('Y-m-d 20:00:00'));
     $now=time();
@@ -657,5 +667,17 @@ function insertNumbers($uv_id,$number1,$number2,$number3){
 function numberStyle($number){
     if($number<10) return '0'.$number;
     return $number;
+}
+
+function getLoteryResult($date){
+        global $mysql;
+        $sql="SELECT * FROM ".DATABASE_FX."user_vietlott_result
+              WHERE `uvr_date`='{$date}' LIMIT 1";
+        $row= $mysql->query($sql);
+        if($row->rowCount()==0){
+            return false;
+        }else{
+            return $row->fetch();
+        }
 }
 ?>

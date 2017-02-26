@@ -77,11 +77,21 @@ $web_keywords="Lotery";
             <div class="container fit">
                 <div class="main col-lg-7 col-md-7 lotery-result">
                     <div class="result">
-                        <div class="result-text">KẾT QUẢ NGÀY 13/02/2017</div>
+                        <div class="result-text">KẾT QUẢ NGÀY <?php echo getPrevDates()?></div>
                         <div class="result-number">
-                            <span>01</span>
-                            <span>02</span>
-                            <span>04</span>
+                            <?php
+                            $rs=getLoteryResult(getPrevDates('Y-m-d'));
+                            if($rs!==false){
+                                ?>
+
+                                <span>01</span>
+                                <span>02</span>
+                                <span>04</span>
+                            <?php
+                            }else{
+                                echo "<p>Không có kết quả</p>";
+                            }
+                            ?>
                         </div>
                         <div class="result-desc">
                             <span>Các con số may mắn phải trùng với kết quả và KHÔNG CẦN theo đúng thứ tự</span>
@@ -225,7 +235,8 @@ $web_keywords="Lotery";
         ?>
 
     </div>
-</div>	 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery-2.1.0.min.js" type="text/javascript"></script>
+</div>
+<script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery-2.1.0.min.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.bootstrap-growl.min.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/owl.carousel.min.js" type="text/javascript"></script>

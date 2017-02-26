@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set("Asia/Ho_Chi_Minh");
 session_start();
 error_reporting(E_ERROR);
 //error_reporting(E_ALL ^ E_NOTICE);
@@ -93,6 +94,8 @@ else $act = false;
 	case "adspos":					include("adspos.php");break;
 	case "user":				include("user.php");break;
 	case "news":				include("news.php");break;
+	case "lottery":				include("lottery.php");break;
+	case "lottery-user":				include("lottery-user.php");break;
 	case "newscat":				include("newscat.php");break;
 	case "config":				include("configures.php");break;
 	case "comment":				include("comment.php");break;
