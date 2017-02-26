@@ -157,7 +157,7 @@ $menu_arr = array(
 		array(
 			'result'=>array('Kết quả','act=lottery&mode=edit'),
 			'add'	=>	array('Thêm kết quả','act=lottery&mode=add'),
-			'user_edit'	=>	array('Thêm kết quả','act=lottery-user&mode=edit'),
+			'user_edit'	=>	array('Danh sách người chơi','act=lottery-user&mode=edit'),
 		),
 		'fa-cogs',
 		'bg-success dker',
