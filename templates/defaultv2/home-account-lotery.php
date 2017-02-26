@@ -1,7 +1,12 @@
 <?php
-$web_title="Lotery";
-$web_des="Lotery";
-$web_keywords="Lotery";
+$web_title="Lottery";
+$web_des="Lottery";
+$web_keywords="Lottery";
+
+$q = $mysql->query("SELECT * FROM ".$tb_prefix."config WHERE cf_id = 1");
+$cf = $q->fetch(PDO::FETCH_ASSOC);
+$links=explode(PHP_EOL, $cf['cf_share_link']);
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -202,7 +207,7 @@ $web_keywords="Lotery";
                 <div id="pop-up-share-film" class="white-popup mfp-hide">
                     <p>Nhấn nút CHIA SẺ PHIM HAY VUIHD bên dưới giới thiệu bộ phim hay lên Facebook (yêu cầu chế độ công khai) với bạn bè của mình và nhận được dãy số may mắn ngày hôm nay.</p>
                     <p>Mỗi thành viên chỉ có thể nhận 1 dãy số / 1 ngày để tham gia quay số may mắn.</p>
-                    <a class="btn-share-facebook" data-share="<?php echo WEB_URL ?>/" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
+                    <a class="btn-share-facebook" data-share="<?php echo $links[array_rand($links)];?>" href="javascript:void(0)">CHIA SẺ PHIM HAY VUIHD</a>
                 </div>
                 <div id="pop-up-add-numbers" class="white-popup mfp-hide">
                     <div class="list-number">
