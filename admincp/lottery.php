@@ -167,7 +167,7 @@ $inp_arr = array(
                             <td> <input class="checkbox" type="checkbox" id="checkbox" name="checkbox[]" value="'.$id2.'"></td>
                             <td>#'.$id.'</td>
 							<td><b><a style="color:#555;" href=?act=lottery&mode=edit&uvr_id='.$id.'>'.$r['uvr_date'].'</a></b></a></td>
-                            <td class=fr_2 align=center><b>'.$r['uvr_number1'].'-'.$r['uvr_number2'].'-'.$r['uvr_number3'].'</b></td>
+                            <td class=fr_2 align=left><b>'.$r['uvr_number1'].'-'.$r['uvr_number2'].'-'.$r['uvr_number3'].'</b></td>
                              </tr>';
                     }
 
