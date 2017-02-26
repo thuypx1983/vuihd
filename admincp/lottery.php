@@ -147,9 +147,7 @@ $inp_arr = array(
                         <th width="20"><input type="checkbox"></th>
                         <th class="th-sortable" data-toggle="class">ID</th>
                         <th>Ngày</th>
-                        <th>Cắp số thứ 1</th>
-                        <th>Cắp số thứ 2</th>
-                        <th>Cắp số thứ 3</th>
+                        <th>Bộ số</th>
                 
                       </tr>
                     </thead>
@@ -169,9 +167,7 @@ $inp_arr = array(
                             <td> <input class="checkbox" type="checkbox" id="checkbox" name="checkbox[]" value="'.$id2.'"></td>
                             <td>#'.$id.'</td>
 							<td><b><a style="color:#555;" href=?act=lottery&mode=edit&uvr_id='.$id.'>'.$r['uvr_date'].'</a></b></a></td>
-                            <td class=fr_2 align=center><b>'.$r['uvr_number1'].'</b></td>
-                            <td class=fr_2 align=center><b>'.$r['uvr_number2'].'</b></td>
-                            <td class=fr_2 align=center><b>'.$r['uvr_number3'].'</b></td>
+                            <td class=fr_2 align=center><b>'.$r['uvr_number1'].'-'.$r['uvr_number2'].'-'.$r['uvr_number3'].'</b></td>
                              </tr>';
                     }
 
