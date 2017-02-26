@@ -127,7 +127,7 @@ $inp_arr = array(
 
                     echo '<section class="panel panel-default">
                 <header class="panel-heading">
-                  Danh sách Phim
+                  Danh kết quả các ngày
                 </header>
                 <div class="row wrapper">
                   <div class="col-sm-3">
