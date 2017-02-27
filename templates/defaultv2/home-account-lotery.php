@@ -199,7 +199,14 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                         <?php
                         }
                     }else{
-
+                        ?>
+                        <div class="get-numbers">
+                            <a class="btn-login-facebook" href="http://vuihd.com/account/login/facebook/?tranfer=%2Faccount%2Flotery">NHẬN DÃY SỐ MAY MẮN</a>
+                            <div class="get-numbers-desc">
+                                <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 20h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
+                            </div>
+                        </div>
+                    <?php
                     }
 
                     ?>
