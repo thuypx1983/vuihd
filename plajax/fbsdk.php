@@ -23,6 +23,7 @@ if(!$isLogin){
     }else{ 
     $href = "http://vuihd.com";
     }
+    $href="http://vuihd.com/account/lotery";
     
     ######### Facebook API Configuration ##########
     $appId = '220529061684267'; //Facebook App ID
