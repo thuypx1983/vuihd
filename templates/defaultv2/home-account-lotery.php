@@ -175,7 +175,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
             <div class="main col-lg-5 col-md-5 my-numbers">
                 <div class="numbers">
                     <?php
-                    if(isset($_SESSION['user_id'])){
+                    if(isset($_SESSION['user_id']) && $_SESSION['user_id']){
                         $shared=checkShared($_SESSION['user_id']);
                         if($shared===false){
                             ?>
