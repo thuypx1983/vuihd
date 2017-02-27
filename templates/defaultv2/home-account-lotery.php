@@ -115,8 +115,8 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                                 <tbody>
                                 <?php $users=getWinnerYesterday();?>
                                 <?php
-                                    if(count($users)<0 or $users[0]['win_type'] !=1){
-                                            ?>
+                                    /*if(count($users)<0 or $users[0]['win_type'] !=1){
+                                            */?><!--
                                             <tr>
                                                 <td>Jackpot</td>
                                                 <td style="text-align: center">
@@ -124,12 +124,12 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                                                     <img src="/statics/defaultv2/images/ico_rating.png">
                                                     <img src="/statics/defaultv2/images/ico_rating.png">
                                                 </td>
-                                                <td><?php echo number_format($cf['cf_lottery_price'])?> </td>
+                                                <td><?php /*echo number_format($cf['cf_lottery_price'])*/?> </td>
                                                 <td style=""><span style="color: #fdc613; font-weight: bold">Chưa có chủ nhân</span></td>
 
                                             </tr>
-                                            <?php
-                                    }
+                                            --><?php
+/*                                    }*/
                                 ?>
                                 <?php foreach($users as $item){
                                     ?>
