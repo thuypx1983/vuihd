@@ -831,4 +831,13 @@ function getPeriodTime($strDate){
     return array($startTime,$endTime);
 }
 
+function displayDate($now,$format){
+    $date=strtotime(date('Y-m-d 20:00:00',$now));
+    if($now<$date){
+        $result=date($format,$now);
+    }else{
+        $result=date($format,$date+24*60*60);
+    }
+}
+
 ?>
