@@ -192,7 +192,8 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                                 </div>
                             </div>
                         <?php
-                        }else{
+                        }
+                        else{
                             ?>
                             <div class="number-exist">
                                 <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
@@ -322,12 +323,25 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
     (function ($) {
         $(function () {
             $('.btn-get-numbers').click(function () {
-                 $.magnificPopup.open({
-                    items: {
-                        src: '#pop-up-share-film',
-                        type: 'inline'
+                $.ajax({
+                    url:'/ajax.php',
+                    type:'POST',
+                    dataType:'json',
+                    data:{action:'validatetime'},
+                    success:function (response) {
+                        if(response.success){
+                            $.magnificPopup.open({
+                                items: {
+                                    src: '#pop-up-share-film',
+                                    type: 'inline'
+                                }
+                            });
+                        }else{
+                            alert("Hãy quay lại sau 21h để chọn số. Xin cảm ơn!")
+                        }
                     }
-                });
+                })
+
             })
             $("body").on("click", ".btn-share-facebook", function (event) {
                 var target = $(this).attr('data-share');

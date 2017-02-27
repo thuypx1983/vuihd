@@ -56,6 +56,16 @@ switch ($action){
         }
         echo json_encode($result);
         break;
+    case 'validatetime':
+        $result=array('success'=>true);
+        $time=time();
+        $s=strtotime(date('Y-m-d 20:00:00'));
+        $e=strtotime(date('Y-m-d 22:00:00'));
+        if($time<$e AND $time>$s){
+            $result['success']=false;
+        }
+        echo json_encode($result);
+        break;
     default:
         break;
 }
