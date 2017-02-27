@@ -213,7 +213,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                                 <?php foreach($users as $item){
                                     ?>
                                     <tr>
-                                        <td><a href="https://facebook.com/<?php echo $item['user']['user_fb_oauth_uid']?>"><?php echo $item['user']['user_name']?></a></td>
+                                        <td><a target="_blank" href="https://facebook.com/<?php echo $item['user']['user_fb_oauth_uid']?>"><?php echo $item['user']['user_name']?></a></td>
                                         <td><?php echo number_format($item['win_price'])?></td>
                                         <td><?php echo date('d/m/Y',$item['uv_time'])?></td>
                                     </tr>
