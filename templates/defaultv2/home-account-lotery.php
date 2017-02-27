@@ -1,7 +1,7 @@
 <?php
 $web_title="XEM PHIM HAY, JACKPOT MỖI NGÀY - VuiHD.com";
 $web_des="Tham gia miễn phí, trúng thưởng mỗi ngày, MEGA JACKPOT, trọn vẹn niềm vui!";
-$web_keywords="Tham gia miễn phí, trúng thưởng mỗi ngày, MEGA JACKPOT, trọn vẹn niềm vui!";
+$web_keywords="XEM PHIM HAY, JACKPOT MỖI NGÀY - VuiHD.com";
 
 $q = $mysql->query("SELECT * FROM ".$tb_prefix."config WHERE cf_id = 1");
 $cf = $q->fetch(PDO::FETCH_ASSOC);
@@ -19,8 +19,6 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
     <meta name="keywords" content="<?=$web_keywords;?>"/>
     <meta property="og:site_name" content="<?=$web_title;?>"/>
 
-
-    <? require_once("styles.php");?>
     <link rel="canonical" href="<?=WEB_URL.'/account/lotery'?>" />
     <meta itemprop="url" content="<?=WEB_URL.'/account/lotery'?>" />
     <meta itemprop="image" content="<?=WEB_URL.'/statics/defaultv2/images/jackpot.png'?>" />
@@ -28,6 +26,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
     <meta property="og:description" content="<?=$web_des;?>" />
     <meta property="og:url" content="<?=WEB_URL.'/account/lotery'?>" />
     <meta property="og:image" content="WEB_URL<?='/statics/defaultv2/images/jackpot.png';?>" />
+    <? require_once("styles.php");?>
     <link rel="stylesheet" href="/statics/defaultv2/css/lotery.css">
 </head>
 
@@ -42,6 +41,9 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
 
     </div>
     <div class="content-wrapper lotery">
+        <?php
+        if(isset($_SESSION['user_id'])){
+        ?>
             <div class="container fit">
                 <div class="main col-lg-12 col-md-12 col-sm-12">
 
@@ -81,7 +83,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                     </div>
 
                     <div class="banner-text">
-                        <span>XEM PHIM HAY, <span class="color-j">JACKPOT</span> MỖI NGÀY, TRỌN VẸN NIỀM VUI  <span class="color-h">CHỈ CÓ TẠI VUIHD.COM</span> HOÀN TOÀN MIỄN PHÍ.<br> XEM TRỰC TIẾP QUAY SỐ MAY MẮN 20H MỖI NGÀY TẠI <a href="https://www.facebook.com/hoinhungnguoimephimhay" target="blank">FANPAGE HỘI NHỮNG NGƯỜI MÊ PHIM</a></span>.
+                        <span>XEM PHIM HAY, <span class="color-j">JACKPOT</span> MỖI NGÀY, TRỌN VẸN NIỀM VUI  <span class="color-h">CHỈ CÓ TẠI VUIHD.COM</span></span>
                     </div>
                 </div>
             </div>
@@ -168,14 +170,8 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                             Trường hợp không tìm được Chủ Nhân giải JACKPOT, 50% Giá Trị Giải Thưởng sẽ được cộng dồn vào tổng giá trị JACKPOT của ngày tiếp theo = 50% ngày hôm trước + 200.000 giải JACKPOT mỗi ngày. Cho đến khi có thành viên may mắn trúng giải, giải JACKPOT sẽ quay về 200.000 đồng mặc định.
                         </p>
                         <p>
-                            VUIHD sẽ chủ động liên hệ thành viên trúng giải qua Inbox Facebook hoặc thành viên trúng giải chủ động PM Fanpage VUIHD tại: <a href="https://www.facebook.com/hoinhungnguoimephimhay" target="blank">HỘI NHỮNG NGƯỜI MÊ PHIM</a>
+                            VUIHD sẽ chủ động liên hệ thành viên trúng giải qua Inbox Facebook hoặc thành viên trúng giải chủ động PM Fanpage VUIHD tại: <a href="#">HỘI NHỮNG NGƯỜI MÊ PHIM</a>
                         </p>
-						<p>
-							CƠ CẤU GIẢI THƯỞNG MỖI NGÀY:<br>
-							- JACKPOT: 200.000 VND + 50% JACKPOT ngày hôm trước (nếu không có thành viên trúng giải).<br>
-							- 2 giải MAY MẮN: 50.000 VND.<br>
-							Xem thêm thể lệ và hướng dẫn tại đây: CLICK HERE
-						</p>
                     </div>
                 </div>
                 <div class="main col-lg-5 col-md-5 my-numbers">
@@ -260,6 +256,17 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                     </div>
                 </div>
             </div>
+            <?php
+        }else{
+            ?>
+            <div class="container fit">
+                <div class="col-md-12 col-lg-12">
+                    <h1>Hãy đăng nhập để xem trang này</h1>
+                </div>
+            </div>
+            <?php
+        }
+        ?>
 
     </div>
 </div>
