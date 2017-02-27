@@ -180,6 +180,14 @@ body .lotery{
     font-weight: bold;
     color: #ffffff;
 }
+}
+.my-numbers .numbers .get-numbers .btn-login-facebook{
+    background-color: #ff0000;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+}
 
 .white-popup {
     position: relative;
