@@ -81,7 +81,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                 </div>
 
                 <div class="banner-text">
-                    <span>XEM PHIM HAY, <span class="color-j">JACKPOT</span> MỖI NGÀY, TRỌN VẸN NIỀM VUI  <span class="color-h">CHỈ CÓ TẠI VUIHD.COM</span></span>
+                    <span>XEM PHIM HAY, <span class="color-j">JACKPOT</span> MỖI NGÀY, TRỌN VẸN NIỀM VUI  <span class="color-h">CHỈ CÓ TẠI VUIHD.COM</span> HOÀN TOÀN MIỄN PHÍ.<br> XEM TRỰC TIẾP QUAY SỐ MAY MẮN 20H MỖI NGÀY TẠI <a href="https://www.facebook.com/hoinhungnguoimephimhay" target="blank">FANPAGE HỘI NHỮNG NGƯỜI MÊ PHIM</a></span>.
                 </div>
             </div>
         </div>
@@ -165,11 +165,17 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                 </div>
                 <div class="lotery-introduction">
                     <p>
-                        Trường hợp không tìm được Chủ Nhân giải JACKPOT, 50% Giá Trị Giải Thưởng sẽ được cộng dồn vào tổng giá trị JACKPOT của ngày tiếp theo = 50% ngày hôm trước + 200.000 giải JACKPOT mỗi ngày. Cho đến khi có thành viên may mắn trúng giải, giải JACKPOT sẽ quay về 200.000 đồng mặc định.
+                        Trường hợp không tìm được Chủ Nhân giải JACKPOT, tổng giá trị JACKPOT của ngày tiếp theo = JACKPOT ngày hôm trước + 100.000 cho đến khi có thành viên may mắn trúng giải, giải JACKPOT sẽ quay về 200.000 đồng mặc định.
                     </p>
                     <p>
-                        VUIHD sẽ chủ động liên hệ thành viên trúng giải qua Inbox Facebook hoặc thành viên trúng giải chủ động PM Fanpage VUIHD tại: <a href="#">HỘI NHỮNG NGƯỜI MÊ PHIM</a>
+                        VUIHD sẽ chủ động liên hệ thành viên trúng giải qua Inbox Facebook hoặc thành viên trúng giải chủ động PM Fanpage VUIHD tại: <a href="https://www.facebook.com/hoinhungnguoimephimhay" target="blank">HỘI NHỮNG NGƯỜI MÊ PHIM</a>
                     </p>
+					<p>
+							CƠ CẤU GIẢI THƯỞNG MỖI NGÀY:<br>
+							- JACKPOT = giá trị JACKPOT ngày hôm trước + 100.000 cho đến khi có thành viên may mắn trúng giải. Mặc định Jackpot là 200.000 VND<br>
+							- 2 giải MAY MẮN: 50.000 VND.<br>
+							Xem thêm thể lệ và hướng dẫn tại đây: <a href="http://vuihd.com/tin-tuc/xem-phim-hay-jackpot-mi-ngay-153.html" target="blank">CLICK HERE</a>
+					</p>
                 </div>
             </div>
             <div class="main col-lg-5 col-md-5 my-numbers">
@@ -182,7 +188,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                             <div class="get-numbers">
                                 <a class="btn-get-numbers" href="javascript:void(0)">NHẬN DÃY SỐ MAY MẮN</a>
                                 <div class="get-numbers-desc">
-                                    <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 20h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
+                                    <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 21h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
                                 </div>
                             </div>
                         <?php
@@ -256,7 +262,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                 </div>
                 <div class="row" style="padding-top: 15px">
                     <div class="col-md-8 col-lg-8 col-xs-8">
-                        <p>Tự chọn và điền 3 số may mắn KHÁC NHAU từ 01-75.</p>
+                        <p>- Tự chọn và điền 3 số may mắn KHÁC NHAU từ 01-75.</p>
                         <p>- Không thể thay đổi khi đã nhấn nút xác nhận</p>
                         <p>- Mỗi thành viên được chọn 1 dãy số/1 ngày</p>
                     </div>
