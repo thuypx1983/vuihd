@@ -1,5 +1,5 @@
 body .lotery{
-    font-family: "Tahoma Bold";
+    font-family: arial,"Tahoma";
 }
 .countdown-wrapper {
     padding-left: 86px;
@@ -19,14 +19,14 @@ body .lotery{
     padding: 5px 1px;
 }
 .timer-time {
-    font-family: arial;
+    font-family:  arial,"Tahoma";
     font-size: 18px;
     color: #ffffff;
     background-color: #050830;
     padding-top: 5px;
     padding-bottom: 5px;
 }
-.timer-title {font-family: arial; font-size: 13px; padding: 3px 0px; }
+.timer-title {font-family:  arial,"Tahoma"; font-size: 13px; padding: 3px 0px; }
 .clearfix { float:none; clear: both; margin-bottom: 0 !important; }
 
 .lotery-banner{
@@ -224,14 +224,14 @@ body .lotery{
 }
 #pop-up-share-film p{
     color: #ffffff;
-    font-family: "Tahoma";
+    font-family:  arial,"Tahoma";
     font-size: 21px;
 }
 .btn-share-facebook{
     padding: 10px;
     background-color: #1d2044;
     color: #ffffff;
-    font-family: "Tahoma";
+    font-family: arial,"Tahoma";
     text-transform: uppercase;
     font-size: 21px;
 }
