@@ -68,7 +68,7 @@ if(!$isLogin){
                 setcookie('user_id', $id, time() + (86400 * 30 * 12), "/");
             #die('what the hell');
 			    unset($_SESSION["user_href"]);
-				header("Location: /account/info");
+				header("Location: /account/lotery");
 			
 		}elseif(isset($check_fbemail) && !$check_fbid){   
 		    $arr = $mysqldb->prepare("SELECT user_id,user_name,user_email,user_level,user_fb_oauth_uid FROM ".DATABASE_FX."user WHERE user_email =:email");
@@ -108,7 +108,7 @@ if(!$isLogin){
 }else {
     ob_end_clean();
     header("Status: 301 Moved Permanently", true, 301);
-    header('Location: '.$web_link.'/account/info'); // end check login
+    header('Location: '.$web_link.'/account/lotery'); // end check login
 }
 
 ?>
