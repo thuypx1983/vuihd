@@ -1,7 +1,7 @@
 <?php
-$web_title="Lottery";
-$web_des="Lottery";
-$web_keywords="Lottery";
+$web_title="XEM PHIM HAY, JACKPOT MỖI NGÀY - VuiHD.com";
+$web_des="Tham gia miễn phí, trúng thưởng mỗi ngày, MEGA JACKPOT, trọn vẹn niềm vui!";
+$web_keywords="XEM PHIM HAY, JACKPOT MỖI NGÀY - VuiHD.com";
 
 $q = $mysql->query("SELECT * FROM ".$tb_prefix."config WHERE cf_id = 1");
 $cf = $q->fetch(PDO::FETCH_ASSOC);
@@ -18,6 +18,14 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
     <meta name="description" content="<?=$web_des;?>"/>
     <meta name="keywords" content="<?=$web_keywords;?>"/>
     <meta property="og:site_name" content="<?=$web_title;?>"/>
+
+    <link rel="canonical" href="<?=WEB_URL.'/account/lotery'?>" />
+    <meta itemprop="url" content="<?=WEB_URL.'/account/lotery'?>" />
+    <meta itemprop="image" content="<?=WEB_URL.'/statics/defaultv2/images/jackpot.png'?>" />
+    <meta property="og:title" content="<?=$web_title;?>" />
+    <meta property="og:description" content="<?=$web_des;?>" />
+    <meta property="og:url" content="<?=WEB_URL.'/account/lotery'?>" />
+    <meta property="og:image" content="WEB_URL<?='/statics/defaultv2/images/jackpot.png';?>" />
     <? require_once("styles.php");?>
     <link rel="stylesheet" href="/statics/defaultv2/css/lotery.css">
 </head>
