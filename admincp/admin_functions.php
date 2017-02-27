@@ -819,4 +819,16 @@ function Picasa_Upload($UrlImg,$type){
     return $url;
 }
 
+/**
+ * @param $strDate 2017-02-12
+ * @return array
+ */
+function getPeriodTime($strDate){
+
+    $endTime=strtotime($strDate.' 20:00:00');
+    $startTime=$endTime-24*60*60;
+
+    return array($startTime,$endTime);
+}
+
 ?>
