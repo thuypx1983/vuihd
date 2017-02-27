@@ -60,7 +60,7 @@ switch ($action){
         $result=array('success'=>true);
         $time=time();
         $s=strtotime(date('Y-m-d 20:00:00'));
-        $e=strtotime(date('Y-m-d 22:00:00'));
+        $e=strtotime(date('Y-m-d 21:00:00'));
         if($time<$e AND $time>$s){
             $result['success']=false;
         }
