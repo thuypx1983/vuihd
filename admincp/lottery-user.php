@@ -269,8 +269,8 @@ $inp_arr = array(
                             <td>#'.$id.'</td>
                             <td><a href="/admincp/index.php?act=lottery-user&mode=edit&uv_id='.$r['uv_id'].'">'.$users[$r['uv_user_id']]['user_name'].'</a></td>
                             <td><a href="https://facebook.com/'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'">'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'</a></td>
-							<td>'.date('d/m/Y H:i:s',$r['uv_time']).'</td>
 							<td>'.displayDate($r['uv_time'],'d/m/Y').'</td>
+							<td>'.date('d/m/Y H:i:s',$r['uv_time']).'</td>
                             <td class=fr_2 align=left><b>'.$r['number1'].'-'.$r['number2'].'-'.$r['number3'].'</b></td>
                             <td>'.$win.'</td>
                             <td>'.($r['win_price']?number_format($r['win_price']):'').'</td>

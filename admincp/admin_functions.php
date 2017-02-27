@@ -838,6 +838,7 @@ function displayDate($now,$format){
     }else{
         $result=date($format,$date+24*60*60);
     }
+    return $result;
 }
 
 ?>
