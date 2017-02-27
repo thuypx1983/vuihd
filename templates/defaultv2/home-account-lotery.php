@@ -1,7 +1,7 @@
 <?php
-$web_title="Lottery";
-$web_des="Lottery";
-$web_keywords="Lottery";
+$web_title="XEM PHIM HAY, JACKPOT MỖI NGÀY - VuiHD.com";
+$web_des="Tham gia miễn phí, trúng thưởng mỗi ngày, MEGA JACKPOT, trọn vẹn niềm vui!";
+$web_keywords="Tham gia miễn phí, trúng thưởng mỗi ngày, MEGA JACKPOT, trọn vẹn niềm vui!";
 
 $q = $mysql->query("SELECT * FROM ".$tb_prefix."config WHERE cf_id = 1");
 $cf = $q->fetch(PDO::FETCH_ASSOC);
@@ -42,9 +42,6 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
 
     </div>
     <div class="content-wrapper lotery">
-        <?php
-        if(isset($_SESSION['user_id'])){
-        ?>
             <div class="container fit">
                 <div class="main col-lg-12 col-md-12 col-sm-12">
 
@@ -263,17 +260,6 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                     </div>
                 </div>
             </div>
-            <?php
-        }else{
-            ?>
-            <div class="container fit">
-                <div class="col-md-12 col-lg-12">
-                    <h1>Hãy đăng nhập để xem trang này</h1>
-                </div>
-            </div>
-            <?php
-        }
-        ?>
 
     </div>
 </div>
