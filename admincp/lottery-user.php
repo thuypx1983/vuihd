@@ -1,4 +1,4 @@
-<?php
+o<?php
 
 function filterUserByNumber() {
     $agr=func_num_args();
@@ -130,8 +130,7 @@ $inp_arr = array(
                 if (!$pg) $pg = 1;
                 $extra = " 1 ";
                 if(isset($_GET['xsearch']) AND $_GET['xsearch']){
-                    $endTime=strtotime($_GET['xsearch'])+20*60*60;
-                    $startTime=strtotime($_GET['xsearch'])-4*60*60;
+                    list($startTime,$endTime)=getPeriodTime($_GET['xsearch']);
                     $extra.=" AND uv_time>{$startTime} AND uv_time<{$endTime}";
                 }
                 $number=array();
