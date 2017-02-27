@@ -25,7 +25,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
     <meta property="og:title" content="<?=$web_title;?>" />
     <meta property="og:description" content="<?=$web_des;?>" />
     <meta property="og:url" content="<?=WEB_URL.'/account/lotery'?>" />
-    <meta property="og:image" content="WEB_URL<?='/statics/defaultv2/images/jackpot.png';?>" />
+    <meta property="og:image" content="<?=WEB_URL.'/statics/defaultv2/images/jackpot.png';?>" />
     <? require_once("styles.php");?>
     <link rel="stylesheet" href="/statics/defaultv2/css/lotery.css">
 </head>
