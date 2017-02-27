@@ -1,7 +1,7 @@
 <?php
-$web_title="XEM PHIM HAY, JACKPOT MỖI NGÀY - VuiHD.com";
-$web_des="Tham gia miễn phí, trúng thưởng mỗi ngày, MEGA JACKPOT, trọn vẹn niềm vui!";
-$web_keywords="XEM PHIM HAY, JACKPOT MỖI NGÀY - VuiHD.com";
+$web_title="Lottery";
+$web_des="Lottery";
+$web_keywords="Lottery";
 
 $q = $mysql->query("SELECT * FROM ".$tb_prefix."config WHERE cf_id = 1");
 $cf = $q->fetch(PDO::FETCH_ASSOC);
@@ -18,14 +18,6 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
     <meta name="description" content="<?=$web_des;?>"/>
     <meta name="keywords" content="<?=$web_keywords;?>"/>
     <meta property="og:site_name" content="<?=$web_title;?>"/>
-
-    <link rel="canonical" href="<?=WEB_URL.'/account/lotery'?>" />
-    <meta itemprop="url" content="<?=WEB_URL.'/account/lotery'?>" />
-    <meta itemprop="image" content="<?=WEB_URL.'/statics/defaultv2/images/jackpot.png'?>" />
-    <meta property="og:title" content="<?=$web_title;?>" />
-    <meta property="og:description" content="<?=$web_des;?>" />
-    <meta property="og:url" content="<?=WEB_URL.'/account/lotery'?>" />
-    <meta property="og:image" content="WEB_URL<?='/statics/defaultv2/images/jackpot.png';?>" />
     <? require_once("styles.php");?>
     <link rel="stylesheet" href="/statics/defaultv2/css/lotery.css">
 </head>
@@ -83,7 +75,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                     </div>
 
                     <div class="banner-text">
-                        <span>XEM PHIM HAY, <span class="color-j">JACKPOT</span> MỖI NGÀY, TRỌN VẸN NIỀM VUI  <span class="color-h">CHỈ CÓ TẠI VUIHD.COM</span></span>
+                        <span>XEM PHIM HAY, <span class="color-j">JACKPOT</span> MỖI NGÀY, TRỌN VẸN NIỀM VUI  <span class="color-h">CHỈ CÓ TẠI VUIHD.COM</span> HOÀN TOÀN MIỄN PHÍ.<br> XEM TRỰC TIẾP QUAY SỐ MAY MẮN 20H MỖI NGÀY TẠI <a href="https://www.facebook.com/hoinhungnguoimephimhay" target="blank">FANPAGE HỘI NHỮNG NGƯỜI MÊ PHIM</a></span>.
                     </div>
                 </div>
             </div>
@@ -170,8 +162,14 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                             Trường hợp không tìm được Chủ Nhân giải JACKPOT, 50% Giá Trị Giải Thưởng sẽ được cộng dồn vào tổng giá trị JACKPOT của ngày tiếp theo = 50% ngày hôm trước + 200.000 giải JACKPOT mỗi ngày. Cho đến khi có thành viên may mắn trúng giải, giải JACKPOT sẽ quay về 200.000 đồng mặc định.
                         </p>
                         <p>
-                            VUIHD sẽ chủ động liên hệ thành viên trúng giải qua Inbox Facebook hoặc thành viên trúng giải chủ động PM Fanpage VUIHD tại: <a href="#">HỘI NHỮNG NGƯỜI MÊ PHIM</a>
+                            VUIHD sẽ chủ động liên hệ thành viên trúng giải qua Inbox Facebook hoặc thành viên trúng giải chủ động PM Fanpage VUIHD tại: <a href="https://www.facebook.com/hoinhungnguoimephimhay" target="blank">HỘI NHỮNG NGƯỜI MÊ PHIM</a>
                         </p>
+						<p>
+							CƠ CẤU GIẢI THƯỞNG MỖI NGÀY:<br>
+							- JACKPOT: 200.000 VND + 50% JACKPOT ngày hôm trước (nếu không có thành viên trúng giải).<br>
+							- 2 giải MAY MẮN: 50.000 VND.<br>
+							Xem thêm thể lệ và hướng dẫn tại đây: CLICK HERE
+						</p>
                     </div>
                 </div>
                 <div class="main col-lg-5 col-md-5 my-numbers">
