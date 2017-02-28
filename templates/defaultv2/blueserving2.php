@@ -8,8 +8,8 @@ $ha = new HAPlugin;
     <title>Test2</title>
 </head>
 <body>
-<div style="max-width: 720px">
-    <div id="player-area"><?php echo $ha->handle('https://www.youtube.com/watch?v=BNdRb9UC_qs',NULL,NULL,'video','vietnam',2);?> </div>
+<div style="width: 720px;height: 405px">
+    <div id="player-area" style="width: 720px;height: 405px"><?php echo $ha->handle('https://www.youtube.com/watch?v=BNdRb9UC_qs',NULL,NULL,'video','vietnam',2);?> </div>
 </div>
 </body>
 </html>
