@@ -194,7 +194,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                         <?php
                         }
                         else{
-                            if(!$shared['number1'] OR $shared['number2'] OR !$shared['number3']){
+                            if(!$shared['number1'] OR !$shared['number2'] OR !$shared['number3']){
                                ?>
                                 <div class="number-exist">
                                     <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
