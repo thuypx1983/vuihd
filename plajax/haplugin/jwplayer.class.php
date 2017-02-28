@@ -52,6 +52,7 @@
 				 }
 			 }
 		 }else{
+		 	die('mmmm');
 		 	if($test==1){
 				//return 'ads :{video: [{position : 0,link : ["http://blueserving.com/vast.xml?key=870be8a69e83664f56e8b9a5adbcd30e",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
 			}else{
