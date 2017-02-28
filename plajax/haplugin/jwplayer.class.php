@@ -53,11 +53,14 @@
 			 }
 		 }else{
 		 	if($test==1){
-				return 'ads :{video: [{position : 0,link : ["http://blueserving.com/vast.xml?key=870be8a69e83664f56e8b9a5adbcd30e",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
+				//return 'ads :{video: [{position : 0,link : ["http://blueserving.com/vast.xml?key=870be8a69e83664f56e8b9a5adbcd30e",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
 			}else{
-				return 'ads :{video: [{position : 0,link : ["http://blueserving.com/vast.xml?key=3895fae6ebd81c72bedc92cc04c42a51",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
+				//return 'ads :{video: [{position : 0,link : ["http://blueserving.com/vast.xml?key=3895fae6ebd81c72bedc92cc04c42a51",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
 
 			}
+
+			 return 'ads :{video: [{position : 0,link : ["http://vuihd.com/plajax/haplugin/assets/xml/preload.xml",]}],overlay: [{type : "tags",	position : 10, time : 30,link : ["//'.NAME.''.DIR.'/assets/xml/overlay.xml"]}],},';
+
 		 }
 
 		 
