@@ -19,6 +19,7 @@ if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h'])&&isset($_POST['y']
 	$poster = base64_decode($_POST['y']);
 	$cat = base64_decode($_POST['e']);
 	$cou = base64_decode($_POST['u']);
+	$test = ($_POST['k']);
 	if($sub!=NULL)
 	{
 		$subtitle = NULL;
@@ -89,6 +90,7 @@ if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h'])&&isset($_POST['y']
 							'cat' => $cat,
 							'country' => $cou,
 							'mobile' => $haplugin->mobile(),
+							'test' => $test,
 						 );
 						 $haplayer = new JWPlayer;
 						 $source = json_encode($playerdata);
