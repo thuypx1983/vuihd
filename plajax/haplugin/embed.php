@@ -19,7 +19,7 @@ if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h'])&&isset($_POST['y']
 	$poster = base64_decode($_POST['y']);
 	$cat = base64_decode($_POST['e']);
 	$cou = base64_decode($_POST['u']);
-	$test = ($_POST['k']);
+	$test = (int)($_POST['k']);
 	if($sub!=NULL)
 	{
 		$subtitle = NULL;
@@ -40,7 +40,7 @@ if(isset($_POST['a'])&&isset($_POST['n'])&&isset($_POST['h'])&&isset($_POST['y']
 	$cache = new Cache;
 	$name = md5($url);
 	$cache->info(CACHE,'cache',$name,'cache');
-	if($cache->loadsuper())
+	if($cache->loadsuper() && !$test)
 	{
 		$haload = $cache->loadsuper();
 	}
