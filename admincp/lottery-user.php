@@ -178,6 +178,7 @@ $inp_arr = array(
                         $link2 = '/admincp/index.php?act=lottery-user&mode=edit';
                     }
                     else $link2 = $link;
+                     $link2 = '/admincp/index.php?act=lottery-user&mode=edit';
 
                     echo '<section class="panel panel-default">
                 <header class="panel-heading">
