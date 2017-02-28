@@ -389,20 +389,12 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                 });
             });
             $('body').on('click','.btn-update-numbers').click(function () {
-                $.ajax({
-                    url:'/ajax.php',
-                    type:'POST',
-                    dataType:'html',
-                    data:{action:'shared'},
-                    success:function (response) {
-                        $.magnificPopup.open({
-                            items: {
-                                src: '#pop-up-add-numbers',
-                                type: 'inline'
-                            }
-                        });
+                $.magnificPopup.open({
+                    items: {
+                        src: '#pop-up-add-numbers',
+                        type: 'inline'
                     }
-                })
+                });
             })
             $("body").on('click','.btn-add-number',function(){
                 var number1=parseInt($('#number1').val());
