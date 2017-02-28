@@ -286,7 +286,7 @@ $inp_arr = array(
                             <td><a href="https://facebook.com/'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'">'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'</a></td>
 							<td>'.displayDate($r['uv_time'],'d/m/Y').'</td>
 							<td>'.date('d/m/Y H:i:s',$r['uv_time']).'</td>
-                            <td class=fr_2 align=left><b><span '.(in_array($r['number1'],$number)?'style="color:red"':'').'>'.$r['number1'].'</span>-<span '.(in_array($r['number2'],$number)?'style="color:red"':'').'>'.$r['number2'].'</span>-<span '.(in_array($r['number2'],$number)?'style="color:red"':'').'>'.$r['number3'].'</span></b></td>
+                            <td class=fr_2 align=left><b><span '.(in_array($r['number1'],$number)?'style="color:red"':'').'>'.$r['number1'].'</span>-<span '.(in_array($r['number2'],$number)?'style="color:red"':'').'>'.$r['number2'].'</span>-<span '.(in_array($r['number3'],$number)?'style="color:red"':'').'>'.$r['number3'].'</span></b></td>
                             <td>'.$win.'</td>
                             <td>'.($r['win_price']?number_format($r['win_price']):'').'</td>
                              </tr>';
