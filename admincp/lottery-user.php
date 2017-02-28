@@ -45,6 +45,7 @@ $edit_url = 'index.php?act=lottery-user&mode=edit';
 if(isset($_GET['uv_id']))
     $uv_id = (int)$_GET['uv_id'];
 else $uv_id = false;
+$number=array();
 $inp_arr = array(
 
 
@@ -147,7 +148,6 @@ $inp_arr = array(
                     list($startTime,$endTime)=getPeriodTime($_GET['xsearch']);
                     $extra.=" AND uv_time>{$startTime} AND uv_time<{$endTime}";
                 }
-                $number=array();
                 if(isset($_GET['number1']) && ((int)$_GET['number1'])>0) $number[]=(int)$_GET['number1'];
                 if(isset($_GET['number2']) && ((int)$_GET['number2'])>0) $number[]=(int)$_GET['number2'];
                 if(isset($_GET['number3']) && ((int)$_GET['number3'])>0) $number[]=(int)$_GET['number3'];
@@ -285,7 +285,7 @@ $inp_arr = array(
                             <td><a href="https://facebook.com/'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'">'.$users[$r['uv_user_id']]['user_fb_oauth_uid'].'</a></td>
 							<td>'.displayDate($r['uv_time'],'d/m/Y').'</td>
 							<td>'.date('d/m/Y H:i:s',$r['uv_time']).'</td>
-                            <td class=fr_2 align=left><b>'.$r['number1'].'-'.$r['number2'].'-'.$r['number3'].'</b></td>
+                            <td class=fr_2 align=left><b><span '.(in_array($r['number1'],$number)?'style="color:red"':'').'>'.$r['number1'].'</span>-<span '.(in_array($r['number1'],$number)?'style="color:red"':'').'>'.$r['number2'].'</span>-<span '.(in_array($r['number1'],$number)?'style="color:red"':'').'>'.$r['number3'].'</span></b></td>
                             <td>'.$win.'</td>
                             <td>'.($r['win_price']?number_format($r['win_price']):'').'</td>
                              </tr>';
