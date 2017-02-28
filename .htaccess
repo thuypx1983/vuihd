@@ -132,6 +132,7 @@ RewriteRule ^iframe/megabox/(.*)$ players/megabox.php?url=$1 [L]
 #vast t
 RewriteRule ^blueserving1.html$ ./?models=/blueserving1 [L]
 RewriteRule ^blueserving2.html$ ./?models=/blueserving2 [L]
+RewriteRule ^testpreroll.html $ ./?models=/testpreroll [L]
 
 
 
