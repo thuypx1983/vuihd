@@ -44,6 +44,8 @@ switch ($action){
         $s=strtotime(date('Y-m-d 20:00:00'));
         $e=strtotime(date('Y-m-d 21:00:00'));
         if($time<$e AND $time>$s){
+            $result['message']="Bạn không thể cập nhật bộ số trong thơi gian từ 20h đến 21h";
+        }else{
             if($shared!==false){
                 if($shared['number1']>0 AND $shared['number1']>0 AND $shared['number1']>0 ){
                     $result['message']="Bạn đã bộ số, xin vui lòng đợi kết quả!";
@@ -59,8 +61,6 @@ switch ($action){
 
                 }
             }
-        }else{
-            $result['message']="Bạn không thể cập nhật bộ số trong thơi gian từ 20h đến 21h";
         }
         echo json_encode($result);
         break;
