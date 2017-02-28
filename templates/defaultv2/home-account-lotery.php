@@ -194,15 +194,28 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                         <?php
                         }
                         else{
-                            ?>
-                            <div class="number-exist">
-                                <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
-                                <div class="result-number">
-                                    <span><?php echo numberStyle($shared['number1'])?></span>
-                                    <span><?php echo numberStyle($shared['number2'])?></span>
-                                    <span><?php echo numberStyle($shared['number3'])?></span>
+                            if(!$shared['number1'] OR $shared['number2'] OR !$shared['number3']){
+                               ?>
+                                <div class="number-exist">
+                                    <div class="numbers-text">Dãy số may mắn của bạn ngày hôm nay</div>
+                                    <div class="result-number">
+                                        <span><?php echo numberStyle($shared['number1'])?></span>
+                                        <span><?php echo numberStyle($shared['number2'])?></span>
+                                        <span><?php echo numberStyle($shared['number3'])?></span>
+                                    </div>
                                 </div>
-                            </div>
+                                <?php
+                            }else{
+                                ?>
+                                <div class="get-numbers">
+                                    <a class="btn-update-numbers" href="javascript:void(0)">NHẬN DÃY SỐ MAY MẮN</a>
+                                    <div class="get-numbers-desc">
+                                        <span>Nhấp chuột vào nút trên để nhận dãy số may mắn HOÀN TOÀN MIỄN PHÍ. Mỗi ngày sau 21h tối, bạn có thể nhận dãy số may mắn mới. Chúc bạn may mắn.</span>
+                                    </div>
+                                </div>
+                                <?php
+                            }
+                            ?>
                         <?php
                         }
                     }else{
@@ -284,28 +297,6 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.public.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/plfilter.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
-<?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-        <script type='text/javascript'><!--//<![CDATA[
-   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=8&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&padding=2&shifth=0&shiftv=10&closebutton=t&nobg=t&noborder=t';
-   if (document.context) ox_u += '&context=' + escape(document.context);
-   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
-//]]>--></script>
-    <?php
-    }else{
-        ?>
-        
-<script type='text/javascript'><!--//<![CDATA[
-   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=7&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&&padding=2&shifth=0&shiftv=16&closebutton=t&nobg=t&noborder=t';
-   if (document.context) ox_u += '&context=' + escape(document.context);
-   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
-//]]>--></script>
-
-   <?php
-    }
-    ?>
 <? require_once("footer.php");?>
 <script type="text/javascript">
     var dateNow = new Date();
@@ -397,6 +388,22 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
 
                 });
             });
+            $('body').on('click','.btn-update-numbers').click(function () {
+                $.ajax({
+                    url:'/ajax.php',
+                    type:'POST',
+                    dataType:'html',
+                    data:{action:'shared'},
+                    success:function (response) {
+                        $.magnificPopup.open({
+                            items: {
+                                src: '#pop-up-add-numbers',
+                                type: 'inline'
+                            }
+                        });
+                    }
+                })
+            })
             $("body").on('click','.btn-add-number',function(){
                 var number1=parseInt($('#number1').val());
                 var number2=parseInt($('#number2').val());
