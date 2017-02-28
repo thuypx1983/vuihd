@@ -39,20 +39,28 @@ switch ($action){
         $result=array('success'=>false,'message'=>'Lỗi không mong muốn, xin vui lòng reload lại trình duyệt');
         if(!isset($_SESSION['user_id'])) break;
         $shared=checkShared($_SESSION['user_id']);
-        if($shared!==false){
-            if($shared['number1']>0 AND $shared['number1']>0 AND $shared['number1']>0 ){
-                $result['message']="Bạn đã bộ số, xin vui lòng đợi kết quả!";
-            }else{
-                $number1=(int)$_POST['number1'];
-                $number2=(int)$_POST['number2'];
-                $number3=(int)$_POST['number3'];
-                if($number1>0 AND $number1<=75 AND $number2>0 AND $number2<=75 AND $number3>0 AND $number3<=75 AND $number1!=$number2 AND $number2 !=$number3 AND $number1!=$number3 ){
-                    insertNumbers($shared['uv_id'],$number1,$number2,$number3);
-                    $result['message']="Bạn đã chọn dãy số của mình, xin cảm ơn!";
-                    $result['success']=true;
-                }
 
+        $time=time();
+        $s=strtotime(date('Y-m-d 20:00:00'));
+        $e=strtotime(date('Y-m-d 21:00:00'));
+        if($time<$e AND $time>$s){
+            if($shared!==false){
+                if($shared['number1']>0 AND $shared['number1']>0 AND $shared['number1']>0 ){
+                    $result['message']="Bạn đã bộ số, xin vui lòng đợi kết quả!";
+                }else{
+                    $number1=(int)$_POST['number1'];
+                    $number2=(int)$_POST['number2'];
+                    $number3=(int)$_POST['number3'];
+                    if($number1>0 AND $number1<=75 AND $number2>0 AND $number2<=75 AND $number3>0 AND $number3<=75 AND $number1!=$number2 AND $number2 !=$number3 AND $number1!=$number3 ){
+                        insertNumbers($shared['uv_id'],$number1,$number2,$number3);
+                        $result['message']="Bạn đã chọn dãy số của mình, xin cảm ơn!";
+                        $result['success']=true;
+                    }
+
+                }
             }
+        }else{
+            $result['message']="Bạn không thể cập nhật bộ số trong thơi gian từ 20h đến 21h";
         }
         echo json_encode($result);
         break;
