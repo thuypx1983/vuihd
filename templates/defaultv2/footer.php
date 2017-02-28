@@ -37,18 +37,7 @@
 		});
   </script>
   
-  <?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-        
-    <?php
-    }else{
-        ?>
-        <script src="//get.sbro.me/partners/vuihd.js?v=170224” type="text/javascript"></script>
-    <?php
-    }
-    ?>
+
   
  
 
@@ -225,29 +214,13 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
     })(jQuery)
 </script>
 
-<?php
-    $detect = new Mobile_Detect;
-    if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
-        <script type='text/javascript'><!--//<![CDATA[
-   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=8&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&padding=2&shifth=0&shiftv=10&closebutton=t&nobg=t&noborder=t';
-   if (document.context) ox_u += '&context=' + escape(document.context);
-   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
-//]]>--></script>
-    <?php
-    }else{
-        ?>
-        
-<script type='text/javascript'><!--//<![CDATA[
-   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=7&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&&padding=2&shifth=0&shiftv=16&closebutton=t&nobg=t&noborder=t';
-   if (document.context) ox_u += '&context=' + escape(document.context);
-   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
-//]]>--></script>
 
+	
 <?php
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
-        ?>  
+        ?>
+		
         <?php
     }else{
         ?>
@@ -255,10 +228,4 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
     <?php
     }
 ?>
-
-
-    <?php
-    }
-    ?>
-
 

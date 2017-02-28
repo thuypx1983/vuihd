@@ -477,7 +477,28 @@ $web_des =$news['news_description']?$news['news_description']:strip_tags(htmlspe
 <?if($subscribe != 1){?><script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/pl.subscribe.js" type="text/javascript"></script><? }?>
 
 
+<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <script type='text/javascript'><!--//<![CDATA[
+   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=8&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&padding=2&shifth=0&shiftv=10&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+//]]>--></script>
+    <?php
+    }else{
+        ?>
+        
+<script type='text/javascript'><!--//<![CDATA[
+   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=7&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&&padding=2&shifth=0&shiftv=16&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+//]]>--></script>
 
+   <?php
+    }
+    ?>
 <? require_once("footer.php");?>
 
     <script type="text/javascript">

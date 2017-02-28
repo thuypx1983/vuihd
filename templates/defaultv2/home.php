@@ -63,6 +63,22 @@
 
                             </ul> </div> <div class="clearfix"></div></div>
                 </div>
+				
+				<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <center><ins data-revive-zoneid="13" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script></center>
+    <?php
+    }else{
+        ?>
+        <center><ins data-revive-zoneid="12" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script></center>
+    <?php
+    }
+    ?>
+
                 <!-- block cinema -->
                 <div class="block  cinema ">
 
@@ -439,6 +455,28 @@
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="<?=STATIC_URL;?>/<?=$CurrentSkin;?>/js/slick.min.js" type="text/javascript"></script>
 <script> $(document).ready(function(){$('.slide-scroll').slick({slidesToShow: 1,slidesToScroll: 1,autoplay: true,arrows: true,fade: true,asNavFor: '.slide-thumb #slide-ul'});$('.slide-thumb #slide-ul').slick({slidesToShow: 6,slidesToScroll: 1,asNavFor: '.slide-scroll',dots: false,centerMode: false,focusOnSelect: true});});</script>
+<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <script type='text/javascript'><!--//<![CDATA[
+   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=8&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&padding=2&shifth=0&shiftv=10&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+//]]>--></script>
+    <?php
+    }else{
+        ?>
+        
+<script type='text/javascript'><!--//<![CDATA[
+   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=7&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&&padding=2&shifth=0&shiftv=16&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+//]]>--></script>
+
+   <?php
+    }
+    ?>
 <? require_once("footer.php");?>
 </body>
 </html>

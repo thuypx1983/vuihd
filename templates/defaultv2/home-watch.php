@@ -274,6 +274,20 @@ $film_countryz_title = "";
                                 <!--.server-->
 
                             </div>
+							<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <center><ins data-revive-zoneid="13" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script></center>
+    <?php
+    }else{
+        ?>
+        <center><ins data-revive-zoneid="12" data-revive-id="524bedc5e69c4358fdbfed1ba50d256c"></ins>
+<script async src="//vuihd.com/ads/www/delivery/asyncjs.php"></script></center>
+    <?php
+    }
+    ?>
                             <!--.block-->
                             <!--<div class="row ad_location desktop hidden-sm hidden-xs">
                                 <div class="col-lg-6 col-md-6"></div>
@@ -474,7 +488,28 @@ isAdult();
 
   </script>	
   
+<?php
+    $detect = new Mobile_Detect;
+    if ( $detect->isMobile() or  $detect->isTablet()){
+        ?>  
+        <script type='text/javascript'><!--//<![CDATA[
+   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=8&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&padding=2&shifth=0&shiftv=10&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+//]]>--></script>
+    <?php
+    }else{
+        ?>
+        
+<script type='text/javascript'><!--//<![CDATA[
+   var ox_u = 'http://vuihd.com/ads/www/delivery/al.php?zoneid=7&layerstyle=simple&align=left&valign=bottom&padding=2&closetime=30&&padding=2&shifth=0&shiftv=16&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+//]]>--></script>
 
+   <?php
+    }
+    ?>
             <? require_once("footer.php");?>
     </body>
 
