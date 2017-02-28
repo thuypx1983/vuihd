@@ -175,7 +175,7 @@ $inp_arr = array(
 
 
                     if ($xsearch) {
-                        $link2 = preg_replace("#&xsearch=(.*)#si","",$link);
+                        $link2 = '/admincp/index.php?act=lottery-user&mode=edit';
                     }
                     else $link2 = $link;
 
