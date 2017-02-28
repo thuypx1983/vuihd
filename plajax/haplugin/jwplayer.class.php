@@ -34,7 +34,7 @@
 	 }
 	 private function __handle($temp)
 	 {
-	 	$test=$this->read('test');
+	 	$test=(int)($this->read('test'));
 		 if(!$test){
 			 if($temp == 'share' && $this->read($temp)) return 'sharing:{link: "'.$this->read('share').'",heading: "Share"},';
 			 elseif($temp == 'download' && $this->read($temp)) return 'download();';
