@@ -94,9 +94,9 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
                         $rs=getLoteryResult(getPrevDates('Y-m-d'));
                         if($rs!==false){
                             ?>
-                            <span>01</span>
-                            <span>02</span>
-                            <span>04</span>
+                            <span><?php echo numberStyle($rs['number1'])?></span>
+                            <span><?php echo numberStyle($rs['number2'])?></span>
+                            <span><?php echo numberStyle($rs['number3'])?></span>
                         <?php
                         }else{
                             echo "<p>Không có kết quả</p>";
