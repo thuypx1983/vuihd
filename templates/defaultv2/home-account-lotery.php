@@ -388,7 +388,7 @@ $links=explode(PHP_EOL, $cf['cf_share_link']);
 
                 });
             });
-            $('body').on('click','.btn-update-numbers').click(function () {
+            $('body').on('click','.btn-update-numbers',function () {
                 $.magnificPopup.open({
                     items: {
                         src: '#pop-up-add-numbers',
