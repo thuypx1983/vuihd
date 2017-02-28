@@ -685,7 +685,6 @@ function getLoteryResult($date){
         global $mysql;
         $sql="SELECT * FROM ".DATABASE_FX."user_vietlott_result
               WHERE `uvr_date`='{$date}' LIMIT 1";
-    echo $sql;
         $row= $mysql->query($sql);
         if($row->rowCount()==0){
             return false;
