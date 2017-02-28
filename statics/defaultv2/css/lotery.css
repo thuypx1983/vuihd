@@ -173,7 +173,7 @@ body .lotery{
 .my-numbers .numbers .get-numbers .get-numbers-desc span{
     font-size: 13px;
 }
-.my-numbers .numbers .get-numbers .btn-get-numbers{
+.my-numbers .numbers .get-numbers .btn-get-numbers,.my-numbers .numbers .get-numbers .btn-update-numbers{
     background-color: #ff0000;
     padding: 10px;
     font-size: 24px;
