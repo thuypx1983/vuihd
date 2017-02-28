@@ -13,11 +13,25 @@ function filterUserByNumber() {
                   WHERE table1.number1=".func_get_arg(1)." or table1.number2=".func_get_arg(1)." or table1.number3=".func_get_arg(1);
             break;
         case 3:
-            $sql="SELECT uv_id from
+
+            /*$sql="SELECT uv_id from
              (SELECT * FROM
               (SELECT * FROM `table_user_vietlott` AS table1 WHERE table1.number1 =".func_get_arg(0)." OR table1.number2 =".func_get_arg(0)." OR table1.number3 =".func_get_arg(0).") AS table1
                   WHERE table1.number1=".func_get_arg(1)." or table1.number2=".func_get_arg(1)." or table1.number3=".func_get_arg(1).")  AS table3
-                    WHERE table3.number1=".func_get_arg(2)." OR table3.number2=".func_get_arg(2)." OR table3.number3=".func_get_arg(2)."";
+                    WHERE table3.number1=".func_get_arg(2)." OR table3.number2=".func_get_arg(2)." OR table3.number3=".func_get_arg(2)."";*/
+
+            $sql="SELECT uv_id FROM
+              (SELECT * FROM `table_user_vietlott` AS table1 WHERE table1.number1 =".func_get_arg(0)." OR table1.number2 =".func_get_arg(0)." OR table1.number3 =".func_get_arg(0).") AS table1
+                  WHERE table1.number1=".func_get_arg(1)." or table1.number2=".func_get_arg(1)." or table1.number3=".func_get_arg(1);
+            $sql.=" UNION ";
+            $sql="SELECT uv_id FROM
+              (SELECT * FROM `table_user_vietlott` AS table1 WHERE table1.number1 =".func_get_arg(0)." OR table1.number2 =".func_get_arg(0)." OR table1.number3 =".func_get_arg(0).") AS table1
+                  WHERE table1.number1=".func_get_arg(2)." or table1.number2=".func_get_arg(2)." or table1.number3=".func_get_arg(2);
+            $sql.=" UNION ";
+            $sql="SELECT uv_id FROM
+              (SELECT * FROM `table_user_vietlott` AS table1 WHERE table1.number1 =".func_get_arg(2)." OR table1.number2 =".func_get_arg(2)." OR table1.number3 =".func_get_arg(2).") AS table1
+                  WHERE table1.number1=".func_get_arg(1)." or table1.number2=".func_get_arg(1)." or table1.number3=".func_get_arg(1);
+
             break;
         default:
             $sql="SELECT uv_id from `table_user_vietlott`";
