@@ -129,6 +129,11 @@ RewriteRule ^load/video$ plajax/video.php [L]
 RewriteRule ^captcha/rand/(.*)$ plajax/captcha.php?rand=$1 [L]
 RewriteRule ^iframe/megabox/(.*)$ players/megabox.php?url=$1 [L]
 
+#vast t
+RewriteRule ^blueserving1.html$ ./?models=/blueserving1 [L]
+
+
+
 <Files 403.shtml>
 order allow,deny
 allow from all
