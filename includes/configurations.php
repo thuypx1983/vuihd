@@ -7,8 +7,8 @@
     //============CONFIG DATABASE =====================\\
     $config['db_host']	= 'localhost';
     $config['db_name'] 	= 'vuihd_com';
-    $config['db_user']	= 'vuihd_com';
-    $config['db_pass']	= 'TasQdh6dAdLkTEQ3';
+    $config['db_user']	= 'root';
+    $config['db_pass']	= 'root';
     $tb_prefix			= 'table_';
     define('SERVER_HOST',			$config['db_host']);
     define('DATABASE_NAME',			$config['db_name']);
@@ -24,8 +24,8 @@
 	define('NOW',time());
 	define('CLIENT_ID', '055dd4636d8666a');
 	define('CACHED_TIME', '86400');
-	define('WEB_URL',			'http://vuihd.com');
-        define('STATIC_URL',			'http://vuihd.com/statics');
+	define('WEB_URL',			'http://vuihd.localhost');
+        define('STATIC_URL',			'http://vuihd.localhost/statics');
     define('UPLOAD_DIR',		        $_SERVER["DOCUMENT_ROOT"] .'/data');
     define('UPLOAD_FOLDER',		        'data');
 	if(isset($_SERVER['HTTP_CF_CONNECTING_IP'])){

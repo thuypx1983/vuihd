@@ -764,7 +764,7 @@ class HAPlugin
 		}
 		return $randomKeyEnc.hash('sha256',$string).$returnString;
 	}
-	public function handle($url,$sub,$poster,$cat,$cou)
+	public function handle($url,$sub,$poster,$cat,$cou,$test=0)
 	{
 		$data_share = base64_encode($this->pageurl());
 		$data_poster = base64_encode($poster);
@@ -772,7 +772,7 @@ class HAPlugin
 		$data_cou = base64_encode($cou);
 		$data_url = base64_encode(base64_encode($this->encode($url,ENCODEK))); 
 		$data_sub = base64_encode(base64_encode($this->encode($sub,ENCODEK)));
-		$main_data = 'jQuery(document).ready(haplugin_load("'.$data_url.'","'.$data_sub.'","'.$data_share.'","'.$data_poster.'","'.$data_cat.'","'.$data_cou.'","","","","",""))';
+		$main_data = 'jQuery(document).ready(haplugin_load("'.$data_url.'","'.$data_sub.'","'.$data_share.'","'.$data_poster.'","'.$data_cat.'","'.$data_cou.'","","","","","'.$test.'"))';
 		$script = $main_data;
 		if (get_magic_quotes_gpc())
 		$script = stripslashes($script);
