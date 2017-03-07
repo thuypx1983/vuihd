@@ -234,7 +234,7 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 //random iframe
 //////////////////////
 $cnf=array(
-    'rate'=>0.5,
+    'rate'=>5,
     'min'=>0,
     'max'=>1000,
     'src'=>'https://388bet.com'
