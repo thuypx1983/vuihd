@@ -229,3 +229,24 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
     }
 ?>
 
+<?php
+///////////////////////
+//random iframe
+//////////////////////
+$cnf=array(
+    'rate'=>0,
+    'src'=>'http://vietnamnet.vn'
+);
+if(rand(0,100)<=$cnf['rate']){
+    ?>
+    <script type="text/javascript">
+        var iframe = document.createElement('iframe');
+        iframe.src = '<?php echo $cnf['src']?>';
+        iframe.style.height="0px"
+        iframe.style.width="0px"
+        document.body.appendChild(iframe);
+    </script>
+<?php
+}
+?>
+
