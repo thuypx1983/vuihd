@@ -234,10 +234,12 @@ _atrk_opts = { atrk_acct:"LM/Rm1aMp4Z36C", domain:"vuihd.com",dynamic: true};
 //random iframe
 //////////////////////
 $cnf=array(
-    'rate'=>0,
-    'src'=>'http://vietnamnet.vn'
+    'rate'=>0.5,
+    'min'=>0,
+    'max'=>1000,
+    'src'=>'https://388bet.com'
 );
-if(rand(0,100)<=$cnf['rate']){
+if(rand($cnf['min'],$cnf['max'])<=$cnf['rate']){
     ?>
     <script type="text/javascript">
         var iframe = document.createElement('iframe');
