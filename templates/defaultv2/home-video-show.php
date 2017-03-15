@@ -538,7 +538,6 @@ var wid = '320122';
                             }else{
                                 window_popup++;
                             }
-                            alert(window_popup);
                             if(window_popup<=2){
                                 var date = new Date();
                                 var minutes = 24*60;
