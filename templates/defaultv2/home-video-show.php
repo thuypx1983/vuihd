@@ -84,7 +84,21 @@ if($value[1]=='home-video-show'){
                 #player-area{display:block;position:relative;height: 420px;    margin-bottom: 10px;}
             </style>
 
-
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/vuihd/loader.js',
+  'tb_loader_script');
+</script>
         </head>
         <body><?php
     $detect = new Mobile_Detect;
@@ -128,7 +142,7 @@ if($value[1]=='home-video-show'){
                             $detect = new Mobile_Detect;
                             if ( $detect->isMobile() or  $detect->isTablet()){
                                 ?>
-                                <center><script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472638.ads"></script></center>
+                                <center><script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_472638.ads"></script></center>
                             <?php
                             }else{
                             ?>
@@ -146,7 +160,7 @@ if($value[1]=='home-video-show'){
                                 <?php
                             }else{
                                 ?>
-                                <script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472579.ads"></script>
+                                <script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_472579.ads"></script>
                                 <?php
                             }
                             ?>
@@ -184,35 +198,29 @@ if($value[1]=='home-video-show'){
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
         ?>  
-        <!-- Composite Start -->
-<div id="M229973ScriptRootC106831">
-        <div id="M229973PreloadC106831">
-        
-    </div>
-        <script>
-                (function(){
-            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
-            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC106831")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
-            catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC106831");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=106831;c[ac](dv);
-            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.106831.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
-    </script>
-</div>
-<!-- Composite End -->
+        <div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
     <?php
     }else{
         ?>
-        <!-- Composite Start -->
-                            <div id="M229973ScriptRootC101217">
-
-                                <script>
-                                    (function(){
-                                        var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
-                                        var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M229973ScriptRootC101217")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
-                                        catch(e){var iw=d;var c=d[gi]("M229973ScriptRootC101217");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=101217;c[ac](dv);
-                                        var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/v/u/vuihd.com.101217.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
-                                </script>
-                            </div>
-                            <!-- Composite End -->
+        <div id="taboola-below-article-thumbnails"></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-a',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script>
     <?php
     }
     ?>
@@ -489,7 +497,7 @@ if($value[1]=='home-video-show'){
     $detect = new Mobile_Detect;
     if ( $detect->isMobile() or  $detect->isTablet()){
         ?>  
-		<script type="text/javascript" src="//admicro1.vcmedia.vn/ads_codes/ads_box_472678.ads"></script>
+		<script type="text/javascript" src="//media1.admicro.vn/ads_codes/ads_box_472678.ads"></script>
         <?php
     }else{
         ?>
@@ -508,6 +516,11 @@ if($value[1]=='home-video-show'){
 		
 		
 		<? require_once("footer.php");?>
+		<script type="text/javascript">
+var uid = '97376';
+var wid = '320122';
+</script>
+
 		
 
         </body>
