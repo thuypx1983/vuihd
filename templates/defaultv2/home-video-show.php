@@ -521,7 +521,34 @@ var uid = '97376';
 var wid = '320122';
 </script>
 
-		
+        <?php
+        if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) {
+            ?>
+            <script type="text/javascript">
+                (function($){
+                    $(document).ready(function(){
+                        $('html').click(function(){
+                            var window_popup=$.cookie('window_popup');
+                            if(window_popup==null){
+                                window_popup=1;
+                            }else{
+                                window_popup++;
+                            }
+                            alert(window_popup);
+                            if(window_popup<=2){
+                                var date = new Date();
+                                var minutes = 24*60;
+                                date.setTime(date.getTime() + (minutes * 60 * 1000));
+                                $.cookie('window_popup',window_popup,{ expires: date });
+                                window.open ("http://imgs.somo.vn/mvvuihd/game-hot-2017.html","popup","menubar=1,resizable=1");
+                            }
+                        })
+                    })
+                })(jQuery)
+            </script>
+        <?php
+        }
+        ?>
 
         </body>
         </html>
