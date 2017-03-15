@@ -524,6 +524,10 @@ var wid = '320122';
         <?php
         if(strstr($_SERVER['HTTP_USER_AGENT'],'iPhone') || strstr($_SERVER['HTTP_USER_AGENT'],'iPad')) {
             ?>
+
+        <?php
+        }else{
+            ?>
             <script type="text/javascript">
                 (function($){
                     $(document).ready(function(){
@@ -546,7 +550,7 @@ var wid = '320122';
                     })
                 })(jQuery)
             </script>
-        <?php
+            <?php
         }
         ?>
 
