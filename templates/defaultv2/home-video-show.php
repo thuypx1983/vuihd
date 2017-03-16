@@ -538,9 +538,9 @@ var wid = '320122';
                             }else{
                                 window_popup++;
                             }
-                            if(window_popup<=2){
+                            if(window_popup<=1){
                                 var date = new Date();
-                                var minutes = 24*60;
+                                var minutes = 12*60;
                                 date.setTime(date.getTime() + (minutes * 60 * 1000));
                                 $.cookie('window_popup',window_popup,{ expires: date });
                                 window.open ("http://imgs.somo.vn/mvvuihd/game-hot-2017.html","popup","menubar=1,resizable=1");
