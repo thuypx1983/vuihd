@@ -81,7 +81,21 @@ if($data_cache_aside != null){
             <img src="statics/defaultv2/images/news-paper.png"> Tin tức
        </a>
      </li>
-        </ul> </div> </div>';
+        </ul>';
+    $detect=new Mobile_Detect();
+    if ( !$detect->isMobile() AND  !$detect->isTablet()){
+        $data.='<div class="ads-after-main-menu hidden-xs hidden-sm">
+
+            <center><script type="text/javascript">
+            var ase  = ase || [];
+            / load placement for account: vuihd, site: vuihd.com, zone size : 980x250 /
+            _ase.push(["1489567599","1489732224"]);
+            </script>
+            <script src="http://static.gammaplatform.com/js/ad-exchange.js" type="text/javascript"></script></center>
+        </div>';
+    }
+
+    $data.='</div> </div>';
     if($data != '') $phpFastCache->set('phimletv-aside', $data, 86400);
 }
 echo $datas.$data;
