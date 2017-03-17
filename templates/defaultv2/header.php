@@ -81,7 +81,7 @@ if($data_cache_aside != null){
             <img src="statics/defaultv2/images/news-paper.png"> Tin tức
        </a>
      </li>
-        </ul>';
+        </ul> ';
     $detect=new Mobile_Detect();
     if ( !$detect->isMobile() AND  !$detect->isTablet()){
         $data.='<div class="ads-after-main-menu hidden-xs hidden-sm">
